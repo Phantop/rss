@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Breath of the Wild (Switch)</title>
+    <description>GameBanana - The Legend of Zelda: Breath of the Wild (Switch)</description>
+    <link>https://gamebanana.com/games/6386</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/6386"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Breath of the Wild (Switch)</title>
+      <link>https://gamebanana.com/games/6386</link>
+    </image>
+    <item>
+      <title>Master Sword Beam at Any HP</title>
+      <author>yuggina</author>
+      <link>https://gamebanana.com/mods/713511</link>
+      <comments>https://gamebanana.com/mods/713511#PostsListModule</comments>
+      <guid isPermaLink="false">389e18e669d087fcf9b937075f42c95d56d131e7</guid>
+      <pubDate>Fri, 04 Sep 2026 08:38:26 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9a8345efe93.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9a834626dc4.jpg"/&gt;&lt;br&gt;Removes the full-health requirement for firing the Master Sword's sword beam.&lt;span aria-hidden="true" class="PDq2pG_selectionAnchor"&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+The beam can be fired even when Link's red hearts are not full.&lt;br&gt;&lt;br&gt;&#13;
+For &lt;strong data-start="258" data-end="296"&gt;Breath of the Wild v1.6.0 (Switch)&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;&#13;
+Install the mod through your emulator's normal mod directory and enable it in the add-ons/mod list.&lt;br&gt;&lt;br&gt;&#13;
+This patch only changes the health requirement for firing the sword beam. Other Master Sword behavior is unchanged.&lt;br&gt;&lt;br&gt;&lt;br&gt;This mod is only for v1.6.0. I don't currently plan to support other versions, but feel free to modify or port the patch yourself.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/master_sword_anyhp_beam_v100.zip" type="application/zip"/>
+      <category>Code Patch</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>MK9 Emperor Shao Khan Full Set</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/711342</link>
+      <comments>https://gamebanana.com/mods/711342#PostsListModule</comments>
+      <guid isPermaLink="false">a48fb4536979d585aa6d5e77d63a8727511764c2</guid>
+      <pubDate>Sat, 29 Aug 2026 18:04:03 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e7980937.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e7249339.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e794fe0f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e795fcb7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e7984472.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e79a8211.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e79d3f69.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e7a099a1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a931e7a95490.jpg"/&gt;&lt;br&gt;Emperor Shao Kahn's armor from Mortal Kombat 9.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Full Set ( Helmet/ Upper Armor/Lower Armor)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Working Physics&amp;nbsp;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;UI&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;You can find the clothes at Beedle's shop, on Dueling Peeks Stable.</description>
+      <media:content url="https://files.gamebanana.com/mods/shaokahnarmor.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/emperor_shao_kahn_armor.rar" type="application/vnd.rar"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Visually Definitive Master Sword</title>
+      <author>Aster</author>
+      <link>https://gamebanana.com/mods/711051</link>
+      <comments>https://gamebanana.com/mods/711051#PostsListModule</comments>
+      <guid isPermaLink="false">648874f6c913fead7b45bab7b2583c20a612db17</guid>
+      <pubDate>Sat, 29 Aug 2026 03:12:22 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a924789b4d1c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9247896bba7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92478981689.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a924789f34d6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9248811f636.jpg"/&gt;&lt;br&gt;This mod aims to implement the highest quality Wild-Era Master Sword model into Breath of the Wild.&lt;br&gt;&lt;br&gt;The hilt was taken from Tears of the Kingdom's cutscene Master Sword model, which has roughly double the modeled detail.&lt;br&gt;&lt;br&gt;The blade was taken from Age of Calamity, which has the Triforce crest at the sword's base fully modeled.&lt;br&gt;&lt;br&gt;Textures were taken from Tears of the Kingdom where they have, on average, double the resolution of BotW's.&lt;br&gt;&lt;br&gt;Feel free to use the model from this mod in your own mods without asking, however I ask that you put my name in the Contributors section of your submission and link back to this mod if you do so.</description>
+      <media:content url="https://files.gamebanana.com/mods/definitivemastersword_nx_01037.zip" type="application/zip"/>
+      <category>Weapons</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>​Link's House - Sora Kasugano Photo Replacement</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/710450</link>
+      <comments>https://gamebanana.com/mods/710450#PostsListModule</comments>
+      <guid isPermaLink="false">145cb90a35ed7747641f7b2db560a5011ddd40a9</guid>
+      <pubDate>Thu, 27 Aug 2026 18:00:54 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a907b4477a3e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a907b35cf4f9.jpg"/&gt;&lt;br&gt;This mod replaces the iconic Champions' Photo hanging inside Link's house in Hateno Village with a portrait of Sora Kasugano from Yosuga no Sora.&lt;br&gt;替换了林克家的四英杰合照为春日野穹，wiiu</description>
+      <media:content url="https://files.gamebanana.com/mods/552e638f29d08c162b98f42bc5172e39.bnp" type="application/octet-stream"/>
+      <category>Other/Misc</category>
+      <category>Textures</category>
+    </item>
+    <item>
+      <title>Increased Inventory Slots + World Drop Limit</title>
+      <author>Catzy123</author>
+      <link>https://gamebanana.com/mods/701786</link>
+      <comments>https://gamebanana.com/mods/701786#PostsListModule</comments>
+      <guid isPermaLink="false">5710dd53682c40980808392f6f6b5f18849fb951</guid>
+      <pubDate>Fri, 21 Aug 2026 16:03:41 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7759be5acf6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a774f186e3f8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a774f183e56b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a774f18586a5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a774f18759e5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a774f1876c53.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Saving fix&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Game wouldnt save anymore once you had certain amount of items (Only affects General Item Limit/Multi Patch)&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;This &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;mod &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;brings &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;patches &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;that &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;used &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;to &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;only &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;work &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;on &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;Cemu &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;over &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;to &lt;/span&gt;&lt;span data-wf="" class="_wordAnimating_yu34g_11"&gt;Switch&lt;/span&gt;, its just &lt;span class="GreenColor"&gt;4 patches&lt;/span&gt; including a &lt;span class="GreenColor"&gt;new one&lt;/span&gt; i made, they are as follows:&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;More Weapon Slots&lt;/span&gt;, this doesnt actually increase them, it just makes it so your &lt;span class="GreenColor"&gt;modifiers are being saved&lt;/span&gt; while using &lt;a href="https://gamebanana.com/mods/414823"&gt;Relics of the Past&lt;/a&gt; or &lt;a href="https://gamebanana.com/mods/305388"&gt;99 slots for all weapons&lt;/a&gt; the patch in general increases weapon slots &lt;span class="GreenColor"&gt;99&lt;/span&gt; but will work even while relics increases them only to 60.&lt;/li&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;Armor Limit+&lt;/span&gt;, makes it so you can carry &lt;span class="GreenColor"&gt;10&lt;/span&gt; pages of armors instead of &lt;span class="RedColor"&gt;5&lt;/span&gt; simple&lt;/li&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;Increase World drop Limits&lt;/span&gt;, increases the amount of actors can stay dropped on the ground before they despawn, like when the player manually drops items the limit is &lt;span class="RedColor"&gt;10&lt;/span&gt;, but with this its &lt;span class="GreenColor"&gt;50&lt;/span&gt; for every drop.&lt;/li&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;Increase General Item Limit&lt;/span&gt;, this is the new one i added which changes the overall general item limit from &lt;span class="RedColor"&gt;420&lt;/span&gt; to &lt;span class="GreenColor"&gt;1000&lt;/span&gt;, with that you can use More Weapon Slots and also Armor Limit+ without having items disappear from your inventory when overgoing that invisible limit. &lt;br&gt;&lt;span class="RedColor"&gt;&lt;span class="RedColor"&gt;&lt;b&gt;But know that once you uninstall this General Item Limit that your whole inventory will be Deleted.&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;I just made those patches cause i wanted to play through &lt;span class="GreenColor"&gt;relics&lt;/span&gt; again but without those limitations, so now everyone else can too.&lt;br&gt;&lt;br&gt;Inside the Install folder you can choose between installing only one of those, or the multi patch that has all of them, and then you can choose if you want the &lt;span class="GreenColor"&gt;1.6&lt;/span&gt; one or the &lt;span class="GreenColor"&gt;1.9&lt;/span&gt; one.&lt;br&gt;&lt;br&gt;Just Make sure you install it correctly that you install the UKMM file if you use the Multi Patch, and manually put the .pchtxt into the &lt;u&gt;switch/ipswitch&lt;/u&gt; folder and use &lt;a href="https://github.com/3096/ipswitch" target="_blank"&gt;ipswitch&lt;/a&gt; and convert it into a .ips, and that you put the &lt;span class="GreenColor"&gt;subsdk4&lt;/span&gt; file manually into &lt;u&gt;01007EF00011E000/exefs&lt;/u&gt;.&lt;br&gt;&lt;br&gt;if you are on emulator then both the .pchtxt and subsdk4 go into &lt;u&gt;01007EF00011E000/mod/exefs&lt;/u&gt;&lt;br&gt;&lt;br&gt;only thing i cant seem to fix is that more weapon slots still doesn't show arrows in the menu while still swappable with quick menu.&lt;br&gt;&lt;br&gt;If there's any other problems after installing correctly just add me on discord "catzy3979".&lt;br&gt;&lt;br&gt;Have fun</description>
+      <media:content url="https://files.gamebanana.com/mods/multi_patch_-_recommended_61076.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/armorslotlimit.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/moreweaponslots.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/worldactordroplimit.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/generalitemlimit_cf547.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/more_inventory_-_raw.rar" type="application/vnd.rar"/>
+      <category>Code Patch</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Auto Item Pickup</title>
+      <author>Mindstormman</author>
+      <link>https://gamebanana.com/mods/706979</link>
+      <comments>https://gamebanana.com/mods/706979#PostsListModule</comments>
+      <guid isPermaLink="false">2b68a7150a78da338b6c661395a7ba58f0a15baf</guid>
+      <pubDate>Thu, 20 Aug 2026 23:04:17 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a86b09137efc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a86b0a008135.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; v1.1&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the mod not loading on some configurations&lt;br&gt;&lt;hr&gt;&lt;br&gt;An executable mod that makes it so you automatically pickup items when defeating an enemy, and optionally when killing animals, breaking rocks, etc...&lt;br&gt;&lt;br&gt;Powered by &lt;a href="https://github.com/TKVSC-Team/WiiXLaunch" target="_blank"&gt;WiiXLaunch&lt;/a&gt;&lt;br&gt;&lt;br&gt;Currently only a single WiiXLaunch mod can be used at a time. The mod will be updated when this is no longer the case.&lt;br&gt;&lt;br&gt;Do NOT install with a mod manager, place the mod directly in your atmosphere folder on the SD card / in your emulator directory.&lt;br&gt;&lt;br&gt;&lt;br&gt;Currently only works on BOTW v1.5&lt;br&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/mods/706974"&gt;Wii U Version&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/botw_autopickup_all_switch.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/botw_autopickup_enemies_switch.zip" type="application/zip"/>
+      <category>Code Patch</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Masters of The Universe Pack</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/707098</link>
+      <comments>https://gamebanana.com/mods/707098#PostsListModule</comments>
+      <guid isPermaLink="false">f25c21f5cf54b6815876d5552ff2bf663013a7bf</guid>
+      <pubDate>Thu, 20 Aug 2026 14:45:09 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8712862a164.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128a99b6e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128aa1213.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128abd404.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128ad059b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128adc0d7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128ae8b6a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b009ad.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b02d36.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b13f10.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b15861.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b35598.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b3c382.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b4e156.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b5524a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b6116c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a87128b7abba.jpg"/&gt;&lt;br&gt;A mod pack that brings the iconic armors from the 80's cartoon, "He-Man and the Masters of the Universe".&lt;br&gt;&lt;br&gt;Includes:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;He-Man Armor, the man who has the power (Bulky body plus custom hair)&lt;/li&gt;&lt;li&gt;Power Sword&amp;nbsp;&lt;/li&gt;&lt;li&gt;The evil lord of destruction, Skeletor Armor (facial expressions, Glowing eyes, fully functional cape and npcs reacts to your presence)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;You can find the clothes at Beedle's shop, on &lt;span class="GreenColor"&gt;Dueling Peeks Stable&lt;/span&gt;.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/masters_of_the_universe_pack.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/mastersoftheuniversepack.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>MAKE SWORD 56 SURVIVE LOADING ZONES</title>
+      <author>Latias_0nly</author>
+      <link>https://gamebanana.com/mods/698354</link>
+      <comments>https://gamebanana.com/mods/698354#PostsListModule</comments>
+      <guid isPermaLink="false">2a71a3a61de038a633a26834c046368ee0e92e07</guid>
+      <pubDate>Sun, 16 Aug 2026 21:08:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6909913a362.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6909b5b6320.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; BNP VERSION&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Fixed the entire mod i accidentally uploaded a test that failed but i have fixed it&lt;br&gt;&lt;hr&gt;&lt;br&gt;This mod took far to long to do but i did it and now sword 56 can actually survive loading zones use a save editor or a cheat code either one works</description>
+      <media:content url="https://files.gamebanana.com/mods/sword_56_loading_survived.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/sword56survival.bnp" type="application/octet-stream"/>
+      <category>Weapons</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Playable Ravio</title>
+      <author>T-5 Seconds</author>
+      <link>https://gamebanana.com/mods/704727</link>
+      <comments>https://gamebanana.com/mods/704727#PostsListModule</comments>
+      <guid isPermaLink="false">961824fd7c5b787872a7d39e140c5b7e76398efc</guid>
+      <pubDate>Sat, 15 Aug 2026 18:53:58 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a80b427018bb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a80b42626bfb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a80b426e4345.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a80b427a1259.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a80b42751eb3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a80b4274cdaa.jpg"/&gt;&lt;br&gt;This mod replaces Link with Ravio; not as he was designed in ALBW, but rather as a Lorulean counterpart of BOTW Link would presumably look.&lt;br&gt;&lt;br&gt;Changes include but are not limited to: Purple hair, green eyes, some armors (such as the Champion's Tunic and the Hero sets) recoloured to match Ravio's Hood, and all text edited to replace Link's name with Ravio.&lt;br&gt;&lt;br&gt;I intend to later edit some other mods to work with Ravio; I'll link (no pun intended) them here if/when I do. Feel free to make your own mods for this, too!</description>
+      <media:content url="https://files.gamebanana.com/mods/playableravio.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/playable_ravio.zip" type="application/zip"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>The Chinese localization patch for RelicsofthePast</title>
+      <author>kirzuu</author>
+      <link>https://gamebanana.com/mods/704619</link>
+      <comments>https://gamebanana.com/mods/704619#PostsListModule</comments>
+      <guid isPermaLink="false">c2dc1e2e3ce73eeb7671f36063694efff716b200</guid>
+      <pubDate>Sat, 15 Aug 2026 14:33:36 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8078b48666a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8078b0787ab.jpg"/&gt;&lt;br&gt;RelicsofthePast的汉化补丁</description>
+      <media:content url="https://files.gamebanana.com/mods/the_chinese_localization_patch_for_relicsofthepast.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>GUIs</category>
+    </item>
+    <item>
+      <title>密勒顿替换大师摩托</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/704577</link>
+      <comments>https://gamebanana.com/mods/704577#PostsListModule</comments>
+      <guid isPermaLink="false">b76ef7cf4dcd6b3fa0602e3d584632b1f67ebd97</guid>
+      <pubDate>Sat, 15 Aug 2026 12:56:03 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8061a91ff06.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8061a88eb52.jpg"/&gt;&lt;br&gt;用密勒顿的模型替换了大师摩托，图标和文本皆有修改，只是一个移植，wiiu原地址在这里&lt;br&gt;&lt;a href="https://gamebanana.com/mods/474406"&gt;Miraidon 摩托车在《塞尔达传说：旷野之息》（WiiU）大师摩托模组上 |旷野之息模组&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/a730f870e103e637b2eb5a55afa07627.bnp" type="application/octet-stream"/>
+      <category>Motorcycle</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Zelda's Ballad 35周年礼服和爱丽丝服装独立版</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/704557</link>
+      <comments>https://gamebanana.com/mods/704557#PostsListModule</comments>
+      <guid isPermaLink="false">106901a821dc8d0703cf7df00b3ff1a0403e3be4</guid>
+      <pubDate>Sat, 15 Aug 2026 11:48:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8051ed95207.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8051f823831.jpg"/&gt;&lt;br&gt;这两套衣服是Malik177拜托我移植并独立的,可以在河畔驿站买到，他们不需要塞尔达叙事曲也能运行,但林可儿穿上它会很怪异,这是wiiu的原地址&lt;br&gt;&lt;a href="https://gamebanana.com/mods/168238"&gt;Zelda's Ballad - 35th Anniversary Dress Mod for The Legend of Zelda: Breath of the Wild (WiiU) | BotW Mods&lt;/a&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/mods/294312"&gt;艾丽丝服装，用于《塞尔达传说：旷野之息》（WiiU）的塞尔达叙事歌谣模组 |旷野之息模组&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/wiiu_.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>米法套装Hylian Mipha(port)</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/703593</link>
+      <comments>https://gamebanana.com/mods/703593#PostsListModule</comments>
+      <guid isPermaLink="false">48702aefcfbaf29d6b337f9d817eba0f94c51100</guid>
+      <pubDate>Thu, 13 Aug 2026 09:16:10 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7d8ab0a63ac.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7d8ab2abc0f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7d8ab1a8545.jpg"/&gt;&lt;br&gt;两个版本,换皮版替换了卓拉套装,独立版可以在河畔驿站的特里那里买到,单件20防御力，游泳速度提升，雪地行走，雷无效，装备图标一并纳入，这个是wiiu版的原地址&lt;br&gt;套装：&lt;a href="https://gamebanana.com/mods/426381"&gt;《塞尔达传说：旷野之息》（WiiU）海利亚米法模组 |旷野之息模组&lt;/a&gt;&lt;br&gt;图标：&lt;a href="https://gamebanana.com/mods/429757"&gt;《塞尔达传说：旷野之息》（WiiU）海利亚米法图标模组 |旷野之息模组&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/hylian_mipha.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/541f328982a94247b3c1a7a14a4b6378.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>希卡炸弹弓</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/703216</link>
+      <comments>https://gamebanana.com/mods/703216#PostsListModule</comments>
+      <guid isPermaLink="false">3782046db5161dc4193b5e01cec2322922717cf6</guid>
+      <pubDate>Wed, 12 Aug 2026 07:13:29 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7c1cf6b41b1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7c1cf6c42d2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7c1cf6ed553.jpg"/&gt;&lt;br&gt;可射出5发希卡炸弹的弓，30乘5的攻击力，在阿卡莱研究所的古代炉子买到，介绍目前只有中文，如果谁愿意做多语言版我会很感谢，这个是wiiu的原地址&lt;br&gt;https://gamebanana.com/mods/300036</description>
+      <media:content url="https://files.gamebanana.com/mods/3002b5cac2326fbc66cc03c2370a059d.rar" type="application/vnd.rar"/>
+      <category>Weapons</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Warm Winter Set Dyeable (Standalone)</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/702964</link>
+      <comments>https://gamebanana.com/mods/702964#PostsListModule</comments>
+      <guid isPermaLink="false">4e4ce3ff2468a91a76d81b3986b65d08ef57de52</guid>
+      <pubDate>Tue, 11 Aug 2026 14:30:32 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31641239e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db1db71.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db3816e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db4bb2b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db52355.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db61bae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db727f1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db7b4bb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31db97c10.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31dbb7cda.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31dbbc37b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31dc349a0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7b31dc347ac.jpg"/&gt;&lt;br&gt;A new warm set for winter time.&lt;br&gt;&lt;br&gt;Includes:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Comfortable&amp;nbsp;&lt;i&gt;Dyeable &lt;/i&gt;puffy jacket ported from TOTK&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;New Trouser from TOTK&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;New warm Hat&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Cold Resistance Effect added to each piece&lt;/i&gt;&lt;/li&gt;&lt;li&gt;15 different colours&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;You can find the clothes at Beedle's shop, on &lt;span class="GreenColor"&gt;Dueling Peeks Stable&lt;/span&gt;&lt;/u&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/warm_winter_set_dyeable_bnp.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/warm_winter_set_dyeable_standalone_non_bnp.rar" type="application/vnd.rar"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Stupid Shrine Names Switch</title>
+      <author>100COOKIES</author>
+      <link>https://gamebanana.com/mods/701882</link>
+      <comments>https://gamebanana.com/mods/701882#PostsListModule</comments>
+      <guid isPermaLink="false">b2fb968b1b0d10c03ba506912abdf21f97d632d7</guid>
+      <pubDate>Sat, 08 Aug 2026 21:04:43 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7799abf19c1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7799ac18e32.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7799ac1c30b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7799ac290dd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7799ac2c5d3.jpg"/&gt;&lt;br&gt;The return of Stupid Shrine Names!&amp;nbsp;&lt;br&gt;Thanks to Chev2 for the original mod: https://gamebanana.com/mods/33475&lt;br&gt;&lt;br&gt;This mod builds off of the original and ports it to the Switch. All 136 shrines have had their names replaced with goofy names, creating a very funny experience! The more crude or profane names from the original mod have been replaced to be more family-friendly.&lt;br&gt;&lt;br&gt;If you have suggestions for a name, let me know in the comments!</description>
+      <media:content url="https://files.gamebanana.com/mods/stupid-shrine-names-v1.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>GUIs</category>
+    </item>
+    <item>
+      <title>Dragon Ball Clothes Pack(Standalone)</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/700160</link>
+      <comments>https://gamebanana.com/mods/700160#PostsListModule</comments>
+      <guid isPermaLink="false">9ecfe125313979a680cba6478c9aef3b73566890</guid>
+      <pubDate>Mon, 03 Aug 2026 18:04:16 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d783337f1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d789e9d5e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a08688.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a13273.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a1c6e7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a2c2f5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a34a20.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a4a237.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a4fb80.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a632af.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a638ed.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78a672cc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78aabc3f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78ab31a6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a71e37c02fa4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78ac4f53.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78b0a3d9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a70d78b29824.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a71e37c1550a.jpg"/&gt;&lt;br&gt;Dragon Ball Clothes pack for BOTW, adds 8 New Clothes.You can find the clothes at Beedle's shop, on &lt;span class="GreenColor"&gt;Dueling Peeks Stable&lt;/span&gt;.&lt;br&gt;&lt;br&gt; Includes:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Goku Gi&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Goku Black Gi&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Kid Goten Gi&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Piccolo Gi&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Super Buu Clothes&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Kid Trunks Gi&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Vegeta (Training Suit)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;Vegeto Gi&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;&lt;span class="RedColor"&gt;Plus 2 New Earrings&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Goku Black Potara&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Vegito Potara&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Ported all models and textures (baked by myself) from Dragon Ball legends, including the original rig/weights adapted to BOTW.&lt;br&gt;&lt;br&gt;&lt;u&gt;I am not sure yet but i think i'll add more clothes soon, like Tien, gohan kid qipao &amp; a few others&lt;/u&gt;.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/db_clothes_pack_bnp.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/db_clothes_pack_non_bnp.rar" type="application/vnd.rar"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>linkle magicai girl林可儿魔法少女</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/699545</link>
+      <comments>https://gamebanana.com/mods/699545#PostsListModule</comments>
+      <guid isPermaLink="false">1a9a85df59c0db6cb4bfd899d4ce95b73b3a0c5d</guid>
+      <pubDate>Sat, 01 Aug 2026 17:07:25 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6e27007a290.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6e272c5fa48.jpg"/&gt;&lt;br&gt;之前的switch一直被作者下掉了，这个是我自己做的移植，有英文原版和汉化版，可以按自己的需求来下载，获取方式和原版一样没有修改，这个是wiiu原地址https://gamebanana.com/mods/431101</description>
+      <media:content url="https://files.gamebanana.com/mods/linkle30collection.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/linkle30collection_25410.rar" type="application/vnd.rar"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Sheikah Run on Stealth Mask</title>
+      <author>Catzy123</author>
+      <link>https://gamebanana.com/mods/699479</link>
+      <comments>https://gamebanana.com/mods/699479#PostsListModule</comments>
+      <guid isPermaLink="false">5f5ebc7664d4a28bf7f01a915ef1ef4e57b09720</guid>
+      <pubDate>Sat, 01 Aug 2026 13:47:33 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6de573bfbc6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6de62f0255b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6dfa478e1ed.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6de62f96773.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6de6c67906f.jpg"/&gt;&lt;br&gt;Makes Link Sheikah Run while having the Stealth Mask or Sheik Mask equipped, he also performs a roll when he lands while running, and theres also a option to enable a Sheikah Jump when installing it over &lt;a href="https://github.com/NiceneNerd/UKMM" target="_blank"&gt;UKMM&lt;/a&gt;.&lt;br&gt;&lt;br&gt;With that Link will be able to Run a&lt;span class="GreenColor"&gt; bit faster&lt;/span&gt; than his normal run while also looking cool in its own way while also giving the stealth mask a extra use.&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/botw_sheikah.gif"&gt;&lt;br&gt;&lt;br&gt;I also highly recommend playing it together with &lt;a href="https://gamebanana.com/mods/49749"&gt;Wild Running&lt;/a&gt;&amp;nbsp;(by using the &lt;a href="https://gamebanana.com/tools/7836"&gt;Ultimate BotW Converter&lt;/a&gt; to turn it into a Switch mod) while having the Sheikah Jump option disabled.&lt;br&gt;&lt;br&gt;Mod was built on 1.6.0 but might also work with other versions when using UKMM&lt;br&gt;&lt;br&gt;There's also a &lt;a href="https://gamebanana.com/mods/699483"&gt;Wii U Version&lt;/a&gt;&lt;br&gt;&lt;br&gt;have fun with running faster.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/sheikah_run.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sheikah_run_no_merger.rar" type="application/vnd.rar"/>
+      <category>Animations</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Royal Knight Armor Set (Standalone)</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/698405</link>
+      <comments>https://gamebanana.com/mods/698405#PostsListModule</comments>
+      <guid isPermaLink="false">c35d1150102612afe16b46bba3dee532f62f4f64</guid>
+      <pubDate>Tue, 28 Jul 2026 22:45:00 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692f9b82f2a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692f9fa1c45.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa5ea5b8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa60402f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa6146cb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa62562e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa639b9a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa63e2d6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa65527e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa655a72.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa69e6fe.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa6a5cfc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa6a2c60.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa6de18e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a692fa6eade3.jpg"/&gt;&lt;br&gt;Armor worn by elite members of the Royal Guard.&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;span class="RedColor"&gt;&lt;b&gt;You can find the set at Beedle's shop, at Dueling Peeks Stable&lt;/b&gt;&lt;/span&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Standalone (Bnp and non bnp version)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Full set ( New cap, Uniform and Boots)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;2 Colors scheme (HQ textures for Blue and Red)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Fully functional mant/cape&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;UI&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/royal_knight_armor_standalone_bnp.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/royal_knight_armor_non_bnp_standalone.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/royal_knight_armor_replacer.rar" type="application/vnd.rar"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+  </channel>
+</rss>
