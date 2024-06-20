@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Idle Champions of the Forgotten Realms</title>
+      <author>Codename Entertainment</author>
+      <link>https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Idle Champions of the Forgotten Realms is a Dungeons &amp; Dragons strategy management game uniting characters from throughout the D&amp;D multiverse into a grand adventure.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-sykbg.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-01-1920x1080-24b28d80662e.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-02-1920x1080-bccd6a9e30ef.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-03-1920x1080-f75380153815.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-04-1920x1080-dd8d90ab7a3e.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-05-1920x1080-0ce66a29f505.jpg#.image" type="image/*"/>
+    </item>
+    <item>
+      <title>Flotsam</title>
+      <author>Pajama Llama Games</author>
+      <link>https://store.epicgames.com/en-US/p/flotsam-266287</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/flotsam-266287</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+      <description>The floating garbage town survival game! Scavenge what precious garbage you can from the ocean's surface and grow your city while doing your best to survive in this colorful post-apocalyptic world.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1x7gf.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-19ld2.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-h2n65.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-2158h.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-3fxga.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-og552.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-ce4l3.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1by43.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1xpu9.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-13jeo.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1el5c.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1pb84.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1o1mv.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-orxc4.png#.image" type="image/*"/>
+    </item>
+  </channel>
+</rss>
