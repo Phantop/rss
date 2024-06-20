@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Bendy and the Ink Machine</title>
+      <author>Joey Drew Studios Inc.</author>
+      <link>https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a</guid>
+      <pubDate>Thu, 30 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Bendy and the Ink Machine® is the first person puzzle action horror game that will forever ruin your childhood love of cartoons.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1lsmb.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-fdjt1.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-120qs.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1qhmf.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1denh.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-11hxq.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-ulu69.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1im0k.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-to1w3.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-wq06m.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1go90.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-21v9q.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1ynbn.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Five Nights at Freddy's: Into the Pit</title>
+      <author>Mega Cat Studios</author>
+      <link>https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563</guid>
+      <pubDate>Thu, 30 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful—it's not just your own life that’s on the line.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-161gk.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-106m1.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1vrau.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-16tpa.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1c8oo.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1aqcb.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-14fnu.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-z1usg.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1qja0.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-188mc.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
