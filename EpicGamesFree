@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>LISA: The Definitive Edition</title>
+      <author>Serenity Forge</author>
+      <guid isPermaLink="false">ec5cb294e63ff0ee047bc7db332a1e8f0dbd8c4a</guid>
+      <pubDate>Wed, 26 Mar 2025 16:00:00 +0000</pubDate>
+      <description>Explore Olathe and unmask its twisted secrets with LISA: The Definitive Edition, including the original narrative-driven RPG LISA: The Painful and its sequel LISA: The Joyful.</description>
+      <media:content url="https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Cat Quest II</title>
+      <author>Epic Dev Test Account</author>
+      <guid isPermaLink="false">cfb68f9e2aa5728b0ea511f3d2658e6a1dab048a</guid>
+      <pubDate>Thu, 03 Apr 2025 15:00:00 +0000</pubDate>
+      <description>Open-world action-RPG in a fantasy realm of cats and dogs. CAT QUEST II lets you play solo or with a friend, as both a cat and dog! Quest in a world filled with magic, defeat monsters and collect loot in a catventure like never before!</description>
+      <media:content url="https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/cat-quest-ii-13gb6_1200x1600-19155962849457baa73eece3e8000061" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/CII_Gift_1920x1080_wrap-a1_1920x1080-d1f5a48938e58d769a65a6ab7190f8d9" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
