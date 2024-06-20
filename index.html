@@ -1,0 +1,6 @@
+<script>(async () => {
+let { hostname, pathname } = new URL(location.href);
+let user = hostname.split('.')[0], repo = pathname.split('/')[1];
+let json = await (await fetch(`https://api.github.com/repos/${user}/${repo}/contents?ref=out`)).json();
+document.body.innerHTML = json.map(f => `<a href="${f.path}">${f.path}`).join('<br>');
+})();</script>

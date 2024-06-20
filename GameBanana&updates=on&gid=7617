@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Tears of the Kingdom</title>
+    <description>GameBanana - The Legend of Zelda: Tears of the Kingdom</description>
+    <link>https://gamebanana.com/games/7617</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/7617"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Tears of the Kingdom</title>
+      <link>https://gamebanana.com/games/7617</link>
+    </image>
+    <item>
+      <title>Descend</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/734679</link>
+      <comments>https://gamebanana.com/mods/734679#PostsListModule</comments>
+      <guid isPermaLink="false">4d8f9350208693e059746452e1735a5404d9efe8</guid>
+      <pubDate>Sat, 31 Oct 2026 19:04:58 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0b264c6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0bc3775.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0ba1986.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0b80f7c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0bb9b53.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0bd88f5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0bce35c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae63b0ae9503.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Descend&lt;/h1&gt;&lt;h2&gt;Description&lt;/h2&gt;Activate Ascend normally, click L3 and you can now descend to ceilings beneath you rather than merely ascend through ceilings above you. &lt;br&gt;&lt;br&gt;The descend marker will (try to) help you by changing from red to green based on how close you are to "descend-able" ground. It doesn't work terribly well. The game just isn't designed around the concept of descending unlike ascend. But I still find it's better than having only an on/off detector. &lt;br&gt;&lt;br&gt;The mod is an exefs-patch/ipchtxt, so it doesn't occupy a subsdk slot and can be used with other mods mostly conflict-free (unless they are dealing with similar concepts like another ascend mod). &lt;br&gt;&lt;br&gt;&lt;h3&gt;Installation&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Emulator: extract the &lt;b&gt;descend&lt;/b&gt; folder into the game's mod directory and enable Descend.&lt;/li&gt;&lt;li&gt;Atmosphere: copy the archive's &lt;b&gt;exefs_patches/descend&lt;/b&gt; folder into &lt;b&gt;atmosphere/exefs_patches/descend&lt;/b&gt; on the SD card.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h3&gt;Known Issues&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Link's feet sometimes don't appear at the descend destination, particularly when the exit is sloped or jagged.&lt;/li&gt;&lt;li&gt;The camera can sometimes appear inside of a wall, revealing an "out of bounds" area when previewing an exit at your destination. &lt;/li&gt;&lt;li&gt;In rare instances, you may wind up inside of a wall/out-of-bounds area. Warping to a shrine is your only option here.&lt;/li&gt;&lt;li&gt;Animations/Swirling can look janky at times. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h3&gt;Limitations&lt;/h3&gt;&lt;b&gt;Only tested on Switch running v1.2.1 of the game. Highly unlikely to work on other versions.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;AI Disclaimer&lt;/b&gt;&lt;br&gt;&lt;br&gt;This project was developed with heavy help from AI Codex Astra 6. For an overview of how I develop ExeFS mods using AI please see this post &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;buy me a coffee&lt;/a&gt;! I provide the mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/descend-v0150.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Shinobi no Satori</title>
+      <author>Catzy123</author>
+      <link>https://gamebanana.com/mods/641335</link>
+      <comments>https://gamebanana.com/mods/641335#PostsListModule</comments>
+      <guid isPermaLink="false">33f58198e88d2b0786f7f98f132d5fd4efbd2b78</guid>
+      <pubDate>Sat, 31 Oct 2026 17:46:15 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/694a82c1cec3e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd38eb2e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd3b9624.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd365a23.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd367669.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd364f84.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd36b2a1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd39f91f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd36677c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd361a8d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd36f0b0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd384776.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd3a1980.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd39fd6f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd3a25d4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694aabd39f89a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694ac25134432.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694ac6cab1f05.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694ac74da6ff8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/699b5abfbd326.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Update&lt;br&gt;&lt;p&gt;The one handed sword string was removed because i just mainly used that to &lt;span class="GreenColor"&gt;learn how modifying them works&lt;/span&gt;, they didnt really feel all that good, and also for &lt;span class="GreenColor"&gt;better compatibility&lt;/span&gt; with my mod that i will release soon.&lt;/p&gt;&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Mod works now again on 1.4.0+ when using the "Without TKMM" version&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the Yiga quest from breaking&lt;br&gt;&lt;em&gt;Removal&lt;/em&gt;: One handed sword normal attack string was removed&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: The Master sword is able to break in its awakened state&lt;br&gt;&lt;hr&gt;&lt;br&gt;Shinobi Mod that turns Link into a Real Shinobi, took a ton of time and effort and learning and creativity to make this but now its complete.&lt;br&gt;&lt;br&gt;Once you wear a specific armor piece- Link gains abilities, i will List what each armor piece gives for a ability&lt;br&gt;&lt;br&gt;&lt;h1&gt;                                      &lt;span class="GreenColor"&gt;        UPDATE&lt;/span&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;The Sword Equip and Unequip has Improved Visuals&lt;/li&gt;&lt;/ul&gt;&lt;img src="https://files.gamebanana.com/bitpit/equip.gif"&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Now works on Version &lt;span class="GreenColor"&gt;1.1.0 - 1.4.3&lt;/span&gt; With Tkmm and also without Tkmm and Switch (tested)&lt;/li&gt;&lt;li&gt;Talisman effect is now&lt;span class="GreenColor"&gt; standalone&lt;/span&gt;, so the yiga will keep their Red Talisman always&lt;/li&gt;&lt;li&gt;The World &lt;span class="GreenColor"&gt;doesnt pause&lt;/span&gt; anymore when De/Activating the Master Sword&lt;/li&gt;&lt;li&gt;Added &lt;span class="GreenColor"&gt;Speed Wind effect&lt;/span&gt; lines to all the Shinobi actions (like running and double jumping, more visible while in shadows)&lt;/li&gt;&lt;li&gt;Fixed all Bugs like the &lt;span class="GreenColor"&gt;T-posing during backflip&lt;/span&gt; and the Raurus arm glow after every cutscene&lt;/li&gt;&lt;li&gt;Landing in Water also &lt;span class="GreenColor"&gt;resets&lt;/span&gt; double jumps now&lt;/li&gt;&lt;li&gt;No Double Jumps in &lt;span class="RedColor"&gt;Shrines&lt;/span&gt; anymore -_-&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;Shinobi Mask-&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/tp.gif"&gt;&lt;br&gt;A headband that gives temporary Sheikah knowledge.&lt;br&gt;it grants the &lt;span class="GreenColor"&gt;ability to double jump, air dodge with&lt;/span&gt; &lt;b&gt;&lt;u&gt;L&lt;/u&gt;&lt;/b&gt;&lt;span class="GreenColor"&gt;, or leap forward with&lt;/span&gt; &lt;b&gt;&lt;u&gt;A&lt;/u&gt;&lt;/b&gt;&lt;span class="GreenColor"&gt;, the hood can be lowered by double-tapping&lt;/span&gt; &lt;b&gt;&lt;u&gt;A&lt;/u&gt;&lt;/b&gt; &lt;span class="GreenColor"&gt;while standing still and holding&lt;/span&gt; &lt;u&gt;&lt;b&gt;B&lt;/b&gt;&lt;/u&gt; (The Hylian Hood can also be lowered this way).&lt;br&gt;It &lt;span class="GreenColor"&gt;Enables&lt;/span&gt; Master Sword Beams without full health too.&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/tp2.gif"&gt;&lt;br&gt;It also gives Link a whole Sheikah movement overhaul like with my other mod &lt;a href="https://gamebanana.com/mods/450989"&gt;Sheikah Techniques&lt;/a&gt; but its not as much.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;Shinobi Chest Guard-&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/ms_e91a9.gif"&gt;&lt;br&gt;An ancient chest piece made of Sheikah wisdom and &lt;br&gt;Zonai power, its fabric is torn and worn, yet it lets the&lt;br&gt;wearer &lt;span class="GreenColor"&gt;unleash the Master Sword's true power by&lt;br&gt;holding&lt;/span&gt; &lt;u&gt;&lt;b&gt;ZL&lt;/b&gt;&lt;/u&gt; &lt;span class="GreenColor"&gt;while standing still and double-tapping&lt;/span&gt; &lt;u&gt;&lt;b&gt;A&lt;/b&gt;&lt;/u&gt;&lt;br&gt;It has Master Sword beam dmg &lt;span class="GreenColor"&gt;up&lt;/span&gt; too.&lt;br&gt;&lt;br&gt;&lt;b&gt;The Zonai and Sheikah arm are also both &lt;span class="GreenColor"&gt;Reactive&lt;/span&gt; to the new abilities.&lt;/b&gt;&lt;br&gt;&lt;br&gt;(The sword goes into the Ultimate form, 60 Dmg and Unbreakable).&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;Shinobi Tight's-&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/wr_a676c.gif"&gt;&lt;br&gt;Sheikah wisdom is mixed with Zonai power in these &lt;br&gt;tights, enabling the wearer to sprint swiftly&lt;br&gt;&lt;span class="GreenColor"&gt;across the surface of water.&lt;/span&gt;&lt;br&gt;It &lt;span class="GreenColor"&gt;prevents&lt;/span&gt; fall dmg too.&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;How do you get the armor?&lt;/b&gt;&lt;/h1&gt;Once you get the PurahPad inside your inventory, you will automatically get a quest when you are in game, follow the quest and you will obtain it.&lt;br&gt;&lt;br&gt;&lt;b&gt;And once you beat the quest you will get a Talisman that will give the same abilities also to some Vanilla Armor&lt;/b&gt;&lt;br&gt;&lt;br&gt;And if you sell the armor then you can buy it again in &lt;span class="GreenColor"&gt;CeCe’s&lt;/span&gt; shop.&lt;br&gt;&lt;br&gt;&lt;b&gt;How Compatible is the mod?&lt;/b&gt;&lt;br&gt;This mod is mostly standalone and works with everything if placed at the top of TKMM. &lt;b data-path-to-node="1" data-index-in-node="87"&gt;&lt;span class="RedColor"&gt;However&lt;/span&gt;&lt;/b&gt;, because it uses a custom ASB file to control its unique animations, it will clash with big mods like Challenge Mode or DAR. Since ASB files are a nightmare to merge manually, those mods will likely lose some of their animation or attack edits if used together. Same with Ainb- but that file controls more like abilities like other Armor ability mods&lt;br&gt;&lt;br&gt;For Sheikah Techniques, you shouldn't play them together, it will feel messy, i recommend to chose only one or the other here.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;h1 class="SelectedElement"&gt;&lt;b&gt;The Mod Supports both &lt;span class="GreenColor"&gt;English and German&lt;/span&gt;, and for Game versions its only &lt;span class="GreenColor"&gt;1.1.0 - 1.4.3&lt;/span&gt; Both with and without Tkmm and on Switch (Tested)&lt;/b&gt;&lt;/h1&gt;&lt;span class="RedColor"&gt;Install Insturctions&lt;/span&gt;:&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Emulator&lt;/span&gt;: Open the zip file and then right click totk and place the mod in Mod Data Location&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Switch&lt;/span&gt;: Open the zip and search the "romfs" folder and place it in "atmosphere\content\0100F2C0115B6000" on your sdcard, and then search the exefs folder and convert the .pxhtxt file for the version you're playing on with &lt;a href="https://github.com/3096/ipswitch"&gt;ipswitch&lt;/a&gt; and make sure you're on atmosphere 1.12.1 or higher.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;To merge with other mods&lt;/span&gt;, download the mod merger: &lt;a href="https://gamebanana.com/linkfilter?url=https%3A%2F%2Ftotkmods.github.io%2Ftkmm%2Fdownloads%2F&amp;follow=true" target="_blank"&gt;TKMM&lt;/a&gt;&lt;br&gt;&lt;br&gt;Theres also options for different talisman color or disable the Glow/God-Voices/Cape, but for that you will need to install the .tkcl with &lt;a href="https://gamebanana.com/tools/17165"&gt;TKMM&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Watch the whole Video if you want to see everything that the Armor does but there's two small things i didn't say and that's that Link is also able to Jump cancel out of Sword Flurry Rushes and that 2 Handed Swords are faster.&lt;/b&gt;&lt;br&gt;&lt;br&gt;My &lt;a href="https://ko-fi.com/catzy123" target="_blank"&gt;Ko-fi&lt;/a&gt;, if you want to support me making more mods like these &lt;br&gt;&lt;br&gt;Have fun with the mod!</description>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_be2bb.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_153bf.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_0e8ca.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_-_english.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_-_german.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_06c9e.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/shinobi_no_satori_62e1a.rar" type="application/vnd.rar"/>
+      <category>Armor set</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Ordeal of the Demon King</title>
+      <author>- Tarnagh -</author>
+      <link>https://gamebanana.com/mods/712592</link>
+      <comments>https://gamebanana.com/mods/712592#PostsListModule</comments>
+      <guid isPermaLink="false">05c4205334eb2fb87a126988435ec579c4e24022</guid>
+      <pubDate>Sat, 31 Oct 2026 17:28:54 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8e02dee7d8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd4486bca.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd44959b4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd449830e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd44c12aa.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; v3.1.1&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Ganondorf now wields the Thunderstorm Spear&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;em&gt;Created by &lt;strong&gt;Tarnagh&lt;/strong&gt;. Bow model and texture by &lt;strong&gt;The Hidden Yiga Clan&lt;/strong&gt;.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h2&gt;Ordeal of the Demon King&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"You have faced monsters, Dragons, and gods. But have you ever stood before the Demon King himself?"&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Ganondorf stands, and he is waiting for you. Not for a battle. He has watched the bearer of the Master Sword from afar, counted his victories, and now he intends to find out for himself whether the hero is worth anything at all.&lt;br&gt;&lt;br&gt;&#13;
+This is a full quest line: dialogue, choices that stick, a duel of his choosing, three commissions that end with weapons no one else in Hyrule can give you - and, for those who survive him, paths no one else can open.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Demon King&lt;/h2&gt;&#13;
+&#13;
+He offers you a choice.&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Kneel.&lt;/strong&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Or refuse.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#13;
+Choose carefully. The Demon King does not offer his mercy twice.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Ordeal&lt;/h2&gt;&#13;
+&#13;
+Those who bow before him earn something granted to almost no one: the chance to prove themselves in single combat, against an opponent he picks personally.&lt;br&gt;&lt;br&gt;&#13;
+Survive, and he will admit - grudgingly, in his own way - that you are more than another hero clinging to a dying world. Refuse the duel, and the ordeal ends where it began, beneath his gaze.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The King's Will&lt;/h2&gt;&#13;
+&#13;
+A proven hero is a useful hero, and the Demon King has work.&lt;br&gt;&lt;br&gt;&#13;
+His first commission sends you after the horns of three Silver Lynels, thirty of Naydra's spikes, and a horn taken from the Light Dragon herself. Bring them, and he will forge you a bow out of them, by hand, in front of you.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;"Watch closely as their fragile light is consumed by my darkness."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+And the world answers him. While he forges, gloom boils up around him and the sky and earth turn the red of a Blood Moon - and when the rite is done, the colour drains away again.&lt;br&gt;&lt;br&gt;&#13;
+The bow he hands over is not an ordinary one. Frost clings to it and never melts, it throws a faint light of its own, and it will outlast anything in your pack. &lt;strong&gt;And its arrows freeze.&lt;/strong&gt; Not once, not while a material is fused to them - always.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;Read that twice before you install:&lt;/em&gt; there is exactly one arrow actor in the game, so &lt;strong&gt;every arrow you loose, from any bow, leaves winter behind it&lt;/strong&gt;. That is the price of the Demon King's gift, and it is paid by your whole quiver.&lt;br&gt;&lt;br&gt;&#13;
+But do not mistake his favour for friendship. You serve his purpose for exactly as long as you remain useful.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Horn of the Demon King&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"Take this. A horn of my true form. A manifestation of the doom that awaits this fragile world."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Come back to him carrying his bow and he will ask more of you - if you are willing to hear it.&lt;br&gt;&lt;br&gt;&#13;
+This time he wants the horns of all three elemental Dragons, and two from the Light Dragon. What he makes of them is not a weapon but a piece of one: &lt;strong&gt;a shard of the form he has not yet taken&lt;/strong&gt;, fused from their elemental essence and his own dark magic.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Fuse it to anything you like:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;+90 attack&lt;/strong&gt; - well past anything the base game offers&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Fire in every form&lt;/strong&gt; - it sets what it strikes alight, explodes in flame, keeps you warm, and does not go out&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Shatters armour&lt;/strong&gt;, fells trees, and throws further&lt;/li&gt;&#13;
+  &lt;li&gt;Shield's features: &lt;strong&gt;guard bonus, perfect-parry bonus, shield bash and counter&lt;/strong&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+It cannot be sold. Some things are not for rupees.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Thunderstorm Spear&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"There was a spear, warrior. I wielded it before this world learned to fear me."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Bring him the horn and he will ask once more - and this time it is not a trophy he wants rebuilt, but a weapon he carried before Hyrule had a name for him. Thirty shards from Farosh's spikes, four saber horns from the silver lynels, and the horn of the Light Dragon again.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;"Stand back. Let the heavens bear witness."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+What he returns to you is the &lt;strong&gt;Thunderstorm Spear&lt;/strong&gt;:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;45 attack&lt;/strong&gt;, and a reach half again past any spear in the game&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;It comes back.&lt;/strong&gt; Throw it and it returns to your hand - and it does not shatter on whatever it hits on the way&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Lightning in every form&lt;/strong&gt; - it electrifies what it strikes, bursts in a shock, and never runs dry&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Guard bonus and perfect-parry bonus&lt;/strong&gt;, an expanded shockwave, a faster charge, and warmth in the cold&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Breaks a guard at 80&lt;/strong&gt; - more than two times what it was&lt;/li&gt;&#13;
+  &lt;li&gt;Iron, and no one told the sky. Carry it into a storm and see what comes looking for it&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;No hand holds it.&lt;/strong&gt; It rides at Link's side, a little above and apart, point turned ahead - and it swings, throws and returns without ever being gripped&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+It is a spear, so it is fast; it is his, so it is far too strong for one. And it was never made to be carried: the Demon King's storm does not ask to be held.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Forged Anew&lt;/h2&gt;&#13;
+&#13;
+Weapons break, and he knows it. Come back without the bow, without the horn, or without the spear, and he will say what he thinks of you - and then take the materials again.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;em&gt;"Did the storm prove too much for your grip? It answered to me long before it ever answered to you."&lt;/em&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Demon King's Path&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"Name a place, then the ground between here and it will cease to matter."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Once his trial is behind you and his first commission given, your conversations with him can end with a request: &lt;strong&gt;open a way for me&lt;/strong&gt;. He answers with the same dark rite he forges with - and then the world folds, and you are somewhere else.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Seven places, some of them closed to you any other way:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Old Throne Room&lt;/strong&gt; - the Sanctum in Hyrule Castle&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Floating Coliseum&lt;/strong&gt; - five Lynels, and the Depths all around&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Thunderhead Isles&lt;/strong&gt; - the storm that hides the relics of the Zonai&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Imprisoning Chamber&lt;/strong&gt; - the very tomb of the prologue, where he was sealed&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath Hyrule Castle&lt;/strong&gt; - Gloom's Approach, the heart of his malice&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath the World&lt;/strong&gt; - below the Depths themselves, where there is nothing at all&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Western Plateau&lt;/strong&gt; - ground beyond the walls Hyrule raised to keep its world small&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+A few words of warning, because he will not give you any:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;In the &lt;strong&gt;Imprisoning Chamber&lt;/strong&gt;, do not walk on towards the Demon King's own cutscene. Leave the way you would leave anywhere else - by the map.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath the World&lt;/strong&gt; means exactly that. You may arrive on gloom - do not let it take away your life. &lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Features&lt;/h2&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Demon King:&lt;/strong&gt; Ganondorf as he ought to be - imposing, calculating, merciless, and worthy of the title. His words are written in red.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Choices that stick:&lt;/strong&gt; what you say to him is remembered across saves, and he remembers it too.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The King's Trial:&lt;/strong&gt; a duel against an opponent he chooses for you, with miasma.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Nothing is a dead end:&lt;/strong&gt; every commission can be taken again if what he made is gone, and the hand-in is the same rite - not a copy of it.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Three commissions:&lt;/strong&gt; hunt across Hyrule for materials no shop sells, and watch him forge them by hand - gloom, sound and a blood-red sky included. Lose what he made and he will forge it again.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Three unique rewards:&lt;/strong&gt; a bow whose arrows always freeze, the Horn of the Demon King, and the Thunderstorm Spear - which no hand holds.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Demon King's Road:&lt;/strong&gt; seven destinations across the surface, the sky, the Depths, and places the game never meant you to reach.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;No new NPC clutter:&lt;/strong&gt; one existing character carries the whole thing. Nothing else in the world is moved.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Technical Specifications&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;For developers and modders:&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Host actor:&lt;/strong&gt; &lt;em&gt;Npc_BaseCampSoldier_Hylia005&lt;/em&gt; - renamed, re-scripted, and given Ganondorf's pack. No new actor is registered.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Quest logic:&lt;/strong&gt; EventFlow, in his own flowchart - branches, talk choices, pouch queries and autosaves.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Persistence:&lt;/strong&gt; ten booleans appended to &lt;em&gt;GameDataList&lt;/em&gt;, with &lt;em&gt;MetaData&lt;/em&gt; resized to match so they actually reach &lt;em&gt;progress.sav&lt;/em&gt;. They are appended, never inserted, so an existing save keeps every field where it was.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Dialogue:&lt;/strong&gt; Mals, built from genuine vanilla 1.2.0 archives. His lines carry the inline red colour code; your choices stay white.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Teleportation:&lt;/strong&gt; &lt;em&gt;GameSystemActor.EventReserveBancChange&lt;/em&gt; by named start position. Two are vanilla (&lt;em&gt;OpeningStart&lt;/em&gt;, &lt;em&gt;StartPos_HyruleCastleIncident&lt;/em&gt;); five are added to the &lt;em&gt;MainField&lt;/em&gt; and &lt;em&gt;MinusField&lt;/em&gt; start-position tables. The menu is three steps of four choices - the most a single talk event can show.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Custom equipment:&lt;/strong&gt; Crystallized Ice Bow (&lt;em&gt;Weapon_Bow_166_For_Ganondorf&lt;/em&gt;), Horn of the Demon King (&lt;em&gt;Item_Enemy_39&lt;/em&gt;), Thunderstorm Spear (&lt;em&gt;Weapon_Spear_166&lt;/em&gt;, the Gloom Spear). All three are vanilla actors with rows in every registry - no new actor is registered anywhere.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Freezing arrows:&lt;/strong&gt; &lt;em&gt;NormalArrow&lt;/em&gt; gets the three fields that distinguish a Gleeok's ice beam from its ordinary one - &lt;em&gt;ChemicalType Ice&lt;/em&gt;, &lt;em&gt;DamageElements [Ice]&lt;/em&gt;, &lt;em&gt;InitialIceMagic&lt;/em&gt;. No file is added to the pack, so its file list stays vanilla to the name. &lt;strong&gt;It is the only arrow actor in the game, so this affects every bow.&lt;/strong&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The returning spear:&lt;/strong&gt; a boomerang in TotK is four things, not one - the &lt;em&gt;Boomerang&lt;/em&gt; subtype, &lt;em&gt;IsBreakByThrownAttack: false&lt;/em&gt;, an &lt;em&gt;Atk_Thrown&lt;/em&gt; collider, and the &lt;em&gt;Boommerang_Catch&lt;/em&gt; attention client (Nintendo's own spelling). All four are copied from &lt;em&gt;Weapon_Lsword_174&lt;/em&gt;; miss the last and the weapon will not even equip.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The spear that is not held:&lt;/strong&gt; its mesh is moved inside the model itself - sideways, up, and turned point-forward - because TotK gives a weapon offsets for crouching, riding, sheathing and standing, but none at all for the plain state of being in a hand. The sheathed pose has its own knob, &lt;em&gt;SheathTransOffset&lt;/em&gt;, so back and hand are set apart. The hit shapes stay in Phive where they were, so the spear strikes from the hand it never occupies.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Durability:&lt;/strong&gt; &lt;em&gt;MaxLife&lt;/em&gt; lives in two places - the registry row and the pack's own &lt;em&gt;LifeParameters&lt;/em&gt; - and the pack wins. Both are written, or nothing changes.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Resource table:&lt;/strong&gt; every entry the mod grows is recomputed and shipped.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;The Ordeal Awaits&lt;/h3&gt;&#13;
+&#13;
+&lt;em&gt;Stand before the Demon King. Prove your worth. And remember - he is the one deciding whether you deserve to live.&lt;/em&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ordeal_of_the_demon_king_59a29.zip" type="application/zip"/>
+      <category>Quests</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>This allows you to perform TCR just like in BotW.</title>
+      <author>alpha_fu</author>
+      <link>https://gamebanana.com/mods/734026</link>
+      <comments>https://gamebanana.com/mods/734026#PostsListModule</comments>
+      <guid isPermaLink="false">c74a5fb24da50cfe2c3bf3c9695c2a8a6fa8c407</guid>
+      <pubDate>Sat, 31 Oct 2026 15:18:26 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae49fde2a32d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae4a018e8c50.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; TCR is back in Totk!&lt;br&gt;&lt;p&gt;TCR now supports passive markers. When Link is attacked, the TCR is actively triggered, and Link will pursue the last target that attacked him.&lt;/p&gt;&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Add a passive marker&lt;br&gt;&lt;hr&gt;&lt;br&gt;This allows you to perform TCR just like in BotW. The trick requires the same setup: pull your bow at a sufficient height, &lt;b&gt;hold down ZR the entire time, quickly press B to cancel, then press Y. Once you land, it will actively trigger a Flurry Rush attacking the target locked by ZL. &lt;/b&gt;Unlike in BotW, there is no need to mark the enemy beforehand, and the button inputs are slightly different. But either way, TCR has now been successfully implemented in TotK!&lt;br&gt;&lt;br&gt;&lt;b&gt;Note: This only supports version 1.2.1 and has only been tested on emulators.&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/thunderclap_rush_0696a.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/thunderclap_rush_101.rar" type="application/vnd.rar"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Material Columns</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/733845</link>
+      <comments>https://gamebanana.com/mods/733845#PostsListModule</comments>
+      <guid isPermaLink="false">255fa41936e698c8c6dbbe8cd5c05d4015327960</guid>
+      <pubDate>Fri, 30 Oct 2026 01:16:45 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6bc9d4e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6bccaec.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6bea1ee.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6becfdf.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Material Columns&lt;/h1&gt;&#13;
+Group the materials quick-select menu into columns by category, as a 5th sorting option, alongside the original four.&lt;br&gt;&lt;br&gt;&#13;
+&lt;b&gt;Quick links:&lt;/b&gt; &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/material-columns" target="_blank"&gt;README/Source&lt;/a&gt; &lt;span class="GreyColor"&gt;|&lt;/span&gt; &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;Custom Material Docs&lt;/a&gt; &lt;span class="GreyColor"&gt;|&lt;/span&gt; &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;Buy me a coffee&lt;/a&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;Recent Changes&lt;/h2&gt;&#13;
+&lt;h3&gt;v0.1.4&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;span class="OrangeColor"&gt;&lt;b&gt;Alpha:&lt;/b&gt;&lt;/span&gt; Added support for other mods to add custom materials to existing or new categories through an INI file in RomFS. The YouTube video demonstrates this with some new materials from &lt;a href="https://gamebanana.com/mods/479009" target="_blank"&gt;The Second Quest&lt;/a&gt;. I'm still working on the documentation for this.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;New:&lt;/b&gt;&lt;/span&gt; Added translations of all category titles for every Switch-supported language. &lt;span class="GreyColor"&gt;&lt;i&gt;These translations were done by an LLM and I can't verify the accuracy of any of them.&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;Description&lt;/h2&gt;&#13;
+This mod changes the materials quick-select menu so that materials are grouped into columns of various categories. You can still use the original four sorting options.&lt;br&gt;&lt;br&gt;&#13;
+&lt;h3&gt;How to Use&lt;/h3&gt;&lt;ul&gt;&#13;
+&lt;li&gt;&lt;b&gt;Open:&lt;/b&gt; hold &lt;b&gt;D-pad Up&lt;/b&gt;, then press &lt;b&gt;Y&lt;/b&gt; until &lt;span class="OrangeColor"&gt;Material Columns&lt;/span&gt; appears.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Pick a column:&lt;/b&gt; &lt;b&gt;Right Stick&lt;/b&gt; left/right.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Pick a material:&lt;/b&gt; &lt;b&gt;Right Stick&lt;/b&gt; up/down.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;How to Install&lt;/h2&gt;&#13;
+&lt;h3&gt;Emulator&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;Extract to the game's mod directory.&lt;/li&gt;&#13;
+&lt;li&gt;Enable &lt;span class="GreenColor"&gt;material-columns&lt;/span&gt;.&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&lt;h3&gt;Switch&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;Extract the download.&lt;/li&gt;&#13;
+&lt;li&gt;Drag the extracted &lt;span class="GreenColor"&gt;0100F2C0115B6000&lt;/span&gt; folder into &lt;span class="GreenColor"&gt;atmosphere/contents&lt;/span&gt; on your SD card.&lt;/li&gt;&#13;
+&lt;li&gt;Merge the folders. &lt;span class="RedColor"&gt;&lt;b&gt;You need both exefs and romfs.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;Custom Material Actors for Other Mods&lt;/h2&gt;&#13;
+As of v0.1.4, other mod authors and users can pin custom materials to existing or new columns. To do this, add an INI file to your mod's RomFS folder at &lt;code&gt;romfs/MaterialColumns/Categories/your-mods-name.ini&lt;/code&gt;. The file should follow the format described &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&#13;
+&lt;span class="OrangeColor"&gt;&lt;b&gt;Note:&lt;/b&gt;&lt;/span&gt; &lt;i&gt;This is a first version and the design of this system may change.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&#13;
+&lt;h3&gt;Add a Material to an Existing Column&lt;/h3&gt;&#13;
+&lt;pre&gt;&lt;code&gt;&lt;span class="BlueColor"&gt;[General]&lt;/span&gt;&#13;
+Version = &lt;span class="GreenColor"&gt;1&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Materials]&lt;/span&gt;&#13;
+Obj_RemoteBombSphere = &lt;span class="GreenColor"&gt;special-materials&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&#13;
+This places the botw-abilities actor for the spherical remote bomb in the existing &lt;code&gt;special-materials&lt;/code&gt;&#13;
+&lt;h3&gt;Create New Columns&lt;/h3&gt;&#13;
+&lt;pre&gt;&lt;code&gt;&lt;span class="BlueColor"&gt;[General]&lt;/span&gt;&#13;
+Version = &lt;span class="GreenColor"&gt;1&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Category.example.sky-fruit]&lt;/span&gt;&#13;
+Name.en-US = &lt;span class="GreenColor"&gt;Sky fruit&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Category.example.crystals]&lt;/span&gt;&#13;
+Name.en-US = &lt;span class="GreenColor"&gt;Crystals&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Materials]&lt;/span&gt;&#13;
+Item_Example_Cloudberry = &lt;span class="GreenColor"&gt;example.sky-fruit&lt;/span&gt;&#13;
+Item_Example_Sunplum = &lt;span class="GreenColor"&gt;example.sky-fruit&lt;/span&gt;&#13;
+Item_Example_StormCrystal = &lt;span class="GreenColor"&gt;example.crystals&lt;/span&gt;&#13;
+Item_Example_Mooncap = &lt;span class="GreenColor"&gt;mushrooms&lt;/span&gt;&#13;
+Item_Example_WildPear = &lt;span class="GreenColor"&gt;fruit&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&#13;
+This creates two new columns, &lt;code&gt;example.sky-fruit&lt;/code&gt; and &lt;code&gt;example.crystals&lt;/code&gt;, and assigns fictional actors to them and to the existing &lt;code&gt;mushrooms&lt;/code&gt; and &lt;code&gt;fruit&lt;/code&gt; columns.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h3&gt;Translations and Further Reading&lt;/h3&gt;&#13;
+You can provide translations as shown in &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/examples/fictional-materials.ini" target="_blank"&gt;this lengthier example&lt;/a&gt;. For a comprehensive overview of everything that can be done, including examples for a few existing mods and the names of the built-in columns, see &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;the docs&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h3&gt;Compatibility&lt;/h3&gt;&#13;
+&lt;ul&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;Supported:&lt;/b&gt;&lt;/span&gt; TotK &lt;b&gt;1.2.1&lt;/b&gt; and &lt;b&gt;1.4.2&lt;/b&gt; only, for now. Tested on a Switch.&lt;/li&gt;&lt;li&gt;&lt;span class="RedColor"&gt;&lt;b&gt;Not compatible:&lt;/b&gt;&lt;/span&gt; my Fleet Sync mod or any other subsdk6 mod.&lt;/li&gt;&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h3&gt;Credits&lt;/h3&gt;&#13;
+This mod was inspired by a conversation with fellow modder cargocult and the "cross media bar" section of this &lt;a href="https://youtu.be/e4vsgC41bYg?t=495" target="_blank"&gt;fantastic video&lt;/a&gt; from the Game Maker's Toolkit YouTube channel, where a similar interface is designed for Echoes of Wisdom.&lt;br&gt;&lt;br&gt;&#13;
+Made with exlaunch and devkitPro.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;AI Disclaimer&lt;/h2&gt;&#13;
+This was made almost completely with the use of AI, in particular GPT-6 Astra. For an overview of how I develop ExeFS mods using AI, please see this post: &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v010-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v010-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v013-totk121-142-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v013-totk121-142-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v014-totk121-142-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v014-totk121-142-switch-subsdk6.zip" type="application/zip"/>
+      <category>HUD</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Sunlight Greatsword</title>
+      <author>Deano309</author>
+      <link>https://gamebanana.com/mods/639656</link>
+      <comments>https://gamebanana.com/mods/639656#PostsListModule</comments>
+      <guid isPermaLink="false">89a82095c20b83a20c2b04224cccff7bf7ae7e38</guid>
+      <pubDate>Thu, 29 Oct 2026 14:13:52 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6940444579ce1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/699627f412f0b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69402d2d18379.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69418cfa4538a.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; BugFix&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed sword not appearing if loading game with it already equipped (Thanks to MarioBroz7 for pointing this out for me!).&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;img src="https://i.ibb.co/Wv9fsR3d/Sunlight-Greatsword.gif"&gt;&lt;br&gt;^Model looks better in the game, the image is just low quality :/ &lt;br&gt;&lt;br&gt;&lt;i&gt;I created this for my daughter but she insisted that others may like it too, so I decided to upload it!&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;What is this?&lt;/b&gt;&lt;br&gt;This is a &lt;b&gt;Sunlight Greatsword&lt;/b&gt; (Based on a Gerudo Claymore).&lt;br&gt;This has full blade animation and emission.&lt;br&gt;&lt;b&gt;Damage:&lt;/b&gt; &lt;span class="GreenColor"&gt;40&lt;/span&gt; / &lt;b&gt;Durability:&lt;/b&gt; &lt;span class="GreenColor"&gt;150&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Features:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;"Live Edge" effect to blade.&lt;br&gt;Fire Elemental Damage &amp; Warmth Effect.&lt;br&gt;Does not attract lightning during thunderstorms.&lt;br&gt;Can't be thrown.&lt;br&gt;Phantom Fuses.&lt;br&gt;Changed sound/splash to Legendary on first item pickup.&lt;br&gt;Added visual elemental effects to the weapon (Similar to if a Dragon Horn was fused).&lt;br&gt;&lt;br&gt;Can be purchased from Beedle at Riverside Stable for 500 Rupees.&lt;br&gt;&lt;br&gt;Since the look of the weapon itself is the primary reason for the mod, I have decided to NOT hide any part of it when fused (Suggest &lt;a class="Name" href="https://gamebanana.com/mods/449762"&gt;Invisible Fuses&lt;/a&gt; to completely preserve the look of the blade).&lt;br&gt;&lt;br&gt;&lt;i&gt;TKMM required for installing and only tested on TotK 1.2.1&lt;/i&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_replaces_gerudo_claymore_100.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_-_sun_ring_replaces_gerudo_claymore_100.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_replaces_gerudo_claymore_101.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_-_sun_ring_replaces_gerudo_claymore_101.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_-_sun_ring_standalone_102.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_-_infinite_durability_patch_102.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_-_sun_ring_standalone_104b.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/sunlight_greatsword_-_sun_ring_standalone_105b.zip" type="application/zip"/>
+      <category>Weapons &amp; Shields</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>Faster Quick Menu</title>
+      <author>Catzy123</author>
+      <link>https://gamebanana.com/mods/732618</link>
+      <comments>https://gamebanana.com/mods/732618#PostsListModule</comments>
+      <guid isPermaLink="false">2a6843a6ed5f52cc8c78b069305e1a806b8ff1f5</guid>
+      <pubDate>Mon, 26 Oct 2026 21:41:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6adfc67a1c3fa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adfc7f46c63e.jpg"/&gt;&lt;br&gt;This changes all the quick menus in the game to be fast again, similar to how fast they were in BotW. That includes changing &lt;span class="GreenColor"&gt;Weapons, Bows, Shields and Materials&lt;/span&gt;, quick &lt;span class="GreenColor"&gt;dropping stuff&amp;nbsp;&lt;/span&gt;and &lt;span class="GreenColor"&gt;quick fusing stuff&lt;/span&gt; &lt;span class="GreenColor"&gt;to Arrows&lt;/span&gt; from the quick menu, and the &lt;span class="GreenColor"&gt;Special Power&lt;/span&gt; wheel closes faster too.&lt;br&gt;&lt;br&gt;There’s &lt;span class="GreenColor"&gt;no more delay after letting go of the D-pad&lt;/span&gt;, and the menu also &lt;span class="GreenColor"&gt;opens a bit quicker&lt;/span&gt;.&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/equip2.gif"&gt;&lt;br&gt;&lt;br&gt;For some reason they added this big delay in TotK compared to BotW and it always bothered me, but it was just a simple fix.&lt;br&gt;&lt;br&gt;It supports Version &lt;span class="GreenColor"&gt;1.1.0 - 1.4.3&lt;/span&gt;, and &lt;span class="GreenColor"&gt;TKMM isn’t necessary&lt;/span&gt;.&lt;br&gt;Have fun.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/faster_quick_menu.rar" type="application/vnd.rar"/>
+      <category>HUD</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Mario Sports Outfit Pack</title>
+      <author>MarioBroz7</author>
+      <link>https://gamebanana.com/mods/725313</link>
+      <comments>https://gamebanana.com/mods/725313#PostsListModule</comments>
+      <guid isPermaLink="false">5f8c34cc2b44a91eec0da26cb503246131720e03</guid>
+      <pubDate>Sun, 25 Oct 2026 23:24:13 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac68c9ac0fdc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6eeea00e53.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6eef4edbb3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef065f60b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef188b6df.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef1888ac5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef18a61db.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef2531ef8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef2527961.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef256c9b5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef34a55d2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef36017f0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef46c5a6d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef5620969.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef5620938.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef5659b6f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef67095ba.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef73d3f61.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef73d4d94.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef73d7be2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef73dfd57.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef73e30f4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef889df17.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef889e784.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6ef88a12a6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6fb1a89a25.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6fb1ab0c46.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6fb1ab1a1f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac6fb1ab2c49.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Actor Edit&lt;br&gt;&lt;em&gt;Tweak&lt;/em&gt;: Edited the Daisy Golf Actor, The subfile had a typo to it.&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hello!&lt;br&gt;I'm happy to present a big armor pack mod for the playable Riju mod! &lt;br&gt;Behold, a big 8 armor set pack that consists of two different sports outfits that the 3 princesses worn in Mario Tennis Aces and Mario Golf Super Rush. Including two outfits that the diva herself Pauline worn in those games too as well.&lt;br&gt;&lt;br&gt;Doing this whole thing took me weeks to finish and honestly, I'm really happy with how this turned out. This is my first mod that I have ever done that involves porting models from a different game into Tears, and learning blender was no small feat since that took a lot of will power to do and learn over time.&lt;br&gt;(Thanks a bunch for teaching/helping me Alpha)&lt;br&gt;&lt;br&gt;Each armor part's defense is 28 and putting on 3 gives 84 defense in total. I decided to not add any effects or make this op because the other 3 outfit mods I did are already op as it is. &lt;br&gt;Wearing them as a set gives an attack buff as well so I feel like that is fair enough.&lt;br&gt;&lt;br&gt;All of these outfits can be bought from the Beedle shop in Kara Kara Bazar&lt;br&gt;(Some the armor parts will cost 4k rupees, since most of these were done over the wild set not hard to grind rupees honestly lol)&lt;br&gt;&lt;br&gt;What is even more amazing is that the 4 dresses have skirt physics, and 7 of the 8 outfits have working hair physics too! &lt;br&gt;&lt;br&gt;Anyways, enjoy the mod! I will be trying to make more standalone Riju outfits down the line. &lt;br&gt;I love the playable RIju mod so much lol, it's literally the best playable character mod I ever seen so far. The Mario styled font was made through a font generator, and the thumbnail picture was made though using GIMP&lt;br&gt;&lt;br&gt;One mod I do suggest downloading is the invisible battery mod &lt;br&gt;&lt;a href="https://gamebanana.com/mods/453885"&gt;Invisible Batteries Mod for The Legend of Zelda: Tears of the Kingdom | TOTK Mods&lt;/a&gt;&lt;br&gt;since the battery placement on some costumes isn't right and I couldn't really figure that out tbh.</description>
+      <media:content url="https://files.gamebanana.com/mods/mario_sports_outfit_pack_222fe.rar" type="application/vnd.rar"/>
+      <category>Riju Add-ons</category>
+      <category>Playable Characters</category>
+    </item>
+    <item>
+      <title>Horrible Master Sword</title>
+      <author>KingDaveI</author>
+      <link>https://gamebanana.com/mods/732121</link>
+      <comments>https://gamebanana.com/mods/732121#PostsListModule</comments>
+      <guid isPermaLink="false">52b4dea2220c3d1967549582d5d5ff61f6f9c68c</guid>
+      <pubDate>Sun, 25 Oct 2026 14:31:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ade114778f32.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ade11478641a.jpg"/&gt;&lt;br&gt;Makes the Master Sword and Decayed Master Sword have 1 durability, and the Master Sword deal 1 base damage just like the Decayed Master Sword.&lt;br&gt;&lt;br&gt;I made this because there's a lot of Master Sword buff mods but not any that nerf the Master Sword.&lt;br&gt;Tested on version 1.2.1&lt;br&gt;&lt;br&gt;Made with &lt;a href="https://gamebanana.com/tools/22893"&gt;TKVSC&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/horrible_master_sword.zip" type="application/zip"/>
+      <category>Weapons &amp; Shields</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>quick durability UI</title>
+      <author>YUNWULIAN</author>
+      <link>https://gamebanana.com/mods/731973</link>
+      <comments>https://gamebanana.com/mods/731973#PostsListModule</comments>
+      <guid isPermaLink="false">9e31d26e654fe50fed48291ee2059d46c62fae2e</guid>
+      <pubDate>Sun, 25 Oct 2026 04:53:14 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6add987ea1e38.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6add88610049b.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; mainfile&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: update for shields and bows&lt;br&gt;&lt;hr&gt;&lt;br&gt;only support 1.2.1 and not for switch.</description>
+      <media:content url="https://files.gamebanana.com/mods/quickweapondurability-v110-totk121.zip" type="application/zip"/>
+      <category>Inventory</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Evil Spirit From Beyond</title>
+      <author>aevans338251</author>
+      <link>https://gamebanana.com/mods/728549</link>
+      <comments>https://gamebanana.com/mods/728549#PostsListModule</comments>
+      <guid isPermaLink="false">c54112465be7479fb583f17ad2dff9a453775155</guid>
+      <pubDate>Sun, 25 Oct 2026 04:14:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2c1615174c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2c1b0bbd73.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2c1bedaa4e.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Updated Model&lt;br&gt;&lt;p&gt;Fixed a mistake, the model for the custom weapon was not being read correctly due to shaders not being handled properly. Fixed and is now able to be used as a standalone mod&lt;/p&gt;&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: game crash due to model memory&lt;br&gt;&lt;hr&gt;&lt;br&gt;This is my first mod, if there are issues please let me know. This can be played as a standalone mod, it is meant to be an extension of Depths of the Kingdom. Using vanilla weapons will prove to be difficult. &lt;br&gt;&lt;br&gt;This has a new quest that will unlock after you complete the labyrinths and collect the Evil Spirit armor. Thus, display the location where you can fight the Evil Spirit himself and take his custom weapon. I wanted to have another fun boss fight, inspired from the Depths of the Kingdom and to complete some of its weapon sets. &lt;br&gt;&lt;br&gt;P.S. Weapons will do damage, some deal less than others...</description>
+      <media:content url="https://files.gamebanana.com/mods/evil_spirit_from_beyond_b00ef.zip" type="application/zip"/>
+      <category>Enemy</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Linkle dialogue fix [RU]</title>
+      <author>wm9k</author>
+      <link>https://gamebanana.com/mods/731915</link>
+      <comments>https://gamebanana.com/mods/731915#PostsListModule</comments>
+      <guid isPermaLink="false">a5a9f42375c5196ceb241bee0763f0e0c709d493</guid>
+      <pubDate>Sun, 25 Oct 2026 01:41:47 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6add60778ec4d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6add5e52aae70.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6add5e5195378.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6add5e51ad4a6.jpg"/&gt;&lt;br&gt;Linkle Russian Dialogue Rewrite&lt;br&gt;&lt;br&gt;A Russian text mod for &lt;b&gt;The Legend of Zelda: Tears of the Kingdom&lt;/b&gt; that rewrites dialogue and other text referring to Link so the protagonist is treated as a woman named Linkle.&lt;br&gt;&lt;br&gt;The edits cover character dialogue, journal entries, notes, and other in-game text. The mod also adjusts relevant lines in the Gerudo storyline so Linkle’s presence is consistent with the story.&lt;br&gt;&lt;br&gt;- &lt;b&gt;Game version:&lt;/b&gt; The Legend of Zelda: Tears of the Kingdom, version 1.2.1&lt;br&gt;&lt;br&gt;- &lt;b&gt;Note: &lt;/b&gt;This is a fan-made text mod and is not affiliated with or endorsed by Nintendo. 3D models and voice packs are not included and must be installed separately.&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;Русский язык&lt;/b&gt;&lt;/h1&gt;&lt;br&gt;Локализация диалогов для Линкл&lt;br&gt;&lt;br&gt;Текстовый мод для &lt;b&gt;The Legend of Zelda: Tears of the Kingdom&lt;/b&gt;, адаптирующий официальную русскую локализацию под героиню по имени Линкл. Все обращения, реплики и сюжетные упоминания протагониста переписаны с учётом женского пола персонажа.&lt;br&gt;&lt;br&gt;&lt;b&gt;Что включает в себя мод:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Диалоги и сюжет:&lt;/b&gt; Реплики персонажей согласованы по женскому роду (глаголы прошедшего времени, окончания прилагательных и причастий, местоимения).&lt;br&gt;&lt;br&gt;&lt;b&gt;Журнал приключений:&lt;/b&gt; Описания заданий, путевые заметки и записи в дневнике обновлены от лица героини.&lt;br&gt;&lt;br&gt;&lt;b&gt;Логика сюжета у Герудо:&lt;/b&gt; Тексты в квестах и диалогах города Герудо скорректированы так, чтобы присутствие Линкл выглядело естественно в рамках истории и законов города.&lt;br&gt;&lt;br&gt;&lt;b&gt;Целостность данных:&lt;/b&gt; Все внутренние служебные команды, цвета и теги Nintendo сохранены в исходном виде.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;&lt;b&gt;Версия игры: &lt;/b&gt;The Legend of Zelda: Tears of the Kingdom — 1.2.1.&lt;br&gt;&lt;br&gt;&lt;b&gt;Примечание:&lt;/b&gt; Мод не тестировался на полном прохождении игры. Возможны ошибки. &lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/totk-linkl-ru.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>OP Soup Ladle</title>
+      <author>KingDaveI</author>
+      <link>https://gamebanana.com/mods/731906</link>
+      <comments>https://gamebanana.com/mods/731906#PostsListModule</comments>
+      <guid isPermaLink="false">800320b8c8aaa1c2e4bad09bb5869cbc5e278cc4</guid>
+      <pubDate>Sun, 25 Oct 2026 01:20:07 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6add558ec264e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6add56597784a.jpg"/&gt;&lt;br&gt;Makes the Soup Ladle one shot everything and have infinite durability.&lt;br&gt;Also makes the Soup Ladle show as dealing 0 damage for fun.&lt;br&gt;Tested on 1.2.1.&lt;br&gt;&lt;br&gt;This is the first mod i have published, so leave feedback in the comments please.&lt;br&gt;&lt;br&gt;I used &lt;a href="https://gamebanana.com/tools/22893"&gt;TKVSC&lt;/a&gt; to make this.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/op_soup_ladle.zip" type="application/zip"/>
+      <category>Weapons &amp; Shields</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>Improved Shrines and Roots Names (EN/FR)</title>
+      <author>Ghost5871214</author>
+      <link>https://gamebanana.com/mods/731247</link>
+      <comments>https://gamebanana.com/mods/731247#PostsListModule</comments>
+      <guid isPermaLink="false">387567d6af2591827623395fa0738da9ac1a9a71</guid>
+      <pubDate>Fri, 23 Oct 2026 15:00:33 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6adb70a2dbf55.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adb70a2f3a8f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adb70a2f3484.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adb70a2effa5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adc7b008627f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adc7b00a8eb3.jpg"/&gt;&lt;br&gt;&lt;b&gt;This mod edits all 152 shrine names and 120 lightroot names, swapping them for Zelda character names instead!&lt;/b&gt;&lt;br&gt;&lt;br&gt;Every shrine on the surface has a lightroot that mirrors the surface, and their names have also been reversed for this mod to respect the original logic of the game (example: "Midna Shrine" on the surface has an "Andim Lightroot" equivalent in the Depths.) &lt;br&gt;&lt;br&gt;Will you be able to find all the references hidden throughout these known and lesser-known names? This is up to you to find out!&lt;br&gt;&lt;br&gt;&lt;b&gt;How to use/Compatibility:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;This mod has been developed and tested on TOTK 1.2.1, and is intended for the US english language and the EU french language.&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Manually: &lt;/u&gt;Download the archive and extract it, then drag the mod into your Mod&#13;
+Directory.&lt;br&gt;&lt;u&gt;TKMM: &lt;/u&gt;Open TKMM and download the TKCL. Open your TKMM profile, then click on "Add Mod", and select your file. &lt;u&gt;Do not forget to merge and save your changes before booting up your game!&lt;/u&gt;&lt;br&gt;&lt;br&gt;This mod shouldn't present any compatibility issues with other mods. &lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;Ce mod modifie les noms des 152 sanctuaires et des 120 racines, et les remplace par des noms de personnages issus de la série Zelda!&lt;/b&gt;&lt;br&gt;&lt;br&gt;Tous les sanctuaires à la surface ont une racine qui reflète la surface, et leurs noms ont été aussi inversés dans ce mod, afin de respecter la logique initiale du jeu (exemple: le "Sanctuaire Midona" à la surface possède une "Racine Anodim" dans les profondeurs).&lt;br&gt;&lt;br&gt;Serez-vous capable de retrouver toutes les références cachées parmi ces noms connus ou moins connus? C'est à vous de le découvrir!&lt;br&gt;&lt;br&gt;&lt;b&gt;Usage et compatibilité&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Ce mod a été développé et testé sur la version 1.2.1 de TOTK, et est disponible pour l'anglais US et le français EU. &lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Installation manuelle:&lt;/u&gt; Téléchargez l'archive et extrayez-la, et faites glisser le mod dans votre Répertoire de mods.&lt;br&gt;&lt;u&gt;Avec TKMM:&lt;/u&gt; Ouvrez TKMM et téléchargez le TKCL sur cette page. Ouvrez votre profil TKMM, et cliquez sur "Ajouter Mod", et sélectionnez votre fichier. &lt;u&gt;N'oubliez pas de refusionner et de sauvegarder vos changements avant de démarrer le jeu!&lt;/u&gt;&lt;br&gt;&lt;br&gt;Ce mod ne devrait présenter aucun problème de compatibilité avec d'autres mods.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/improved_shrines_and_roots_names_us__2632d.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/improved_shrines_and_roots_names_-_us_tkcl_.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/improved_shrines_and_roots_names_fr_.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/improved_shrines_and_roots_names_-_fr_tkcl_.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>ITT! - Intu's Tips and Tricks!</title>
+      <author>intu</author>
+      <link>https://gamebanana.com/mods/730779</link>
+      <comments>https://gamebanana.com/mods/730779#PostsListModule</comments>
+      <guid isPermaLink="false">3e467b635b7ee813177d5ad497e6a94b4ae60193</guid>
+      <pubDate>Thu, 22 Oct 2026 11:57:22 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ada129e1b057.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad9f9a4cd33b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad9f9d802531.jpg"/&gt;&lt;br&gt;&lt;i&gt;If you enjoy the mod, check out my other mods!&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;If you enjoy &lt;b&gt;this&lt;/b&gt;&amp;nbsp;mod, comment some of your own tips!&amp;nbsp; (You'll be credited)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;I'm always on the look out for new hints to add to this mod!&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;ITT! - Intu's Tips and Tricks!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;I was &lt;b&gt;today years old&lt;/b&gt;&amp;nbsp;(&lt;span class="GreenColor"&gt;10 &lt;/span&gt;/ &lt;span class="GreenColor"&gt;22&amp;nbsp;&lt;/span&gt;/ &lt;span class="GreenColor"&gt;26&lt;/span&gt;) when I learned about these &lt;span class="GreenColor"&gt;&lt;b&gt;63&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;Tips and Tricks!&lt;/b&gt;&lt;br&gt;&lt;br&gt;I &lt;b&gt;guarantee&lt;/b&gt;&amp;nbsp;this mod will &lt;b&gt;teach you something new.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Overview&lt;/h3&gt;&lt;br&gt;&lt;b&gt;ITT &lt;/b&gt;is a collection of &lt;b&gt;&lt;span class="GreenColor"&gt;63 &lt;/span&gt;Tips, Tricks, and Hints &lt;/b&gt;that I compiled by &lt;a href="https://www.reddit.com/r/tearsofthekingdom/comments/16enax5/whats_on_your_totk_cheat_sheet/" target="_blank"&gt;reading people's stories and experiences on Reddit.&lt;br&gt;&lt;/a&gt;&lt;br&gt;I genuinely didn't know about the &lt;b&gt;majority &lt;/b&gt;of these tricks!&lt;br&gt;&lt;br&gt;They are added to the existing &lt;b&gt;pool of hints&lt;/b&gt;&amp;nbsp;in the vanilla game, which are cycled through on the &lt;b&gt;Loading Screen!&lt;/b&gt;&amp;nbsp;They also follow &lt;i&gt;Vanilla Progression&lt;/i&gt;, so, for example, tips and tricks regarding &lt;b&gt;The Depths&lt;/b&gt;&amp;nbsp;will only unlock after visiting The Depths! Or tips regarding certain Enemies, or Death Events, or Story Events, will only appear once those things have been discovered!&lt;br&gt;&lt;br&gt;Anything from &lt;b&gt;rare item locations&lt;/b&gt;&amp;nbsp;to &lt;b&gt;combat tips&lt;/b&gt;, this mod adds something that &lt;b&gt;every player will find useful&lt;/b&gt;.&lt;br&gt;&lt;br&gt;And the best part? It's all &lt;b&gt;Spoiler/Lore Friendly&lt;/b&gt;! I re-wrote each tip to flow with TOTK's original cadence and tone, while &lt;b&gt;guiding players towards new objectives&lt;/b&gt;--all the while &lt;b&gt;avoiding major spoilers&lt;/b&gt;!&lt;br&gt;&lt;br&gt;&lt;i&gt;Let me know what you think in the &lt;b&gt;comments&amp;nbsp;&lt;/b&gt;or on &lt;b&gt;Discord &lt;/b&gt;@ intuistic.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;What's Changed?&lt;/h3&gt;&lt;br&gt;The Loading Screen.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;63&lt;/b&gt;&amp;nbsp;&lt;/span&gt;Tips, Tricks, and Hints have been added to the Loading Screen.&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;They are unlocked dynamically, through exploration, combat, and story events.&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;They are written to be Spoiler/Lore friendly for new players, so nothing seems cheaty.&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;You can install the mod whenever! The new &lt;b&gt;Tips, Tricks, and Hints&lt;/b&gt;&amp;nbsp;will dynamically unlock themselves based on &lt;b&gt;where you are in the game&lt;/b&gt; and &lt;b&gt;what you have done!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;To-Do?&lt;/h3&gt;&lt;br&gt;Depends.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Add more Tips! (Comment Some More and Get Credited!)&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Reporting Bugs&lt;/h3&gt;&lt;br&gt;Here is an acceptable format for reporting bugs either in the Comments or my Discord DMs!&lt;br&gt;&lt;br&gt;&lt;b&gt;Screenshot&lt;/b&gt; (If Possible/Applicable)&lt;b&gt;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Description:&lt;/b&gt; Describe what doesn't look or feel right.&lt;br&gt;&lt;br&gt;&lt;b&gt;Most Important - EXACT TEXT OR DIALOGUE, WORD FOR WORD.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Game Version &lt;/b&gt;(i.e 1.2.1, 1.4.2, etc.)&lt;b&gt;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Emulator + Version:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Installation&lt;/h3&gt;This mod was made and tested on &lt;b&gt;TOTK 1.4.2&lt;/b&gt;. Using &lt;b&gt;TKMM&lt;/b&gt;, it would most likely work in &lt;b&gt;1.4.3&lt;/b&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;However&lt;/b&gt;, this mod &lt;b&gt;probably will work&lt;/b&gt;&amp;nbsp;on &lt;b&gt;ALL&lt;/b&gt;&amp;nbsp;versions using &lt;b&gt;TKMM&lt;/b&gt;, because of how simple it is, I believe TKMM is enough to make it compatible, but it needs testing! Let me know in the comments.&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Install the latest &lt;b&gt;.zip &lt;/b&gt;file.&lt;/li&gt;&lt;li&gt;Unzip your &lt;b&gt;.zip&lt;/b&gt; file.&lt;/li&gt;&lt;li&gt;Load the &lt;b&gt;.tkcl &lt;/b&gt;file into &lt;b&gt;TKMM&lt;/b&gt;, and enjoy!&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Credits&lt;/h3&gt;&lt;br&gt;&lt;a href="https://www.reddit.com/r/tearsofthekingdom/comments/16enax5/whats_on_your_totk_cheat_sheet/" target="_blank"&gt;The TOTK Community on Reddit!&lt;/a&gt;&amp;nbsp;- The catalyst that sparked this mod's creation&lt;br&gt;&lt;br&gt;More To Be Added - Suggest your favorite Tips and Tricks to have them show up in game!&lt;br&gt;&lt;br&gt;(You'll be credited)&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/itt_-_intu_s_tips_and_tricks_.zip" type="application/zip"/>
+      <category>Misc</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>SidLink - The Prince &amp; His Paladin</title>
+      <author>intu</author>
+      <link>https://gamebanana.com/mods/730710</link>
+      <comments>https://gamebanana.com/mods/730710#PostsListModule</comments>
+      <guid isPermaLink="false">9fc0f1ca5da7bd253713725d043fd304b6465288</guid>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ada124bc8c7d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad98bb016efb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad98b453eb0a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad991253414f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad991321e9be.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad99837adc18.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad99846b5238.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad99871a5de7.jpg"/&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;i&gt;If you enjoy the mod, send me screenshots of your favorite moments!&lt;br&gt;&lt;br&gt;I'll feature them on the mod page.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;TPHP - The Prince &amp; His Paladin&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;I have read &lt;b&gt;&lt;span class="GreenColor"&gt;2,713 &lt;/span&gt;lines &lt;/b&gt;of dialogue during the creation of this mod.&lt;br&gt;&lt;br&gt;Over &lt;b&gt;&lt;span class="GreenColor"&gt;750 &lt;/span&gt;lines&lt;/b&gt; of that dialogue has been re-written in some way.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;Without further ado, I present my fan-project: &lt;b&gt;TPHP&lt;/b&gt;. &lt;br&gt;&lt;br&gt;A &lt;i&gt;MxM Dialogue Overhaul&lt;/i&gt; between &lt;b&gt;Sidon&lt;/b&gt; and &lt;b&gt;Link&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Overview&lt;/h3&gt;&lt;br&gt;&lt;b&gt;TPHP &lt;/b&gt;is my attempt at realizing a world where &lt;b&gt;Sidon &lt;/b&gt;never stopped &lt;br&gt;crushing on our favorite blonde protagonist!&lt;br&gt;&lt;br&gt;&lt;b&gt;Yona &lt;/b&gt;has been re-written as the supportive, kind childhood friend &lt;br&gt;whom &lt;b&gt;Sidon &lt;/b&gt;had looked up to all his life, along with his older sister, &lt;br&gt;&lt;b&gt;Mipha&lt;/b&gt;. This is actually canon: in "&lt;i&gt;Two Sisters of Different Blood,&lt;/i&gt;" &lt;br&gt;&lt;b&gt;Sidon &lt;/b&gt;writes that he had two big sisters, "&lt;i&gt;one by birth and one by &lt;/i&gt;&lt;br&gt;&lt;i&gt;chance,&lt;/i&gt;" and that he "&lt;i&gt;was in awe of them both.&lt;/i&gt;"&lt;br&gt;&lt;br&gt;I tried to take a light-handed approach--not going too overboard--with &lt;br&gt;my edits, preserving the romantic subtext that was already present in &lt;br&gt;&lt;b&gt;TOTK&lt;/b&gt;, but simply shining light over it.&lt;br&gt;&lt;br&gt;There are bound to be bugs, or lines I missed. See "Reporting Bugs".&lt;br&gt;&lt;br&gt;&lt;i&gt;Let me know in the &lt;b&gt;comments&lt;/b&gt;, &lt;b&gt;issues tab&lt;/b&gt;, or on &lt;b&gt;Discord &lt;/b&gt;@ intuistic.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;What's Changed?&lt;/h3&gt;&lt;br&gt;Tons.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;4&lt;span class="GreenColor"&gt;0&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;+&lt;/b&gt; &lt;/span&gt;Named Zora NPCs&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;5 &lt;/b&gt;&lt;/span&gt;Named NPCs Outside of Zora's Domain&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;6 &lt;/b&gt;&lt;/span&gt;Scripted Events&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;A handful of &lt;b&gt;Easter Eggs!&lt;/b&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;An &lt;b&gt;unholy amount&lt;/b&gt; of text no one will ever read...&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Menus, Character Descriptions, UI...&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Starting a brand-new game is recommended to experience the new changes, as I began editing from the moment you meet &lt;span class="Spoiler"&gt;Purah at Lookout Landing!&lt;/span&gt;&lt;br&gt;&lt;br&gt;Other than that first interaction, if you have a save that hasn't met Yona, yet, that will also work fine!&lt;br&gt;&lt;br&gt;(You can install the mod whenever, even after beating Zora's Domain, but you'll miss a lot of content)&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;To-Do?&lt;/h3&gt;&lt;br&gt;Depends.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Custom Cutscene Audio?&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Custom Dialogue Trees?&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Custom Quests?&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;More &lt;b&gt;Easter Eggs&lt;/b&gt;?&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Comment below or DM me what you'd like to see added.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Reporting Bugs&lt;/h3&gt;&lt;br&gt;Here is an acceptable format for reporting bugs either in the Comments or my Discord DMs!&lt;br&gt;&lt;br&gt;&lt;b&gt;Screenshot&lt;/b&gt; (If Possible/Applicable)&lt;b&gt;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Description:&lt;/b&gt; Describe what doesn't look or feel right.&lt;br&gt;&lt;br&gt;&lt;b&gt;Most Important - EXACT TEXT OR DIALOGUE, WORD FOR WORD.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Game Version &lt;/b&gt;(i.e 1.2.1, 1.4.2, etc.)&lt;b&gt;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Emulator + Version:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Installation&lt;/h3&gt;This mod was made and tested on TOTK 1.4.2. Using TKMM, it would most likely work in 1.4.3. &lt;br&gt;&lt;br&gt;However, this mod will &lt;b&gt;probably not work&lt;/b&gt; on earlier versions, try it and let me know.&lt;br&gt;&lt;br&gt;I only have access to &lt;b&gt;1.4.2&lt;/b&gt;, so I can only develop for &lt;b&gt;1.4.2&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Install the latest &lt;b&gt;.zip &lt;/b&gt;file.&lt;/li&gt;&lt;li&gt;Unzip your &lt;b&gt;.zip&lt;/b&gt; file.&lt;/li&gt;&lt;li&gt;Load the &lt;b&gt;.tkcl &lt;/b&gt;file into &lt;b&gt;TKMM&lt;/b&gt;, and enjoy!&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Credits&lt;/h3&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/members/3347570"&gt;antisthetic&lt;/a&gt; - For the &lt;a href="https://gamebanana.com/wips/93080"&gt;inspiration &lt;/a&gt;to start this project. &lt;3&lt;br&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/members/1704241"&gt;banan039&lt;/a&gt; - For his amazing tool, &lt;a href="https://github.com/SolidLink95/TotkBits" target="_blank"&gt;TOTKBits&lt;/a&gt; (GitHub Link).&lt;br&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/members/4593678"&gt;cargocult&lt;/a&gt; - For his amazing tool, &lt;a href="https://github.com/cargocult-mods/TOTK-event-editor" target="_blank"&gt;TOTK-Event-Editor&lt;/a&gt; (GitHub Link).&lt;br&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/members/4023083"&gt;Porroman420&lt;/a&gt; - For his amazing tool, &lt;a href="https://github.com/Porroman420/Tears-of-the-Kingdom---Tag-tool-helper/tree/main" target="_blank"&gt;TOTK TagInserter&lt;/a&gt; (GitHub Link).&lt;br&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/members/5016232"&gt;Me &lt;/a&gt;- For my amazing Custom MSBT Editor that I made mid-way through this project.&lt;br&gt;&lt;br&gt;Please check out their GameBanana and/or GitHub projects and give them some love. &lt;3&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;i&gt;Note: &lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;I made a custom MSBT editor for &lt;b&gt;personal use&lt;/b&gt; with the help of AI. &lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;All it did was let me organize the files I wanted to edit in a cleaner, orderly way, connect NPC Names and Quest Names to Dialogue Trees, and see what my edits would look like in-game without having to:&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Save, Package, Load Mod, Load Game, Find Edit, Verify Edit, Save, Close, Repeat.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;The planning, writing, troubleshooting, and bug-fixing were all my own, and AI did not touch a single file that I have shared Online.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;i&gt;This is an unofficial fan mod. The Legend of Zelda, its characters and artwork are property of Nintendo. &lt;br&gt;&lt;br&gt;This mod is not affiliated with or endorsed by Nintendo. &lt;br&gt;&lt;br&gt;Sidon official artwork from The Legend of Zelda: Tears of the Kingdom © Nintendo&lt;br&gt;Used for non-commercial fan purposes only; I do not own it.&lt;/i&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/tphp_v1.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Prototype Champion's Leathers</title>
+      <author>Mindstormman</author>
+      <link>https://gamebanana.com/mods/730676</link>
+      <comments>https://gamebanana.com/mods/730676#PostsListModule</comments>
+      <guid isPermaLink="false">2f94f6eea0f8db71c5f45d88c097e35489f42fa8</guid>
+      <pubDate>Thu, 22 Oct 2026 02:24:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad96aebd5f5e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad9731c1bcb9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad9731c2ddf5.jpg"/&gt;&lt;br&gt;Repurposes the MsgNotFound Champion's Leathers from the Prologue to be the &lt;b&gt;Prototype Champion's Leathers&lt;/b&gt;!&lt;br&gt;&lt;br&gt;Defence has been boosted 5 -&amp;gt; 30&lt;br&gt;Bought from bargainer statues for 500 poes&lt;br&gt;Displays Link's normal arm&lt;br&gt;Removes sage rings/recall from Link's hand</description>
+      <media:content url="https://files.gamebanana.com/mods/prototypechampionsleathers.zip" type="application/zip"/>
+      <category>Armor set</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Wise Old Man (Cheat NPC)</title>
+      <author>Deano309</author>
+      <link>https://gamebanana.com/mods/715016</link>
+      <comments>https://gamebanana.com/mods/715016#PostsListModule</comments>
+      <guid isPermaLink="false">35b30cdd345d1dbf9ef7f44c72df9a5f6e65fd14</guid>
+      <pubDate>Wed, 21 Oct 2026 11:15:18 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9f56d6978b0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9f56fc3e48f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9f57097580c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaa0b94b32f3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeafe71d5f0.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Update&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Change Master Sword Cooldown Timer (1/2/5 Minutes)&lt;br&gt;&lt;em&gt;Suggestion&lt;/em&gt;: Master Sword Usable Recharge (Instead of being unusable, the MS is a weaker version when recharging)&lt;br&gt;&lt;em&gt;Suggestion&lt;/em&gt;: Toggle Master Sword Awakened State (Always On/Default).&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Toggle Free Autobuild (Requires amount in inventory, but doesn't deduct it)&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Toggle Instant Sage Skills (No Cooldown)&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Toggle Depths Illumination (Light up the whole depths environment - map view remains discoverable/dark)&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;In Hyrule, there is an Old Man who can change the rules of the world around you!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Originally outside the Room of Awakening, he has also been spotted atop Eventide Island.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Nobody knows where he came from, or why he is there, but he has options for the following:&lt;br&gt;&lt;br&gt;&lt;b&gt;Durability:&lt;/b&gt;&lt;br&gt;- Toggle Ambient Durability Restore &lt;i&gt;(All Weapons/Shields/Bows)&lt;/i&gt;&lt;br&gt;&amp;nbsp; [Items must be stowed in pouch for them to regenerate]&lt;br&gt;- Trigger &lt;i&gt;Timed&lt;/i&gt; Infinite WEAPON durability&lt;i&gt; (All weapons)&lt;/i&gt;&lt;br&gt;&amp;nbsp; [Shrine doors can't be interacted with while the timer is active]&lt;br&gt;- Fully restore &lt;u&gt;&lt;i&gt;equipped&lt;/i&gt;&lt;/u&gt; PRISTINE Weapon/Shield/Bow durability &lt;i&gt;(ONLY for vanilla game items)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Other:&lt;/b&gt;&lt;br&gt;- Max Health &lt;i&gt;(40 Hearts)&lt;/i&gt;&lt;br&gt;- Max Stamina&lt;i&gt; (3 Wheels)&lt;/i&gt;&lt;br&gt;- Max Battery &lt;i&gt;(16 batteries/48 cells)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Max Slots - &lt;i&gt;Weapon (20)/Bow (14)/Shield (20)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Max Stats of All Registered Horses&lt;br&gt;- Change Master Sword Cooldown Timer&lt;br&gt;- Toggle Master Sword Usable Recharge&lt;br&gt;- Toggle Master Sword Awakened State&lt;br&gt;- Toggle Instant Sage Skills&lt;br&gt;- Toggle Free Autobuild&lt;br&gt;- Toggle Ambient Healing&lt;br&gt;- Toggle Hylian Metabolism &lt;i&gt;(Survival Style)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Toggle Infinite Health &lt;i&gt;(Can still drown or burn in Lava)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Toggle Infinite Stamina&lt;br&gt;- Toggle Infinite Battery&lt;br&gt;- Toggle Fire/Freeze/Shock Proof&lt;br&gt;- Toggle Gloom Protection&lt;br&gt;- Toggle Fast Travel &lt;i&gt;(Warp)&lt;/i&gt;&lt;br&gt;- Toggle Phantom Mode&lt;br&gt;- Toggle Gloom &lt;i&gt;(Mostly)&lt;/i&gt;&lt;br&gt;- Toggle Depths Illumination&lt;br&gt;- Trigger Bloodmoon&lt;br&gt;- Mark game as Demon King Ganondorf defeated&lt;br&gt;- +1 Free random max level/30 min meal per day &lt;i&gt;(Made from recipes containing dragon parts)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Inventory &amp;amp; Key Items:&lt;/b&gt;&lt;br&gt;- Max Arrows&lt;br&gt;- Max Rupees&lt;br&gt;- 250K Poes&lt;br&gt;- 250K Zonaite Ore&lt;br&gt;- 250K Crystallized Charges&lt;br&gt;- Gem Bundle&lt;i&gt; (50 Diamond/Ruby/Sapphire/Topaz/Opal)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Dragon Horn Bundle &lt;i&gt;(50 of each)&lt;/i&gt;&lt;br&gt;- Fairy pack&lt;i&gt; (50)&lt;/i&gt;&lt;br&gt;- Zonai Devices Bundle&lt;i&gt; (50 of each)&lt;/i&gt;&lt;br&gt;- Set All Buff Meals in pouch to last 1 hour&lt;br&gt;- Set All Materials in pouch to 888 of each&lt;br&gt;- Set All Zonai Devices in pouch to 888 of each&lt;br&gt;- Set All Meals in pouch to 888 of each&lt;br&gt;- 152 Blessings&lt;br&gt;- 147 Bubbul Gems&lt;br&gt;- 20 Sage's Will&lt;br&gt;- 3 Warp Points&lt;br&gt;- Schema Stones (12)&lt;br&gt;- Yiga Schematics (34)&lt;br&gt;&lt;br&gt;&lt;b&gt;Weapon Shop:&lt;/b&gt; &lt;i&gt;(Exchangeable items only show once you have collected at least 1 of them)&lt;/i&gt;&lt;br&gt;- Exchange Decayed for Pristine&lt;br&gt;&lt;br&gt;&lt;b&gt;Show Map Locations:&lt;/b&gt;&lt;i&gt; (Once shown, they cannot be hidden again)&lt;/i&gt;&lt;br&gt;- Shrines&lt;br&gt;- Lightroots&lt;br&gt;- Skyview Towers + Land &amp;amp; Sky Map Regions&lt;br&gt;- Stables&lt;br&gt;- Villages&lt;br&gt;- Bargainer Statues&lt;br&gt;- Great Fairys&lt;br&gt;- Dragon Tears&lt;br&gt;- Various POIs&lt;br&gt;- Zonai Device Dispensers&lt;br&gt;- Old Map Treasure &lt;i&gt;(Collect any Map &amp;amp; it shows all 31 Locations)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;Notes:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Wise Old Man outside the Room of Awakening:&lt;/i&gt;&lt;/b&gt;&lt;br&gt;You will be restricted from obtaining full (40) hearts until &lt;i&gt;AFTER&lt;/i&gt; you have the warp ability (Either via Rauru or 3 Warp Points option).&lt;br&gt;Timed Infinite Weapon Durability is restricted until &lt;i&gt;AFTER&lt;/i&gt; you take the leap from the first island which contains the RoA.&lt;br&gt;You will be unable to disable Fast Travel until after you have completed all 4 shrines on the GSI.&lt;br&gt;After the GSI is completed &lt;i&gt;(Sword sent back)&lt;/i&gt;, the Wise Old Man will travel to the top of Eventide Island.&lt;br&gt;&lt;br&gt;&lt;b&gt;Phantom Mode:&lt;/b&gt; Since the method used makes the player unnoticeable, Zonai terminals/shrine doors won't automatically detect you and enable/light up when you are near &lt;i&gt;(You are still able to manually interact with them though)&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Master Sword Usable Recharge:&lt;/b&gt; Instead of the Master Sword being unusable when it's durability has been depleted, it becomes a weaker version (10 Damage) and is unfusable until it has fully recharged.&lt;br&gt;&lt;br&gt;Cooked Recipes set to 888 does not show stacked number in pouch (Although they are actually stacked).&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;TKMM required for installing &amp;amp; only tested on TotK v1.2.1&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Should work on all update versions of the game)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;i&gt;This was originally created to fulfil requests or to add options which were useful during different playthroughs and I want to give a MASSIVE thanks to&amp;nbsp;&lt;/i&gt;&lt;a class="MemberLink" href="https://gamebanana.com/members/4593678" data-id="member_4593678"&gt;cargocult&lt;/a&gt;&lt;i&gt;&amp;nbsp;for all the help, guidance and contributions in making this mod and also to&amp;nbsp;&lt;/i&gt;&lt;a class="MemberLink" href="https://gamebanana.com/members/2537238" data-id="member_2537238"&gt;&lt;img src="https://images.gamebanana.com/img/upic/6655992836eca.png" alt="Real Princess Zelda uPic" class="Upic" aria-describedby="tippy-12"&gt;&lt;/a&gt;&lt;i&gt;&amp;nbsp;for the Ambient Healing Mod.&lt;/i&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/add_custom_items.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/wise_old_man_cheat_npc_113b.zip" type="application/zip"/>
+      <category>Misc</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Linkle - French Dialogue Fix</title>
+      <author>TiffaMoji</author>
+      <link>https://gamebanana.com/mods/729398</link>
+      <comments>https://gamebanana.com/mods/729398#PostsListModule</comments>
+      <guid isPermaLink="false">b7c7e56010dd8f460f5b3bad5e9e401de0ce3a94</guid>
+      <pubDate>Tue, 20 Oct 2026 22:46:58 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae231fb960b8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad5497b58e6e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad5497b64798.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; French dialogue revision&lt;br&gt;&lt;h2&gt;0.1.2-beta — More consistent dialogue for Linkle&lt;/h2&gt;&lt;h3&gt;English&lt;/h3&gt;&lt;p&gt;This update corrects additional masculine references to Linkle following broader searches across the French text.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Corrects familiar forms of address, shop greetings, titles and contextual reactions.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixes agreement in player responses, quest text, rewards and mini-game instructions.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Includes the Goron rescue line: “un petit maigrichon” becomes “une petite maigrichonne”.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Preserves references to other male characters and distinct historical figures. Flirt directed at Linkle remains feminine.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Updating:&lt;/strong&gt; with TKMM, import the new package, merge and redeploy. For manual installation, replace the previous dialogue file. Use only one installation method.&lt;/p&gt;&lt;p&gt;The manual package is for &lt;strong&gt;TOTK 1.2.1 / EUfr&lt;/strong&gt;. The TKMM package uses your configured game version and language; the edited text is European French.&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Français&lt;/h3&gt;&lt;p&gt;Cette mise à jour corrige d’autres références masculines à Linkle après des recherches élargies dans les textes français.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Correction des appellations familières, salutations, titres et réactions contextuelles.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Reprise des accords dans les réponses de l’héroïne, les quêtes, les récompenses et les instructions des mini-jeux.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Correction de la réplique du Goron secouru : « un petit maigrichon » devient « une petite maigrichonne ».&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Les autres personnages masculins et les figures historiques distinctes sont préservés. Le flirt adressé à Linkle reste au féminin.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Mise à jour :&lt;/strong&gt; avec TKMM, importez le nouveau pack, refaites la fusion et déployez le résultat. En manuel, remplacez l’ancien fichier de dialogues. Utilisez une seule méthode.&lt;/p&gt;&lt;p&gt;Le pack manuel est destiné à &lt;strong&gt;TOTK 1.2.1 / EUfr&lt;/strong&gt;. Le pack TKMM utilise votre version du jeu et votre langue configurées ; les textes modifiés sont en français européen.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Beta: a complete playthrough review remains outstanding.&lt;br&gt;Bêta : la vérification au fil d’une partie complète reste à effectuer.&lt;/em&gt;&lt;/p&gt;&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Fixes additional masculine references to Linkle, dialogue agreement and player responses. / Corrige d’autres références masculines à Linkle, les accords et les réponses de l’héroïne.&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Linkle — French Dialogue Fix&lt;/h2&gt;&#13;
+&lt;strong&gt;A French-speaking adventure that recognizes Linkle.&lt;/strong&gt;&lt;br&gt;&#13;
+Une aventure en français qui fait une place à Linkle.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;strong&gt;By / Par TiffaMoji&lt;/strong&gt; · Version 0.1.0-beta&lt;br&gt;&#13;
+&lt;strong&gt;Tears of the Kingdom · French dialogue add-on / Correctif de dialogues français&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;English&lt;/h2&gt;&#13;
+&#13;
+Playing with Linkle should also feel right in the dialogue. This add-on adapts the original European French text of &lt;em&gt;Tears of the Kingdom&lt;/em&gt; to reflect the heroine: her name, forms of address, titles and gender agreements.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+The aim is to preserve the tone of the French localization while making references to Linkle more consistent. Masculine wording referring to other characters or distinct historical figures is retained where appropriate.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;What changes?&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Context-sensitive changes to references to the protagonist, rather than a blanket replacement of masculine words.&lt;/li&gt;&#13;
+&lt;li&gt;A Gerudo dialogue adaptation in which access restrictions concern &lt;strong&gt;outsiders&lt;/strong&gt;. This follows the editorial direction of the English reference fix; it changes text, not quest logic.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Requirements &amp; compatibility&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;strong&gt;TKMM version:&lt;/strong&gt; not restricted to TOTK 1.2.1 or EUfr. TKMM applies the text edits to the language you have configured, including EUfr or USfr, and builds the output for your configured game version. Use a game version supported by TKMM and compatible with your other mods.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Manual version:&lt;/strong&gt; the supplied prebuilt archive is specifically for &lt;strong&gt;TOTK 1.2.1 and EUfr&lt;/strong&gt;.&lt;/li&gt;&#13;
+&lt;li&gt;The edited text is written in European French. Applying it to USfr does not turn it into a Canadian French adaptation; applying it to another language does not translate it.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="https://gamebanana.com/wips/80967"&gt;The Linkle Mod&lt;/a&gt;, installed separately. This release was prepared with version 1.1.2.&lt;/li&gt;&#13;
+&lt;li&gt;This is a text add-on. Linkle models, textures, animations and voices are not included. Spoken audio is unchanged.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Install with TKMM — recommended&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;Close the game. Keep TKMM configured for your own game version and language, then install The Linkle Mod. This dialogue add-on does not require switching TKMM to 1.2.1 or EUfr.&lt;/li&gt;&#13;
+&lt;li&gt;Disable its English Dialogue Fix option and any standalone English dialogue fix.&lt;/li&gt;&#13;
+&lt;li&gt;Choose &lt;strong&gt;Mod &gt; Install File&lt;/strong&gt; and select the &lt;strong&gt;TKMM ZIP&lt;/strong&gt; or its extracted &lt;strong&gt;.tkcl&lt;/strong&gt;.&lt;/li&gt;&#13;
+&lt;li&gt;Enable this add-on and place it &lt;strong&gt;above Linkle and conflicting text mods&lt;/strong&gt;. Merge and deploy the result.&lt;/li&gt;&#13;
+&lt;li&gt;Make sure the game or emulator uses the same language as your TKMM output.&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&#13;
+&lt;h3&gt;Manual installation&lt;/h3&gt;&#13;
+&#13;
+&lt;strong&gt;For TOTK 1.2.1 and EUfr only.&lt;/strong&gt; Download the &lt;strong&gt;Manuel ZIP&lt;/strong&gt; and use European French in the game. In your emulator's mod directory for TOTK, keep this structure:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;pre&gt;&lt;code&gt;Linkle-Dialogues-FR/romfs/Mals/EUfr.Product.121.sarc.zs&lt;/code&gt;&lt;/pre&gt;&#13;
+&#13;
+For Atmosphère, the file goes under:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;pre&gt;&lt;code&gt;atmosphere/contents/0100F2C0115B6000/romfs/Mals/EUfr.Product.121.sarc.zs&lt;/code&gt;&lt;/pre&gt;&#13;
+&#13;
+&lt;strong&gt;Choose one installation method.&lt;/strong&gt; The manual version replaces the French message archive and can conflict with other EUfr text mods. Use TKMM to merge compatible edits.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+The bundled README files still contain the earlier TKMM restrictions; the corrected TKMM instructions on this page take precedence.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;Beta status &amp; feedback&lt;/h3&gt;&#13;
+&#13;
+Archive integrity, text tags and TKMM import/merge have been checked. In-game screenshots show corrected dialogue on TOTK 1.2.1 in EUfr. Other game versions and language targets have not all been individually tested. A full playthrough review remains outstanding.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Found an awkward agreement, an incorrect name or an overflowing text box? Please include the exact line or a screenshot, the speaker, location, quest stage, game/mod versions and other active dialogue mods. Context helps distinguish a reference to Linkle from one to another character.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Français&lt;/h2&gt;&#13;
+&#13;
+Jouer avec Linkle, c'est aussi vouloir qu'on s'adresse à elle correctement. Ce complément adapte les textes français européens de &lt;em&gt;Tears of the Kingdom&lt;/em&gt; : nom de l'héroïne, appellations, titres et accords.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+L'objectif est de conserver le ton de la localisation française tout en rendant les références à Linkle plus cohérentes. Les formulations masculines qui désignent d'autres personnages ou des figures historiques distinctes sont conservées lorsqu'elles sont appropriées.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;Ce qui change&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Des adaptations selon le contexte et le personnage désigné, plutôt qu'un remplacement systématique de tous les masculins.&lt;/li&gt;&#13;
+&lt;li&gt;Une réécriture des dialogues Gerudos : les restrictions d'accès concernent les &lt;strong&gt;personnes étrangères à la cité&lt;/strong&gt;. Ce choix reprend l'orientation du correctif anglais de référence et modifie les textes, pas la logique des quêtes.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Prérequis et compatibilité&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Version TKMM :&lt;/strong&gt; elle n’est pas limitée à TOTK 1.2.1 ni à EUfr. TKMM applique les modifications à la langue configurée, notamment EUfr ou USfr, et génère les fichiers pour votre version du jeu. Utilisez une version prise en charge par TKMM et compatible avec vos autres mods.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Version manuelle :&lt;/strong&gt; l’archive précompilée fournie est destinée à &lt;strong&gt;TOTK 1.2.1 et EUfr&lt;/strong&gt;.&lt;/li&gt;&#13;
+&lt;li&gt;Les textes modifiés sont rédigés en français européen. Leur application à USfr ne constitue pas une adaptation en français canadien ; leur application à une autre langue ne les traduit pas.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;a href="https://gamebanana.com/wips/80967"&gt;The Linkle Mod&lt;/a&gt;, à installer séparément. Ce complément a été préparé avec sa version 1.1.2.&lt;/li&gt;&#13;
+&lt;li&gt;Il s'agit d'un correctif de textes. Les modèles, textures, animations et voix de Linkle ne sont pas inclus. Les dialogues audio restent inchangés.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Installation avec TKMM — recommandée&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;Fermez le jeu. Conservez la configuration TKMM correspondant à votre version du jeu et à votre langue, puis installez The Linkle Mod. Ce correctif ne nécessite pas de passer TKMM en 1.2.1 ou en EUfr.&lt;/li&gt;&#13;
+&lt;li&gt;Désactivez son option Dialogue Fix anglais ainsi que tout correctif anglais installé séparément.&lt;/li&gt;&#13;
+&lt;li&gt;Dans &lt;strong&gt;Mod &gt; Install File&lt;/strong&gt;, sélectionnez le &lt;strong&gt;ZIP TKMM&lt;/strong&gt; ou le &lt;strong&gt;.tkcl&lt;/strong&gt; extrait.&lt;/li&gt;&#13;
+&lt;li&gt;Activez ce complément et placez-le &lt;strong&gt;au-dessus de Linkle et des mods de textes en conflit&lt;/strong&gt;. Lancez la fusion, puis déployez le résultat.&lt;/li&gt;&#13;
+&lt;li&gt;Vérifiez que le jeu ou l’émulateur utilise la même langue que la sortie générée par TKMM.&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&#13;
+&lt;h3&gt;Installation manuelle&lt;/h3&gt;&#13;
+&#13;
+&lt;strong&gt;Pour TOTK 1.2.1 et EUfr uniquement.&lt;/strong&gt; Téléchargez le &lt;strong&gt;ZIP Manuel&lt;/strong&gt; et sélectionnez le français européen dans le jeu. Dans le dossier de mods de TOTK de votre émulateur, conservez cette arborescence :&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;pre&gt;&lt;code&gt;Linkle-Dialogues-FR/romfs/Mals/EUfr.Product.121.sarc.zs&lt;/code&gt;&lt;/pre&gt;&#13;
+&#13;
+Pour Atmosphère, placez le fichier dans :&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;pre&gt;&lt;code&gt;atmosphere/contents/0100F2C0115B6000/romfs/Mals/EUfr.Product.121.sarc.zs&lt;/code&gt;&lt;/pre&gt;&#13;
+&#13;
+&lt;strong&gt;Choisissez une seule méthode.&lt;/strong&gt; La version manuelle remplace l'archive des messages français et peut entrer en conflit avec d'autres mods EUfr. Privilégiez TKMM pour fusionner les modifications compatibles.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Les notices incluses mentionnent encore les anciennes restrictions TKMM ; les instructions TKMM corrigées sur cette page font référence.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;Version bêta et retours&lt;/h3&gt;&#13;
+&#13;
+L’intégrité des archives, les balises de texte et l’importation/fusion TKMM ont été contrôlés. Les captures en jeu montrent des dialogues corrigés sur TOTK 1.2.1 en EUfr. Toutes les autres versions du jeu et langues de sortie n’ont pas été testées individuellement. La relecture au fil d’une partie complète reste à effectuer.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Un accord maladroit, un nom incorrect ou une bulle qui déborde ? Indiquez le texte exact ou joignez une capture, avec le personnage qui parle, le lieu, l'étape de quête, les versions du jeu et du correctif, ainsi que les autres mods de dialogues actifs. Le contexte permet de savoir si la réplique concerne Linkle ou un autre personnage.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;References &amp; tools / Références et outils&lt;/h2&gt;&#13;
+&#13;
+Based on the original French localization. &lt;a href="https://gamebanana.com/mods/608332"&gt;Orange_v2's English Linkle Dialogue Fix&lt;/a&gt; was consulted for affected passages and editorial choices, including the Gerudo rewrite. Its English binaries are not included.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Le correctif s'appuie sur la VF originale. Le &lt;a href="https://gamebanana.com/mods/608332"&gt;Linkle Dialogue Fix anglais d'Orange_v2&lt;/a&gt; a servi de référence pour les passages concernés et certains choix d'adaptation, notamment chez les Gerudos. Ses fichiers anglais ne sont pas inclus.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;a href="https://gamebanana.com/wips/80967"&gt;The Linkle Mod&lt;/a&gt; · &lt;a href="https://tkmm.org/docs/using-mods/"&gt;TKMM installation guide / Guide TKMM&lt;/a&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;small&gt;Unofficial fan-made add-on. Not affiliated with or endorsed by Nintendo or the referenced mod authors.&lt;br&gt;&#13;
+Complément non officiel, sans affiliation ni approbation de Nintendo ou des auteurs des mods cités.&lt;/small&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/linkle-dialogues-fr-012-beta-tkmm.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/linkle-dialogues-fr-012-beta-manuel.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/linkle-dialogues-fr-010-beta-manuel.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Linkle Dialogue Fix</title>
+      <author>Orange_v2</author>
+      <link>https://gamebanana.com/mods/608332</link>
+      <comments>https://gamebanana.com/mods/608332#PostsListModule</comments>
+      <guid isPermaLink="false">f3f4e7ffcc79abf2f2fbd8cb7ea8beac8b0d5daf</guid>
+      <pubDate>Sat, 17 Oct 2026 03:05:55 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/687daf986356f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/687daf9bc5808.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/687daf9a2fa8e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/687daf9ba6950.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/687daf9bbc525.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Version 1.4.0+ support&lt;br&gt;&lt;p&gt;&lt;strong&gt;TotK version 1.4.0+ support&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can now finally use this mod on versions 1.4.0, 1.4.2 and 1.4.3.&lt;/p&gt;&lt;p&gt;This version also includes a bunch of misc changes to Gerudo dialogue that was incorrectly changed or just didn't get changed&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;A dialogue fix for &lt;a href="https://gamebanana.com/wips/80967"&gt;Linkle&lt;/a&gt;.&lt;br&gt;&lt;br&gt;The&amp;nbsp;&lt;a href="//gamebanana.com/mods/451851" class="SelectedElement"&gt;Rinkuru/Linkle/Link female Pronouns and Dialogue&lt;/a&gt;&amp;nbsp;missed a lot of dialogue and seems to no longer be updated, so this mod was created to fix most of those mistakes and create better immersion for other people who noticed these issues.&lt;br&gt;&lt;br&gt;&lt;b&gt;This mod is now included in the official &lt;a href="https://gamebanana.com/wips/80967"&gt;Linkle mod&lt;/a&gt;, you don't have to install it separately.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;This mod is definitely not perfect!&lt;/i&gt;&lt;/b&gt;&lt;br&gt;If you find any missed dialogue, incorrectly changed dialogue, grammar mistakes, or just if you have suggestions, please report them in the comments.&lt;br&gt;&lt;br&gt;&lt;span class="RedColor"&gt;&lt;b&gt;DISCLAIMERS&lt;/b&gt;&lt;/span&gt;&lt;br&gt;I can't speak any other languages so I can't make this mod in any other languages, please don't ask me to; however anyone is welcome to use this mod as a base when making a version for a different language.&lt;br&gt;&lt;br&gt;&lt;b&gt;AN UPDATE IS IN THE WORKS&lt;/b&gt;&lt;br&gt;Now that the mod has been out for a while, it's clear that people want a version that properly adds Linkle into the story. I will most likely be making a version of the mod with that in mind, however it&amp;nbsp; will take a while because that requires rewriting&amp;nbsp;almost all of the dialogue I've already changed. It shouldn't take as long as last update though, since I've created a tool to speed up development. (Let me know if anyone wants me to post it.)&lt;br&gt;&lt;br&gt;&lt;b&gt;Other languages:&lt;/b&gt;&lt;br&gt;French - &lt;a href="https://gamebanana.com/mods/729398"&gt;Linkle - French Dialogue Fix&lt;/a&gt;&amp;nbsp;by TiffaMoji</description>
+      <media:content url="https://files.gamebanana.com/mods/linkle_dialogue_fix_tkcl_v120.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/linkle_dialogue_fix_v120.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/linkledialoguefix110.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/linkledialoguefix.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+  </channel>
+</rss>
