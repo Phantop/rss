@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>River City Girls 2</title>
+      <author>WayForward</author>
+      <link>https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+      <description>A pixel-art sci-fi adventure set in the midst of a rebellion against a totalitarian regime, LUNARK is a modern take on the 2D cinematic platformer genre of the '90s. Run, jump, hang, climb, roll, and shoot your way through gorgeous and mysterious locations!</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-12b0w.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-lj8j7.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-7uusd.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-13rhw.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-v4tjs.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-vyfsv.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-58l7p.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1czbl.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-16ny2.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1y8d1.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1ud02.jpg#.image" type="image/*"/>
+    </item>
+    <item>
+      <title>I Have No Mouth, and I Must Scream</title>
+      <author>Night Dive Studios, Inc.</author>
+      <link>https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 +0000</pubDate>
+      <description>The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1f2lo.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-y2j9e.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1n70l.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1oqma.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-dffpt.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-1jlmh.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-g9xdp.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-v73qu.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-19op8.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-itqch.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-qay07.jpg#.image" type="image/*"/>
+    </item>
+  </channel>
+</rss>
