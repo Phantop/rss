@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Breath of the Wild (WiiU)</title>
+    <description>GameBanana - The Legend of Zelda: Breath of the Wild (WiiU)</description>
+    <link>https://gamebanana.com/games/5866</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/5866"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Breath of the Wild (WiiU)</title>
+      <link>https://gamebanana.com/games/5866</link>
+    </image>
+    <item>
+      <title>Hey, Listen! Navi in BotW (WiiU)</title>
+      <author>zapiltar</author>
+      <link>https://gamebanana.com/mods/742763</link>
+      <comments>https://gamebanana.com/mods/742763#PostsListModule</comments>
+      <guid isPermaLink="false">ff59a25187ae84ce86ab8c7a3ff3cecc8e6b8c37</guid>
+      <pubDate>Thu, 19 Nov 2026 12:32:23 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6afeec4094f70.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afeec40a6efc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afeec40d288b.jpg"/&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;&lt;i&gt;Hey, Listen!&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;This mod brings Navi, the Hero of Time's trusty companion to Breath of the Wild!&amp;nbsp;&lt;br&gt;&lt;br&gt;Navi replaces the ZL lock on arrows, speaks to Link, and changes color when targeting.&lt;br&gt;There are volume options, speech frequency options and the choice between the English and Japanese voice performances.&lt;br&gt;&lt;br&gt;&lt;h2&gt;&lt;u&gt;Installation Guide&lt;/u&gt;&lt;/h2&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Cemu Standalone&lt;/span&gt;&lt;/b&gt;&lt;br&gt;- Copy the &lt;i&gt;Navi &lt;/i&gt;folder from the zip into Cemu's &lt;i&gt;graphicPacks &lt;/i&gt;folder&lt;br&gt;- In the Graphic Packs menu, check Navi; you can change the mod's settings here too&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Cemu UKMM&lt;/span&gt;&lt;/b&gt;&lt;br&gt;- Unzip the _ModManager.zip&lt;br&gt;- In UKMM, select &lt;i&gt;Navi (UKMM).zip&amp;nbsp;&lt;/i&gt;and install&lt;br&gt;- Hit deploy after applying your other mods, and move the UKMM Graphic Pack to the &lt;i&gt;graphicPacks&amp;nbsp;&lt;/i&gt;folder&lt;br&gt;- In the Graphic Packs menu, check UKMM and Navi (Code); you can&lt;br&gt;change the mod's settings in Navi (Code)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="RedColor"&gt;Settings&lt;/span&gt;&lt;/b&gt;&lt;br&gt;The settings can be changed during gameplay with no restart required.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Tested&lt;/span&gt;&lt;/b&gt;&lt;br&gt;This mod was made and tested on BotW 1.5.0 on the Cemu emulator version 2.6&lt;br&gt;&lt;br&gt;&lt;h1&gt;Planned Features&lt;/h1&gt;Navi unlocks post shrine of Resurrection, has a hide and show animation when fast traveling or when real-time cutscenes start. This hides and mutes her to avoid interruptions.&lt;br&gt;&lt;br&gt;She should hide and reappear before and after Link fast travels, and when cutscenes start and end to keep continuity.&lt;br&gt;&lt;br&gt;More idle and active animations and sounds.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Known Issues&lt;/h1&gt;- At 30fps, Navi's body is small and/or missing for a frame or two when changing color states.&lt;br&gt;- Real time cutscenes or dialog that take camera control cause Navi to unhook from the npc that initiated it, letting her speak during the cutscene. Fixed in 2.0&lt;br&gt;&lt;br&gt;&lt;span class="RedColor"&gt;&lt;b&gt;&lt;u&gt;Other Releases&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/mods/743088"&gt;Switch 1.6.0 Version&lt;/a&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;span class="RedColor"&gt;Upcoming&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;Totk X.X.X Version&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/navi_botw_wiiu_v10.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/navi_botw_wiiu_v11_modmanager.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/navi_botw_wiiu_v11.zip" type="application/zip"/>
+      <category>NPCs</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Trainee Tunic (Standalone)</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/742131</link>
+      <comments>https://gamebanana.com/mods/742131#PostsListModule</comments>
+      <guid isPermaLink="false">3200a9301c36d38439db8db8d95ed3c69e2c7738</guid>
+      <pubDate>Tue, 17 Nov 2026 22:44:59 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6afcd7a27e584.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afcd7b2aab77.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afcd7cc95684.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afcd7d7ce8af.jpg"/&gt;&lt;br&gt;The Trainee Tunic from Hyrule Warriors is now in Botw as a standalone armor!&lt;br&gt;&lt;br&gt;Original mod by ROCKMAN55:&amp;nbsp;&lt;a href="https://gamebanana.com/mods/167599"&gt;https://gamebanana.com/mods/167599&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/trainee_tunic.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>More Korok Seeds</title>
+      <author>Fenris_3202</author>
+      <link>https://gamebanana.com/mods/695011</link>
+      <comments>https://gamebanana.com/mods/695011#PostsListModule</comments>
+      <guid isPermaLink="false">c8a182162e909b834d13cdc28e41627082ba8453</guid>
+      <pubDate>Tue, 17 Nov 2026 00:27:02 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6afb9e7f69654.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a5a2705181f1.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Rewards tweak&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: After obtaining 900 korok seeds, koroks give rupees and sometimes diamonds&lt;br&gt;&lt;hr&gt;&lt;br&gt;Changes the number of korok seeds you receive when you find a korok. UI and %completion both change to reflect the new amount, which you can customize from several options. Once you have collected 900, koroks will switch to giving you 100-200 rupees, and occasionally diamonds.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/morekorokseeds_d93d0_-cL8exK.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/morekorokseeds-v110_b9197.bnp" type="application/octet-stream"/>
+      <category>Events</category>
+      <category>Events</category>
+    </item>
+    <item>
+      <title>Hyrule Stash</title>
+      <author>Faen90</author>
+      <link>https://gamebanana.com/mods/740413</link>
+      <comments>https://gamebanana.com/mods/740413#PostsListModule</comments>
+      <guid isPermaLink="false">19598c1e72f55a59f29082b6e50d48df14e1f174</guid>
+      <pubDate>Sun, 15 Nov 2026 23:52:25 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6afa4505d1f54.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afa43dd83b30.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afa43da5ede1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afa43da7caa5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6afa43dbe0f7f.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Stash 1.1.0 – A Proper Treasure Trunk&lt;br&gt;&lt;p&gt;The Stash gets a whole new look. It’s now a hand-painted traveller’s trunk built to sit naturally in Hyrule: oak boards, leather straps with brass buckles, brass corners and iron handles. Walk up and activate it and the lid swings open with the game’s own chest sound, showing a hero’s hoard inside: the Hylian Shield, Guardian and Royal swords, gems, apples and rupees. When you’re done, it shuts again. The compendium picture and key item icon show the new trunk too. Reinstall the mod part to update; the graphic pack hasn’t changed.&lt;/p&gt;&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: [Feature] The stash is a new traveller’s trunk, painted to match the game’s own props: oak boards, leather straps with brass buckles and tips, brass corners and hasp, and iron handles.&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: [Feature] The lid opens when you use the stash and shuts when you’re done, with the game’s chest sounds. This works for placed stashes and the one summoned with the key item.&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: [Feature] Inside lies a hero’s hoard: the Hylian Shield, Guardian and Royal swords, arrows, gems, apples and rupees, all the game’s own models.&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: [Improvement] Much sharper textures, and colours that suit the game’s lighting.&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: [Improvement] New Hyrule Compendium picture and key item icon showing the new trunk.&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: [Other] Reinstall the mod part for this; the graphic pack is unchanged. In UKMM, close and reopen UKMM before reinstalling.&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h2&gt;Stash: item storage for Hyrule&lt;/h2&gt;&#13;
+Never drop a good weapon again. The &lt;b&gt;Stash&lt;/b&gt; keeps whatever you put in it: weapons, bows, shields, armor, food and materials. Take them out again whenever you like, exactly as they went in. Everything happens inside the game, through its own screens.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;Features&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;b&gt;26 stashes around Hyrule&lt;/b&gt;, beside the stables and in the settlements. Walk up to one and &lt;i&gt;Access Stash&lt;/i&gt;.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;One stash, reached from anywhere.&lt;/b&gt; Every stash opens the same hold, so put things in at Kakariko and take them out at Rito Village.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;The Stash key item.&lt;/b&gt; Use the stash at 5 different stables to earn it, then open it from your key items and a stash appears in front of Link. (Or have it from the start: see &lt;i&gt;Settings&lt;/i&gt;.)&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Stash Items&lt;/b&gt; uses the game's own inventory screen, with all its tabs. For a stack, choose how many or &lt;i&gt;All of them&lt;/i&gt;.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Take out&lt;/b&gt; by kind: Weapons, Bows &amp; Arrows, Shields, Armor, Food or Materials. The list shows each item's icon, its stats (attack, guard, defense, hearts) and how many are stashed. Press &lt;b&gt;Y&lt;/b&gt; to sort it by type, stats or quantity.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Everything comes back exactly as it went in:&lt;/b&gt; a weapon's durability and bonus, a dish's effect, hearts and ingredients. For a dish, the panel shows what it was made with.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Holds a lot:&lt;/b&gt; 999 kinds of stackable items, up to 99,999 each, plus 999 weapons, bows, shields, armor pieces, dishes and elixirs. Modded items work too.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;In the Hyrule Compendium.&lt;/b&gt; Photograph a stash with the Camera rune to add it under &lt;i&gt;Treasure&lt;/i&gt;, as the last entry, so no other entry's number changes.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Each save slot has its own stash&lt;/b&gt;, kept in a file of its own beside the save. Loading an older save brings back that save's stash.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Requirements&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Breath of the Wild for &lt;b&gt;Wii U, updated to 1.5.0 (v208)&lt;/b&gt;, on &lt;b&gt;Cemu&lt;/b&gt; (tested with Cemu 2.6 on the EU release).&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;BCML&lt;/b&gt; or &lt;b&gt;UKMM&lt;/b&gt;, to install the mod and merge it with your other mods.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;The DLC&lt;/b&gt; for the stashes placed in the world (the key item works without it).&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Installing&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;In &lt;b&gt;BCML&lt;/b&gt; or &lt;b&gt;UKMM&lt;/b&gt;, install &lt;code&gt;BotW Storage Chest (install in BCML).zip&lt;/code&gt; and apply (remerge).&lt;/li&gt;&#13;
+&lt;li&gt;Copy the &lt;code&gt;BotW Storage Chest&lt;/code&gt; graphics pack folder into Cemu's &lt;code&gt;graphicPacks&lt;/code&gt; folder and tick it in Cemu's graphic packs list.&lt;/li&gt;&#13;
+&lt;li&gt;Start the game. Both halves are needed: the mod adds the stash, its screens and texts; the graphics pack makes them work.&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&#13;
+&lt;h3&gt;Updating&lt;/h3&gt;&#13;
+Install both halves of the new version, and replace the graphics pack folder.&lt;br&gt;&lt;br&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;b&gt;BCML&lt;/b&gt;: update the mod, or remove the old one and install the new one.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;UKMM&lt;/b&gt;: uninstall the old version first, then install the new one. UKMM's &lt;i&gt;Update&lt;/i&gt; keeps the old files.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Settings&lt;/h3&gt;&#13;
+In Cemu's graphic packs list, &lt;i&gt;Stash key item&lt;/i&gt;:&lt;br&gt;&lt;br&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;b&gt;Earned&lt;/b&gt; (default): use the stash at 5 different stables, and the game hands you the key item.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;From the start&lt;/b&gt;: Link gets it straight away.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Compatibility&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;It only adds to the game, so BCML or UKMM merges it with your other mods.&lt;/li&gt;&#13;
+&lt;li&gt;Made to go with the &lt;b&gt;Crafting Project&lt;/b&gt;: the stashes stand beside its anvils. The Crafting Project isn't required.&lt;/li&gt;&#13;
+&lt;li&gt;The stash itself adds nothing to your save file, so it won't push a save past the game's limit. The compendium entry adds 3 small flags, as every compendium entry has.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h3&gt;Removing the mod&lt;/h3&gt;&#13;
+&lt;b&gt;Take everything out of the stash first.&lt;/b&gt; The stash files stay beside your saves and come back if you install the mod again.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;Known limits&lt;/h3&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Wii U v1.5.0 (v208) only; no Switch version.&lt;/li&gt;&#13;
+&lt;li&gt;Texts are in English in every language.&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/stash_v110.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Dark Twilight Linkle (Linkle 3.0)</title>
+      <author>Molybdenuw</author>
+      <link>https://gamebanana.com/mods/733264</link>
+      <comments>https://gamebanana.com/mods/733264#PostsListModule</comments>
+      <guid isPermaLink="false">043552e7acc7fdc1c2a025349aeb9db038119a6e</guid>
+      <pubDate>Sun, 15 Nov 2026 10:55:31 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae22ef752d3f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae22f1a4ae05.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8310827724.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8310896c76.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; New Icons&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Added custom inventory icons.&lt;br&gt;&lt;hr&gt;&lt;br&gt;Replaces the look of the Dark set (Dark Hood / Tunic / Trousers) with a dark, Dark Link–style version of Linkle 3.0's Hero of Twilight outfit.&lt;br&gt;&lt;br&gt;Features:&lt;br&gt;&lt;br&gt;- Hero of Twilight cap, tunic and trousers recolored black/grey&lt;br&gt;&lt;br&gt;- White hair under the cap&lt;br&gt;&lt;br&gt;- Glowing red eyes (part of the cap, they follow the head)&lt;br&gt;&lt;br&gt;- Keeps the Dark set's stats and night speed bonus&lt;br&gt;&lt;br&gt;- The normal Hero of Twilight set is untouched — you can have both&lt;br&gt;&lt;br&gt;Requirements:&lt;br&gt;&lt;br&gt;- The Linkle Mod 3.0&lt;br&gt;&lt;br&gt;- Wii U / Cemu, installed with UKMM/BCML&lt;br&gt;&lt;br&gt;Installation (UKMM):&lt;br&gt;&lt;br&gt;1. Install the zip as a mod.&lt;br&gt;&lt;br&gt;2. Place it ABOVE The Linkle Mod 3.0 in the load order.&lt;br&gt;&lt;br&gt;3. Apply and restart the game.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;RU: Тёмный набор превращается в тёмного Героя Сумерек для Linkle 3.0: чёрная броня, белые волосы, красные светящиеся глаза. Ставить через UKMM выше The Linkle Mod 3.0.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/dark_twilight_linkle.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/dark_twilight_linkle.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/dark_twilight_linkle_darkskin_newicons.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/dark_twilight_linkle_darkskin_newicons.zip" type="application/zip"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Linkle 3.0 CEMU T-Shirt</title>
+      <author>bobrick88</author>
+      <link>https://gamebanana.com/mods/740620</link>
+      <comments>https://gamebanana.com/mods/740620#PostsListModule</comments>
+      <guid isPermaLink="false">81b5aacdaedefef58dd84235c691e8eb67df3c64</guid>
+      <pubDate>Sat, 14 Nov 2026 19:50:04 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8b7225df01.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8b721646e5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8b7ace18c1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8b808987ab.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8b8088e4a0.jpg"/&gt;&lt;br&gt;I couldn't find a properly textured CEMU shirt for Linkle, so I made one. This replaces the Nintendo Switch shirt, so I would imagine you need the DLC. &lt;br&gt;&lt;br&gt;Inspiration comes from &lt;a href="https://gamebanana.com/mods/167983"&gt;this&lt;/a&gt;, but this is not identical.&lt;br&gt;&lt;br&gt;I have only tested this on the latest versions of UKMM and CEMU.</description>
+      <media:content url="https://files.gamebanana.com/mods/linkle_3_cemu_shirt.zip" type="application/zip"/>
+      <category>Upper</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>One-Handed Great Swords (Craftable Copies)</title>
+      <author>Molybdenuw</author>
+      <link>https://gamebanana.com/mods/739932</link>
+      <comments>https://gamebanana.com/mods/739932#PostsListModule</comments>
+      <guid isPermaLink="false">42718947cfc8bbe3ec9e6e1ef37c67daa85a7497</guid>
+      <pubDate>Fri, 13 Nov 2026 11:15:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af6f0c599f20.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af6f0c614ae2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af6f0c65e152.jpg"/&gt;&lt;br&gt;&lt;strong&gt;One-Handed Great Swords (Craftable Copies)&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#13;
+Adds a one-handed copy of &lt;strong&gt;every two-handed sword, club and axe&lt;/strong&gt; in the game (41 weapons). Use them with a shield!&lt;br&gt;&lt;br&gt;&#13;
+The vanilla two-handed weapons stay untouched. The one-handed versions are &lt;strong&gt;new separate items&lt;/strong&gt; that you craft at the &lt;strong&gt;Ancient Oven in the Akkala Ancient Tech Lab&lt;/strong&gt; (the one that makes ancient gear).&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Recipe:&lt;/strong&gt; 1 original two-handed weapon + rupees (100–1650 rupees depending on the weapon’s strength).&lt;br&gt;&lt;br&gt;&#13;
+Includes elemental swords (Flameblade, Frostblade, Thunderblade), the Guardian swords, and special weapons. They keep the original model, stats and effects, including the elemental charge and recharge.&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Names:&lt;/strong&gt; the new weapons are called “One-Handed ...” in Russian and English (EU). Other languages will show an empty name for now.&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Installation (UKMM):&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#13;
+&lt;ol dir="ltr"&gt;&#13;
+&lt;li&gt;Install the zip in UKMM and click Apply Pending Changes.&lt;/li&gt;&#13;
+&lt;li&gt;If you are updating from an older version, &lt;strong&gt;remove the old version first&lt;/strong&gt;, then install the new one.&lt;/li&gt;&#13;
+&lt;li&gt;Go to Tools → &lt;strong&gt;Refresh merge&lt;/strong&gt;. Without this step, some weapons may be missing from the oven.&lt;/li&gt;&#13;
+&lt;li&gt;Go to the Akkala Ancient Tech Lab and look at the Ancient Oven’s weapon list.&lt;/li&gt;&lt;/ol&gt;&#13;
+&lt;strong&gt;Compatibility:&lt;/strong&gt; only adds new entries to ActorInfo and the Ancient Oven shop. May conflict with mods that also edit the Ancient Oven shop. Doesn’t change vanilla weapons. Weapon balance mods won’t affect the copies (they use vanilla stats).&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Tested on:&lt;/strong&gt; Cemu 2.6, BOTW EU v208, UKMM.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/oh_swords_v18.zip" type="application/zip"/>
+      <category>Weapons</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Tears of the Kingdom!?</title>
+      <author>KB0MB</author>
+      <link>https://gamebanana.com/mods/471343</link>
+      <comments>https://gamebanana.com/mods/471343#PostsListModule</comments>
+      <guid isPermaLink="false">81abf74f2eb9d98014443948d91b0896575a4cbc</guid>
+      <pubDate>Tue, 10 Nov 2026 02:44:10 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc0086c8974.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6517a0bcea4d5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6517a0c826817.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6517a0c86635d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6517a0c84fd1e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d28da0a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d290a5e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2a97be.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2bd141.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2d69ed.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2d4e60.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2dba2f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2e8f08.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d2e7f10.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6685d5d3a92f6.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Yiga Mask Fix&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Accidentally forgot to update the Yiga Mask's actor reference in the map data files. Now fixed.&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Updated the default long hair's bphysics. Now, it shouldn't always seem windy&lt;br&gt;&lt;hr&gt;&lt;br&gt;I am happy to announce that The armors from TotK have not only been ported to BotW, but they have custom physics converted from their original cloth data! Not all armor upgrades are yet made and some armors are still not added like Link's awakening set and the Horriblin mask. I will update this mod with more things now that physics can be ported over from the other game!&lt;br&gt;&lt;br&gt;If there are any questions or concerns, please let me know! I'll need to update the mod screenshots and also make a guide to the locations or something similar.</description>
+      <media:content url="https://files.gamebanana.com/mods/totk_v102.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/totk_v102.zip" type="application/zip"/>
+      <category>Player</category>
+      <category>Player</category>
+    </item>
+    <item>
+      <title>Black Plague Doctor Armor and Staff</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/551603</link>
+      <comments>https://gamebanana.com/mods/551603#PostsListModule</comments>
+      <guid isPermaLink="false">0e9ed101aa89dd58b5ce70e62b8b5f18e1c8741b</guid>
+      <pubDate>Sun, 08 Nov 2026 14:27:45 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/671e9b3d8d735.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/671e9b5866797.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Cape Physics&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added real cape physics to the coat&lt;br&gt;&lt;hr&gt;&lt;br&gt;Just in time for Halloween, enjoy this weird and creepy looking Black Plague Doctor suit for Link!&lt;br&gt;&lt;br&gt;All the items will appear inside a new special Black Plague Chest.&lt;br&gt;&lt;br&gt;Check the video for the location of the items!&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/blackplaguedoctor.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/black_plague_doctor.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/black_plague_doctor_wiiu_.bnp" type="application/octet-stream"/>
+      <category>Mod Packs</category>
+      <category>Mod Packs</category>
+    </item>
+    <item>
+      <title>DARK ARMY DESTRUCTION</title>
+      <author>HGStone</author>
+      <link>https://gamebanana.com/mods/737422</link>
+      <comments>https://gamebanana.com/mods/737422#PostsListModule</comments>
+      <guid isPermaLink="false">8a4220044520660cabba20b2361c2c72452d96bc</guid>
+      <pubDate>Sat, 07 Nov 2026 12:54:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef1e6645cad.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef1e99e43fa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef1e9b2c1fb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef1e9bdc9f9.jpg"/&gt;&lt;br&gt;Zelda's Light causes Destruction within Ganon's Dark Army and will protect you from certain monsters.&lt;br&gt;&lt;br&gt;These monsters will instantly die and drop their loot: Bokoblin, ChuChu, Keese, Lizalfos, Lynel, Moriblin, Wizzrobe.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/please2.png"&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/dark_army_destruction_wiiu.bnp" type="application/octet-stream"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Malice Bladesaw and extras (wiiu port)</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/737368</link>
+      <comments>https://gamebanana.com/mods/737368#PostsListModule</comments>
+      <guid isPermaLink="false">6e8e2ac9da477fe35c9f85990e345b87c7541a06</guid>
+      <pubDate>Sat, 07 Nov 2026 09:42:19 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aeeee817a875.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aeeeed6169e9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aeef16bdcf5d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aeef1af1d753.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aeef1cb4c952.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aeef1de21c37.jpg"/&gt;&lt;br&gt;A request made by SonicBlast2768, it's a port of this switch mod (https://gamebanana.com/mods/438326) to wiiu, credits to Heydo6 for the original mod.&lt;br&gt;&lt;br&gt;Find a moblin in typhlo ruins carrying the bladesaw and the shield, find the malice twilight bow in hidden typhlo ruins and find the freezing bladesaw held by a moblin near the Eighth heroine sword.</description>
+      <media:content url="https://files.gamebanana.com/mods/malice_bladesaw_wiiu_port_.bnp" type="application/octet-stream"/>
+      <category>Weapons</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Fast Main Quests (Zelda/Linkle Compatible)</title>
+      <author>Fenris_3202</author>
+      <link>https://gamebanana.com/mods/721695</link>
+      <comments>https://gamebanana.com/mods/721695#PostsListModule</comments>
+      <guid isPermaLink="false">49d6373c27e58f6163c2c96beebecd4dbe0fecc6</guid>
+      <pubDate>Sat, 07 Nov 2026 00:44:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac81ec6af20d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc264e59646.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc265387915.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc265419f16.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc264f6c0e1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc265302fd4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc26529f439.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc26527271f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc2652c8ec2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc48c66af33.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc47df2362c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acc265288e31.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee701fae6ee.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee70202e2aa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee7021d77aa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee7021e27db.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Zelda/Linkle Compatibility&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added options for Zelda or Linkle dialogue&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;u&gt;&lt;b&gt;Mod:&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;This mod edits the vast majority of main quests via shorter dialogue, skippable events, and changes to events. It also includes edits to Trial Of The Sword, because I can.&lt;br&gt;&lt;br&gt;This mod generally doesn't allow the player to skip content, but simply speeds up the process of getting through quests. &lt;br&gt;&lt;br&gt;As of version 1.1.0, there are options to allow compatibility with playing as &lt;a href="https://gamebanana.com/mods/167741"&gt;Zelda&lt;/a&gt; or &lt;a href="https://gamebanana.com/mods/406768"&gt;Linkle&lt;/a&gt; using &lt;a href="https://gamebanana.com/mods/49580"&gt;Zelda - Dialogue and Cutscene-Audio Adjustments&lt;/a&gt; for Zelda's dialogue, or either &lt;a href="https://gamebanana.com/mods/33473"&gt;Linkle Dialogue Fix&lt;/a&gt; or &lt;a href="https://gamebanana.com/mods/439900"&gt;The Legend of Linkle Dialogue Mod&lt;/a&gt; for Linkle's dialogue. Fast Main Quests should be placed at a higher priority than both the character mod and the corresponding dialogue mod.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;&lt;u&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Quest Edits&lt;/span&gt;&lt;/b&gt;:&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://youtu.be/ns6QEtdsKvo?si=VYvW_W_ijcB-DTyl" target="_blank"&gt;&lt;b&gt;Intro/Follow The Sheikah Slate&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Shrine of Resurrection pedestals skippable&lt;/li&gt;&lt;li&gt;No animations for first scope and map open&lt;/li&gt;&lt;li&gt;Zelda's Interruption outside SOR is shorter&lt;/li&gt;&lt;li&gt;Old Man lets you take his stuff&lt;/li&gt;&lt;li&gt;Tower activation skippable&lt;/li&gt;&lt;li&gt;Tower drip animation removed (for all towers)&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/ns6QEtdsKvo?si=zjQvtBb8HGZweycg&amp;t=278" target="_blank"&gt;&lt;b&gt;The Isolated Plateau&lt;/b&gt;&lt;/a&gt;&lt;a href="https://youtu.be/ns6QEtdsKvo?si=zjQvtBb8HGZweycg&amp;t=278" target="_blank"&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;No drip animation for runes&lt;/li&gt;&lt;li&gt;No extra campfire dialogue&lt;/li&gt;&lt;li&gt;No first guardian "cutscene"&lt;/li&gt;&lt;li&gt;No "up here" dialogue in Temple of Time&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;a href="https://youtu.be/HPYm11zG_3A?si=goWLSW6uwom6pOEI" target="_blank"&gt;Seek Out Impa&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Guards don't interrupt&lt;/li&gt;&lt;li&gt;Paya doesn't interrupt&lt;/li&gt;&lt;li&gt;"Cutscene" of Link entering skippable&lt;/li&gt;&lt;li&gt;No Impa re-talk&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/HPYm11zG_3A?si=BihrG1RMQyuRtKDV&amp;t=49" target="_blank"&gt;&lt;b&gt;Locked Mementos&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Purah won't lie&lt;/li&gt;&lt;li&gt;Torch placed next to blue flame&lt;/li&gt;&lt;li&gt;No drip animation&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/HPYm11zG_3A?si=kNiSPIMSR8nvt-h2&amp;t=209" target="_blank"&gt;&lt;b&gt;Captured Memories&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;"Cutscene" of Link remembering skippable&lt;/li&gt;&lt;li&gt;Impa's final memory dialogue skippable&lt;/li&gt;&lt;li&gt;If final memory recall is skipped, Zelda's dialogue is skipped&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/PKHTk51cc-g?si=9unKdUQ2PEp5OptL" target="_blank"&gt;&lt;b&gt;Free The Divine Beasts&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;No dialogue from Zelda if Link hasn't received the quest&lt;/li&gt;&lt;li&gt;Link remembering skippable&lt;/li&gt;&lt;li&gt;Skippable warp location activation&lt;/li&gt;&lt;li&gt;No drip animation for maps&lt;/li&gt;&lt;li&gt;Terminals left is shown via text from the terminal&lt;/li&gt;&lt;li&gt;No Zelda dialogue when all beasts are finished&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/WEFIz4VWgno?si=D24q7J6VxTNwRJFk" target="_blank"&gt;&lt;b&gt;Reach Zora's Domain&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Interruption from Zora in wetlands is removed&lt;/li&gt;&lt;li&gt;Sidon Interruptions before moblin attack removed&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/WEFIz4VWgno?si=zcA6Ep-bZuJlIyZm&amp;t=364" target="_blank"&gt;&lt;b&gt;Divine Beast Vah Ruta&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;First half of Dorephan dialogue skippable&lt;/li&gt;&lt;li&gt;First half of Muzu dialogue skippable&lt;/li&gt;&lt;li&gt;Old Zora by shock arrow is moved away&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;a href="https://youtu.be/xJvsTACkC48?si=3OSf5Eak4D72U-87" target="_blank"&gt;Divine Beast Vah Rudania&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Memory is shifted to first Bludo talk&lt;/li&gt;&lt;li&gt;No Bludo re-talk&lt;/li&gt;&lt;li&gt;Camera animation from freeing Yunobo removed&lt;/li&gt;&lt;li&gt;No camera shift at Bridge of Eldin trouble&lt;/li&gt;&lt;li&gt;Shorter Bridge of Eldin fall&lt;/li&gt;&lt;li&gt;Rudania fight start and damage "cutscenes" are skippable&lt;/li&gt;&lt;li&gt;Yunobo hears whistle and follows from twice as far&lt;/li&gt;&lt;li&gt;Yunobo talk after Rudania removed&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/kIpxmHU1hPY?si=IM8yMF05FcMm9nlr" target="_blank"&gt;&lt;b&gt;Divine Beast Vah Medoh&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Just shorter dialogue&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/bsfcCk4jFek?si=9hBNC8rvUtjuLxlF" target="_blank"&gt;&lt;b&gt;Forbidden City Entry&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Vai clothes merchant available after viewing Naboris in Oasis&lt;/li&gt;&lt;li&gt;Don't need to talk to Benja&lt;/li&gt;&lt;li&gt;No vai clothes "cutscene"(opt)&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/bsfcCk4jFek?si=M8e5pPy2JayFIlOx&amp;t=80" target="_blank"&gt;&lt;b&gt;Divine Beast Vah Naboris&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;First Riju/Buliara dialogue can be skipped&lt;/li&gt;&lt;li&gt;Master Khoga appear/defeat can be skipped&lt;/li&gt;&lt;li&gt;Prayer "cutscene" skippable&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;a href="https://youtu.be/HPRuO52ggb0?si=eFQIY56GkdaS5QIA" target="_blank"&gt;The Hero's Sword&lt;/a&gt;&lt;/b&gt;&lt;a href="https://youtu.be/2aaKs8V_S0o?si=fU3THOnJgLh5qyG2" target="_blank"&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;No zoom in on sword&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;a href="https://youtu.be/HPRuO52ggb0?si=Nwf5GqGl5TEWB_cI&amp;t=100" target="_blank"&gt;EX Trial Of The Sword&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Skippable Deku Tree info dump&lt;/li&gt;&lt;li&gt;Skippable monk dialogue at the end&lt;/li&gt;&lt;/ul&gt;&lt;a href="https://youtu.be/fON7kk9dHJc?si=B6GC-daDbMg-t-eq" target="_blank"&gt;&lt;b&gt;EX The Champion's Ballad&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Shorter first pedestal&lt;/li&gt;&lt;li&gt;Dialogue after losing life skippable&lt;/li&gt;&lt;li&gt;Dialogue after final shrine skippable&lt;/li&gt;&lt;li&gt;Medallion shrine location reveal shortened&lt;/li&gt;&lt;li&gt;Kass songs skippable&lt;/li&gt;&lt;li&gt;Shorter champion talk after memory&lt;/li&gt;&lt;li&gt;Maz Koshia dialogue skippable&lt;/li&gt;&lt;li&gt;No drip animation for Master Cycle&lt;/li&gt;&lt;li&gt;Master Cycle appear and download can be skipped(opt)&lt;/li&gt;&lt;li&gt;Final Kass dialogue skippable&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="RedColor"&gt;&lt;b&gt;&lt;u&gt;Note:&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class="RedColor"&gt;I have done my best to make this mod fully compatible with a mid game save, but you still install it at your own risk. If you're really paranoid, install before starting or after finishing Rudania.&lt;br&gt;&lt;br&gt;This mod heavily affects eventflows and dialogue, and will be incompatible with mods that edit the same  NPCs and eventflows. If you have multiple event-based mods, place this at a higher priority to ensure proper functionality.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/fastmainquests_55c41_-Dnad85.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/fmq_zelda_linkle_compat_-OFRl8r.bnp" type="application/octet-stream"/>
+      <category>Events</category>
+      <category>Events</category>
+    </item>
+    <item>
+      <title>Moon</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/737104</link>
+      <comments>https://gamebanana.com/mods/737104#PostsListModule</comments>
+      <guid isPermaLink="false">5394d4674090bf32bff28eee3cce435984831431</guid>
+      <pubDate>Fri, 06 Nov 2026 19:37:20 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee2b4d58135.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee2b567f776.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee2b604686d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee2b71d7ae5.jpg"/&gt;&lt;br&gt;Adds a the moon from Majora's mask to the overworld, It will be always smiling at you through your adventure. Find a chest inside of its mouth containing the moon mask.&lt;br&gt;&lt;br&gt;In order to get up to the moon, you need the cyclos rune mod:&amp;nbsp;https://gamebanana.com/mods/378963</description>
+      <media:content url="https://files.gamebanana.com/mods/moon.bnp" type="application/octet-stream"/>
+      <category>Overworld</category>
+      <category>Overworld</category>
+    </item>
+    <item>
+      <title>Gerudo Hero</title>
+      <author>Fenris_3202</author>
+      <link>https://gamebanana.com/mods/733520</link>
+      <comments>https://gamebanana.com/mods/733520#PostsListModule</comments>
+      <guid isPermaLink="false">99f270d7b63583502f6656a8f99354e4cade7538</guid>
+      <pubDate>Sat, 31 Oct 2026 02:52:43 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5e64041b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f605d39.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f65c461.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f674f0f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f780c96.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f7f073c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f83d4d7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae2f5f868b77.jpg"/&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;u&gt;Mod:&lt;/u&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Like a couple of other mods, this removes the check for Link's disguise to enter Gerudo Town after Vah Naboris. However, the effect  only takes place after talking to Riju when finishing the quest, at which point she gives permission for Link to enter town, and the dialogue of &lt;b&gt;ALL&lt;/b&gt; NPC's in town will adapt to whether or not Link is disguised, so no more calling Link a vai when he's clearly not.&lt;br&gt;&lt;br&gt;&lt;hr&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/gerudohero_8ddcd.bnp" type="application/octet-stream"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Horses for Two</title>
+      <author>HGStone</author>
+      <link>https://gamebanana.com/mods/732643</link>
+      <comments>https://gamebanana.com/mods/732643#PostsListModule</comments>
+      <guid isPermaLink="false">c625674d8f0f04201d8f9049f5c2989dda802ab3</guid>
+      <pubDate>Mon, 26 Oct 2026 23:05:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6adfdc51eb5e3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adfdc514a84b.jpg"/&gt;&lt;br&gt;After winning the Horse Trinket from Rensa at Dual Peak Stables you will be able to spawn 2 horses with your Sheikah Slate.&lt;br&gt;&lt;br&gt;There also will be 19 apples for the horses to eat, this will easily increase the bond with your new horses.&lt;br&gt;&lt;br&gt;The 2 horses are very easy to catch and are quite fast.&lt;br&gt;&lt;br&gt;This is for use with &lt;a href="https://gamebanana.com/mods/388450"&gt;Kirbymimi's splitscreen mod &lt;/a&gt;so you can easily get horses for both players. (remember to help your friend to get on a horse)&lt;br&gt;&lt;br&gt;This replaces the Master Cycle Rune.&lt;br&gt;&lt;br&gt;Owning the DLC is REQUIRED to use this mod.&lt;hr&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/please3.png"&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/horses_for_two_699bb.bnp" type="application/octet-stream"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Quality of Life NG+</title>
+      <author>TheFork</author>
+      <link>https://gamebanana.com/mods/508732</link>
+      <comments>https://gamebanana.com/mods/508732#PostsListModule</comments>
+      <guid isPermaLink="false">0e7c7b9b9c8cfcf44bdc7b8cda389475bd3cec6d</guid>
+      <pubDate>Sun, 25 Oct 2026 00:57:59 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/662701161cce8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a3290f3c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a102f8e1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a2f0b32a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a1d614c5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a2aeffd8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a2209bef.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a25c1a04.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a1adb932.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a27bedd8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a1e32482.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a15c7168.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a30658cb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a30bf383.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a2939d05.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a1ccbd95.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a316e553.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/663934b988b03.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6625c39a1be22.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6625c399ed2e4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a29b8777.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a1d94725.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a328d496.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a20ca68b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a30a7f2b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a29e53d7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a03ca05c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a0cbf768.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a049129c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a2f2a7d4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66355e5360ab6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66355e538e442.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66355e5495b6e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66355e53a8083.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/663569cc5051f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/663569cc54832.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/663569cbb6194.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/664a9f15c0e8b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/664a9f161d6e2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/664a9ec1b737e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a076b100.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66259a08f4022.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6629792032f69.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/663aa540edc00.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/664a92d93875b.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; UKMM Brighter Lights Darker Nights Cloud Fix&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: This will correct the odd clouds UKMM users experience in game when choosing the Brighter Lights Darker Nights option during installation of the QoL NG+ main file. Make sure it has priority over the other QoL files in your load order.&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;What?&lt;br&gt;&lt;/h1&gt;Quality of Life - New Game Plus is a number of independent options inspired largely by other major overhauls (&lt;a href="https://gamebanana.com/mods/49532"&gt;&lt;b&gt;Hyrule Rebalance&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://gamebanana.com/mods/414822"&gt;&lt;b&gt;Relics of the Past&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://gamebanana.com/mods/49790"&gt;&lt;b&gt;Survival of the Wild&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://gamebanana.com/projects/35468"&gt;&lt;b&gt;Second Wind&lt;/b&gt;&lt;/a&gt;, etc) and presented in a way that is meant to maximize compatibility with other mods while preserving the immersion of the Breath of the Wild base game. &lt;br&gt;&lt;br&gt;Originally these changes were adapted to work in tandem with the series of &lt;a href="https://gamebanana.com/mods/335782"&gt;&lt;b&gt;Link&lt;/b&gt;&lt;/a&gt;/&lt;b&gt;&lt;a href="https://gamebanana.com/mods/326426"&gt;Zelda&lt;/a&gt;&lt;/b&gt;/&lt;a href="https://gamebanana.com/mods/427992"&gt;&lt;b&gt;Linkle 3.0 Upgradeable Armor Rebalance&lt;/b&gt;&lt;/a&gt; mods for a more expansive overhaul and though I recommend using the UAR mods, its entirely unnecessary to do so.&lt;br&gt;&lt;br&gt;Some people may decide to only use one or two of these tweaks but when used together the mods in this compilation create a subtle but substantial lift to some of the games key features, making the environment more challenging and enemies more dangerous but giving the player some added leverage in the form of passive buffs, purchasable weapons, and more sensible armor effects and set bonuses.&lt;br&gt;&lt;br&gt;These changes are an alternative to other more far reaching rebalances such as those mentioned above and while some of the modules may couple just fine, most are either already present in those mods or may cause some conflicts to arise. Please use your own discretion when choosing which options to use with your load order and consult the &lt;span class="GreenColor"&gt;&lt;b&gt;Quality of Life Readme&lt;/b&gt;&lt;/span&gt; that can be downloaded here or found inside your Merged Files folder after installation.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Why?&lt;br&gt;&lt;/h1&gt;I really like the feel of the base game and respect the mechanics that Nintendo choose and although I like the idea of what some of the extensive overhauls/rebalances do I feel that they change a little too much. I found myself trying to make patches for some of those mods but that wasn't always an easy thing to do.&lt;br&gt;&lt;br&gt;Earlier this year I started studying other mods and talking with their authors and found that a large number of my favorite features are actually brought about by relatively minor tweaks and changes.&lt;br&gt;&lt;br&gt;I was fortunate enough to get permission to study and use some of the assets for changes that weren't so easy, such as the AI used in the RotP Guardians, the RotP Champion Weapons, and the event changes for Better Inn Perks from Hyrule Rebalance. Some tweaks were recreated altogether and improved, like Portable Barbecue.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Features&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Beedle &amp; Kilton Arms Dealers (Beedle and Kilton sell weapons while Kilton has a selection of monster parts to trade for and all Traveling Merchants have a more robust inventory - making hunting them down worth while).&lt;/li&gt;&lt;li&gt;Alternate Town Shops (All town and village shops with on-display items have received a face lift and NPC dialogue has been changed to match the new items when appropriate) .&lt;br&gt;&lt;/li&gt;&lt;li&gt;Deadly Guardians (&lt;span class="fontstyle0"&gt;Aggressive, resilient, unforgiving, relentless, and more perceptive.&lt;/span&gt; These Guardians share their DNA with the RotP Guardians, they will **** your face and dance on your corpse. It's great!).&lt;/li&gt;&lt;li&gt;Delayed Master Sword (Similar to "Korok Trials Before Master Sword" except this version allows you to pull the sword with as few as 3 hearts once the trials are complete).&lt;br&gt;&lt;/li&gt;&lt;li&gt;Weapons can be crafted at anvils (Another Life Expansion).&lt;/li&gt;&lt;li&gt;Improved Breakables (Inspired by Hyrule Rebalance where pots will drop ONLY rupees and boxes and crates have a MUCH larger variety of items).&lt;/li&gt;&lt;li&gt;Rupees and possibly even Rupee Rabbits can be found by cutting grass.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Larger Creatures (1.5x bigger).&lt;/li&gt;&lt;li&gt;Severe Environment (More damage from fire/ice/drowning/falling/etc).&lt;/li&gt;&lt;li&gt;Increased Swim/Climb Speed (Moderate buff to swim and climb speed to compliment a more severe environment).&lt;/li&gt;&lt;li&gt;Better Inn Perks (More stamina and extra hearts from inns).&lt;/li&gt;&lt;li&gt;RotP Champion Weapons (Badass elemental champion weapons).&lt;/li&gt;&lt;li&gt;Enhanced Master Sword (Master Sword will benifit from the "Ancient Prof" set bonus and has it beam damage increased from 20 to 100).&lt;/li&gt;&lt;li&gt;Early Master Cycle Zero rune placed in the chest in the tower of the Temple of Time.&lt;/li&gt;&lt;li&gt;Enhanced Master Cycle Zero maneuverability similar to &lt;span class="fontstyle0"&gt;the changes made in Mad Master’d Motorcycle Mod&lt;/span&gt;&lt;span class="fontstyle0"&gt; (but less over powered).&lt;/span&gt; &#13;
+&lt;br&gt;&lt;/li&gt;&lt;li&gt;Reduced Knockdown (Reduces the ability to knockdown/stunlock enemies).&lt;/li&gt;&lt;li&gt;Faster Enemy and Weapon Scaling (Pick up where you left off with end game enemies and upgraded weapons spawning immediately upon leaving the Great Plateau).&lt;/li&gt;&lt;li&gt;Upgradeable Armors (All non-upgradeable armor such as Monster Helmets, Tingle Armor, Royal Guard Armor, etc are now upgradeable).&lt;/li&gt;&lt;li&gt;No Shield Surf Damage (This doesn't touch "surf friction" so the Radiant Shield will still be the fastest for surfing).&lt;/li&gt;&lt;li&gt;Portable Barbecue (Cook and camp anywhere!).&lt;/li&gt;&lt;li&gt;Option to turn off sleeping at campfires.&lt;/li&gt;&lt;li&gt;Updated version of Brighter Lights &amp; Darker Nights is included that has HGStone's sky texture fix added.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Treasure Hunt (Places rare items in hard to reach locations - see Quality of Life readme for details. &lt;i&gt;This has been moved to a separate mod in v1.0.3, the link can be found under Recommended Mods below&lt;/i&gt;).&lt;/li&gt;&lt;li&gt;Functional Lantern's (For darker nights users who keep getting stuck in Impa's house) that places three purchasable lanterns in the Giro NPC merchants inventory (see screenshots).&lt;br&gt;&lt;/li&gt;&lt;li&gt;Patches, Patches, Patches (For various mods to help bring them into balance with the UAR series of Link/Linkle/Zelda mods).&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Installation&lt;br&gt;&lt;/h1&gt;Using BCML install both &lt;span class="GreenColor"&gt;&lt;b&gt;Quality of Life NG+&lt;/b&gt;&lt;/span&gt; main file and &lt;span class="GreenColor"&gt;&lt;b&gt;Quality of Life - Extras &amp; Patches&lt;/b&gt;&lt;/span&gt;. If you select the &lt;b&gt;&lt;span class="GreenColor"&gt;Beedle &amp; Kilton Plus&lt;/span&gt;&lt;/b&gt; or &lt;b&gt;&lt;span class="GreenColor"&gt;Beedle &amp; Kilton Plus and Alt Shops&lt;/span&gt;&lt;/b&gt; options during the installation of the main file then you need to also install the &lt;b&gt;&lt;span class="GreenColor"&gt;Quality of Life - Merchant Override&lt;/span&gt;&lt;/b&gt; patch which will ensure that BCML correctly merges and sorts the changes made to NPC merchant inventories with other mods that do the same.&lt;br&gt;&lt;br&gt;I2m has released a fully portable version of BCML that makes life easier, &lt;a href="https://gamebanana.com/tools/23006"&gt;&lt;b&gt;BCML Unofficial Portable Edition&lt;/b&gt;&lt;/a&gt;.&lt;br&gt;&lt;br&gt;The Merchant Override is meant to be installed as a .zip file so &lt;b&gt;&lt;span class="RedColor"&gt;DO NOT&lt;/span&gt;&lt;/b&gt; create a .bnp out of it. Place all of the Quality of Life files near the top (highest priority) in your mod manager and in the following order:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Quality of Life - Merchant Override (Highest Priority)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Quality of Life - Extras and Patches&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Quality of Life NG+ (Lowest Priority)&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;READ the tool tips, the words mean stuff!&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/img/ss/mods/664a92d93875b.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;PLEASE NOTE:&lt;/b&gt;&lt;/span&gt; After installation click on Dev Tools in BCML and select the View Merged Files option to open the merged mods folder. Inside you will find a folder named Quality of Life which will contain important information and special steps for preparing certain mods (Lurelin Dress, Linkle 3.0 Biker Outfit, Linkle Costume Standalone, etc). The images and information you find will depend on the options you chose during installation.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;ALSO NOTE:&lt;/span&gt;&lt;/b&gt; If you install Brighter Lights and Darker Nights then you may want to use one of Silentverge's Survival of the Wild presets:&lt;br&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/img/ss/mods/663aa540edc00.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Mods Included in QoL&lt;br&gt;&lt;/h1&gt;The following mods are included or have similar patched or alternate versions in the Quality of Life installer. Take note of these mods and if you use the Quality of Life version(s) then make sure you disable the original/corresponding mod(s) from your load order.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/477369"&gt;Another Life Expansion&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1920307"&gt;Nebroc&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/499219"&gt;Korok Trials Before Master Sword&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1920307"&gt;Nebroc&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/49788"&gt;Disable Fast Travel&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1680793"&gt;Silentverge&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/49812"&gt;Early Master Cycle Zero&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1681024"&gt;Lye&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/49782"&gt;Make Cooking Pots Instead of Campfires&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/289876"&gt;WiseHorror&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/299110"&gt;Kings Lantern as a Weapon&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1704241"&gt;Banan039&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/428419"&gt;Pink Guardian Sword and Shield&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1750563"&gt;i2m&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://gamebanana.com/mods/49535"&gt;&lt;b&gt;Wearable Lantern, Brighter Lights &amp; Darker Nights&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/49535"&gt; &lt;/a&gt;by &lt;/b&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/members/1680793"&gt;Silentverge&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/315391"&gt;Mad Master'd Motorcycle Mod&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1980774"&gt;Fruitymcdoo&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/508557"&gt;RotP Champion Weapons Standalone&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/508547"&gt;QoL Alternate Shops&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/427992"&gt;Linkle 3.0 Upgradeable Armor Rebalance&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/335782"&gt;Linkle 2.0 &amp; Link Upgradeable Armor Rebalance&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/326426"&gt;Zelda’s Ballad Upgradeable Armor Rebalance&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/431353"&gt;Linkle 3.0 Collection - Upgradeable Armor Patches&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://gamebanana.com/mods/482346"&gt;&lt;b&gt;~Linkle Cottage Dress~ ALE Patch&lt;/b&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Recommended Mods&lt;br&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://mega.nz/file/8N4WTBiS#AMcsci-xtYXv5Wetzg-1PEC_nzF3I0xJHqziv6IyxCQ" target="_blank"&gt;Amiibo Treasure Chests&lt;/a&gt; (Not hosted on GameBanana)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://gamebanana.com/mods/439900"&gt;&lt;b&gt;The Legend of Linkle Dialogue Mod&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (For Linkle 2 and Linkle 3)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Compatibility&lt;br&gt;&lt;/h1&gt;The &lt;span class="GreenColor"&gt;&lt;b&gt;Shop and Merchant Redo&lt;/b&gt;&lt;/span&gt; options are the primary concern, they make changes to the&lt;b&gt;&lt;span class="GreenColor"&gt; ShopGameDataInfo.sbyml&lt;/span&gt; &lt;/b&gt;file in the&lt;span class="GreenColor"&gt; &lt;span class="GreenColor"&gt;&lt;b&gt;Bootup.pack&lt;/b&gt;&lt;/span&gt;&lt;/span&gt; and BCML will not properly merge this file. Which ever mod has priority is the one that will work correctly. Luckily not many mods change the ShopGameDataInfo.sbyml file, the most notable exceptions being &lt;a href="https://gamebanana.com/mods/49532"&gt;&lt;b&gt;Hyrule Rebalance&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://gamebanana.com/mods/414822"&gt;&lt;b&gt;Relics of the Past&lt;/b&gt;&lt;/a&gt;, &lt;a href="https://gamebanana.com/mods/49790"&gt;&lt;b&gt;Survival of the Wild&lt;/b&gt;&lt;/a&gt;, and &lt;a href="https://gamebanana.com/projects/35468"&gt;&lt;b&gt;Second Wind&lt;/b&gt;&lt;/a&gt;. They will require a patch to work correctly with the Shop and Merchant Redo options.&lt;br&gt;&lt;br&gt;For Second Wind, everything in QoL seems to work except for Shop and Merchant Redo, Delayed Master Sword, and Another Life Expansion. Just leave these options out when installing QoL.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;If you use UKMM and experience any &lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;problems then report them on the &lt;a href="https://github.com/NiceneNerd/UKMM/issues" target="_blank"&gt;UKMM Github&lt;/a&gt;.&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;h1 class="SelectedElement"&gt;Special Thanks&lt;br&gt;&lt;/h1&gt;&lt;i&gt;&lt;span class="fontstyle0"&gt;Credit (and a huge thanks) to &lt;/span&gt;&lt;span class="fontstyle0"&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/members/1698083"&gt;GingerAvalanche&lt;/a&gt;&lt;/b&gt; &lt;/span&gt;&lt;span class="fontstyle0"&gt;for going out of their way to create a tool that makes the creation of save flags for shops a (mostly) automated process.&lt;/span&gt;&lt;/i&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/quality_of_life_new_game_plus_v106.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/quality_of_life_extras_patches_v106.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/quality_of_life_merchant_override_v106.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/quality_of_life_brighter_lights_darker_nights_cloud_fix.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/quality_of_life_readme_v104.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Sheikah Flashlight + Dark Plateau</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/731621</link>
+      <comments>https://gamebanana.com/mods/731621#PostsListModule</comments>
+      <guid isPermaLink="false">37ac37d47961e2f1bcddeeff21bb47f18336ab9f</guid>
+      <pubDate>Sat, 24 Oct 2026 11:29:36 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6adc95bc6ecc6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adc95c515f02.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adc95ec17f70.jpg"/&gt;&lt;br&gt;&lt;span class="RedColor"&gt;Sheikah Flashlight:&lt;/span&gt;&lt;br&gt;&lt;br&gt;A weapon that produces light and has a Sheikah inspired design. You can find it at the shrine of resurrection. It comes with a handful of new animations. Press [R] to point it. Download the first file to get it as a standalone weapon.&lt;br&gt;&lt;br&gt;&lt;span class="RedColor"&gt;Sheikah Flashlight + Dark Plateau:&lt;/span&gt;&lt;br&gt;&lt;br&gt;The same Sheikah Flashlight as above, but with a small additional challenge on the Great Plateau: the whole Plateau becomes pitch black and you have to defeat 5 Halloween enemies (from &lt;a href="https://gamebanana.com/mods/728496"&gt;Horrors of Hyrule&lt;/a&gt;) on it to restore its light.&lt;br&gt;&lt;br&gt;Use the Sheikah Flashlight to traverse darkness. Download the second file to get the extra quest.</description>
+      <media:content url="https://files.gamebanana.com/mods/sheikah_flashlight.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/sheikah_flashlight_dark_plateau.bnp" type="application/octet-stream"/>
+      <category>Quests</category>
+      <category>Quests</category>
+    </item>
+    <item>
+      <title>Elemental Earrings</title>
+      <author>Fenris_3202</author>
+      <link>https://gamebanana.com/mods/692464</link>
+      <comments>https://gamebanana.com/mods/692464#PostsListModule</comments>
+      <guid isPermaLink="false">05f6b884db1d83f24630785dfd9f18978ee291b9</guid>
+      <pubDate>Sat, 24 Oct 2026 00:54:03 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a4d8f82eae4d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a4d8f8a949cc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a4d8f918a90f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a7185eae447a.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Dialogue now refers to them as earrings&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;Replaces the model, texture, icon, name, and description of the ruby and sapphire circlets to recolored versions of the topaz earrings. There is also an included option to change the diamond circlet as well.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="RedColor"&gt;Note:&lt;/span&gt; If your LOD in draw distance isn't high enough, the diamond earrings texture will look weird. for me, and LOD of at least &lt;u&gt;Higher&lt;/u&gt; works.&lt;br&gt;&lt;br&gt;&lt;hr&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/elementalearrings.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/elementalearrings_af733.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/elementalearrings_62bcd.bnp" type="application/octet-stream"/>
+      <category>Helmets</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Punk Shirts</title>
+      <author>HGStone</author>
+      <link>https://gamebanana.com/mods/731318</link>
+      <comments>https://gamebanana.com/mods/731318#PostsListModule</comments>
+      <guid isPermaLink="false">b3c855ae6e93c149d6d9cbe1df55ce2f8dd95be9</guid>
+      <pubDate>Fri, 23 Oct 2026 18:39:26 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6adba0c573e65.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adba3c983c02.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adbde1b218cb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adbde205d832.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adb9f7893f75.jpg"/&gt;&lt;br&gt;This is a skin for the Old Set you get in the Shrine of Resurrection.&lt;br&gt;&lt;br&gt;At the Dye Shop, each dye color is a different band logo on a black shirt.&lt;br&gt;&lt;br&gt;You also can dye your sneakers, but your pants stay black.&lt;br&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/rotate6.gif"&gt;&lt;hr&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/please3.png"&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/punk_shirts_wiiu.bnp" type="application/octet-stream"/>
+      <category>Sets</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Horrors of Hyrule</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/728496</link>
+      <comments>https://gamebanana.com/mods/728496#PostsListModule</comments>
+      <guid isPermaLink="false">fac5855c7cf3ef20e48baec56246abf6dc4d4f1d</guid>
+      <pubDate>Fri, 23 Oct 2026 10:29:23 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2940bcd479.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2931629344.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad29316c2976.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad293179e68e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad29317c9fad.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad29317dfc0e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad293186f298.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad293191631f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad29319711fe.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Small Updates and Bugfixes&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added a special interaction with the Circus Wheel Pumpkin when the player has no money&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Burning corn now creates popcorn&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added progress counters to scavenger hunt quest logs&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added a map pin to the Dark Forest Scavenger Hunt quest&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added a black fade transition when warping to the Dark Forest&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Big Pumpkin now asks players if they want to participate in more challenges instead of immediately ending the conversation&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Added missing locations and quest givers to various quests&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Increased quest priority so custom quests appear higher in the quest list&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Standardized capitalization across all quest titles&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Adjusted the teleport destination in Story Robert's scene so Link appears directly beside him and can immediately start a conversation&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Improved camera positioning to properly show the wheel spinning&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Repositioned golden statues in Kakariko to less conspicuous locations for better visual presentation&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Made the wolf's sounds significantly louder and scarier&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Updated popcorn item descriptions&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Expanded area triggers so events activate slightly earlier&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Adjusted the Pumpkin Golf camera to sit slightly off to the side for a better view&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Adjusted the final battle music to be slightly louder than other tracks to increase tension and impact&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Adjusted music volume levels to prevent excessively loud audio&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Adjusted dialogue punctuation to better match Nintendo's writing style&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed Robert sometimes not spawning in his Kakariko house&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Big Pumpkin now announces that the quest is complete after all five scavenger hunts instead of asking players to participate again&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed an issue where saving and loading during the Pumpkin Golf quest could leave it stuck in an incompletable state&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Moved the Pumpkin Golf area outside the circus region to prevent unwanted fog effects&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed chests respawning when they should only appear once&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the Mummy Sword respawning after being collected&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the pumpkin prize pickup animation causing the prize to float in the air&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Added the silencing effect to Michael Myers' Pants as stated in their description&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: The Hallow Blade is now unbreakable as implied by its description&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the music continuing to play after defeating the final enemies in the last battle&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Increased the height of the final area to prevent the environment from reverting to vanilla when jumping&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the fireplace in Story Robert's scene floating in the air&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed candles having unintended collision&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Adjusted chest placement to prevent chests from appearing to float above the ground&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the graveyard door not leading to the sky as intended&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed Bat Scavenger Hunt items occasionally appearing white instead of black&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed bats' eyes flashing yellow&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the upper-floor fence of the house appearing black&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed a visual issue with the teleport plaque&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed incorrect textures on map items&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the Scavenger Hunt: Abandoned Circus quest title not fitting properly in the quest log&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed Medal of Horror titles not fitting within their designated text areas&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed inconsistencies in item and character names across dialogue and descriptions&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed an instance of "..." appearing red in dialogue&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed various spelling and grammar mistakes&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="RedColor"&gt;&lt;b&gt;IMPORTANT DISCLAIMER: &lt;/b&gt;This mod is NOT compatible with UKMM because of a UKMM bug reported &lt;a href="https://github.com/NiceneNerd/UKMM/issues/349"&gt;here&lt;/a&gt;. Please use BCML instead.&lt;/span&gt;&lt;br&gt;&lt;br&gt;This mod is a Halloween Expansion DLC for Breath of the Wild.&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+It adds a main quest, side quests, new enemies, armor sets, weapons and minigames, spread over six new places around Hyrule.&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+You even get post-game content after the new main quest!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+Oh, and make sure that before you start this, you make plenty of room in your Armor Set inventory because you'll need it!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;The Main Quest&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+After you find Robert in Kakariko, in his fully Halloween-themed house, he tells you about the horrors spread out in Hyrule. To help you on your quest he gives you a never-before-seen item in BotW: a Flashlight!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+Discover these new areas, built from the ground up:&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;a Graveyard&lt;/li&gt;&#13;
+&lt;li&gt;an Abandoned Circus&lt;/li&gt;&#13;
+&lt;li&gt;a Corn Maze&lt;/li&gt;&#13;
+&lt;li&gt;a Haunted House&lt;/li&gt;&#13;
+&lt;li&gt;a Dark Forest&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;br&gt;&#13;
+In each of these places you find a new enemy that you have to defeat to complete your quest!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+Watch out for the post-game content too for a super special armor set!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Side content&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Every new Area has an Armor Set or an Armor Piece scattered near a villain from a Horror Movie&lt;/li&gt;&#13;
+&lt;li&gt;Scavenger Hunt: each new Area also has 5 collectibles - bring every collectible to the Big Pumpkin in Robert's House and he'll give you a special prize!&lt;/li&gt;&#13;
+&lt;li&gt;The circus has three minigames and one of them with a never-before-seen mechanic in BotW&lt;/li&gt;&#13;
+&lt;li&gt;Ask Robert for a story and he'll take you to a campfire and tell you about any of the five places.&lt;/li&gt;&#13;
+&lt;li&gt;You even get new Halloween tips on the loading screens!&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Enemies&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+Besides the five main creatures, you'll run into Ghostface, Michael Myers and many other classic Horror Movie villains!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Armor and weapons&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+There are many, many full armor sets scattered around the world... Can you find the Black Plague doctor's set though? It's super hidden in an unexpected place!&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+You also get the classic villain weapons, so watch out for those!&lt;br&gt;&lt;br&gt;&lt;b&gt;Credits&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Art The Clown" by &lt;a href="https://sketchfab.com/TaBByR" target="_blank"&gt;TaBByR&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/art-the-clown-4223ddc80fbf441cadf2313dd8e09e37" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Bamboo_Basket" by &lt;a href="https://sketchfab.com/NHA_Asset" target="_blank"&gt;National Heritage Administration&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/bamboo-basket-6c7e1244d46c457fb6f3d6194663073b" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Bat Decoration" by &lt;a href="https://sketchfab.com/swainer17" target="_blank"&gt;swainer&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/bat-decoration-53db0ba2e6384e6a98d4f36c890ea387" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Black Cat (Freaky Clown : Town Mystery)" by &lt;a href="https://sketchfab.com/modelmolden223" target="_blank"&gt;Molon Modeler&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/black-cat-freaky-clown-town-mystery-6516ef9626c0494baee18df60481a427" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Black Death (rigged)" by &lt;a href="https://sketchfab.com/windofglass" target="_blank"&gt;Veterock&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/black-death-rigged-a3f01ba898024e16b8739807b9e12dfd" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Blue circus tent lowpoly" by &lt;a href="https://sketchfab.com/RachelleEte" target="_blank"&gt;Rachelle Ete&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/blue-circus-tent-lowpoly-1155835a0acb4179b2094d28b14bb012" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Candy Real" by &lt;a href="https://sketchfab.com/tarik.kheinch" target="_blank"&gt;tarik.kheinch&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/candy-real-a65b82513fec45789c5edd2d9fd4ad1e" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Carnival Mask" by &lt;a href="https://sketchfab.com/relaxnonam" target="_blank"&gt;relaxnoname&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/carnival-mask-4b8b8270688c466eb25528e28eee7cc3" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"ceiling lamp-10MB" by &lt;a href="https://sketchfab.com/ahmagh2e" target="_blank"&gt;Mehdi Shahsavan&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/ceiling-lamp-10mb-110718d4dbbc4b68b5d9175a8fb636ad" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Copper candlestick" by &lt;a href="https://sketchfab.com/Chenchanchong" target="_blank"&gt;Chenchanchong&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/copper-candlestick-adafa77c0dfc44c090c5ea39dcda1108" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Corn from Poly by Google" by &lt;a href="https://sketchfab.com/ie-niels" target="_blank"&gt;IronEqual&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/corn-from-poly-by-google-c93f1ef0267e416eafba5c03e2f2f511" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Corn! Corn! Corn!" by &lt;a href="https://sketchfab.com/tiiatuulia" target="_blank"&gt;Tiia Tuulia&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/corn-corn-corn-10187bc37c9e42ef8770b28452ee7cd3" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Flashlight" by &lt;a href="https://sketchfab.com/bumstrum" target="_blank"&gt;DJMaesen&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/flashlight-12d6911e84154d2ab485d983361df76f" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Halloween Decoration - Smiling Skull" by &lt;a href="https://sketchfab.com/GeorgePrew" target="_blank"&gt;GeorgePrew&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/halloween-decoration-smiling-skull-69d88c0c70544e509936ab397559efb9" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Halloween Pumpkin" by &lt;a href="https://sketchfab.com/KIRE3D" target="_blank"&gt;KIRE3D&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/halloween-pumpkin-99d475c0775a498285c3e424d069b958" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Jason Mask (Friday the 13th)" by &lt;a href="https://sketchfab.com/paulyanez" target="_blank"&gt;Anthony Yanez&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/jason-mask-friday-the-13th-268490d6e7a24209adaf9908075fb154" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Jason Mask By Rogerbandeirinho2" by &lt;a href="https://sketchfab.com/MorgenKell" target="_blank"&gt;MorgenKell&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/jason-mask-by-rogerbandeirinho2-38116bf99e11422689ccb5e31b2bae38" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Killer Clown (No Animations)" by &lt;a href="https://sketchfab.com/servercinaroglu31" target="_blank"&gt;Mizahad31&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/killer-clown-no-animations-8103f6f4292341ff9135b76f934cce90" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Medieval Fireplace (Free)" by &lt;a href="https://sketchfab.com/wolfgar74" target="_blank"&gt;wolfgar74&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/medieval-fireplace-free-36b73510064943d2b7a08918339dfb99" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Michael Myers" by &lt;a href="https://sketchfab.com/AlexJJ" target="_blank"&gt;AlexJJ&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/michael-myers-2c2ca5a2d5ce4305a05f20834c6809ac" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Old Ceramic Plate" by &lt;a href="https://sketchfab.com/GameDevNick" target="_blank"&gt;GameDev Nick&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/old-ceramic-plate-e730175fa6e942d3b42c00e8a0addfbd" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Old Fire Axe" by &lt;a href="https://sketchfab.com/MaX3Dd" target="_blank"&gt;MaX3Dd&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/old-fire-axe-af6ca8fbfc6a434185e82c88001418ec" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Old Wooden Table — Game Ready Asset" by &lt;a href="https://sketchfab.com/Alex_Krush" target="_blank"&gt;Alex Krush&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/old-wooden-table-game-ready-asset-d06d49bdb23c45d5b1fe33bab4b04374" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Party Balloons Red" by &lt;a href="https://sketchfab.com/PolyDavid" target="_blank"&gt;PolyDavid&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/party-balloons-red-99fc51fbb514422f8836fd240d2bf4f8" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Pumpkin Light String" by &lt;a href="https://sketchfab.com/syntheticplants" target="_blank"&gt;syntheticplants&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/pumpkin-light-string-e7d28e44ef5944179e920c4a9a187ef8" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Scream Hunting Knife" by &lt;a href="https://sketchfab.com/xlstanier" target="_blank"&gt;xlstanier&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/scream-hunting-knife-1b992c1ae30b47b88b66b842e97d2aab" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Sickle" by &lt;a href="https://sketchfab.com/ViktorKom" target="_blank"&gt;ViktorKom&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/sickle-0c3d6826668b4c7ea9477484d4ebeed4" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"The Halloween Mummy Sword" by &lt;a href="https://sketchfab.com/johnnel051902" target="_blank"&gt;JoJo Ozman&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/the-halloween-mummy-sword-44595f6b7ded47699c8bd0019ba6e630" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"The tombstone" by &lt;a href="https://sketchfab.com/SebastianSosnowski" target="_blank"&gt;SebastianSosnowski&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/the-tombstone-6e84b503018b4d348cd9a3c3d5296690" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"toilet paper dispenser" by &lt;a href="https://sketchfab.com/tobei" target="_blank"&gt;tobei&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/toilet-paper-dispenser-96e96772a7564df0b417244bd2be33f3" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Tombstone" by &lt;a href="https://sketchfab.com/mpalk" target="_blank"&gt;Merle Palk&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/tombstone-ca7cf29ead5c474580d42b69b5b20af2" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Tombstone Decorations PSX" by &lt;a href="https://sketchfab.com/Bonvikt" target="_blank"&gt;Bonvikt&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/tombstone-decorations-psx-bd57b7d05d2140dcb7435e68339d5c81" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Tombstone Set _2_" by &lt;a href="https://sketchfab.com/Mr.Nein" target="_blank"&gt;Mr.Nein&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/tombstone-set--2-255508642ddc414caf2da269af7a11f8" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Venice Carnival Mask - FIDELIO" by &lt;a href="https://sketchfab.com/icarus96" target="_blank"&gt;icarus96&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/venice-carnival-mask-fidelio-72276ddd1c864517b1ff64835a38d14d" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Victorian Antique Wooden Table – Game Ready" by &lt;a href="https://sketchfab.com/Alex_Krush" target="_blank"&gt;Alex Krush&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/victorian-antique-wooden-table-game-ready-dd35139802d74846b55f1af0c0f63d84" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Wood Fence" by &lt;a href="https://sketchfab.com/Nelesh_surve" target="_blank"&gt;Nelesh_surve&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/wood-fence-c094a54cbaae4638bbee03625fbd9610" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Asset Graveyard (The Darkest Red)" by &lt;a href="https://sketchfab.com/kifir" target="_blank"&gt;KIFIR&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/asset-graveyard-the-darkest-red-d9e14354303147849d6ef59644436692" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Killer Clown 3D (MIXAMO RIGGED)" by &lt;a href="https://sketchfab.com/servercinaroglu31" target="_blank"&gt;Mizahad31&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/killer-clown-3d-mixamo-rigged-8971f92afda940b88dea10057d4d8973" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Pripyat ferris wheel" by &lt;a href="https://sketchfab.com/Yarik16" target="_blank"&gt;Ya&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/pripyat-ferris-wheel-8e2be4f8958246aea77c868b42bdde6b" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Gate (Wood)" by &lt;a href="https://sketchfab.com/trentspice" target="_blank"&gt;trentspi&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/gate-wood-9c8a984a87dd4d8ba003698c0478ef01" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Chainsaw - Version 2" by &lt;a href="https://sketchfab.com/sirrandom" target="_blank"&gt;Harri Jokinen&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/chainsaw-version-2-51072da706e647f492ab71536fd3f72d" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Victorian Bed" by &lt;a href="https://sketchfab.com/BATRIC_18" target="_blank"&gt;BATRIC_18&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/victorian-bed-c56b0776992041648ba5c1615f6e1fed" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Persian Malayer Runner Carpet" by &lt;a href="https://sketchfab.com/mfb64" target="_blank"&gt;mfb64&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/persian-malayer-runner-carpet-e93557d4dab344a9b4e19dd4579e3707" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Victorian Chair" by &lt;a href="https://sketchfab.com/Alex_Krush" target="_blank"&gt;Alex Krush&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/victorian-chair-744b182e05184835b8d1786903cfd8e9" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Antique Chandelier" by &lt;a href="https://sketchfab.com/Amatsukast" target="_blank"&gt;Amatsukast&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/antique-chandelier-c98d235a1df849388423b06f4e0a858c" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Deer Head_10_MB" by &lt;a href="https://sketchfab.com/ahmagh2e" target="_blank"&gt;Mehdi Shahsavan&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/deer-head-10-mb-0163246d2a7a4a75a4de2c4e970d90e8" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Lowpoly victorian dinning table with chairs" by &lt;a href="https://sketchfab.com/n-malmberg" target="_blank"&gt;n-malmberg&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/lowpoly-victorian-dinning-table-with-chairs-62a680530b8a42349c1c13f920b67b5f" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Old Metal Knife And Fork" by &lt;a href="https://sketchfab.com/anacontatocosta" target="_blank"&gt;anaxarts&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/old-metal-knife-and-fork-a927c69ae33743e79c34e47aedc5574b" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Knight armor" by &lt;a href="https://sketchfab.com/slagperch3d" target="_blank"&gt;SlagPerch 3D&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/knight-armor-2353f53f8bd04a9ab7b036a007daf7fc" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Old Piano" by &lt;a href="https://sketchfab.com/Dennisxv" target="_blank"&gt;Dennisxv&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/old-piano-bfb1b1d975924baaadc81d7e7103efe5" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Witch House" by &lt;a href="https://sketchfab.com/MrPuppet" target="_blank"&gt;MrPuppet&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/witch-house-bedf0c0645924ba6a3bd54d333799907" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Grave house and tombs" by &lt;a href="https://sketchfab.com/psicodelik" target="_blank"&gt;psicodelik&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/grave-house-and-tombs-5b0e348aef39469bb040fbc35a1c0ff0" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Pumpkin Staff" by &lt;a href="https://sketchfab.com/GillMG" target="_blank"&gt;GillMG&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/pumpkin-staff-85cfbc8982114d979f423500a3886b03" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Plague Doctor Mask On A Road" by &lt;a href="https://sketchfab.com/defnotdan" target="_blank"&gt;defnotdan&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/plague-doctor-mask-on-a-road-38ad63324ca040f28902d56ba33fe96f" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Low Poly: Witch's Hat" by &lt;a href="https://sketchfab.com/clintonabbott.art" target="_blank"&gt;ClintonAbbott.Art&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/low-poly-witchs-hat-d63d984e26614f008fd4d8721506a54d" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Black Myth: Wukong - Xiao Tian Quan[Static+Anim]" by &lt;a href="https://sketchfab.com/hakudragons" target="_blank"&gt;Haku Dragon&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/black-myth-wukong-xiao-tian-quanstaticanim-3c9ed5aac89749d98697c12f80c2ad1a" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Headless Horseman assets pack" by &lt;a href="https://sketchfab.com/vcsfxmedia" target="_blank"&gt;VCSFXmedia&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/headless-horseman-assets-pack-00420f0ac7014d859041865d9434ddc3" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Wendigo" by &lt;a href="https://sketchfab.com/huntaer87" target="_blank"&gt;Huntaer87&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/wendigo-74fe130cf06045d5902633dfd92a76e3" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Wendigo - Antlered Famine Horror Creature" by &lt;a href="https://sketchfab.com/s8819296" target="_blank"&gt;Pigcraft&lt;/a&gt;&lt;br&gt;&#13;
+&lt;a href="https://sketchfab.com/3d-models/wendigo-antlered-famine-horror-creature-3511c530080240dfa1b5882ff38ee8ea" target="_blank"&gt;Source&lt;/a&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Music&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Monster Mash (Re-Recording)" by Bobby "Boris" Pickett and the Crypt-Kickers&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Red Right Hand" by Nick Cave &amp; The Bad Seeds&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Scary and Creepy Halloween Night" by Sound Gallery by Dmitry Taras&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Horror Halloween Intro" by Praded&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Nightmare Piano"&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+"Duty Calls" by Rod Kim&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/horrors_of_hyrule_5254b.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/horrors_of_hyrule_content_creators_version_.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/horrors_of_hyrule_content_creators_version__33fd5.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/horrors_of_hyrule_22ad1.bnp" type="application/octet-stream"/>
+      <category>Quests</category>
+      <category>Quests</category>
+    </item>
+  </channel>
+</rss>

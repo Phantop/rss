@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Mark of the Deep</title>
+      <author>Light Up Games</author>
+      <link>https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Mark of the Deep is an epic pirate-themed adventure with a strong narrative and a thrilling mix of Metroidvania and Souls-Like elements. Embark on this journey, explore the mysteries of a cursed island and find your missing pirate crew!</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1k2bg.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1aw2l.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1dac0.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-een94.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1522q.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-iq37n.png#.image" type="image/*"/>
+    </item>
+  </channel>
+</rss>
