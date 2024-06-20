@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Behind the Frame: The Finest Scenery</title>
+      <author>Akupara Games</author>
+      <guid isPermaLink="false">ded680f58ca9fbac0cb2f9f39c383e69849a64af</guid>
+      <pubDate>Thu, 23 Jan 2025 16:00:00 +0000</pubDate>
+      <description>Guide brush strokes and solve a variety of puzzles to help an aspiring artist complete her masterpiece. As her painting starts to take shape, uncover an emotional tale of chance and artistry revealed behind unrelated yet familiar moments.</description>
+      <media:content url="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S2_1200x1600-e8ebbaa03f51ba841b061de5fc6eab84" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S1_2560x1440-6aecd08e68bad5772e080342679154d0" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
