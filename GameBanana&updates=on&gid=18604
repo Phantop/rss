@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - Super Mario Bros. Wonder</title>
+    <description>GameBanana - Super Mario Bros. Wonder</description>
+    <link>https://gamebanana.com/games/18604</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/18604"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - Super Mario Bros. Wonder</title>
+      <link>https://gamebanana.com/games/18604</link>
+    </image>
+    <item>
+      <title>Meowstic Bros</title>
+      <author>Mystic016</author>
+      <link>https://gamebanana.com/mods/573567</link>
+      <comments>https://gamebanana.com/mods/573567#PostsListModule</comments>
+      <guid isPermaLink="false">09e38adc6a1ea35242795bba5c3b67eef5091608</guid>
+      <pubDate>Wed, 05 Feb 2025 23:56:11 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a676bc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99aa4069.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f999eff02.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a03b85.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a8032b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a5eb9f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a8fd74.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a7664e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a5b8ce.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a7a5ad.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a97193.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99abb35e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99a3db7a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99ae1243.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99aaec49.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67a3f99978f55.jpg"/&gt;&lt;br&gt;Time to send Meowstic to yahooo! world.&lt;br&gt;At the moment only covers normal Mario and small Mario, and map only with normal Mario; I'll add at least it. Maybe I add Espurr to small mario, fire power up and flag/checkpoint textures, but not sure.</description>
+      <media:content url="https://files.gamebanana.com/mods/meowwonder.zip" type="application/zip"/>
+      <category>Mario</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>Super Mario 256 Font</title>
+      <author>Timexo</author>
+      <link>https://gamebanana.com/mods/571844</link>
+      <comments>https://gamebanana.com/mods/571844#PostsListModule</comments>
+      <guid isPermaLink="false">d4f5e2b3191fb38756c8def5b0e92e1bf96523e1</guid>
+      <pubDate>Mon, 27 Jan 2025 14:46:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a0666aef1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a066abfe4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a0671b72c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a06735ce3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a0674b1c1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a0676d0ca.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a0677951c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6797a07adad78.jpg"/&gt;&lt;br&gt;This Mod changes the font, of the game to Super Mario 256.</description>
+      <media:content url="https://files.gamebanana.com/mods/super_mario_256_font.zip" type="application/zip"/>
+      <category>UI</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Bindable Actor Pack</title>
+      <author>FrozenMuncher</author>
+      <link>https://gamebanana.com/mods/570723</link>
+      <comments>https://gamebanana.com/mods/570723#PostsListModule</comments>
+      <guid isPermaLink="false">fede2d052ceeaf49eac669c299866c4c47b821bc</guid>
+      <pubDate>Thu, 23 Jan 2025 11:10:21 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6792238bd706f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6792238c28d08.jpg"/&gt;&lt;br&gt;This is a collection of various actor replicas, with the added function that they can be moved around during gameplay.&lt;br&gt;&lt;br&gt;This pack includes bindable versions of:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Terrain Block (BgUnit)&lt;/li&gt;&lt;li&gt;Midway Point&lt;/li&gt;&lt;li&gt;Mario Bros. style Block with Items inside&lt;/li&gt;&lt;li&gt;An empty Brick Block&lt;/li&gt;&lt;li&gt;Turn Blocks of different lengths (3, 6 and 9 wide)&lt;/li&gt;&lt;li&gt;On/Off Switch Block&lt;/li&gt;&lt;li&gt;Red and Blue Blocks for the On/Off Switch Block&lt;/li&gt;&lt;li&gt;Spike Balls of different sizes&lt;/li&gt;&lt;li&gt;Firebar&lt;/li&gt;&lt;li&gt;Goal Pole&lt;/li&gt;&lt;/ul&gt;For more details read the included Readme file.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/bindable_actor_pack.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Bindable Empty Brick Block</title>
+      <author>FrozenMuncher</author>
+      <link>https://gamebanana.com/mods/568564</link>
+      <comments>https://gamebanana.com/mods/568564#PostsListModule</comments>
+      <guid isPermaLink="false">2e7109fa1f431c338c35f6f234894d52800ba7a0</guid>
+      <pubDate>Sun, 12 Jan 2025 16:43:20 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6783f10fbd5a3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6783f10f6f5e4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6783f10fb7677.jpg"/&gt;&lt;br&gt;Because it didn't exist.&lt;br&gt;&lt;br&gt;This is a custom actor called &lt;code&gt;BlockRengaLightBindable&lt;/code&gt;. It's a normal empty brick block, but in contrast to the normal &lt;code&gt;BlockRengaLight&lt;/code&gt; it is also bindable, meaning it can move along rails, rotate around etc.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/bindable_empty_brick_block.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>WonderLand Zigzag Jam</title>
+      <author>iHarv</author>
+      <link>https://gamebanana.com/mods/568158</link>
+      <comments>https://gamebanana.com/mods/568158#PostsListModule</comments>
+      <guid isPermaLink="false">c3f6f03dcb60ba66cc4eeb949294f7b83889b1e1</guid>
+      <pubDate>Fri, 10 Jan 2025 19:54:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/678179ca7294d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/678179ca806ca.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/678179cabdf93.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/678179ca6d5b4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/678179ca69237.jpg"/&gt;&lt;br&gt;This mod is the result of a level design competition that was held in the WonderLand Discord Server. There are 8 different levels that interpret a "zigzag" concept in unique and creative ways. We hope you enjoy!</description>
+      <media:content url="https://files.gamebanana.com/mods/wonderland_zigzag_jam_54241.rar" type="application/vnd.rar"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Costum SMBW Level "Flowery Meadows" [Over 1-1]</title>
+      <author>mertabi89</author>
+      <link>https://gamebanana.com/mods/565808</link>
+      <comments>https://gamebanana.com/mods/565808#PostsListModule</comments>
+      <guid isPermaLink="false">8044643f50716332958ca7860248a366b165f457</guid>
+      <pubDate>Tue, 31 Dec 2024 00:25:59 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/677339990984a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/677339d3b52f4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67733a0879051.jpg"/&gt;&lt;br&gt;This is a Costum Level mod, which goes over 1-1&lt;br&gt;Works on both, switch and ryujinx!</description>
+      <media:content url="https://files.gamebanana.com/mods/costum_smbw_level_1-1_867bd.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>No badges in badge challenges</title>
+      <author>Elytro</author>
+      <link>https://gamebanana.com/mods/485068</link>
+      <comments>https://gamebanana.com/mods/485068#PostsListModule</comments>
+      <guid isPermaLink="false">3e62960424ce1c824964b332fc96ba62ba144508</guid>
+      <pubDate>Sat, 28 Dec 2024 11:01:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6582a53b8a726.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6582a53b8b230.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Small Bugfix&lt;br&gt;&lt;p&gt;Fixes the small issue with 'The Final Final Test: Badge Marathon' even though no one probably cares.&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;I removed all the badges from the badge challenges (except for the final final test badge marathon). I haven't tried to beat any of the levels but most are probably impossible. I suggest to use Yoshi to help beat most levels.</description>
+      <media:content url="https://files.gamebanana.com/mods/no-badges-in-badge-challenges.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/no-badges-in-badge-challenges-1-0-1.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>(Custom Level) NSMB Wii 5-4 remade in Wonder</title>
+      <author>MemetendoYT</author>
+      <link>https://gamebanana.com/mods/565204</link>
+      <comments>https://gamebanana.com/mods/565204#PostsListModule</comments>
+      <guid isPermaLink="false">cc56856953377c4278cc878818e9e86aa2625d0c</guid>
+      <pubDate>Sat, 28 Dec 2024 03:54:03 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/676f750ed38e0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/676f750f36a52.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/676f750f67647.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/676f750f80e85.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/676f750f95bb2.jpg"/&gt;&lt;br&gt;I remade a New Super Mario Bros Wii level in Wonder&lt;br&gt;&lt;br&gt;This level replaces piranha plants on parade</description>
+      <media:content url="https://files.gamebanana.com/mods/nsmbw_5-4.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Custom Level: Spookshine Swamp</title>
+      <author>Vadenimo</author>
+      <link>https://gamebanana.com/mods/563569</link>
+      <comments>https://gamebanana.com/mods/563569#PostsListModule</comments>
+      <guid isPermaLink="false">19e512d34395cad277872bb944d9a059c664896b</guid>
+      <pubDate>Sat, 21 Dec 2024 10:10:40 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67669402a1e36.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6766940512dfb.jpg"/&gt;&lt;br&gt;Disclaimer: This is a modification of the game “Super Mario Bros. Wonder” for Nintendo Switch. You need to have a copy of this game, and a Nintendo Switch console to play this modification. I do not endorse piracy, please buy the official Nintendo products. &lt;br&gt;&lt;br&gt;In order to be able to play it, you need to install the Custom Firmware Atmosphère. After you have installed Atmosphère, you will need to copy the “romfs”-folder to: "atmosphere/contents/010015100B514000/".&lt;br&gt;&lt;br&gt;Level Information:&lt;br&gt;&lt;br&gt;Level Creator(s): Vadenimo&lt;br&gt;Special Thanks: NicTube, fruityloops &amp; WonderLand Discord server&lt;br&gt;Release Date: December 24, 2024&lt;br&gt;Level Name:&lt;br&gt;- English (USA / UK): Spookshine Swamp&lt;br&gt;- German / Deutsch: Gespenstischer Sumpf&lt;br&gt;- Japanese / 日本語: スプークシャイン・スワンプ&lt;br&gt;&lt;br&gt;This level replaces the level “Angry Spikes and Sinkin' Pipes” of World 1 : Pipe-Rock Plateau.</description>
+      <media:content url="https://files.gamebanana.com/mods/spookshine_swamp.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Hurry, Hurry! Watch for Whacked Ice (Custom Level)</title>
+      <author>NicoDee</author>
+      <link>https://gamebanana.com/mods/561477</link>
+      <comments>https://gamebanana.com/mods/561477#PostsListModule</comments>
+      <guid isPermaLink="false">fdf7e701840f87cfb11477b7a36d092d961bdac2</guid>
+      <pubDate>Tue, 10 Dec 2024 19:26:18 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/675895a6c2b10.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/675895a6bb6a1.jpg"/&gt;&lt;br&gt;A custom level inspired by New Super Luigi U, with a 100 second time limit. Goes over Outmaway Valley.</description>
+      <media:content url="https://files.gamebanana.com/mods/hurry_hurry_watch_for_whacked_ice.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Shy Guy [Request Delivery]</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/558719</link>
+      <comments>https://gamebanana.com/mods/558719#PostsListModule</comments>
+      <guid isPermaLink="false">28d93e624fff9b4c1cb94862c08214186e44fb72</guid>
+      <pubDate>Sat, 30 Nov 2024 14:36:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67472cf35cca9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472cf69140c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d043947e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d0574f9f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d05d7663.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d05e32f7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d05ea9a9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d064fdf4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d072f141.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d07846b2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d07cfdfb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d08127df.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d081a46f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d088907d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d0899b8a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d089f650.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d08dd93b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d08f0930.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d0911fe7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d094551f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09b7899.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09b0824.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09c930d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09ce59a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09d17b3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09cc431.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09c3642.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d09e508b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67472d0a0335e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/674b2273011ac.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Elephant Power-up Fixed&lt;br&gt;&lt;p&gt;Fixed the elephant form world model not loading. &lt;br&gt;Texture was too high res (512x512) , resized to original (256x256)&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1 class="SelectedElement"&gt;&lt;span class="RedColor"&gt;Shy Guy &lt;/span&gt;finally joins SMB Wonder.&lt;/h1&gt;This mod brings 2 Shy guy's complete sets over Toads, including all power-ups and forms.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Blue Toad&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;Yellow --&gt;&gt; White (Fire Flower Power Up) --&gt;&gt;Green (Bubble Flower Power Up)--&gt;&gt; Purple( Drill Power Up)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Yellow Toad&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;Red --&gt;&gt; Black (Fire Flower Power Up) --&gt;&gt; Pink (Bubble Flower Power Up)--&gt;&gt; Light Blue( Drill Power Up)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Includes&lt;/u&gt;&lt;/b&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Mini Form&lt;/li&gt;&lt;li&gt;Balloon&lt;/li&gt;&lt;li&gt;Ghost Form&lt;/li&gt;&lt;li&gt;Slime Form&lt;/li&gt;&lt;li&gt;Elephant Form&lt;/li&gt;&lt;li&gt;UI (Icons, Character Select Images, Checkpoint and Goal Flags)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;span class="RedColor"&gt;&lt;b&gt;I'll upload the mod later to add the text name when i find the files.&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Mod requested by &lt;a href="https://gamebanana.com/members/2155476"&gt;LadyJade90&lt;/a&gt;  &lt;a href="https://gamebanana.com/requests/54783"&gt;here&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/shy_guyv3.rar" type="application/vnd.rar"/>
+      <category>Toad</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>WarioWare Wonder #1: Kat Over Mario</title>
+      <author>Behon</author>
+      <link>https://gamebanana.com/mods/559250</link>
+      <comments>https://gamebanana.com/mods/559250#PostsListModule</comments>
+      <guid isPermaLink="false">839f33632bf0a76ce63054e85bf63215f49cdd3c</guid>
+      <pubDate>Sat, 30 Nov 2024 01:18:15 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/674a677d161c6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/674a677d1103c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/674a677d1b65b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/674a677d09841.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/674a677d13cb4.jpg"/&gt;&lt;br&gt;The first in what will eventually be 2 full modpacks replacing all playable characters bar Yoshi and Nabbit with ones from my favorite Mario spinoff series.&amp;nbsp; I originally intended to wait until everyone was done and release it all at once back in September or October, but school and some unexpected freelance opportunities pushed that plan back, so I've decided to release each individual mod as they are finished and then 2 organized packs when fully done.&lt;br&gt;&lt;br&gt;Includes full model and texture replacements for all main power-up forms, as well as expressions and poses, voice clips from the Switch WarioWare entries, UI icons, and flag patterns.&amp;nbsp; There are a scattered few voice clips for Wonder transformations and the "It's-a me" at the character select screen I still haven't found, and there might be a one-off Wonder transformation I missed, but I'll be revisiting this over time to finalize that.</description>
+      <media:content url="https://files.gamebanana.com/mods/warioware_wonder_-_kat_over_mario.zip" type="application/zip"/>
+      <category>Mario</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>Coloured Elephants For Mario, Luigi and Blue Toad</title>
+      <author>CosmicKirby64</author>
+      <link>https://gamebanana.com/mods/558786</link>
+      <comments>https://gamebanana.com/mods/558786#PostsListModule</comments>
+      <guid isPermaLink="false">1a4e09f1d8f5a0337e7e4723d7baaf28abe45a3d</guid>
+      <pubDate>Wed, 27 Nov 2024 21:10:36 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67478a3fd127d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67478a4787c7b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67478a4c25fee.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67478a5047ad4.jpg"/&gt;&lt;br&gt;This mod gives Mario, Luigi and Blue Toad A new retexture which changes the Elephant skin to resemble there color pallets similar to how Peach, Yellow Toad, Daisy and Toadette's elephant forms skin color is different to resemble there color palette so this mod is just A simple change to change the elephant skin color for Mario, Luigi, and Blue Toad to resemble there color palette.&lt;br&gt;&lt;br&gt;&lt;b class="SelectedElement"&gt;Should work on both 1.0.0 and 1.0.1 versions&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/coloured_elephants.rar" type="application/vnd.rar"/>
+      <category>Characters</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>(DEMO) SMB. Nekonder</title>
+      <author>KaizoUP team</author>
+      <link>https://gamebanana.com/mods/557396</link>
+      <comments>https://gamebanana.com/mods/557396#PostsListModule</comments>
+      <guid isPermaLink="false">e2af5296d8e32e4e364ba88537ec8143e6b6e65b</guid>
+      <pubDate>Thu, 21 Nov 2024 21:51:52 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/673fa89f658d8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673faa6fd76d4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673faaa7095a9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673faac9c2a1f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673faade7355c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673faaf953789.jpg"/&gt;&lt;br&gt;this is a &lt;b&gt;DEMO that&lt;/b&gt;&lt;span class="SelectedElement"&gt;&lt;b&gt;&amp;nbsp;it's aviable only the W1 WITHOUT THE BOSS. &lt;/b&gt;This is a&lt;/span&gt;&amp;nbsp;wonder/Kaizo adventure inspired by the superstar mod for Super Mario Odyssey where every level is harder than normal, only using your skills you can save the flower kingdom!&lt;br&gt;LINKS:&lt;br&gt;&lt;br&gt;&lt;a href="https://nekopazzo.github.io/KaizoUP-Team/home.html" target="_blank"&gt;https://nekopazzo.github.io/KaizoUP-Team/home.html&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a class="anchor_af404b anchorUnderlineOnHover_af404b" href="https://youtube.com/@smbnekonder" rel="noreferrer noopener" target="_blank" title="https://youtube.com/@smbnekonder" role="button" tabindex="0"&gt;https://youtube.com/@smbnekonder&lt;/a&gt;&lt;br&gt;&lt;br&gt;Create by: Nekoo &amp;amp; KAZUTO</description>
+      <media:content url="https://files.gamebanana.com/mods/nekonder.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Vegeta</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/556710</link>
+      <comments>https://gamebanana.com/mods/556710#PostsListModule</comments>
+      <guid isPermaLink="false">861ddbaf6e2014d1874764a9b36d3f1bc4432359</guid>
+      <pubDate>Mon, 18 Nov 2024 17:21:41 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/673b7731b5a90.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b7739063ef.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773807501.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b7739885b6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773a027af.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773969a06.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b7739f3655.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773a604db.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773a6f1a3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773a83b5d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773a7cc43.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773aa715a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773abfa2a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773aca398.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773acd9e9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773ad640f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773aeb613.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773adb4f1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773af1928.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673b773aeef87.jpg"/&gt;&lt;br&gt;This mod brings the prince of Saiyans, Vegeta to SMB Wonder.&lt;br&gt;&lt;br&gt;Includes:&lt;br&gt;&lt;ul&gt;&lt;li&gt;UI&lt;/li&gt;&lt;li class="SelectedElement"&gt;Chibi and World Models&lt;br&gt;&lt;/li&gt;&lt;li&gt;Base Form&lt;/li&gt;&lt;li&gt;Super Saiyan Form (Fire Power-up)&lt;/li&gt;&lt;li&gt;Super Saiyan Blue Form (Bubble Power-up)&lt;/li&gt;&lt;li&gt;Ultra Ego Form (Drill Power-up)&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/vegeta_0b8dc.rar" type="application/vnd.rar"/>
+      <category>Luigi</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>P-Speed Jump/3rd Jump Tier</title>
+      <author>TotalStache</author>
+      <link>https://gamebanana.com/mods/556611</link>
+      <comments>https://gamebanana.com/mods/556611#PostsListModule</comments>
+      <guid isPermaLink="false">d7788a120b4f3a707d9e8c0602e855aa95174958</guid>
+      <pubDate>Mon, 18 Nov 2024 01:37:37 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/673a98010a9ff.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673a987964313.jpg"/&gt;&lt;br&gt;In Super Mario Bros. 3 and Super Mario World, when you're moving/walking, you could jump 5 blocks high, and at max speed, you could jump 6 blocks high, but in Wonder, even if you're running at max speed, you'll jump 5 blocks, so there is no jump height difference when walking or running at max speed. But with this mod, you can now get that extra block of height when at max speed, and this doesn't affect any of the other standard jump heights, so standstill/spin jump will still be 4 blocks, and walking/moving will still be 5 blocks. This mod works with the floaty high jump badge as well, so the max running speed jump is 7 blocks for this badge. The crouch jump badge charge-up timer has been slightly reduced, and the timed high jump badge can now go one block higher (7 blocks) to compensate for the base moveset having a buff. Enemy bounces have been made one block higher as well, just like the old games (6 blocks and 7 blocks for the floaty jump badge).&lt;br&gt;&lt;br&gt;This mod works on all characters.</description>
+      <media:content url="https://files.gamebanana.com/mods/p-speedjump_092b1.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Custom Level: Pokipede Rock-Pass</title>
+      <author>Vadenimo</author>
+      <link>https://gamebanana.com/mods/556589</link>
+      <comments>https://gamebanana.com/mods/556589#PostsListModule</comments>
+      <guid isPermaLink="false">c57750c0d5eef2f7be54d39dbaac6477f3443732</guid>
+      <pubDate>Sun, 17 Nov 2024 23:23:16 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/673a7ad7dd760.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673a7ada900d5.jpg"/&gt;&lt;br&gt;This level replaces "Upshroom Downshroom" from Fungi Mines.&lt;br&gt;&lt;br&gt;This level is playable on every version.&lt;br&gt;&lt;br&gt;Multiple-language level names: &lt;br&gt;&lt;br&gt;English: Pokipede Rock-Pass&lt;br&gt;Deutsch / German: Ein steiniger Weg voller Schlängler&lt;br&gt;日本語 / Japanese: 蛇だらけの岩の道&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/pokipede_rock-pass.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Oops All Break Time (18 New Mini Stages)</title>
+      <author>Getlucky12341</author>
+      <link>https://gamebanana.com/mods/555550</link>
+      <comments>https://gamebanana.com/mods/555550#PostsListModule</comments>
+      <guid isPermaLink="false">222d0091ee1b99fbf342b632d730a0bd20440aa5</guid>
+      <pubDate>Thu, 14 Nov 2024 01:43:38 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6736a18034814.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673554eb9e639.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673554ee7b574.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/673554f1a1ab4.jpg"/&gt;&lt;br&gt;Oops All Break Time is a small 1 World mod I'm working on that adds 18 brand new Mini "Break Time" Stages in World 1. They're short 1 minute stages with the goal of showing off cool ideas that you might not have seen in vanilla Mario Wonder.&#13;
+Across these 18 stages you'll find puzzles, Yoshi levels, unexpected game mechanics, and more! Can you collect all 20 Wonder Seeds?&lt;br&gt;&lt;br&gt;Make sure you play on a fresh save file, you have to start a new game or else things will break&lt;br&gt;&lt;br&gt;:Special Thanks:&lt;br&gt;&lt;br&gt;-Manu77 for putting the Captain Toad model over Yellow and Blue Toad&lt;br&gt;&lt;br&gt;-Rimea for making very helpful Mario Wonder mod videos&lt;br&gt;&lt;br&gt;-Everyone in the WonderLand Discord Server&lt;br&gt;&lt;br&gt;VERSION 1.1 Released, fixes the crash in March of the Toads</description>
+      <media:content url="https://files.gamebanana.com/mods/oops_all_break_time_11_by_getlucky12341.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Custom Level: Evade Baboom's Timer Blocks!</title>
+      <author>Vadenimo</author>
+      <link>https://gamebanana.com/mods/554746</link>
+      <comments>https://gamebanana.com/mods/554746#PostsListModule</comments>
+      <guid isPermaLink="false">5206196df02fa4731fee5d9a2a61ba2631630ec0</guid>
+      <pubDate>Sun, 10 Nov 2024 13:30:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6730b4d1241c4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6730b4d4ef1e8.jpg"/&gt;&lt;br&gt;It replaces "&lt;a href="https://www.mariowiki.com/Evade_the_Seeker_Bullet_Bills!" title="Evade the Seeker Bullet Bills!"&gt;Evade the Seeker Bullet Bills!&lt;/a&gt;" in Castle Bowsers levels. The level contains three purple 10 coins and one Wonder effect.&lt;br&gt;&lt;br&gt;Playable on the newest version on the Nintendo Switch. It also contains German, English and Japanese level names.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/evade_baboom_s_timer_blocks_.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Banana 10 Coins (Donkey Kong Country)</title>
+      <author>Behon</author>
+      <link>https://gamebanana.com/mods/554581</link>
+      <comments>https://gamebanana.com/mods/554581#PostsListModule</comments>
+      <guid isPermaLink="false">3c6334d9ae5481a19e7f9b6f3902ab3321af979c</guid>
+      <pubDate>Sat, 09 Nov 2024 16:57:50 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/672f9455dd7d7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/672f9455645d3.jpg"/&gt;&lt;br&gt;Just thought it'd be a fun quick exercise to replace simple object models rather than rigged characters and also thought it would be fun to have different collectibles from different games.&amp;nbsp; Includes custom textures and UI icons.&lt;br&gt;&lt;br&gt;Model used:&amp;nbsp;https://www.models-resource.com/wii_u/donkeykongcountrytropicalfreeze/model/58209/</description>
+      <media:content url="https://files.gamebanana.com/mods/banana_coin.zip" type="application/zip"/>
+      <category>Items</category>
+      <category>Items</category>
+    </item>
+  </channel>
+</rss>
