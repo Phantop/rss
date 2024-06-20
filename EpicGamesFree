@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Knightica</title>
+      <author>Goblinz Studio SAS</author>
+      <link>https://store.epicgames.com/en-US/p/knightica-3be45c</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/knightica-3be45c</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Recruit units, place them strategically, and find the synergies in this Roguelike AutoBattler!
+Knightica lets you guide a warband through challenges to free the Kingdoms.
+Discover combinations, weave powerful enchants, face dangerous monsters, and lead your army to victory!</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1xc3d.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-aqy9g.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1ibrb.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-11a8u.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-v0pin.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-14g79.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-olgo4.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1osqb.png#.image" type="image/*"/>
+    </item>
+  </channel>
+</rss>

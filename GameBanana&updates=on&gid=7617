@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Tears of the Kingdom</title>
+    <description>GameBanana - The Legend of Zelda: Tears of the Kingdom</description>
+    <link>https://gamebanana.com/games/7617</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/7617"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Tears of the Kingdom</title>
+      <link>https://gamebanana.com/games/7617</link>
+    </image>
+    <item>
+      <title>Zonai Fieldworks</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/739060</link>
+      <comments>https://gamebanana.com/mods/739060#PostsListModule</comments>
+      <guid isPermaLink="false">fca613cccd037b41fe5bc6143eb55a215d4c564b</guid>
+      <pubDate>Sat, 14 Nov 2026 04:00:33 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2ca97ad.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa536c053.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2ca9b3e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2caa9c2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2cb6445.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2cc9cf4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2caa509.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af3fa2caad8a.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Translations and Bug Fixes&lt;br&gt;&lt;p&gt;This update adds translations for any custom text for every language supported by the Switch. This fixes some bugs such as seeing "MsgNotFound" on the Remote Bombs. The downside to the language support is that the mod is now roughly 100 MiB.&lt;br&gt;&lt;br&gt;Other bug fixes:&lt;br&gt;- Cryonis aim labels now appear properly&lt;br&gt;- Champion icons disappear upon game over&lt;br&gt;&lt;s&gt;&lt;br&gt;Note: This version has &lt;/s&gt;&lt;strong&gt;&lt;s&gt;NOT &lt;/s&gt;&lt;/strong&gt;&lt;s&gt;been tested on Switch yet. At least not thoroughly. If you have any issues, go back to the previous version.&lt;/s&gt;&lt;br&gt;&lt;br&gt;Has now been fully tested on Switch for both 1.2.1 and 1.4.3. &lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h3&gt;Zonai Fieldworks&lt;/h3&gt;Eight of my mods in one download, for emulators and Switch. Each one normally takes up its own code slot, so running all of them leaves no room for anything else. This puts them all in one slot (&lt;code&gt;subsdk6&lt;/code&gt;) and adds a page to the ability wheel where you turn each one on or off while playing.&lt;br&gt;&lt;br&gt;The "all in one" includes:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/712703"&gt;Phantom Foothold&lt;/a&gt;&lt;/b&gt; - climb any surface&lt;ul&gt;&lt;li&gt;No buttons: every surface with collision is climbable, ceilings included.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/718323"&gt;Zonai Hookshot&lt;/a&gt;&lt;/b&gt; (with Arrowbound)&lt;ul&gt;&lt;li&gt;Hold &lt;b&gt;ZL + L&lt;/b&gt; to aim, &lt;b&gt;A&lt;/b&gt; to fire and zip to a climbable wall, &lt;b&gt;B&lt;/b&gt; to cancel.&lt;/li&gt;&lt;li&gt;Arrowbound: activate its emblem in Key Items, then shoot an arrow to ride it. &lt;b&gt;B&lt;/b&gt; lets go.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/719972"&gt;Fleet Sync&lt;/a&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Click both sticks beside a Steering Stick to make it the controller, then beside up to four identical vehicles to link them.&lt;/li&gt;&lt;li&gt;Hold both stick clicks for 1.5 seconds to clear the links.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/733845"&gt;Material Columns&lt;/a&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hold &lt;b&gt;D-pad Up&lt;/b&gt; and press &lt;b&gt;Y&lt;/b&gt; until Material Columns shows. The right stick picks a category, then up/down for an item in the category.&lt;/li&gt;&lt;li&gt;Materials from other mods can get their own category with an INI file: &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;guide for mod authors&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/726588"&gt;BotW Abilities&lt;/a&gt;&lt;/b&gt; - Stasis, Remote Bombs, Cryonis, Wolf Link and the Champions&lt;ul&gt;&lt;li&gt;Hold &lt;b&gt;L&lt;/b&gt; and tap &lt;b&gt;R&lt;/b&gt; for the second wheel page: Stasis, Remote Bombs (tap &lt;b&gt;L&lt;/b&gt; to set them off), Cryonis and Wolf Link.&lt;/li&gt;&lt;li&gt;Champions trigger on their own: Daruk on &lt;b&gt;ZL&lt;/b&gt;, Revali by holding jump through a landing, Urbosa on a charged spin attack, Mipha when your hearts run out.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/718525"&gt;Bivouac&lt;/a&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Eat a Hearty Truffle, Big Hearty Truffle or Big Hearty Radish while climbing to build a camp.&lt;/li&gt;&lt;li&gt;Press &lt;b&gt;A&lt;/b&gt; on a camp in the map to travel there. Hold &lt;b&gt;ZL + ZR&lt;/b&gt; and tap &lt;b&gt;D-pad Left&lt;/b&gt; near one to take it down.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/715735"&gt;Self Recall&lt;/a&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Hold &lt;b&gt;ZL + R3&lt;/b&gt; for a second to rewind Link through his last 64 seconds. &lt;b&gt;B&lt;/b&gt; stops.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/713365"&gt;Zonai Survey&lt;/a&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Press &lt;b&gt;ZL + D-pad Up&lt;/b&gt; to scan the landscape and show collectibles with names and icons.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;Each mod works the same as its own release, so check its page for the controls. You either get the all in one or get the separate mods, using both at once will cause issues.&lt;br&gt;&lt;br&gt;&lt;h3&gt;How to use&lt;/h3&gt;Everything starts &lt;b&gt;off&lt;/b&gt;. Hold L to open the ability wheel and tap R until you get to the Fieldworks page, then release on a mod's icon to switch it. Your choices are saved in &lt;code&gt;ZonaiFieldworks/settings.txt&lt;/code&gt; on the SD card.&lt;br&gt;&lt;br&gt;Turning a mod off removes whatever it put in the world (bombs, Cryonis pillars, Wolf Link, your camps and their map markers). Camps come back when you turn Bivouac on again.&lt;br&gt;&lt;br&gt;&lt;b&gt;Phantom Foothold is the exception:&lt;/b&gt; its switch only affects areas loaded after you flip it, so fast travel or enter a shrine to see the change.&lt;br&gt;&lt;br&gt;&lt;h3&gt;Install&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;TotK &lt;b&gt;1.2.1&lt;/b&gt; or &lt;b&gt;1.4.3&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Emulator: extract the &lt;code&gt;Zonai Fieldworks&lt;/code&gt; folder into your emulator's mod folder for the game.&lt;/li&gt;&lt;li&gt;Switch: copy the &lt;code&gt;0100F2C0115B6000&lt;/code&gt; folder from the Switch download into &lt;code&gt;atmosphere/contents&lt;/code&gt; on your SD card. Keep its &lt;code&gt;main.npdm&lt;/code&gt;, a bigger one from another mod leaves the game short on memory.&lt;/li&gt;&lt;li&gt;Ryujinx/Ryubing: use the Switch download. Put its &lt;code&gt;exefs&lt;/code&gt; and &lt;code&gt;romfs&lt;/code&gt; folders into a new folder in the game's mod folder.&lt;/li&gt;&lt;li&gt;Disable the standalone versions of the eight mods above, and any other mod that uses &lt;code&gt;subsdk6&lt;/code&gt;.&lt;/li&gt;&lt;li&gt;This ships its own &lt;code&gt;ResourceSizeTable&lt;/code&gt; (RESTBL) for each game version. If you use other mods with one, merge them with a mod manager.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Get these separately&lt;/h3&gt;These two are patch files, not code mods, so they are not in Fieldworks and don't use a code slot. They work alongside it.&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/734679"&gt;Ultimate Ascend&lt;/a&gt;&lt;/b&gt; - Ascend down through floors to the Depths, and through glued platforms. All versions from 1.0.0 to 1.4.3.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;a href="https://gamebanana.com/mods/722145"&gt;Drive-by&lt;/a&gt;&lt;/b&gt; - use your bow, weapons and shield while holding a Steering Stick. 1.2.1 only.&lt;/li&gt;&lt;/ul&gt;Source and the full README: &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/zonai-fieldworks" target="_blank"&gt;github.com/afiaka87/totk-mods&lt;/a&gt;. Uses exlaunch by shadowninja108.&lt;br&gt;&lt;br&gt;&lt;b&gt;AI Disclaimer&lt;/b&gt;&lt;br&gt;&lt;br&gt;This mod was built with thel help of Claude Fable 5.2.</description>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v080-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v081-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v093-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v094-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v094-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v098-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v099-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v0915-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-fieldworks-v0915-emulator-subsdk6.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Ordeal of the Demon King</title>
+      <author>- Tarnagh -</author>
+      <link>https://gamebanana.com/mods/712592</link>
+      <comments>https://gamebanana.com/mods/712592#PostsListModule</comments>
+      <guid isPermaLink="false">0fec021c7b495b2c6503c4478fe61dcbdfddf78e</guid>
+      <pubDate>Fri, 13 Nov 2026 20:16:25 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8e02dee7d8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd4486bca.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd44959b4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd449830e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad8dd44c12aa.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; v3.3.0&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Phantom Ganon's position changed&lt;br&gt;&lt;em&gt;Tweak&lt;/em&gt;: Ganondorf's behavior tweaked&lt;br&gt;&lt;em&gt;Optimization&lt;/em&gt;: No wildlife spawns when duelling&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;em&gt;Created by &lt;strong&gt;Tarnagh&lt;/strong&gt;. Bow model and texture by &lt;strong&gt;The Hidden Yiga Clan&lt;/strong&gt;.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h2&gt;Ordeal of the Demon King&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"You have faced monsters, Dragons, and gods. But have you ever stood before the Demon King himself?"&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Ganondorf stands, and he is waiting for you. Not for a battle. He has watched the bearer of the Master Sword from afar, counted his victories, and now he intends to find out for himself whether the hero is worth anything at all.&lt;br&gt;&lt;br&gt;&#13;
+This is a full quest line: dialogue, choices that stick, a duel of his choosing, three commissions that end with weapons no one else in Hyrule can give you - and, for those who survive him, paths no one else can open.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Demon King&lt;/h2&gt;&#13;
+&#13;
+He offers you a choice.&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Kneel.&lt;/strong&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Or refuse.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#13;
+Choose carefully. The Demon King does not offer his mercy twice.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Ordeal&lt;/h2&gt;&#13;
+&#13;
+Those who bow before him earn something granted to almost no one: the chance to prove themselves in single combat, against an opponent he picks personally.&lt;br&gt;&lt;br&gt;&#13;
+Survive, and he will admit - grudgingly, in his own way - that you are more than another hero clinging to a dying world. Refuse the duel, and the ordeal ends where it began, beneath his gaze.&lt;br&gt;&lt;br&gt;&#13;
+The moment you accept, the sky turns the red of a Blood Moon, an unseen wall closes around the ground he has chosen, and his Phantom rises to face you - its name and its strength written across the top of your screen. Nothing else living is allowed inside: this is a duel, not a hunt. Try to run, and the ground itself will bring you back.&lt;br&gt;&lt;br&gt;&#13;
+He does not sit this one out. He watches from inside the circle, in the stance he takes before he strikes - and he will be watching until one of you falls.&#13;
+&#13;
+&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The King's Will&lt;/h2&gt;&#13;
+&#13;
+A proven hero is a useful hero, and the Demon King has work.&lt;br&gt;&lt;br&gt;&#13;
+His first commission sends you after the horns of three Silver Lynels, thirty of Naydra's spikes, and a horn taken from the Light Dragon herself. Bring them, and he will forge you a bow out of them, by hand, in front of you.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;"Watch closely as their fragile light is consumed by my darkness."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+And the world answers him. While he forges, gloom boils up around him and the sky and earth turn the red of a Blood Moon - and when the rite is done, the colour drains away again.&lt;br&gt;&lt;br&gt;&#13;
+The bow he hands over is not an ordinary one. Frost clings to it and never melts, it throws a faint light of its own, and it will outlast anything in your pack. &lt;strong&gt;And its arrows freeze.&lt;/strong&gt; Not once, not while a material is fused to them - always.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;Read that twice before you install:&lt;/em&gt; there is exactly one arrow actor in the game, so &lt;strong&gt;every arrow you loose, from any bow, leaves winter behind it&lt;/strong&gt;. That is the price of the Demon King's gift, and it is paid by your whole quiver.&lt;br&gt;&lt;br&gt;&#13;
+But do not mistake his favour for friendship. You serve his purpose for exactly as long as you remain useful.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Horn of the Demon King&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"Take this. A horn of my true form. A manifestation of the doom that awaits this fragile world."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Come back to him carrying his bow and he will ask more of you - if you are willing to hear it.&lt;br&gt;&lt;br&gt;&#13;
+This time he wants the horns of all three elemental Dragons, and two from the Light Dragon. What he makes of them is not a weapon but a piece of one: &lt;strong&gt;a shard of the form he has not yet taken&lt;/strong&gt;, fused from their elemental essence and his own dark magic.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Fuse it to anything you like:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;+90 attack&lt;/strong&gt; - well past anything the base game offers&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Fire in every form&lt;/strong&gt; - it sets what it strikes alight, explodes in flame, keeps you warm, and does not go out&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Shatters armour&lt;/strong&gt;, fells trees, and throws further&lt;/li&gt;&#13;
+  &lt;li&gt;Shield's features: &lt;strong&gt;guard bonus, perfect-parry bonus, shield bash and counter&lt;/strong&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+It cannot be sold. Some things are not for rupees.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Thunderstorm Spear&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"There was a spear, warrior. I wielded it before this world learned to fear me."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Bring him the horn and he will ask once more - and this time it is not a trophy he wants rebuilt, but a weapon he carried before Hyrule had a name for him. Thirty shards from Farosh's spikes, four saber horns from the silver lynels, and the horn of the Light Dragon again.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;"Stand back. Let the heavens bear witness."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+What he returns to you is the &lt;strong&gt;Thunderstorm Spear&lt;/strong&gt;:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;45 attack&lt;/strong&gt;, and a reach half again past any spear in the game&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;It comes back.&lt;/strong&gt; Throw it and it returns to your hand - and it does not shatter on whatever it hits on the way&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Lightning in every form&lt;/strong&gt; - it electrifies what it strikes, bursts in a shock, and never runs dry&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Guard bonus and perfect-parry bonus&lt;/strong&gt;, an expanded shockwave, a faster charge, and warmth in the cold&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Breaks a guard at 80&lt;/strong&gt; - more than two times what it was&lt;/li&gt;&#13;
+  &lt;li&gt;Iron, and no one told the sky. Carry it into a storm and see what comes looking for it&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;No hand holds it.&lt;/strong&gt; It rides at Link's side, a little above and apart, point turned ahead - and it swings, throws and returns without ever being gripped&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+It is a spear, so it is fast; it is his, so it is far too strong for one. And it was never made to be carried: the Demon King's storm does not ask to be held.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Forged Anew&lt;/h2&gt;&#13;
+&#13;
+Weapons break, and he knows it. Come back without the bow, without the horn, or without the spear, and he will say what he thinks of you - and then take the materials again.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;em&gt;"Did the storm prove too much for your grip? It answered to me long before it ever answered to you."&lt;/em&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Demon King's Path&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"Name a place, then the ground between here and it will cease to matter."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Once his trial is behind you and his first commission given, your conversations with him can end with a request: &lt;strong&gt;open a way for me&lt;/strong&gt;. He answers with the same dark rite he forges with - and then the world folds, and you are somewhere else.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Seven places, some of them closed to you any other way:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Old Throne Room&lt;/strong&gt; - the Sanctum in Hyrule Castle&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Floating Coliseum&lt;/strong&gt; - five Lynels, and the Depths all around&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Thunderhead Isles&lt;/strong&gt; - the storm that hides the relics of the Zonai&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Imprisoning Chamber&lt;/strong&gt; - the very tomb of the prologue, where he was sealed&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath Hyrule Castle&lt;/strong&gt; - Gloom's Approach, the heart of his malice&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath the World&lt;/strong&gt; - below the Depths themselves, where there is nothing at all&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Western Plateau&lt;/strong&gt; - ground beyond the walls Hyrule raised to keep its world small&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+A few words of warning, because he will not give you any:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;In the &lt;strong&gt;Imprisoning Chamber&lt;/strong&gt;, do not walk on towards the Demon King's own cutscene. Leave the way you would leave anywhere else - by the map.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath the World&lt;/strong&gt; means exactly that. You may arrive on gloom - do not let it take away your life. &lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Features&lt;/h2&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Demon King:&lt;/strong&gt; Ganondorf as he ought to be - imposing, calculating, merciless, and worthy of his title. His words are written in red.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Choices that stick:&lt;/strong&gt; what you say to him is remembered across saves, and he remembers it too.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The King's Trial:&lt;/strong&gt; a duel against an opponent he chooses for you - under a Blood Moon sky, inside a circle you cannot leave, with a boss's life gauge, and with the Demon King watching in his own battle stance.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;His Wrath:&lt;/strong&gt; strike him, shoot him or bomb him outside the duel, and he answers with a line of his own - and your death.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Nothing is a dead end:&lt;/strong&gt; every commission can be taken again if what he made is gone, and the hand-in is the same rite - not a copy of it.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Three commissions:&lt;/strong&gt; hunt across Hyrule for materials no shop sells, and watch him forge them by hand - gloom, sound and a blood-red sky included. Lose what he made and he will forge it again.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Three unique rewards:&lt;/strong&gt; a bow whose arrows always freeze, the Horn of the Demon King, and the Thunderstorm Spear - which no hand holds.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Demon King's Road:&lt;/strong&gt; seven destinations across the surface, the sky, the Depths, and places the game never meant you to reach.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;No new NPC clutter:&lt;/strong&gt; one existing character carries the whole thing. The only other change to the world around him: two wolves step aside, and nothing else alive enters the circle while you fight.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Technical Specifications&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;For developers and modders:&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Host actor:&lt;/strong&gt; &lt;em&gt;Npc_BaseCampSoldier_Hylia005&lt;/em&gt; - renamed, re-scripted, and given Ganondorf's pack. No new actor is registered.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Quest logic:&lt;/strong&gt; EventFlow, in his own flowchart - branches, talk choices, pouch queries and autosaves.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Map logic:&lt;/strong&gt; two Logic modules (AINB) of the mod's own, cloned node by node from vanilla ones. One returns a player who leaves the duel through a vanilla warp event. The other watches an area at his feet on the &lt;em&gt;PlayerAttack&lt;/em&gt; layer (and one for bombs) and opens his own conversation through his vanilla &lt;em&gt;EventSetting&lt;/em&gt; row.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The duel ring:&lt;/strong&gt; &lt;em&gt;AirWallForBossBattleField&lt;/em&gt; - the only wall that holds when placed by a mod - with its visible effect switched off. Wildlife is kept out by a vanilla &lt;em&gt;ForbidAutoPlacementAreaOnlySphere&lt;/em&gt;, present only during the duel.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;His battle stance:&lt;/strong&gt; a private animation graph - a copy of the Hylian male graph with the boss's &lt;em&gt;Default_Lockon_Wait&lt;/em&gt; cloned in - selected by a &lt;em&gt;ConditionalSchedule&lt;/em&gt; on the duel flag.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Persistence:&lt;/strong&gt; ten booleans appended to &lt;em&gt;GameDataList&lt;/em&gt;, with &lt;em&gt;MetaData&lt;/em&gt; resized to match so they actually reach &lt;em&gt;progress.sav&lt;/em&gt;. They are appended, never inserted, so an existing save keeps every field where it was. Two more live only within a session and are never saved.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Dialogue:&lt;/strong&gt; Mals, built from genuine vanilla 1.2.0 archives. His lines carry the inline red colour code; your choices stay white.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Teleportation:&lt;/strong&gt; &lt;em&gt;GameSystemActor.EventReserveBancChange&lt;/em&gt; by named start position. Two are vanilla (&lt;em&gt;OpeningStart&lt;/em&gt;, &lt;em&gt;StartPos_HyruleCastleIncident&lt;/em&gt;); five are added to the &lt;em&gt;MainField&lt;/em&gt; and &lt;em&gt;MinusField&lt;/em&gt; start-position tables. The menu is three steps of four choices - the most a single talk event can show.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Custom equipment:&lt;/strong&gt; Crystallized Ice Bow (&lt;em&gt;Weapon_Bow_166_For_Ganondorf&lt;/em&gt;), Horn of the Demon King (&lt;em&gt;Item_Enemy_39&lt;/em&gt;), Thunderstorm Spear (&lt;em&gt;Weapon_Spear_166&lt;/em&gt;, the Gloom Spear). All three are vanilla actors with rows in every registry - no new actor is registered anywhere.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Freezing arrows:&lt;/strong&gt; &lt;em&gt;NormalArrow&lt;/em&gt; gets the three fields that distinguish a Gleeok's ice beam from its ordinary one - &lt;em&gt;ChemicalType Ice&lt;/em&gt;, &lt;em&gt;DamageElements [Ice]&lt;/em&gt;, &lt;em&gt;InitialIceMagic&lt;/em&gt; - each in a file of the mod's own name, with a private parameter table. Tulin's arrow, which inherits from it, is pinned to the vanilla table. &lt;strong&gt;It is the only arrow actor in the game, so this affects every bow.&lt;/strong&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Compatibility:&lt;/strong&gt; no file that other packs share by path is edited. A mod manager that rebuilds packs from shared files (TKMM) would otherwise carry such an edit into every other pack with that path - which is exactly how an earlier version froze King Gleeok's beams alongside &lt;em&gt;Depths of the Kingdom&lt;/em&gt;.&amp;nbsp;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The returning spear:&lt;/strong&gt; a boomerang in TotK is four things, not one - the &lt;em&gt;Boomerang&lt;/em&gt; subtype, &lt;em&gt;IsBreakByThrownAttack: false&lt;/em&gt;, an &lt;em&gt;Atk_Thrown&lt;/em&gt; collider, and the &lt;em&gt;Boommerang_Catch&lt;/em&gt; attention client (Nintendo's own spelling). All four are copied from &lt;em&gt;Weapon_Lsword_174&lt;/em&gt;; miss the last and the weapon will not even equip.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The spear that is not held:&lt;/strong&gt; its mesh is moved inside the model itself - sideways, up, and turned point-forward - because TotK gives a weapon offsets for crouching, riding, sheathing and standing, but none at all for the plain state of being in a hand. The sheathed pose has its own knob, &lt;em&gt;SheathTransOffset&lt;/em&gt;, so back and hand are set apart. The hit shapes stay in Phive where they were, so the spear strikes from the hand it never occupies.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Durability:&lt;/strong&gt; &lt;em&gt;MaxLife&lt;/em&gt; lives in two places - the registry row and the pack's own &lt;em&gt;LifeParameters&lt;/em&gt; - and the pack wins. Both are written, or nothing changes.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Resource table:&lt;/strong&gt; every entry the mod grows is recomputed and shipped.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;The Ordeal Awaits&lt;/h3&gt;&#13;
+&#13;
+&lt;em&gt;Stand before the Demon King. Prove your worth. And remember - he is the one deciding whether you deserve to live.&lt;/em&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ordeal_of_the_demon_king_164e5.zip" type="application/zip"/>
+      <category>Quests</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Armor Breaker Beam</title>
+      <author>moluo5126</author>
+      <link>https://gamebanana.com/mods/737860</link>
+      <comments>https://gamebanana.com/mods/737860#PostsListModule</comments>
+      <guid isPermaLink="false">6146422e1f59ba5e72c60845f58e2401d2f7a521</guid>
+      <pubDate>Fri, 13 Nov 2026 16:35:13 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af033dec63bb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af033e577364.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Armor Breaker Beam&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Added 12 and 24 damage versions of the Armor Breaker Beam&lt;br&gt;&lt;hr&gt;&lt;br&gt;This is a simple laser emitter mod. The laser can destroy enemy armor, and its damage is set to 50.</description>
+      <media:content url="https://files.gamebanana.com/mods/armor_breaker_beam.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/24_beam_e5732.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/12_beam.zip" type="application/zip"/>
+      <category>Misc</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>Linkle Icons - Fixed &amp; Expanded</title>
+      <author>VenomAhab</author>
+      <link>https://gamebanana.com/mods/739794</link>
+      <comments>https://gamebanana.com/mods/739794#PostsListModule</comments>
+      <guid isPermaLink="false">1874a939e1a19e6c8af21259f8168247fb19f145</guid>
+      <pubDate>Fri, 13 Nov 2026 00:27:59 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af6a952c1c41.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af7fae64e426.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af8095272dae.jpg"/&gt;&lt;br&gt;The Problem with the Original Mod:&lt;br&gt;If you tried the original mod, you probably noticed that most of the armor icons were completely invisible or transparent. This happened because the original BNTX texture files were saved incorrectly. They were exported as uncompressed RGBA8, 288x288 resolution, and with a linear tile mode. Tears of the Kingdom (and especially the PC Recompilation) strictly expects 256x256 ASTC_4x4 SRGB textures with a block-linear (swizzled) layout. Because of this mismatch, the game's UI simply couldn't read the files.&lt;br&gt;&lt;br&gt;What I Did:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Reconverted all 3,700+ icons: Every texture has been decompressed, resized to 256x256, re-encoded to ASTC 4x4, and properly swizzled. They now perfectly match vanilla file sizes, formats, and headers, so they load flawlessly without breaking the RSTB or causing memory issues.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Added missing icons: Many TotK-exclusive armor pieces didn't have Linkle icons in the original port. I've manually captured and added icons for these missing sets so they match the rest of the UI.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ongoing updates: There are still a few rare armor variants left to capture, but they will be added in future updates.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Second Quest Compatibility:&lt;br&gt;The original &lt;em&gt;Second Quest&lt;/em&gt; mod introduces new upgrade levels for armors (e.g., Level 2, 3, 4) that don't exist in the vanilla game. I have included a separate patch file for Second Quest. It ensures that all these new armor tiers automatically inherit the correct Linkle icons, so you don't get vanilla Link's face popping up when you upgrade your gear.&lt;br&gt;&lt;br&gt;Installation Notes:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Make sure to disable/delete the original &lt;em&gt;Linkle Icons 3.0&lt;/em&gt; mod to avoid file conflicts.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Place this mod (and the Second Quest patch, if you use it) above the Linkle Mod (And Second Quest mod) in your load order (TKMM or Recomp Mod menu).&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Tested primarily on the PC Recompilation (v1.4.3), but should work on emulators as well.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Note on AI usage: The Python scripts used for converting, resizing, and patching the BNTX icons in this mod were developed with the assistance of Claude (Anthropic) AI. All the artistic work (the icons themselves) and the final technical testing was done manually.&lt;br&gt;&lt;br&gt;Credits:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Original &lt;em&gt;Linkle 3.0 Icons&lt;/em&gt; mod by the original creator.&lt;br&gt;&lt;a href="https://gamebanana.com/mods/647007"&gt;Linkle 3.0 Icons Mod for The Legend of Zelda: Tears of the Kingdom | TOTK Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Linkle&lt;/em&gt; model and textures by the respective modding teams.&lt;br&gt;&lt;a href="https://gamebanana.com/wips/80967"&gt;The Linkle Mod [DOWNLOAD] Work In Progress for The Legend of Zelda: Tears of the Kingdom | TOTK Works In Progress&lt;/a&gt;&lt;br&gt;&lt;br&gt;• "Tool" mod used by  &lt;a class="MemberLink" href="https://gamebanana.com/members/1782454" data-id="member_1782454"&gt;&lt;img loading="lazy" src="https://images.gamebanana.com/img/upic/655f91f00a522.png" alt="Aster uPic" class="Upic"&gt;&lt;indicator class="Online"&gt;&lt;/indicator&gt;&lt;/a&gt;&lt;a href="https://gamebanana.com/members/submissions/contributions/1782454" class="CreditsLink" aria-label="Contributions"&gt;&lt;spriteicon class="SubnavigatorIcon ContributionsIcon"&gt;&lt;/spriteicon&gt;&lt;/a&gt;&lt;a href="https://gamebanana.com/mods/473451"&gt;Armor Icon Helper Tool Mod for The Legend of Zelda: Tears of the Kingdom | TOTK Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;dt class="AuthorsGroup"&gt;•Ai Claude (Anthropic)&lt;/dt&gt;&lt;dd class="AuthorsGroup"&gt;&lt;dl&gt;&lt;dd class="Author"&gt;AI Assistant for Python script development&lt;/dd&gt;&lt;/dl&gt;&lt;/dd&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/linkle_icons_-_fixed_expanded_v1_1.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/second_quest_patch_v1_1.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/linkle_icons_-_fixed_expanded.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/second_quest_patch.zip" type="application/zip"/>
+      <category>Inventory</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Fleet Sync</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/719972</link>
+      <comments>https://gamebanana.com/mods/719972#PostsListModule</comments>
+      <guid isPermaLink="false">f4ab7015ce26e7448e4897275db8d3dcdeca4e16</guid>
+      <pubDate>Thu, 12 Nov 2026 05:06:50 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab3763e02e85.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab3763e3c729.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab3763e427fb.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Support TotK v1.4.3&lt;br&gt;&lt;p&gt;Adds support for Tears of the Kingdom version 1.4.3 (emulator only, for now)&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Fleet Sync&lt;/h1&gt;&lt;h2&gt;Description&lt;/h2&gt;Fleet Sync lets you control several identical vehicles from one Steering Stick. Pick one vehicle to drive and link up to four others to it. They will receive the same steering input and correct their position and rotation to stay in formation. The driving vehicle is called hte controller, the others are all receivers. &lt;br&gt;&lt;br&gt;This is more of a concept than a fully fleshed out mod. There's likely to be tons of issues with it. But I'm having fun with the current iteration. Please leave constructive comments so I can fix issues and add new features. Some things won't be possible though. &lt;br&gt;&lt;br&gt;The original idea was to just pair two or more control sticks together - but due to all sorts of physics and non-determinism factors, that didn't pan out to the "synced fleet" I wanted. So the code also actively steers the receiver&lt;br&gt;&lt;br&gt;Currently, &lt;b&gt;all vehicles must be the same build&lt;/b&gt;. This may change in the future, but it was too unreliable in this iteration. So autobuilt copies are ideal. Start by placing them roughly side by side on level ground. Small placement differences will be straightened into a row. If you noticeably place a receiver ahead of or behind your vehicle, it will keep that arrangement instead.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Controls&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Stand beside your vehicle's Steering Stick and &lt;strong&gt;tap L3 + R3 together&lt;/strong&gt;, then release. This sets the controller.&lt;/li&gt;&lt;li&gt;Repeat beside another vehicle's Steering Stick to add it as a receiver. Different sounds confirm the controller and receiver selections.&lt;/li&gt;&lt;li&gt;Mount the controller and drive normally.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hold L3 + R3 for 1.5 seconds&lt;/strong&gt; to clear all links. I forget to do this all the time before a new fleet. Don't forget!&lt;/li&gt;&lt;/ul&gt;An negative sound means the selection was refused. (Remember, clear your links after you're done with old ones!)&lt;br&gt;&lt;br&gt;&lt;h2&gt;Known issues / limitations&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Hoverbikes and Wing+Fans are the main tested use case. &lt;/li&gt;&lt;li&gt;Vehicles work but quickly fall out of sync due to terrain and obstructions...&lt;/li&gt;&lt;li&gt;Haven't tested boats yet. &lt;/li&gt;&lt;li&gt;Haven't tested weapon/attack vehicles yet - excited to see what people do with this. &lt;/li&gt;&lt;li&gt;Bad starting positions, particularly in water, can still cause problems.&lt;/li&gt;&lt;li&gt;Receivers pass through trees, loose objects and characters while active so they don't constantly get left behind. They still collide with the ground and some scenery. Dismounting restores normal collision.&lt;/li&gt;&lt;li&gt;Clear and re-pair after changing a vehicle's parts.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Requirements&lt;/h2&gt;Requires Tears of the Kingdom &lt;strong&gt;1.2.1&lt;/strong&gt;. Confirmed working on Switch and in an emulator.&lt;br&gt;&lt;br&gt;Uses &lt;strong&gt;subsdk6&lt;/strong&gt;. Don't install another mod using that same slot.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Code and detailed README&lt;/h2&gt;MIT Licensed source code and a more detailed README are available &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/fleet-sync" target="_blank"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;The compiled mod also includes exlaunch, which retains its GPL-2.0 license.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;This mod was largely coded with the help of AI. In particular, models Fable and Astra. For an outline of how I use AI to make mods, see &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster"&gt;buy me a coffee&lt;/a&gt;! I provide the mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v022-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v022-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v024-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v024-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v031-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v032-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v032-switch.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Bivvy</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/718525</link>
+      <comments>https://gamebanana.com/mods/718525#PostsListModule</comments>
+      <guid isPermaLink="false">28888dd1b75f14947f0cc97cf3cc23bcd45e8bf8</guid>
+      <pubDate>Thu, 12 Nov 2026 05:05:19 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09b57a6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09d7056.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09a7bcb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09c3f05.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb095ebb2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb0955de3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb0a52eed.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Support TotK v1.4.3&lt;br&gt;&lt;p&gt;Adds support for Tears of the Kingdom version 1.4.3 (emulator only, for now).&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Bivouac (Bivvy)&lt;/h1&gt;&lt;h2&gt;Description&lt;/h2&gt;This mod lets you create platforms that can hang from walls, cliffs and even float above the water. &lt;br&gt;This mod is nowhere near finished but by putting it out there I can get some early feedback hopefully.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Instructions &lt;/h2&gt;For full instructions please see the &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/bivouac" target="_blank"&gt;README&lt;/a&gt;.&lt;br&gt;&lt;br&gt;To spawn a bivouac you must first be climbing on a surface or in sufficiently deep water. You must also be at least 160m away from other bivouacs (for cliff bivouacs). This can be discerned easily by checking the minimap for any nearby bivouac stamps (a moon icon). If you see none - you should be clear to spawn one at your location. &lt;br&gt;&lt;br&gt;&lt;h3&gt;Tiers&lt;/h3&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Tier 1: Spawns with a Hearty Truffle eaten while climbing or in water. Small platform with a cooking pot. &lt;/li&gt;&lt;li&gt;Tier 2: Spawns with a Big Hearty Truffle eaten while climbing or in water. Medium platform. &lt;/li&gt;&lt;li&gt;Tier 3: Spawns with a Big Hearty Radish eaten while climbing or in water. Large platform suitable for vehicle landing/take-off. Contains a "Beedle+" NPC who has valuable items to purchase. &lt;b&gt;NOTE: Selling your items to this NPC does NOT work. Don't try - it will break.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h3&gt;Warping&lt;/h3&gt;Once a bivouac has been placed, you can warp to it at anytime by going to the global map menu with the minus (-) button and selecting the crescent moon stamp at its location. &lt;br&gt;&lt;br&gt;&lt;h3&gt;Known Issues/Frustrations&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Sometimes warping to a bivouac will land you on terrain underneath the bivouac instead of on the platform itself. &lt;/li&gt;&lt;li&gt;Currently, placement of water bivouacs is too strict. If water isn't deep enough and far enough away from a shore, placement won't work. Also, bivouac's in the same body of water will tend to trigger the "proximity rejection" even if it is over the 160 m range. &lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Licensing&lt;/h2&gt;Mod is licensed under the MIT license as is its &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/bivouac" target="_blank"&gt;source code&lt;/a&gt;. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Opus and Sol were used during development. For an outline of how I use AI to make mods, see &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster"&gt;buy me a coffee&lt;/a&gt;! I provide the and mod and its software completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0260-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0260-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0261-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0261-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0263-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0263-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0270-emulator-subsdk7.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Zonai Hookshot</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/718323</link>
+      <comments>https://gamebanana.com/mods/718323#PostsListModule</comments>
+      <guid isPermaLink="false">77d797746523c1fd9cd6280e4c1a14cb6833a668</guid>
+      <pubDate>Thu, 12 Nov 2026 05:02:57 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac01ba492353.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ac01ba495aa1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fbae897.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Support TotK v1.4.3&lt;br&gt;&lt;p&gt;Adds support for Tears of the Kingdom 1.4.3. &lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Zonai Hookshot&lt;/h1&gt;&lt;h2&gt;Recent changes:&lt;/h2&gt;Activation is now &lt;b&gt;ZL + L&lt;/b&gt; (sorry this was inaccurate for awhile)&lt;br&gt;Added &lt;b&gt;Arrowbound&lt;/b&gt;. Enable by selecting the Arrowbound emblem in the main menu. &lt;b&gt;Shoot an arrow and you will paraglide along its trajectory&lt;/b&gt;. Disable via the same emblem. &lt;b&gt;Still in early alpha status. Only works with slower bows/arrows. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Description&lt;/h2&gt;Use Rauru's arm to activate a zonai-style "hookshot".&lt;br&gt;&lt;br&gt;&lt;h2&gt;Controls&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Hold &lt;b&gt;ZL + L&lt;/b&gt; (best to hold ZL first, then L) to enter aim mode. A green circle marks a wall the glideshot will accept. A red circle means it won't work.&lt;/li&gt;&lt;li&gt;Press &lt;b&gt;A &lt;/b&gt;to fire. The Zonai Hookshot draws to the target at once and Link follows. &lt;/li&gt;&lt;li&gt;Press &lt;b&gt;B &lt;/b&gt;at any point to let go.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Requirements&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Confirmed working on Switch. &lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Known issues&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Sometimes the target is missed by a bit or doesn't latch onto a climb when arriving.&lt;/li&gt;&lt;li&gt;Sometimes Link ends up inside a wall...&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Open source&lt;/h2&gt;Both this mod and its source code are fully open source and MIT licensed. You can find the source code &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/glideshot" target="_blank"&gt;here&lt;/a&gt;. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Coded with help from Opus, Sol. For an outline of how I use AI to make mods, see &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Credits&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;exlaunch by shadowninja108 and contributors.&lt;/li&gt;&lt;li&gt;doctest (MIT); devkitPro.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;buy me a coffee&lt;/a&gt;! I provide the mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v092-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v092-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v093-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v093-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v094-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v094-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v0104-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v0104-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0110-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0110-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0120-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0120-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0123-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0123-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0124-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0124-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-hookshot-v0125-emulator-subsdk5.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>BotW Abilities</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/726588</link>
+      <comments>https://gamebanana.com/mods/726588#PostsListModule</comments>
+      <guid isPermaLink="false">716cc0c7f3106ee810efb02c98d620c03c5b12f1</guid>
+      <pubDate>Thu, 12 Nov 2026 04:58:09 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee7d105151b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aee7cc42c071.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad846f1df1e9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad846f213948.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad846f25f3bb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acb8ef6c86e8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6adcdd3ac5bdf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acb8ef791359.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acb8ef791a94.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acb8ef732d57.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acb8ef60bdae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6acb8ef7d4e83.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Support for TotK 1.4.3&lt;br&gt;&lt;p&gt;Emulator only (for now).&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;BotW Abilities&lt;/h1&gt;&lt;br&gt;Adds &lt;b&gt;Stasis+, Cryonis and Remote Bombs&lt;/b&gt; from BotW to TotK. Also adds the champion abilities from BotW: &lt;b&gt;Urbosa's Fury, Revali's Gale, Mipha's Grace and Daruk's Protection&lt;/b&gt;. Also now adds &lt;b&gt;Wolf Link&lt;/b&gt;, a companion you could play with via an amiibo in BotW. &lt;br&gt;&lt;br&gt;&lt;i&gt;Note that these are &lt;b&gt;merely shoddy approximations of the original abilities&lt;/b&gt;. They &lt;b&gt;don't&lt;/b&gt; have the exact appearance and behavior of the originals. Also please respect that this is essentially an &lt;b&gt;alpha version&lt;/b&gt; of the mod. There will be bugs and the user experience isn't currently great. I intend to fix these things. &lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;How to use&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stasis&lt;/b&gt;: hold L1, then tap R1 and select Stasis from the second ability page to enter preview mode. Press A over an object to freeze it for ten seconds (enemies for five). Afterward, subsequent hits to objects will build momentum as it works in BotW. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Remote Bomb&lt;/b&gt;: The sphere and cube bomb now show at the front of your materials quick view and materials in the main menu. Hold, throw or fuse them to arrows. Tap L to detonate. Alternatively, select the from the second ability wheel by holding L1, then tapping R1 and selecting the bomb icon of choice. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Cryonis&lt;/b&gt;: hold L1, then tap R1 and select cryonis from the second ability page to activate preview mode. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Most abilities act like native TotK abilities - the most recent ability is accessed with a tap of "L".&lt;br&gt;&lt;br&gt;&lt;b&gt;Champions&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Revali's Gale&lt;/b&gt;:  Press jump once and hold the jump button. You'll see an effect charge underneath Link. Once it is fully charged, release jump. May use three times before recharge is needed. Recharge before collecting Tulin's Sage's Vow is 6 minutes, after it is 2 minutes.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Urbosa's Fury&lt;/b&gt;: Perform a charged weapon attack; the attack must be charged not just once but twice. All enemies in the surrounding 50m radius will be struck with lightning. May use three times before recharge is needed. Recharge before collecting Riju's sage's vow is 12 minutes, after it is 4 minutes.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Daruk's Protection&lt;/b&gt;: Hold the shield and you'll be surrounded with an orange-tinted orb (really just Sidon's water shield) that protects you from a strike once per use. May use six times before recharge is needed. Recharge before collecting Yunobo's sage's vow is 18 minutes, after it is 6 minutes.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Mipha's Grace&lt;/b&gt;: Prevents death and restores hearts to max. May use only one time before recharge is required. Recharge before Sidon's sage's vow is 24 minutes, after it is 8 minutes.&lt;br&gt;&lt;br&gt;&lt;b&gt;Wolf Link&lt;/b&gt;: A companion who will follow you, try to fight enemies and just be a good boy in general. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Recharge times reflect the recharge times from before and after finishing the Champion's Ballad DLC from the original game. &lt;br&gt;&lt;br&gt;All champion abilities can be enabled/disabled via a custom medallion in the inventory. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Requirements&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Requires Tears of the Kingdom 1.2.1.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Emulator&lt;/b&gt;: extract the archive and copy its `BotW Abilities` folder into the game's mod folder, then enable it in the add-on list. &lt;/li&gt;&lt;li&gt;&lt;b&gt;Switch&lt;/b&gt;: copy the 0100F2C0115B6000 folder into atmosphere/contents/.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Known Issues&lt;/h2&gt;&lt;b&gt;Stasis:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Target/selection often requires you to be somewhat close.&lt;/li&gt;&lt;li&gt;Stasis' "arrow" showing magnitude and direction of momentum is fairly inaccurate to the BotW version. It mostly updates in a straight line based on Link's forward position and doesn't update based on angle of weapon attack like in BotW&lt;/li&gt;&lt;li&gt;&lt;b&gt;Wolf Link&lt;/b&gt; is kinda stupid. He doesn't know how to path-find properly and frequently gets stuck. He is also easily distracted, or doesn't follow you well enough. He should try to summon nearby you when he gets lost, but sometimes he doesn't. It's better to treat him as a fun nearby pet than as a serious fighting companion.  &lt;/li&gt;&lt;/ul&gt; &lt;br&gt;&lt;h2&gt;Development&lt;/h2&gt;Developed and tested on the Citron emulator, Ryubing and Switch hardware. &lt;br&gt;&lt;br&gt;All (freely MIT licensed) source code and a more detailed README.md can be found &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/botw-abilities" target="_blank"&gt;here&lt;/a&gt;. &lt;br&gt;&lt;br&gt;&lt;b&gt;AI Disclaimer&lt;/b&gt;&lt;br&gt;&lt;br&gt;This project was developed with heavy help from AI Claude Opus 5.5 and Sol 6.1. For an overview of how I develop ExeFS mods using AI please see this post &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;buy me a coffee&lt;/a&gt;! I provide the mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v023-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v024-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v024-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v026-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v026-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v028-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v028-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v029-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v029-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v029-emulator-subsdk7_4ca88.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v029-switch-subsdk7_2aba8.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v0211-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v0211-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v030-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v030-switch-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v043-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v044-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-abilities-v044-switch-subsdk7.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Zonai Survey</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/713365</link>
+      <comments>https://gamebanana.com/mods/713365#PostsListModule</comments>
+      <guid isPermaLink="false">e00ee915cc558bc416878437604be7555f372fe6</guid>
+      <pubDate>Wed, 11 Nov 2026 15:46:38 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa6fc116b049.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa70f617b8a7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa70f60a516d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa7096d9e8bb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa6fc825c97f.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fieldworks, Support Multiple Languages&lt;br&gt;&lt;h3&gt;v0.4.2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Added to &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://gamebanana.com/mods/739060"&gt;Zonai Fieldworks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed an issue where the scan did nothing with Ultimate Ascend installed.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Still not compatible with Ultimate Ascend and Self Recall installed at the same time (Survey stays off).&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v0.4.0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Collectible labels now use your game's text language.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v0.3.0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Text and glyphs on labels are now much sharper and clearer.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Labels now fade rather than flicker when being removed.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v0.2.0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Now supports every version of Tears of the Kingdom on Switch and emulator: v1.0.0 - v1.4.3&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Zonai Survey&lt;/h1&gt;&lt;h2&gt;Description&lt;/h2&gt;Pressing &lt;b&gt;ZL + D-pad Up&lt;/b&gt; starts a Death-Stranding-inspired scan/survey that labels items in front of you by ~440m. Constrained releases introduce a 180 m survey distance cap and a cooldown lasting 7 seconds. &lt;br&gt;&lt;br&gt;For installation instructions and more please refer to the &lt;a href="//github.com/afiaka87/zonai-survey"&gt;README&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Limitations&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Supports TotK 1.0.0, 1.1.0, 1.1.2, 1.2.0, 1.2.1 and 1.4.0-1.4.3.&lt;/li&gt;&lt;li&gt;May conflict/break when other exeFS mods are enabled.&lt;/li&gt;&lt;li&gt;On Switch hardware, you may notice a slight 3-5 fps dip when running the scan specifically over grass-dense areas.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Source and license&lt;/h2&gt;&lt;del&gt;Zonai Survey is GPL-2.0-only. The text renderer and part of the overlay hook are derived from &lt;a href="https://github.com/aquacluck/totk-lotuskit" target="_blank"&gt;totk-lotuskit&lt;/a&gt; by aquacluck and its contributors.&lt;/del&gt; &lt;br&gt;&lt;br&gt;Zonai Survey is now MIT licensed after replacing the lotuskit text renderer with a custom shader-based method. See &lt;a href="//NOTICE"&gt;NOTICE&lt;/a&gt; for full attribution.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Sol, Fable and Astra were used heavily during development. For an outline of how I use AI to make mods, see &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;buy me a coffee&lt;/a&gt;! I provide the mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-regular-v020-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-constrained-v020-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-constrained-v020-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-constrained-v030-subsdk9_38bba.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-regular-v030-subsdk9_8c512.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-constrained-v030-subsdk9_a67b6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-regular-v030-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-constrained-v040-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-regular-v040-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-regular-v040-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-constrained-v040-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-regular-v041-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-constrained-v041-subsdk9_a4382.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-regular-v041-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-constrained-v041-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-regular-v042-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-emulator-constrained-v042-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-regular-v042-subsdk9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zonai-survey-switch-constrained-v042-subsdk9.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Self Recall</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/715735</link>
+      <comments>https://gamebanana.com/mods/715735#PostsListModule</comments>
+      <guid isPermaLink="false">cb6b7ac5ec9d77eb1c926d170a23c0cb09ccb855</guid>
+      <pubDate>Wed, 11 Nov 2026 15:44:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e6e49e09.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e6eadaf3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e6f1d02d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e7ddb07c.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fieldworks/Patches&lt;br&gt;&lt;h2&gt;Self Recall&lt;/h2&gt;&lt;h3&gt;v1.1.3&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Added to &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://gamebanana.com/mods/739060"&gt;Zonai Fieldworks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed a memory issue when using several of my mods together.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v1.1.1&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fixed issues with custom paragliders specifically in Ryujinx.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v1.1.0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Now supports every version of Tears of the Kingdom for both Switch and emulators: v1.0.0 - v1.4.3&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v1.0.15&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Added support for more detailed custom player models (like Wolf Link).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added support for custom paragliders.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v1.0.14&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Mod now works with UltraCam enabled at the same time.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Self Recall&lt;/h1&gt;&lt;h3&gt;Description&lt;/h3&gt;Self recall lets you rewind Link through his recent traversal history. An muted background effect is applied, a golden ribbon showing your historical trail shows and animations run in reverse. &lt;br&gt;&lt;br&gt;ZL+Right-Joystick-Click (hold 1 second) to activate.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Speed&lt;/h2&gt;By default, self-recall will run in reverse at 1.25x speed. By wearing upgraded articles of clothing from the Glide set, you can increase the speed. &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;0 articles -&gt; 1.25x &lt;/li&gt;&lt;li&gt;1 article -&gt; 1.5x&lt;/li&gt;&lt;li&gt;2 articles -&gt; 2x&lt;/li&gt;&lt;li&gt;3 articles -&gt; 4x&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Every fully upgraded version of the Glide Mask, Glide Shirt and Glide Tights counts.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Known Issues&lt;/h2&gt;&lt;li&gt;Recalling through an Ascend works - but is almost always a glitchy experience. I decided to leave it in for the novelty factor.&lt;/li&gt;&lt;li&gt;On Switch, Link skips along his path at 4x speed and during fast movement at 2x.&#13;
+The rest of the game stays smooth. Zero or one Glide piece gives the tested&#13;
+smooth 1.25x/1.5x rates.&lt;/li&gt;&#13;
+&lt;li&gt;Driving Recall can stutter mildly at the beginning on Switch.&lt;/li&gt;&#13;
+&lt;li&gt;Recorded shirtless transitions can make Link's torso disappear.&lt;/li&gt;&#13;
+&lt;li&gt;The camera can lose Link during fast vertical Recall or enter terrain around&#13;
+climbing overhangs.&lt;/li&gt;&lt;li&gt;Historical pose markers along the ribbon are not included.&lt;/li&gt;4x/2x recall speed can be choppy. &lt;br&gt;Link's torso, head, legs or armor may disappear during a recall. &lt;br&gt;Equipment changes are no longer tracked. (necessary for memory savings).&lt;br&gt;Use of the phrenic bow or bows which aim in first person will cause everything but Link's head to temporarily disappear.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Code and Detailed README&lt;/h2&gt;MIT Licensed source code and a &lt;b&gt;far more in-depth mod description available &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/self-recall" target="_blank"&gt;here&lt;/a&gt;.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Relied heavily on astra for this. For an outline of how I use AI to make mods, see &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;buy me a coffee&lt;/a&gt;! I provide the mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1010-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1010-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1011-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1011-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1012-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1012-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1013-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1013-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1014-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1014-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1015-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1015-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v110-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v110-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v111-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v111-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v113-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v113-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v114-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v114-emulator.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Material Columns</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/733845</link>
+      <comments>https://gamebanana.com/mods/733845#PostsListModule</comments>
+      <guid isPermaLink="false">0279e438b6b95195558979c5393e9ac7370591d7</guid>
+      <pubDate>Wed, 11 Nov 2026 15:38:32 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6bc9d4e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6bccaec.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6bea1ee.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ae3ef6becfdf.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fieldworks, Support 1.2.0, 1.4.2&lt;br&gt;&lt;h2&gt;Material Columns&lt;/h2&gt;&lt;h3&gt;v0.1.6&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Added to &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://gamebanana.com/mods/739060"&gt;Zonai Fieldworks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Added support for TotK 1.4.3. Tested on Switch.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;The same download still works on 1.2.0, 1.2.1 and 1.4.2.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v0.1.4&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Column labels are translated to your game's language.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Materials from other mods can be put into categories with an INI file.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Material Columns&lt;/h1&gt;&#13;
+Group the materials quick-select menu into columns by category, as a 5th sorting option, alongside the original four.&lt;br&gt;&lt;br&gt;&#13;
+&lt;b&gt;Quick links:&lt;/b&gt; &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/material-columns" target="_blank"&gt;README/Source&lt;/a&gt; &lt;span class="GreyColor"&gt;|&lt;/span&gt; &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;Custom Material Docs&lt;/a&gt; &lt;span class="GreyColor"&gt;|&lt;/span&gt; &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;Buy me a coffee&lt;/a&gt;&lt;hr&gt;&#13;
+&lt;h2&gt;Description&lt;/h2&gt;&#13;
+This mod changes the materials quick-select menu so that materials are grouped into columns of various categories. You can still use the original four sorting options.&lt;br&gt;&lt;br&gt;&#13;
+&lt;h3&gt;How to Use&lt;/h3&gt;&lt;ul&gt;&#13;
+&lt;li&gt;&lt;b&gt;Open:&lt;/b&gt; hold &lt;b&gt;D-pad Up&lt;/b&gt;, then press &lt;b&gt;Y&lt;/b&gt; until &lt;span class="OrangeColor"&gt;Material Columns&lt;/span&gt; appears.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Pick a column:&lt;/b&gt; &lt;b&gt;Right Stick&lt;/b&gt; left/right.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;b&gt;Pick a material:&lt;/b&gt; &lt;b&gt;Right Stick&lt;/b&gt; up/down.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;How to Install&lt;/h2&gt;&#13;
+&lt;h3&gt;Emulator&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;Extract to the game's mod directory.&lt;/li&gt;&#13;
+&lt;li&gt;Enable &lt;span class="GreenColor"&gt;material-columns&lt;/span&gt;.&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&lt;h3&gt;Switch&lt;/h3&gt;&#13;
+&lt;ol&gt;&#13;
+&lt;li&gt;Extract the download.&lt;/li&gt;&#13;
+&lt;li&gt;Drag the extracted &lt;span class="GreenColor"&gt;0100F2C0115B6000&lt;/span&gt; folder into &lt;span class="GreenColor"&gt;atmosphere/contents&lt;/span&gt; on your SD card.&lt;/li&gt;&#13;
+&lt;li&gt;Merge the folders. &lt;span class="RedColor"&gt;&lt;b&gt;You need both exefs and romfs.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;Custom Material Actors for Other Mods&lt;/h2&gt;&#13;
+As of v0.1.4, other mod authors and users can pin custom materials to existing or new columns. To do this, add an INI file to your mod's RomFS folder at &lt;code&gt;romfs/MaterialColumns/Categories/your-mods-name.ini&lt;/code&gt;. The file should follow the format described &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&#13;
+&lt;span class="OrangeColor"&gt;&lt;b&gt;Note:&lt;/b&gt;&lt;/span&gt; &lt;i&gt;This is a first version and the design of this system may change.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&#13;
+&lt;h3&gt;Add a Material to an Existing Column&lt;/h3&gt;&#13;
+&lt;pre&gt;&lt;code&gt;&lt;span class="BlueColor"&gt;[General]&lt;/span&gt;&#13;
+Version = &lt;span class="GreenColor"&gt;1&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Materials]&lt;/span&gt;&#13;
+Obj_RemoteBombSphere = &lt;span class="GreenColor"&gt;special-materials&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&#13;
+This places the botw-abilities actor for the spherical remote bomb in the existing &lt;code&gt;special-materials&lt;/code&gt;&#13;
+&lt;h3&gt;Create New Columns&lt;/h3&gt;&#13;
+&lt;pre&gt;&lt;code&gt;&lt;span class="BlueColor"&gt;[General]&lt;/span&gt;&#13;
+Version = &lt;span class="GreenColor"&gt;1&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Category.example.sky-fruit]&lt;/span&gt;&#13;
+Name.en-US = &lt;span class="GreenColor"&gt;Sky fruit&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Category.example.crystals]&lt;/span&gt;&#13;
+Name.en-US = &lt;span class="GreenColor"&gt;Crystals&lt;/span&gt;&#13;
+&#13;
+&lt;span class="BlueColor"&gt;[Materials]&lt;/span&gt;&#13;
+Item_Example_Cloudberry = &lt;span class="GreenColor"&gt;example.sky-fruit&lt;/span&gt;&#13;
+Item_Example_Sunplum = &lt;span class="GreenColor"&gt;example.sky-fruit&lt;/span&gt;&#13;
+Item_Example_StormCrystal = &lt;span class="GreenColor"&gt;example.crystals&lt;/span&gt;&#13;
+Item_Example_Mooncap = &lt;span class="GreenColor"&gt;mushrooms&lt;/span&gt;&#13;
+Item_Example_WildPear = &lt;span class="GreenColor"&gt;fruit&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&#13;
+This creates two new columns, &lt;code&gt;example.sky-fruit&lt;/code&gt; and &lt;code&gt;example.crystals&lt;/code&gt;, and assigns fictional actors to them and to the existing &lt;code&gt;mushrooms&lt;/code&gt; and &lt;code&gt;fruit&lt;/code&gt; columns.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h3&gt;Translations and Further Reading&lt;/h3&gt;&#13;
+You can provide translations as shown in &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/examples/fictional-materials.ini" target="_blank"&gt;this lengthier example&lt;/a&gt;. For a comprehensive overview of everything that can be done, including examples for a few existing mods and the names of the built-in columns, see &lt;a href="https://github.com/afiaka87/totk-mods/blob/main/material-columns/docs/CATEGORY-CONFIG.md" target="_blank"&gt;the docs&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h3&gt;Compatibility&lt;/h3&gt;&#13;
+&lt;ul&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;Supported:&lt;/b&gt;&lt;/span&gt; TotK &lt;b&gt;1.2.0, 1.2.1&lt;/b&gt; and &lt;b&gt;1.4.2&lt;/b&gt; only, for now. Tested on a Switch.&lt;/li&gt;&lt;li&gt;&lt;span class="RedColor"&gt;&lt;b&gt;Not compatible:&lt;/b&gt;&lt;/span&gt; my Fleet Sync mod or any other subsdk6 mod.&lt;/li&gt;&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h3&gt;Credits&lt;/h3&gt;&#13;
+This mod was inspired by a conversation with fellow modder cargocult and the "cross media bar" section of this &lt;a href="https://youtu.be/e4vsgC41bYg?t=495" target="_blank"&gt;fantastic video&lt;/a&gt; from the Game Maker's Toolkit YouTube channel, where a similar interface is designed for Echoes of Wisdom.&lt;br&gt;&lt;br&gt;&#13;
+Made with exlaunch and devkitPro.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&lt;h2&gt;AI Disclaimer&lt;/h2&gt;&#13;
+This was made almost completely with the use of AI, in particular GPT-6 Astra. For an overview of how I develop ExeFS mods using AI, please see this post: &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v010-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v010-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v013-totk121-142-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v013-totk121-142-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v014-totk121-142-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v014-totk121-142-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v015-totk120-121-142-emulator-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v015-totk120-121-142-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v016-totk120-121-142-143-switch-subsdk6.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/material-columns-v016-totk120-121-142-143-emulator-subsdk6.zip" type="application/zip"/>
+      <category>HUD</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Phantom Foothold</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/712703</link>
+      <comments>https://gamebanana.com/mods/712703#PostsListModule</comments>
+      <guid isPermaLink="false">b05df770edc347d34d60e420c3c5074766a222ba</guid>
+      <pubDate>Wed, 11 Nov 2026 15:33:59 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9754d038f5f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9754d04df6d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9754d052a1b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9754d0540f1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9754d062cee.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Version port&lt;br&gt;&lt;h3&gt;v1.2.2&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Added to &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://gamebanana.com/mods/739060"&gt;Zonai Fieldworks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Fixed a memory issue when using several of my mods together.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v1.2.0&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Now supports every version of Tears of the Kingdom on Switch and emulator: v1.0.0 - v1.4.3&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;This mod allows Link to climb ceilings and "forbidden" (previously) unclimbable walls such as those found in Shrines, the Great Sky Island and elsewhere in the game.&lt;br&gt;&lt;br&gt;Limitations:&lt;br&gt;- Climbing on ceilings results in bizarre behavior from the joystick controls and/or the camera. It's generally best to "just keep holding the direction you were holding" for good results.&lt;br&gt;&lt;br&gt;Source code is available here: &lt;a href="https://github.com/afiaka87/totk-mods" target="_blank"&gt;totk-mods&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;b&gt;Disclaimer&lt;/b&gt;&lt;br&gt;&lt;br&gt;Sol and Fable were used heavily during development. For an outline of how I use AI to make mods, see &lt;a href="https://gamebanana.com/posts/13964739"&gt;https://gamebanana.com/posts/13964739&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Donations&lt;/b&gt;&lt;br&gt;If you enjoy my work, feel free to &lt;a href="https://buymeacoffee.com/hansoloblaster" target="_blank"&gt;buy me a coffee&lt;/a&gt;! I provide this mod and its source code completely free and open source. I stand by that; so only donate if you're feeling friendly or would like to boost my spirits!</description>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v110.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v111-emulator-subsdk2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v111-switch-subsdk2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v120-emulator-subsdk2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v120-switch-subsdk2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v122-switch-subsdk2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-foothold-v122-emulator-subsdk2.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Bolt of Gransax</title>
+      <author>iqhentud</author>
+      <link>https://gamebanana.com/mods/738496</link>
+      <comments>https://gamebanana.com/mods/738496#PostsListModule</comments>
+      <guid isPermaLink="false">e285b504033a1c9efa32a62bbd548182146005f0</guid>
+      <pubDate>Wed, 11 Nov 2026 09:17:36 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af22484b286e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af434a1d48ec.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af221f530deb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af21f9829bd4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af21f9716013.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af21f9a2fa5c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af430b3b3456.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Update&lt;br&gt;&lt;p&gt;Added an electrical orb version when attacking and adjusted the emission texture to be not uniformed glow!&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;Making my favorite weapon from Elden Ring into the game!&lt;br&gt;&lt;br&gt;This mod has three variations you can buy from Beedle :&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Default non glow Bolt of Gransax.&lt;/li&gt;&lt;li&gt;&lt;span class="OrangeColor"&gt;Orange&lt;/span&gt; lightning glow Bolt of Gransax, this based on the Elden Ring game when it charged up.&lt;/li&gt;&lt;li&gt;&lt;span class="GreenColor"&gt;Green&lt;/span&gt; lightning glow Bolt of Gransax, this one &lt;u&gt;stays&lt;/u&gt; true to the Tears of The Kingdom lightning color scheme.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;The weapon has &lt;span class="GreenColor"&gt;40&lt;/span&gt; base attack,&lt;span class="GreenColor"&gt; infinite durability&lt;/span&gt; and other features have been implemented on:&lt;br&gt;- &lt;span class="GreenColor"&gt;Boomerang&lt;/span&gt; behavior, &lt;i&gt;without&lt;/i&gt; its spinning animation so when thrown away it stays like a spear and does comeback.&lt;br&gt;- When fused, no &lt;span class="GreenColor"&gt;parts of the weapon is hidden&lt;/span&gt;. Fused material still shows, so i recommend &lt;a href="https://gamebanana.com/mods/449762"&gt;use this&lt;/a&gt; mod to hide fused material.&lt;br&gt;- &lt;span class="GreenColor"&gt;Electric damage&lt;/span&gt;.&lt;br&gt;- &lt;span class="GreenColor"&gt;Shoots orb&lt;/span&gt; when attacking (download the orb version)&lt;br&gt;&lt;br&gt;Bolt of Gransax can be purchased from &lt;span class="GreenColor"&gt;Beedle&lt;/span&gt; in &lt;span class="GreenColor"&gt;Woodland Stable&lt;/span&gt; for 1,000 Rupees.&lt;br&gt;&lt;br&gt;The mod is tested on the latest version of the game.</description>
+      <media:content url="https://files.gamebanana.com/mods/bolt_of_gransax2_orb_version.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bolt_of_gransax2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bolt_of_gransax.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bolt_of_gransax1.zip" type="application/zip"/>
+      <category>Weapons &amp; Shields</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Better Serafuku of Linkle</title>
+      <author>Duanmu tn</author>
+      <link>https://gamebanana.com/mods/738402</link>
+      <comments>https://gamebanana.com/mods/738402#PostsListModule</comments>
+      <guid isPermaLink="false">2d96947b78ebb84d119f57bbca23438b18071745</guid>
+      <pubDate>Mon, 09 Nov 2026 13:57:23 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af1c7b58b02f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af1caba15329.jpg"/&gt;&lt;br&gt;&lt;pre class="cr-code-block__pre"&gt;&lt;code data-id="code-10" data-content="Reworked the Linkle sailor uniform for TOTK — slimmer fit, pleated skirt that actually&#13;
+moves, deeper blue that holds up in backlight. Bundled a hidden-back-weapons tweak with&#13;
+it: gear stays equipped, back stays empty, no clipping while gliding. One pack, drop it&#13;
+in. DM me for the file.&#13;
+"&gt;Reworked the Linkle sailor uniform for TOTK — slimmer fit, pleated skirt that actually&#13;
+moves, deeper blue that holds up in backlight. Bundled a hidden-back-weapons tweak with&#13;
+it&lt;/code&gt;&lt;/pre&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/zora-serafuku.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/climbboot-blue-mary-jane.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/phantom-physicalhair.zip" type="application/zip"/>
+      <category>Player</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>Stronger cannon</title>
+      <author>moluo5126</author>
+      <link>https://gamebanana.com/mods/738344</link>
+      <comments>https://gamebanana.com/mods/738344#PostsListModule</comments>
+      <guid isPermaLink="false">b3a57abd97727e6670837c03c96118398b7d3737</guid>
+      <pubDate>Mon, 09 Nov 2026 08:35:27 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af1823a86561.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af182421fd75.jpg"/&gt;&lt;br&gt;&lt;font dir="auto"&gt;&lt;font dir="auto"&gt;此模组修改了部分原版游戏数据，使大炮射速更快、伤害更高。&lt;br&gt;Known Issue: There may be a momentary stutter when spawning the Cannon or switching weapons fused with the Cannon, but it barely affects gameplay.&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font dir="auto"&gt;&lt;font dir="auto"&gt;Recommended Pairings：Zonai Devices with Infinite Life Time、Unbrakable Zonai Devices、Unbreakable Equipment&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/stronger_cannon.zip" type="application/zip"/>
+      <category>Misc</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>Light Yellow Royal Gerudo Dress</title>
+      <author>MarioBroz7</author>
+      <link>https://gamebanana.com/mods/738293</link>
+      <comments>https://gamebanana.com/mods/738293#PostsListModule</comments>
+      <guid isPermaLink="false">c266d9d01b2f6f64f4cdb1983ce8e00705306ef9</guid>
+      <pubDate>Mon, 09 Nov 2026 06:48:22 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6af16829f0c8d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af167db79115.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af167e6346cc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6af167ee964cb.jpg"/&gt;&lt;br&gt;Just a little color change I decided to do for the light-yellow dye preset on this outfit.&lt;br&gt;&lt;br&gt;In the original RIju mod, the light-yellow preset was the same color as the brown preset so that's when I decided to make this little mod here. So, the color on the light-yellow one can stand out on its own. The other two dress styles are also changed as well.&amp;nbsp;&lt;br&gt;&lt;br&gt;I made sure to also make the color similar how the flask's color is and honestly, it turned out well haha. I used Krita/GIMP to make these colors.&lt;br&gt;Anyways, enjoy and make sure to put this mod on top of the playable Riju mod if you are planning to install this through tkmm.</description>
+      <media:content url="https://files.gamebanana.com/mods/royal_gerudo_new_yellow.rar" type="application/vnd.rar"/>
+      <category>Riju Add-ons</category>
+      <category>Playable Characters</category>
+    </item>
+    <item>
+      <title>Evil Spirit From Beyond</title>
+      <author>aevans338251</author>
+      <link>https://gamebanana.com/mods/728549</link>
+      <comments>https://gamebanana.com/mods/728549#PostsListModule</comments>
+      <guid isPermaLink="false">e49abe9648b9e649594a9e041d70a38e671beda2</guid>
+      <pubDate>Sat, 07 Nov 2026 16:36:40 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2c1615174c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2c1b0bbd73.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ad2c1bedaa4e.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Servant Spear Fix&lt;br&gt;&lt;p&gt;Weapon was not displaying correctly, was unattainable and the Evil Spirit did not hold it. A reference was incorrect after packing, that is fixed now. &lt;/p&gt;&lt;p&gt;Also added in lines for this to work with the golden version of the enemies for Challenge mode. This can include the speed up, does not affect the Evil Spirit&lt;/p&gt;&lt;br&gt;&lt;em&gt;Tweak&lt;/em&gt;: Toolbox fix for custom weapon&lt;br&gt;&lt;hr&gt;&lt;br&gt;This is my first mod, if there are issues please let me know. This can be played as a standalone mod, it is meant to be an extension of Depths of the Kingdom. Using vanilla weapons will prove to be difficult. &lt;br&gt;&lt;br&gt;This has a new quest that will unlock after you complete the labyrinths and collect the Evil Spirit armor. Thus, display the location where you can fight the Evil Spirit himself and take his custom weapon. I wanted to have another fun boss fight, inspired from the Depths of the Kingdom and to complete some of its weapon sets. &lt;br&gt;&lt;br&gt;P.S. Weapons will do damage, some deal less than others...</description>
+      <media:content url="https://files.gamebanana.com/mods/evil_spirit_from_beyond_14f3c.zip" type="application/zip"/>
+      <category>Enemy</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Royal Guard Cap With Bangs</title>
+      <author>iqhentud</author>
+      <link>https://gamebanana.com/mods/737387</link>
+      <comments>https://gamebanana.com/mods/737387#PostsListModule</comments>
+      <guid isPermaLink="false">c0c1788a5834d4d93a8e787ade46ecfbde424373</guid>
+      <pubDate>Sat, 07 Nov 2026 10:55:49 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef037e0b99e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef03969c741.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aef039524e76.jpg"/&gt;&lt;br&gt;A simple mod for the Royal Guard Cap, now adjusted to showcase Link's glorious bangs!</description>
+      <media:content url="https://files.gamebanana.com/mods/adjusted_royal_guard_cap.zip" type="application/zip"/>
+      <category>Armor set</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>SWORD 56 OVER MASTER SWORD(s)</title>
+      <author>Latias_0nly</author>
+      <link>https://gamebanana.com/mods/649382</link>
+      <comments>https://gamebanana.com/mods/649382#PostsListModule</comments>
+      <guid isPermaLink="false">b6657723792ac1f8d4c3ba69aa028e4af312bf74</guid>
+      <pubDate>Fri, 06 Nov 2026 08:07:55 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/697b6fc0716de.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/697b6fcce2a48.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/698028427aab2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69838a003d40c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69838a352b816.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6984f907724d8.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; I Fixed the Textures (again)&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Normal master sword having weired textures when using the msgnotfound ms&lt;br&gt;&lt;hr&gt;&lt;br&gt;FIXED THE F***ING GRIP FINALLY GEEZ</description>
+      <media:content url="https://files.gamebanana.com/mods/sword_56_replacement.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/sword_56_replacement20.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/sword_56_replacement_fixed.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/sword_56_replacement_msg_not_found_no_glow.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/fixed_fixed_msgnotfoundms_swword_56.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/fixed_fixed_msgnotfoundms_swword_56.zip" type="application/zip"/>
+      <category>Weapons &amp; Shields</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>StavaasEVG's Dualsense UI</title>
+      <author>StavaasEVG</author>
+      <link>https://gamebanana.com/mods/445517</link>
+      <comments>https://gamebanana.com/mods/445517#PostsListModule</comments>
+      <guid isPermaLink="false">40fb11ee79d692c225f3556ab715092ea238b968</guid>
+      <pubDate>Thu, 05 Nov 2026 10:46:11 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a50dfb5f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aec5d27656f0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64778a56c987f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64778a7bacd85.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a7f8aab2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a8045ff5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a8047a0d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a80eae2e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a7f481cb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760a7ec8159.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760028abf2b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64760b24d9b1a.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Added Chroma Pearl color variant&lt;br&gt;&lt;p&gt;Redrew the main controller pic for that. Might update other color variants with it in future.&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;USE IN DOCKED MODE/WITH PRO CONTROLLER&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;i&gt;Black Screen Fix included!&lt;/i&gt;&lt;/span&gt;&lt;/h1&gt;___________________________&lt;br&gt;&lt;br&gt;So, this is another Dualsense UI mod.&lt;br&gt;&lt;br&gt;How is this one different from the others?&lt;br&gt;&lt;ul&gt;&lt;li&gt;Proper pause menu layout of lines connecting hints with the correlated buttons on controller picture&lt;br&gt;&lt;/li&gt;&lt;li class="SelectedElement"&gt;Proper special hints support (Those that are shown throughout tutorial island and in Special Controls menu)&lt;/li&gt;&lt;li&gt;Custom icons made by me (some were inspired by Zacksly's icon pack which is why you may see some similarities)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Black/White/Red/Blue/Purple/Pink/Chroma Pearl Controller color options&lt;/li&gt;&lt;li&gt;Touchpad instead of Share button in hints.&lt;/li&gt;&lt;li&gt;Still only default layout for now (sorry but explanation for that is at the bottom)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;See screenshots to check out for yourselves.&lt;br&gt;&lt;br&gt;Notice: This mod replaces only Pro controller images and layout, so if you want to see it, use Pro controller in your emulators. (And bind Touchpad to Minus button like any normal Playstation player would)&lt;br&gt;&lt;br&gt;P.S. I made this mod just for myself, which is why there is only normal layout. So, for now I won't make any other layouts. But feel free to make it yourselves, or use my edited files for your mods if you want (but don't forget to mention me in credits)&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;For those interested, the edited controller-related ui files (excluding textures) inside Common.Product.*.Nin_NX_NVN.blarc.zs include:&lt;br&gt;-anim&lt;br&gt;----PaActionGuide_00_PatternC.bflan&lt;br&gt;----PaSystemController_00_IsHorse.bflan&lt;br&gt;----PaSystemController_00_Pattern.bflan&lt;br&gt;----PaSystemController_00_Pattern.bflan&lt;br&gt;-blyt&lt;br&gt;----DoCommand_00.bflyt</description>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuiblack_v151.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuiwhite_v151.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuichromapearl_v151.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuired_v151.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuiblue_v151.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuipink_v151.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/stavaasevgsdualsenseuipurple_v151.zip" type="application/zip"/>
+      <category>UI</category>
+      <category>UI</category>
+    </item>
+  </channel>
+</rss>
