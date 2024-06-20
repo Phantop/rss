@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Pilgrims</title>
+      <author>Amanita Design s.r.o.</author>
+      <link>https://store.epicgames.com/en-US/p/</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/</guid>
+      <pubDate>Thu, 31 Jul 2025 15:00:00 +0000</pubDate>
+      <description>Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-jgz8i.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-7asyy.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Keylocker | Turn Based Cyberpunk Action</title>
+      <author>Serenity Forge</author>
+      <link>https://store.epicgames.com/en-US/p/</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/</guid>
+      <pubDate>Thu, 31 Jul 2025 15:00:00 +0000</pubDate>
+      <description>Keylocker is a Cyberpunk turn-based rhythm JRPG. As the electric singer, B0B0, you’ll choose your class, master a challenging combat system, and shake the foundations of Saturnite society in rhythm-game style!</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/186103570e674b0f9b60a1003ec09d07/keylocker-cr3ty.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/186103570e674b0f9b60a1003ec09d07/keylocker-1u0ws.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
