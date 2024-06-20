@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Sid Meier’s Civilization® VI Platinum Edition</title>
+      <author>2K Games, Inc.</author>
+      <link>https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi--platinum-edition</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi--platinum-edition</guid>
+      <pubDate>Thu, 17 Jul 2025 15:00:00 +0000</pubDate>
+      <description>Sid Meier’s Civilization VI: Platinum Edition is the perfect entry point for PC gamers who have yet to experience the addictive gameplay that has made Civilization one of the greatest game series of all time.</description>
+      <media:content url="https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
