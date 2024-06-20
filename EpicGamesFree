@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Touch Type Tale</title>
+      <author>Mythwright</author>
+      <guid isPermaLink="false">dc95e56397f8bb9b18d5a7bc83ac0d8c983f6f69</guid>
+      <pubDate>Thu, 08 May 2025 15:00:00 +0000</pubDate>
+      <description>Touch Type Tale is a real-time strategy game with a typing twist, featuring a story rich campaign and online competitive play that will delight even the most hardened RTS veterans.</description>
+      <media:content url="https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S2_1200x1600-445c7e11e96c1b6aceece2007b58645d" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S1_2560x1440-0d3402bfb34e9a73019de6569f6e66b6" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Deadtime Defenders</title>
+      <author>Arcane Embers Game Studio Inc.</author>
+      <guid isPermaLink="false">a26a0132b3b48335c3bcc003b6ddc69fcdd88fc3</guid>
+      <pubDate>Thu, 08 May 2025 15:00:00 +0000</pubDate>
+      <description>Complete bounties, acquire legendary loot, upgrade your gear, and level up as you fight back against invading monsters in this side-scrolling looter shooter RPG.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1gchw.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1swl6.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-olimh.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-4dqev.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1x2g3.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1t0mj.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1ev9r.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1mzmi.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-11wst.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-okt4a.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-bazkh.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-15e3w.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-ofn10.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-7ihvp.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-qhaz5.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-131ko.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-lyi91.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-6usmr.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-rc4zn.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-kk1jm.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
