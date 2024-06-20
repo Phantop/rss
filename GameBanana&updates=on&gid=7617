@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Tears of the Kingdom</title>
+    <description>GameBanana - The Legend of Zelda: Tears of the Kingdom</description>
+    <link>https://gamebanana.com/games/7617</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/7617"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Tears of the Kingdom</title>
+      <link>https://gamebanana.com/games/7617</link>
+    </image>
+    <item>
+      <title>Hair physics patch for Linkle</title>
+      <author>Vyelpo</author>
+      <link>https://gamebanana.com/mods/720485</link>
+      <comments>https://gamebanana.com/mods/720485#PostsListModule</comments>
+      <guid isPermaLink="false">6c1b39092e04bab661fa08f9bf0be275c45607c0</guid>
+      <pubDate>Fri, 25 Sep 2026 01:57:34 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab5d12ceabef.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab5d1351bdcd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab5d137138c7.jpg"/&gt;&lt;br&gt;Adds physics to hair and earrings on several pieces that were missing them in the Linkle mod 1.1.2&lt;br&gt;&lt;br&gt;Modified headpieces:&amp;nbsp;&lt;br&gt;&lt;br&gt;Soldier's Helm - Changed the hair.&lt;br&gt;Barbarian Helm - Added twintails.&lt;br&gt;Vah Medoh Divine Helm&lt;br&gt;Vah Rudania Divine Helm&lt;br&gt;Vah Ruta Divine Helm&lt;br&gt;Vah Naboris Divine Helm&lt;br&gt;Midna's Helmet&lt;br&gt;Tingle's Hood&lt;br&gt;Fierce Deity Mask&lt;br&gt;Cap of the Time&lt;br&gt;Cap of the Sky&lt;br&gt;Cap of the Hero&lt;br&gt;Zonite Helm&lt;br&gt;&lt;br&gt;Enjoy!&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/hair_physics_for_linkle.zip" type="application/zip"/>
+      <category>Linkle Port Add-ons</category>
+      <category>Playable Characters</category>
+    </item>
+    <item>
+      <title>Wise Old Man (Cheat NPC)</title>
+      <author>Deano309</author>
+      <link>https://gamebanana.com/mods/715016</link>
+      <comments>https://gamebanana.com/mods/715016#PostsListModule</comments>
+      <guid isPermaLink="false">0440ac92069de0bdf12d6bd29f72faf6207585e0</guid>
+      <pubDate>Thu, 24 Sep 2026 05:23:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9f56d6978b0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9f56fc3e48f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9f57097580c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaa0b94b32f3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeafe71d5f0.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Updates&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Added Options to change the update interval of all Health/Durability timers&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: "Hylian Metabolism" (Drain Health @ 1/4 Heart per 30/60/120 seconds)&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Option to Toggle "Phantom Mode" (Unnoticeable to Enemies &amp; Wildlife) - See note at bottom of page&lt;br&gt;&lt;em&gt;Suggestion&lt;/em&gt;: Option to toggle/remove MOST Gloom (WIP)&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;In Hyrule, there is an Old Man who can change the rules of the world around you!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;Originally outside the Room of Awakening, he has also been spotted atop Eventide Island.&lt;/i&gt;&lt;br&gt;&lt;br&gt;Nobody knows where he came from, or why he is there, but he has options for the following:&lt;br&gt;&lt;br&gt;&lt;b&gt;Durability:&lt;/b&gt;&lt;br&gt;- Toggle Ambient Durability Restore &lt;i&gt;(All Weapons/Shields/Bows)&lt;/i&gt;&lt;br&gt;&amp;nbsp; [Items must be stowed in pouch for them to regenerate]&lt;br&gt;- Trigger &lt;i&gt;Timed&lt;/i&gt; Infinite WEAPON durability&lt;i&gt; (All weapons)&lt;/i&gt;&lt;br&gt;&amp;nbsp; [Shrine doors can't be interacted with while the timer is active]&lt;br&gt;- Fully restore &lt;u&gt;&lt;i&gt;equipped&lt;/i&gt;&lt;/u&gt; PRISTINE Weapon/Shield/Bow durability &lt;i&gt;(ONLY for vanilla game items)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Other:&lt;/b&gt;&lt;br&gt;- Max Health &lt;i&gt;(40 Hearts)&lt;/i&gt;&lt;br&gt;- Max Stamina&lt;i&gt; (3 Wheels)&lt;/i&gt;&lt;br&gt;- Max Battery &lt;i&gt;(16 batteries/48 cells)&lt;/i&gt;&lt;br&gt;- Max Slots - &lt;i&gt;Weapon (20)/Bow (14)/Shield (20)&lt;/i&gt;&lt;br&gt;- Toggle Ambient Healing&lt;br&gt;- Toggle Infinite Health &lt;i&gt;(Can still drown or burn in Lava)&lt;/i&gt;&lt;br&gt;- Toggle Hylian Metabolism &lt;i&gt;(Survival Style)&lt;/i&gt;&lt;br&gt;- Toggle Fast Travel &lt;i&gt;(Warp)&lt;/i&gt;&lt;br&gt;- Trigger Bloodmoon&lt;br&gt;- Toggle Phantom Mode&lt;br&gt;- Toggle Gloom &lt;i&gt;(Mostly)&lt;/i&gt;&lt;br&gt;- Mark game as Demon King Ganondorf defeated&lt;br&gt;- +1 Free random max level/30 min meal per day &lt;i&gt;(Made from recipes containing dragon parts)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Inventory &amp;amp; Key Items:&lt;/b&gt;&lt;br&gt;- Max Arrows&lt;br&gt;- Max Rupees&lt;br&gt;- 250K Poes&lt;br&gt;- 250K Zonaite Ore&lt;br&gt;- 250K Crystallized Charges&lt;br&gt;- Gem Bundle&lt;i&gt; (50 Diamond/Ruby/Sapphire/Topaz/Opal)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Dragon Horn Bundle &lt;i&gt;(50 of each)&lt;/i&gt;&lt;br&gt;- Fairy pack&lt;i&gt; (50)&lt;/i&gt;&lt;br&gt;- Zonai Devices Bundle&lt;i&gt; (50 of each)&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;- Set All Materials in pouch to 888 of each&lt;i&gt; (Cosmic Changes)&lt;/i&gt;&lt;br&gt;- Set All Zonai Devices in pouch to 888 of each&lt;i&gt; (Cosmic Changes)&lt;/i&gt;&lt;br&gt;- Set All Meals in pouch to 888 of each&lt;i&gt; (Cosmic Changes)&lt;/i&gt;&lt;br&gt;- 152 Blessings&lt;br&gt;- 147 Bubbul Gems&lt;br&gt;- 20 Sage's Will&lt;br&gt;- 3 Warp Points&lt;br&gt;- Schema Stones (12)&lt;br&gt;- Yiga Schematics (34)&lt;br&gt;&lt;br&gt;&lt;b&gt;Weapon Shop:&lt;/b&gt; &lt;i&gt;(Exchangeable items only show once you have collected at least 1 of them)&lt;/i&gt;&lt;br&gt;- Exchange Decayed for Pristine&lt;br&gt;&lt;br&gt;&lt;b&gt;Show Map Locations:&lt;/b&gt;&lt;i&gt; (Once shown, they cannot be hidden again)&lt;/i&gt;&lt;br&gt;- Shrines&lt;br&gt;- Lightroots&lt;br&gt;- Skyview Towers + Land &amp;amp; Sky Map Regions&lt;br&gt;- Stables&lt;br&gt;- Villages&lt;br&gt;- Bargainer Statues&lt;br&gt;- Great Fairys&lt;br&gt;- Dragon Tears&lt;br&gt;- Various POIs&lt;br&gt;- Zonai Device Dispensers&lt;br&gt;- Old Map Treasure &lt;i&gt;(Collect any Map &amp;amp; it shows all 31 Locations)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;u&gt;Notes:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Wise Old Man outside the Room of Awakening:&lt;/i&gt;&lt;/b&gt;&lt;br&gt;You will be restricted from obtaining full (40) hearts until &lt;i&gt;AFTER&lt;/i&gt; you have the warp ability (Either via Rauru or 3 Warp Points option).&lt;br&gt;Timed Infinite Weapon Durability is restricted until &lt;i&gt;AFTER&lt;/i&gt; you take the leap from the first island which contains the RoA.&lt;br&gt;After the GSI is completed &lt;i&gt;(Sword sent back)&lt;/i&gt;, the Wise Old Man will travel to the top of Eventide Island.&lt;br&gt;&lt;br&gt;&lt;b&gt;Phantom Mode:&lt;/b&gt; Since the method used makes the player unnoticeable, Zonai terminals/shrine doors won't automatically detect you and enable/light up when you are near &lt;i&gt;(You are still able to manually interact with them though)&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Cooked Recipes set to 888 does not show stacked number in pouch (Although they are actually stacked).&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;TKMM required for installing &amp;amp; only tested on TotK v1.2.1&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Should work on all update versions of the game)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;i&gt;This was originally created to fulfil requests or to add options which were useful during different playthroughs and I want to give a MASSIVE thanks to&amp;nbsp;&lt;/i&gt;&lt;a class="MemberLink" href="https://gamebanana.com/members/4593678" data-id="member_4593678"&gt;cargocult&lt;/a&gt;&lt;i&gt;&amp;nbsp;for all the help, guidance and contributions in making this mod and also to&amp;nbsp;&lt;/i&gt;&lt;a class="MemberLink" href="https://gamebanana.com/members/2537238" data-id="member_2537238"&gt;&lt;img src="https://images.gamebanana.com/img/upic/6655992836eca.png" alt="Real Princess Zelda uPic" class="Upic" aria-describedby="tippy-12"&gt;&lt;/a&gt;&lt;i&gt;&amp;nbsp;for the Ambient Healing Mod.&lt;/i&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/add_custom_items.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/wise_old_man_cheat_npc_111b.zip" type="application/zip"/>
+      <category>Misc</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Truly Breakable Weapons - a durability overhaul</title>
+      <author>cargocult</author>
+      <link>https://gamebanana.com/mods/685991</link>
+      <comments>https://gamebanana.com/mods/685991#PostsListModule</comments>
+      <guid isPermaLink="false">355972c421767b6837d70d6b275aeb9d807ccaaa</guid>
+      <pubDate>Wed, 23 Sep 2026 15:37:53 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edac3586f0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edac3a4411.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad6695ef.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad681f41.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad62b545.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad5b2508.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad649f0c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad602694.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad65be83.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2edad635418.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Challenge Mode compatibility patch&lt;br&gt;&lt;p&gt;Install this file as another mod on top of both main mods.&lt;/p&gt;&lt;p&gt;TKMM stack order:&lt;br&gt;- This compatibility patch&lt;br&gt;- Truly Breakable Weapons 1.2&lt;br&gt;- Challenge Mode 1.8.0&lt;/p&gt;&lt;p&gt;Note: I am unable to test this currently and invite feedback.&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;AI usage disclaimer required by site rules&lt;/h1&gt;This mod was in my head for a long time and only became something I was willing to take on thanks to the level of automation possible with AI for a non-programmer:&lt;ul&gt;&lt;li&gt;to write the Python scripts that batch process the 73 base weapon actors into 146 new actors&lt;/li&gt;&lt;li&gt;to write the Python scripts that assemble test builds of the mod for researching complex subjects such as mapping of the fuse naming system, probing the workings of the attachment scaling system, processing models into collision polytopes, and so on&lt;/li&gt;&lt;/ul&gt;Fun facts:&lt;ul&gt;&lt;li&gt;Development started May 23rd&lt;/li&gt;&lt;li&gt;283 test builds of the mod so far, mostly for research&lt;/li&gt;&lt;li&gt;Using ChatGPT 5.5 via Codex&lt;/li&gt;&lt;li&gt;Developed skills (reusable shareable tools) for AIs to work on most of TOTK's files and systems (these will be available open source)&lt;/li&gt;&lt;/ul&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;Gameplay summary&lt;/h1&gt;&#13;
+    When your weapons break, it's no longer the end!&lt;ul&gt;&#13;
+      &lt;li&gt;They now shatter into a broken hilt and a blade, which can be re-fused back together. That means you can keep using your favorite weapon a bit longer, but not forever.&lt;/li&gt;&#13;
+      &lt;li&gt;When the weapon breaks, you have to grab the hilt, and then scramble after the blade, all in the midst of combat.&lt;/li&gt;&#13;
+      &lt;li&gt;The blades can't be picked up, so fuse it or lose it.&lt;/li&gt;&#13;
+      &lt;li&gt;The hilt is near useless except as a handle.&lt;/li&gt;&#13;
+      &lt;li&gt;Re-fused weapons have the same power as the original weapon.&lt;/li&gt;&#13;
+      &lt;li&gt;...but you used up the fuse slot to reattach the blade. That means an unbroken one is always better.&lt;/li&gt;&#13;
+      &lt;li&gt;You can mix and match blades across families to create realistic-looking new and interesting weapon combinations, with new names.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h1&gt;Design concept&lt;/h1&gt;My goal is usually showing "what if game design choices had been slightly different? Can it be more fun?". This forms part of the &lt;a href="https://gamebanana.com/collections/209319"&gt;Cargocult Cinematic Universe&lt;/a&gt;- uh, I mean, modular gameplay reworks.&lt;br&gt;&lt;br&gt;I am pretty pleased with this one.&#13;
+&#13;
+I think this design works because you still have to think about durability, but you don't get your toys just taken away when you play with them too much. In fact the scramble to catch the hilt and re-fuse is a fun added mini-mini-game. So is the naming, like if you accidentally fuse some junk to the hilt instead of the blade.&lt;br&gt;&lt;br&gt; I am working on an extension adding local blacksmiths, who can restore re-fused weapons back into one piece, which will make it feel even more like you're not punished for playing with them (but they're not just unbreakable - you still have to do a little work of catching and re-fusing then bringing them back to town, and replacing any special fuse materials)&lt;br&gt;&lt;br&gt;&lt;h1&gt;Weapon Scope&lt;/h1&gt;&#13;
+    v1 covers &lt;strong&gt;73 swords, two-handed swords and spears&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;&#13;
+    The aim was to cover all of the logical choices - real weapons which make sense to be included, that have blades that break and would want to be reattached. I didn't include sticks, clubs and so on.&lt;br&gt;&lt;br&gt;&#13;
+    Weapon families covered:&lt;br&gt;&lt;br&gt;&#13;
+    &lt;ul&gt;&#13;
+      &lt;li&gt;Rusty&lt;/li&gt;&#13;
+      &lt;li&gt;Traveler’s&lt;/li&gt;&#13;
+      &lt;li&gt;Soldier’s&lt;/li&gt;&#13;
+      &lt;li&gt;Knight’s&lt;/li&gt;&#13;
+      &lt;li&gt;Royal&lt;/li&gt;&#13;
+      &lt;li&gt;Royal Guard’s&lt;/li&gt;&#13;
+      &lt;li&gt;Feathered / Rito&lt;/li&gt;&#13;
+      &lt;li&gt;Forest Dweller’s&lt;/li&gt;&#13;
+      &lt;li&gt;Gerudo&lt;/li&gt;&#13;
+      &lt;li&gt;Goron&lt;/li&gt;&#13;
+      &lt;li&gt;Zora&lt;/li&gt;&#13;
+      &lt;li&gt;Champion weapons&lt;/li&gt;&#13;
+      &lt;li&gt;Yiga / Sheikah&lt;/li&gt;&#13;
+      &lt;li&gt;Gloom&lt;/li&gt;&#13;
+      &lt;li&gt;Amiibo&lt;/li&gt;&#13;
+    &lt;/ul&gt;&#13;
+&#13;
+    &lt;h2&gt;&lt;br&gt;&lt;br&gt;&lt;/h2&gt;&lt;h1&gt;Compatibility Notes&lt;/h1&gt;&#13;
+    &lt;b&gt;Install with TKMM!&lt;/b&gt;&lt;br&gt;&lt;br&gt;This mod touches many TOTK files and systems with a lot of new content. Manual installs are going to have problems.&lt;br&gt;&lt;br&gt;Although it edits lots of base weapons, the edit is actually small (just adding the breakability). It should be compatible with lots of other mods, but I can't guarantee it.&lt;h2&gt;&lt;br&gt;&lt;br&gt;&lt;/h2&gt;&lt;h1&gt;Known Problems&lt;/h1&gt;&#13;
+    Due to the huge number of possible combinations it's not been possible to test everything. If you see anything wrong, please let me know so I can track it down and fix it.&lt;br&gt;&lt;br&gt;&#13;
+    &lt;ul&gt;&#13;
+      &lt;li&gt;All hilts are supposed to be 1-damage 1-durability; with the blade getting the rest of the source weapon's damage and durability. TOTK's evil UI decision to lie about spear and largesword damage meant I had to fudge them a bit, so they are not 1.&lt;/li&gt;&lt;li&gt;Fused sizes of blades are sometimes not exactly accurate. The system for scaling is really weird and complicated and the current design is a best middle ground. If you find any stupid examples, please tell me.&lt;/li&gt;&#13;
+      &lt;li&gt;Broken hilts still have the swipe graphical effect of their longer parent, especially obvious on two-handed swords. I couldn't figure out how to make this align without opening a whole new can of worms.&lt;/li&gt;&#13;
+    &lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/truly_breakable_weapons_v10.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/truly_breakable_weapons_v11.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/truly_breakable_weapons_v12.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/truly_breakable_weapons_v12_x_every_weapon_blocks_attacks_compatibility_patch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/tbw_12_x_cm_180_compatibility_v1.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Fleet Sync</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/719972</link>
+      <comments>https://gamebanana.com/mods/719972#PostsListModule</comments>
+      <guid isPermaLink="false">5be2f220c9a8cf19abf758c5a1d3dc0c28fec208</guid>
+      <pubDate>Wed, 23 Sep 2026 06:48:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab3763e02e85.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab3763e3c729.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab3763e427fb.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Fleet Sync&lt;/h1&gt;&lt;h2&gt;Description&lt;/h2&gt;Fleet Sync lets you control several identical vehicles from one Steering Stick. Pick one vehicle to drive and link up to four others to it. They will receive the same steering input and correct their position and rotation to stay in formation. The driving vehicle is called hte controller, the others are all receivers.&amp;nbsp;&lt;br&gt;&lt;br&gt;This is more of a concept than a fully fleshed out mod. There's likely to be tons of issues with it. But I'm having fun with the current iteration. Please leave constructive comments so I can fix issues and add new features. Some things won't be possible though.&amp;nbsp;&lt;br&gt;&lt;br&gt;The original idea was to just pair two or more control sticks together - but due to all sorts of physics and non-determinism factors, that didn't pan out to the "synced fleet" I wanted. So the code also actively steers the receiver&lt;br&gt;&lt;br&gt;Currently, &lt;b&gt;all vehicles must be the same build&lt;/b&gt;. This may change in the future, but it was too unreliable in this iteration. So autobuilt copies are ideal. Start by placing them roughly side by side on level ground. Small placement differences will be straightened into a row. If you noticeably place a receiver ahead of or behind your vehicle, it will keep that arrangement instead.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Controls&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Stand beside your vehicle's Steering Stick and &lt;strong&gt;tap L3 + R3 together&lt;/strong&gt;, then release. This sets the controller.&lt;/li&gt;&lt;li&gt;Repeat beside another vehicle's Steering Stick to add it as a receiver. Different sounds confirm the controller and receiver selections.&lt;/li&gt;&lt;li&gt;Mount the controller and drive normally.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hold L3 + R3 for 1.5 seconds&lt;/strong&gt; to clear all links. I forget to do this all the time before a new fleet. Don't forget!&lt;/li&gt;&lt;/ul&gt;An negative sound means the selection was refused. (Remember, clear your links after you're done with old ones!)&lt;br&gt;&lt;br&gt;&lt;h2&gt;Known issues / limitations&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Hoverbikes and Wing+Fans are the main tested use case.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Vehicles work but quickly fall out of sync due to terrain and obstructions...&lt;/li&gt;&lt;li&gt;Haven't tested boats yet.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Haven't tested weapon/attack vehicles yet - excited to see what people do with this.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Bad starting positions, particularly in water, can still cause problems.&lt;/li&gt;&lt;li&gt;Receivers pass through trees, loose objects and characters while active so they don't constantly get left behind. They still collide with the ground and some scenery. Dismounting restores normal collision.&lt;/li&gt;&lt;li&gt;Clear and re-pair after changing a vehicle's parts.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Requirements&lt;/h2&gt;Requires Tears of the Kingdom &lt;strong&gt;1.2.1&lt;/strong&gt;. Confirmed working on Switch and in an emulator.&lt;br&gt;&lt;br&gt;Uses &lt;strong&gt;subsdk6&lt;/strong&gt;. Don't install another mod using that same slot.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Code and detailed README&lt;/h2&gt;MIT Licensed source code and a more detailed README are available &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/fleet-sync" target="_blank"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;The compiled mod also includes exlaunch, which retains its GPL-2.0 license.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;This mod was largely coded with the help of AI. In particular, models Fable and Astra.</description>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v022-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/fleet-sync-v022-switch.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Regain Decayed Master Sword</title>
+      <author>Ancient Link</author>
+      <link>https://gamebanana.com/mods/624667</link>
+      <comments>https://gamebanana.com/mods/624667#PostsListModule</comments>
+      <guid isPermaLink="false">8acba366ebd12b2db2ae46b431408c8689288689</guid>
+      <pubDate>Tue, 22 Sep 2026 15:59:54 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68e1fef3c0085.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e1fed6356a7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4df2226f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4c8bc276.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4e3d3650.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c55bd0bae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4c98ac15.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4c97ca98.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4c4af5ab.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4c8886fa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4de6dcbe.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68e0c4e32ebf5.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fixes&lt;br&gt;&lt;p&gt;The previous download file seemed to be broken, and TKMM couldn't download and install it, due to hidden files that MacOS adds to folders. I've fixed the download file so it doesn't have any extra files, and should work now.&lt;/p&gt;&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixes the download&lt;br&gt;&lt;hr&gt;&lt;br&gt;I've always been sad about the fact that you lose the Decayed Master Sword after completing the Great Sky Island, and have always been trying to find a way to get it back, so I made this is a simple mod that allows you to regain the Decayed Master Sword.&lt;br&gt;      What it does:&lt;br&gt;&lt;span class="GreenColor"&gt;-Places the Decayed Master Sword back in nearly the same spot in the Room of Awakening.&lt;/span&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-Makes it fuseable, with the Master Sword's ghost fuse.&lt;br&gt;-Gives it the Guard Enhance/Parry ability.&lt;br&gt;-Makes it unbreakable.&lt;/span&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-Allows for it to remain in inventory even after reload.&lt;/span&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-Makes it droppable, like the MSGNotFound Master Sword.&lt;/span&gt;&lt;br&gt;      &lt;span class="RedColor SelectedElement"&gt;I have only tested this mod in patch 1.1.0&lt;/span&gt;, which is the only patch I can get my Ryujinx to run at the moment, so I haven't tested this mod on any other version. I assume that if you install it with TKMM, it'll be compatible with most, if not all versions, but again, I cannot test that. &lt;br&gt;      I'd love to hear if TKMM does make it work with other versions, so if anyone tries it, feel free to comment.</description>
+      <media:content url="https://files.gamebanana.com/mods/keepable_decayed_master_sword_2.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/keepable_decayed_master_sword.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/keepable_decayed_master_sword_4f3f7.zip" type="application/zip"/>
+      <category>Overworld</category>
+      <category>Map</category>
+    </item>
+    <item>
+      <title>Survival Mode</title>
+      <author>Belle_Grande115</author>
+      <link>https://gamebanana.com/mods/719279</link>
+      <comments>https://gamebanana.com/mods/719279#PostsListModule</comments>
+      <guid isPermaLink="false">cc4042df073a5847dc26eba7ad7dab83ee5c22e9</guid>
+      <pubDate>Mon, 21 Sep 2026 19:33:16 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab07526be743.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab07526d762b.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added in main.npdm File as pointed out by Lord Bubbles&lt;br&gt;&lt;em&gt;Removal&lt;/em&gt;: Removed empty .TKCL file as pointed out by Lord Bubbles&lt;br&gt;&lt;hr&gt;&lt;br&gt;A simple mod that synthesizes survival mode. If you encounter issues please feel free to text my spare phone number (512) 734 6111&lt;br&gt;&lt;br&gt;You lose 2  Hearts every 4 minutes of playtime. This should ignore resting, pausing, time skips, and fast traveling. It uses the switches internal "time Played:" Clock.&lt;br&gt;&lt;br&gt;Thanks to Cortana For all the internal help!&lt;br&gt;&lt;br&gt;Added a Tiered version using Current max health:&lt;br&gt;&lt;span class="ͼt"&gt;// ============================================================&lt;/span&gt;&#13;
+&lt;span class="ͼt"&gt;// HEART DRAIN TIERS&lt;/span&gt;&#13;
+&lt;span class="ͼt"&gt;//&lt;/span&gt;&#13;
+&lt;span class="ͼt"&gt;// TOTK health units:&lt;/span&gt;&#13;
+&lt;span class="ͼt"&gt;//     4 HP = 1 heart&lt;/span&gt;&#13;
+&lt;span class="ͼt"&gt;//&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// Maximum Hearts       Drain&lt;/span&gt;&#13;
+&lt;span class="ͼt"&gt;// --------------------------------&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// 3 - 4 hearts  = 1 heart&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// 5 - 9 hearts = 2 hearts&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// 10 - 14 hearts = 4 hearts&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// 15 - 19 hearts = 5 hearts&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// 20 - 29 hearts = 6 hearts&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// 30+ hearts           8 hearts&lt;/span&gt; &lt;span class="ͼt"&gt;&lt;br&gt;&lt;br&gt;// ============================================================&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/totk_survival.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/totk_survival_-_tiers_f1eee.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Promotional Champion's Leathers</title>
+      <author>Mellamocarlos</author>
+      <link>https://gamebanana.com/mods/451537</link>
+      <comments>https://gamebanana.com/mods/451537#PostsListModule</comments>
+      <guid isPermaLink="false">535d013bf09e1437726da28464a57b36ca766f10</guid>
+      <pubDate>Mon, 21 Sep 2026 00:37:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/649445cc7b714.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64997798271a2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649977a52c8a5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649977c8b49c0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649977c8c15d5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649977c8a5ba7.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fixed Broken Link&lt;br&gt;&lt;p&gt;Download link has been fixed, should be working properly&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Promotional Champion's Leathers &lt;/span&gt;&lt;br&gt;&lt;br&gt;Makes the Champion's Leathers to show the entire Rauru's arm like in every promo art and the cover of the game instead of just the hand.&lt;br&gt;This if my fist mod so if something is wrong don't hesitate to tell me.&lt;br&gt;&lt;br&gt;To install it just move the folder corresponding to your version of the game to the mod directory in your emulator.&lt;br&gt;&lt;br&gt;If you have any other mods that modify the Resource Table (If they have &lt;span class="RedColor SelectedElement"&gt;ResourceSizeTable.Product.XXX.rsizetable.zs&lt;/span&gt; file inside System/Resource folders) you will need to change this entry in those mods for compatibility:&lt;br&gt;&lt;span class="RedColor"&gt;Armor_1106.Armor_1106_RaulSkin_Upper.bfres &lt;/span&gt;to&lt;span class="RedColor"&gt;&lt;b&gt; 500000&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Special Thanks to &lt;span class="RedColor"&gt;Kitsen&lt;/span&gt; for teaching me how to make mods in this game, this would not have been possible without him!&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/rippedsleeveleathers.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/normalsleeveleathers.zip" type="application/zip"/>
+      <category>Player</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Visible Rauru's arm for all armors</title>
+      <author>Mellamocarlos</author>
+      <link>https://gamebanana.com/mods/453232</link>
+      <comments>https://gamebanana.com/mods/453232#PostsListModule</comments>
+      <guid isPermaLink="false">fe9d3113819f6d70dfa9553aad705bef9a52ee94</guid>
+      <pubDate>Mon, 21 Sep 2026 00:33:26 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecc27b929f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f84e76.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f840a8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f9200c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f98846.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fa38b3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f8f280.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fa692f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fa342f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fa884f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fae1c4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fb8c5e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fb1ff8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fbfacd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f9fcc8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fbecf8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fc3a88.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8f935d1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fc795f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/649ecd8fa7301.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fixed Broken Link&lt;br&gt;&lt;p&gt;Now you should be able to download the mod&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;b&gt;Visible Rauru's Arm for all Armors&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;Makes almost ALL the armors in the game to show Rauru's arm when you wear them, i excluded some  that I feel wouldn't make sense, like the Flamebreaker set (i guessed Rauru's arm isn't fireproof) and the Yiga one (it's a disguise) for example.&lt;br&gt;My other mod: &lt;a href="https://gamebanana.com/mods/451537"&gt;Promotional Champion's Leathers&lt;/a&gt; is included within this mod, so i recommend deleting it if you want to play with this one.&lt;br&gt;This is a comprehensive change to the game so if I missed anything or something isn't working properly don't be afraid to tell me.&lt;br&gt;&lt;br&gt;To install it just move the folder corresponding to your version of the game to the mod directory in your emulator.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Compatibility with other mods&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you have any other mods that modify the Resource Table (If they have &lt;span class="RedColor SelectedElement"&gt;ResourceSizeTable.Product.XXX.rsizetable.zs&lt;/span&gt; file inside System/Resource folders) you will need to make them the same as the one in my mod and the ones in this mod the same to the other one, you can make both files the same (put the values of the entries from the other mod in the RSTB of mine and viceversa) or my recomendation is to look for the values the other mod changes (should be in their mod page), change the values of those entries in the RSTB of my mod and then delete de RSTB of the other mod.&lt;br&gt;&lt;br&gt;For example if you wanted to change the values of an armor you would need to look for  &lt;span class="RedColor"&gt;Armor_XXX.Armor_XXX_RaulSkin_Upper.bfres  &lt;/span&gt;in the resource table and change the entry value to the one the modder says it should be.&lt;br&gt;&lt;br&gt;The last column of the Spredsheet below has the value changes i made in the RSTB.&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;br&gt;&lt;b&gt;Guide for removing individual Armors&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;In case you don't like any specific armor of this mod and want to go back to the original one but keep the rest of them you should do the next:&lt;br&gt;&lt;br&gt;For example, let's imagine you want to keep the original &lt;span class="RedColor"&gt;Tunic of the Wild.&lt;/span&gt;&lt;br&gt;&lt;br&gt;1. Go to this &lt;a href="https://docs.google.com/spreadsheets/d/1dIg7ORBFJOK8g9IJIwQcX9RIDISwLx0RMwBA-aTxfgc/edit#gid=0" target="_blank"&gt;Spreadsheet&lt;/a&gt; I made with all the necesary values.&lt;br&gt;&lt;br&gt;2. Look up the &lt;span class="RedColor"&gt;ActorName &lt;/span&gt;of the armor you want to remove in the Spreadsheet, in this case it's &lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Armor_005_RaulSkin_Upper&lt;/span&gt;&lt;/span&gt;, go to the &lt;span class="GreenColor"&gt;romfs/Model&lt;/span&gt; folder in the mod and look for the file that has that name and delete it.&lt;br&gt;&lt;br&gt;3. Now you need to check the &lt;span class="RedColor"&gt;Pack Files &lt;/span&gt;of the armor, there are usually 5 (one for each upgrade) but if the armor can't be upgraded there will only be one, in this case, for the &lt;span class="RedColor"&gt;Tunic of the Wild&lt;/span&gt; they are &lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Armor_005_Upper.pack.zs&lt;/span&gt;&lt;/span&gt;, &lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Armor_035_Upper.pack.zs&lt;/span&gt;&lt;/span&gt;, &lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Armor_039_Upper.pack.zs&lt;/span&gt;&lt;/span&gt;, &lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Armor_060_Upper.pack.zs&lt;/span&gt;&lt;/span&gt; and &lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Armor_061_Upper.pack.zs&lt;/span&gt;&lt;/span&gt;, look for them inside the &lt;span class="GreenColor"&gt;&lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;romfs/Pack/Actor&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;folder and remove them.&lt;br&gt;&lt;br&gt;4. And the last one, using &lt;a href="https://github.com/NX-Editor/NxEditor" target="_blank"&gt;NX Editor&lt;/a&gt; and the hash table from the Research channel in the &lt;a href="https://discord.gg/bgZDNQ6sF2" target="_blank"&gt;modding discord&lt;/a&gt;, open the Resource table (&lt;span class="GreenColor"&gt;ResourceSizeTable.Product.XXX.rzisetable.zs&lt;/span&gt; inside &lt;span class="GreenColor"&gt;romfs/System/Resource&lt;/span&gt; folder) and look for the armor you want to remove with the prefix Model/ and the start of the &lt;span class="RedColor"&gt;ActorName &lt;/span&gt; of the respective armor, in this case it would be &lt;span class="GreenColor"&gt;Model/Armor_005&lt;/span&gt;,and make sure to choose the one that ends with &lt;span class="GreenColor"&gt;upper&lt;/span&gt;, you will see that the value is something like &lt;span class="GreenColor"&gt;500000 &lt;/span&gt; for example, now you need to look for the original Resource Table Value in the Spreadsheet (for this armor it's &lt;span class="GreenColor"&gt;190016&lt;/span&gt;) and change the value to that.&lt;br&gt;&lt;br&gt;5. You are done, enjoy!&lt;br&gt;&lt;br&gt;The only thing i feel is missing from this mod is some custom icons for the armors, if someone want to make that happen, hit me up (I have my Discord in my profile) and we can get to work on it.&lt;br&gt;&lt;span class="RedColor"&gt;&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/visible_raurus_arm.zip" type="application/zip"/>
+      <category>Player</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Ordeal of the Demon King - Two New Quests</title>
+      <author>- Tarnagh -</author>
+      <link>https://gamebanana.com/mods/712592</link>
+      <comments>https://gamebanana.com/mods/712592#PostsListModule</comments>
+      <guid isPermaLink="false">a4053cd402d89d854690a167c350f5042cde147a</guid>
+      <pubDate>Sat, 19 Sep 2026 17:45:17 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa97c7cc229e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9dae19baf40.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa97c8b8ae97.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a96fae3ed1b9.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; v2.1.0&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fix some bugs&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: now, Ganondorf can teleport the player (see description)&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;em&gt;Created by &lt;strong&gt;Tarnagh&lt;/strong&gt;. Bow model and texture by &lt;strong&gt;The Hidden Yiga Clan&lt;/strong&gt;.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h2&gt;Ordeal of the Demon King&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"You have faced monsters, Dragons, and gods. But have you ever stood before the Demon King himself?"&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Ganondorf stands, and he is waiting for you. Not for a battle - but for an answer. He has watched the bearer of the Master Sword from afar, counted his victories, and now he intends to find out for himself whether the hero is worth anything at all.&lt;br&gt;&lt;br&gt;&#13;
+This is a full quest line: dialogue, choices that stick, a duel of his choosing, two commissions that end with weapons no one else in Hyrule can give you - and, for those who survive him, paths no one else can open.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Demon King&lt;/h2&gt;&#13;
+&#13;
+He offers you a choice.&lt;br&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Kneel.&lt;/strong&gt;&lt;br&gt;&#13;
+&lt;strong&gt;Or refuse.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&#13;
+Choose carefully. The Demon King does not offer his mercy twice.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Ordeal&lt;/h2&gt;&#13;
+&#13;
+Those who bow before him earn something granted to almost no one: the chance to prove themselves in single combat, against an opponent he picks personally.&lt;br&gt;&lt;br&gt;&#13;
+Survive, and he will admit - grudgingly, in his own way - that you are more than another hero clinging to a dying world. Refuse the duel, and the ordeal ends where it began, beneath his gaze.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The King's Will&lt;/h2&gt;&#13;
+&#13;
+A proven hero is a useful hero, and the Demon King has work.&lt;br&gt;&lt;br&gt;&#13;
+His first commission sends you after the horns of three Silver Lynels, thirty of Naydra's spikes, and a horn taken from the Light Dragon herself. Bring them, and he will forge you a bow out of them, by hand, in front of you.&lt;br&gt;&lt;br&gt;&#13;
+&lt;em&gt;"Watch closely as their fragile light is consumed by my darkness."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+And the world answers him. While he forges, gloom boils up around him and the sky and earth turn the red of a Blood Moon - and when the rite is done, the colour drains away again.&lt;br&gt;&lt;br&gt;&#13;
+But do not mistake his favour for friendship. You serve his purpose for exactly as long as you remain useful.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;The Horn of the Demon King&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"Take this. A horn of my true form. A manifestation of the doom that awaits this fragile world."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Come back to him carrying his bow and he will ask more of you - if you are willing to hear it.&lt;br&gt;&lt;br&gt;&#13;
+This time he wants the horns of all three elemental Dragons, and two from the Light Dragon. What he makes of them is not a weapon but a piece of one: &lt;strong&gt;a shard of the form he has not yet taken&lt;/strong&gt;, fused from their elemental essence and his own dark magic.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Fuse it to anything you like:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;+90 attack&lt;/strong&gt; - well past anything the base game offers&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Fire in every form&lt;/strong&gt; - it sets what it strikes alight, explodes in flame, keeps you warm, and does not go out&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Shatters armour&lt;/strong&gt;, fells trees, and throws further&lt;/li&gt;&#13;
+  &lt;li&gt;On a shield: &lt;strong&gt;guard bonus, perfect-parry bonus, shield bash and counter&lt;/strong&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+It cannot be sold. Some things are not for rupees.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;New: The Demon King's Path&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;"Name a place, then the ground between here and it will cease to matter."&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+Once his trial is behind you and his first commission given, your conversations with him can end with a request: &lt;strong&gt;open a way for me&lt;/strong&gt;. He answers with the same dark rite he forges with - and then the world folds, and you are somewhere else.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Seven places, some of them closed to you any other way:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Old Throne Room&lt;/strong&gt; - the Sanctum in Hyrule Castle&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Floating Coliseum&lt;/strong&gt; - five Lynels, and the Depths all around&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Thunderhead Isles&lt;/strong&gt; - the storm that hides the relics of the Zonai&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Imprisoning Chamber&lt;/strong&gt; - the very tomb of the prologue, where he was sealed&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath Hyrule Castle&lt;/strong&gt; - Gloom's Approach, the heart of his malice&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath the World&lt;/strong&gt; - below the Depths themselves, where there is nothing at all&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Western Plateau&lt;/strong&gt; - ground beyond the walls Hyrule raised to keep its world small&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+A few words of warning, because he will not give you any:&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;In the &lt;strong&gt;Imprisoning Chamber&lt;/strong&gt;, do not walk on towards the Demon King's own cutscene. Leave the way you would leave anywhere else - by the map.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Beneath the World&lt;/strong&gt; means exactly that.&lt;/li&gt;&#13;
+  &lt;li&gt;You may arrive on gloom. Do not let it take away your life.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Features&lt;/h2&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Demon King:&lt;/strong&gt; Ganondorf as he ought to be - imposing, calculating, merciless, and worthy of the title. His words are written in red.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Choices that stick:&lt;/strong&gt; what you say to him is remembered across saves, and he remembers it too.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The King's Trial:&lt;/strong&gt; a duel against an opponent he chooses for you, with miasma.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Two commissions:&lt;/strong&gt; hunt across Hyrule for materials no shop sells, and watch him forge them by hand - gloom, sound and a blood-red sky included.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Two unique rewards:&lt;/strong&gt; a bow of his own making, and the Horn of the Demon King.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;The Demon King's Road:&lt;/strong&gt; seven destinations across the surface, the sky, the Depths, and places the game never meant you to reach.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;No new NPC clutter:&lt;/strong&gt; one existing character carries the whole thing. Nothing else in the world is moved.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Begin the Ordeal&lt;/h2&gt;&#13;
+&#13;
+&lt;ol&gt;&#13;
+  &lt;li&gt;Find him north of the Gerudo Canyon Pass, west of the Rakakudaj Shrine.&lt;/li&gt;&#13;
+  &lt;li&gt;Approach, and hear his demand.&lt;/li&gt;&#13;
+  &lt;li&gt;Kneel - or refuse.&lt;/li&gt;&#13;
+  &lt;li&gt;If you are still standing, decide whether to accept his trial.&lt;/li&gt;&#13;
+  &lt;li&gt;Win it, and take his first commission.&lt;/li&gt;&#13;
+  &lt;li&gt;Return with his bow in hand, and ask him for more.&lt;/li&gt;&#13;
+  &lt;li&gt;At the end of any conversation, ask him to open a way.&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Installation&lt;/h2&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;TKCL / TKMM:&lt;/strong&gt; import the file and enable the mod.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Manual:&lt;/strong&gt; unpack the ZIP so that &lt;code&gt;romfs&lt;/code&gt; lands in&lt;br&gt;&#13;
+      &lt;code&gt;atmosphere/contents/0100F2C0115B6000/romfs/&lt;/code&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Emulator:&lt;/strong&gt; place the same &lt;code&gt;romfs&lt;/code&gt; folder in the game's mod directory.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h2&gt;Technical Specifications&lt;/h2&gt;&#13;
+&#13;
+&lt;em&gt;For developers and modders:&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Host actor:&lt;/strong&gt; &lt;em&gt;Npc_BaseCampSoldier_Hylia005&lt;/em&gt; - renamed, re-scripted, and given Ganondorf's pack. No new actor is registered.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Quest logic:&lt;/strong&gt; EventFlow, in his own flowchart - branches, talk choices, pouch queries and autosaves.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Persistence:&lt;/strong&gt; six booleans appended to &lt;em&gt;GameDataList&lt;/em&gt;, with &lt;em&gt;MetaData&lt;/em&gt; resized to match so they actually reach &lt;em&gt;progress.sav&lt;/em&gt;.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Dialogue:&lt;/strong&gt; Mals, built from genuine vanilla 1.2.0 archives. His lines carry the inline red colour code; your choices stay white.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Teleportation:&lt;/strong&gt; &lt;em&gt;GameSystemActor.EventReserveBancChange&lt;/em&gt; by named start position. Two are vanilla (&lt;em&gt;OpeningStart&lt;/em&gt;, &lt;em&gt;StartPos_HyruleCastleIncident&lt;/em&gt;); five are added to the &lt;em&gt;MainField&lt;/em&gt; and &lt;em&gt;MinusField&lt;/em&gt; start-position tables. The menu is three steps of four choices - the most a single talk event can show.&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Custom equipment:&lt;/strong&gt; Crystallized Ice Bow (&lt;em&gt;Weapon_Bow_166_For_Ganondorf&lt;/em&gt;), Horn of the Demon King (&lt;em&gt;Item_Enemy_39&lt;/em&gt;).&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Resource table:&lt;/strong&gt; every entry the mod grows is recomputed and shipped.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;The Ordeal Awaits&lt;/h3&gt;&#13;
+&#13;
+&lt;em&gt;Stand before the Demon King. Prove your worth. And remember - he is the one deciding whether you deserve to live.&lt;/em&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ordeal_of_the_demon_king_bd266.zip" type="application/zip"/>
+      <category>Quests</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Emote Wheel</title>
+      <author>KB0MB</author>
+      <link>https://gamebanana.com/mods/578040</link>
+      <comments>https://gamebanana.com/mods/578040#PostsListModule</comments>
+      <guid isPermaLink="false">54c39e625a37d1bbc1bd84722f643f76925ef59f</guid>
+      <pubDate>Sat, 19 Sep 2026 16:33:40 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb477065b6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67a87af1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67a8b5c6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67a9f1b0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67aa66f5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67aa9664.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ab2e80.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ab44fa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ab4e51.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ab2f1a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ab9674.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ac0e65.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67acdc11.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ad7a76.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ada09e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ae3557.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaeb67ae7198.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Emote Wheel!&lt;br&gt;&lt;em&gt;Overhaul&lt;/em&gt;: Restored the Camera Animations and created an emote wheel in place of the whistle button&lt;br&gt;&lt;hr&gt;&lt;br&gt;This mod now allows you to call an Emote Wheel to play an AS command, bntx(icon) and an SLink for the emote!&lt;br&gt;&lt;br&gt;Emotes so far:&lt;br&gt;&lt;span class="GreenColor"&gt;-&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;Take The L&lt;br&gt;-Renegade&lt;br&gt;-Scenario&lt;br&gt;-Behold!&lt;br&gt;-Floss&lt;br&gt;-Best Mates&lt;br&gt;-Orange Justice*&lt;br&gt;-Empty Out Your Pockets*&lt;br&gt;-Lucid Dreams*&lt;br&gt;-PopLock*&lt;br&gt;-Get Griddy*&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-Crackdown&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="GreenColor"&gt;&lt;span class="GreenColor"&gt;-Electro Shuffle&lt;br&gt;-The Robot&lt;br&gt;-Breakin'*&lt;br&gt;-Dance Moves&lt;br&gt;-Ride the Pony*&lt;/span&gt;&lt;br&gt;-Hype&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;*&lt;/span&gt;&lt;span class="RedColor"&gt;Face and eye texture animations still missing&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;If any of you want a specific emote from Fortnite(Easiest to port for me), let me know in the comments! I can even create personalized emotes for individuals who message me!(discord preferably)&lt;br&gt;&lt;br&gt;I can't guarantee I'll be able to make all of your requests since I need to work on rebirth of the goddess as well..&lt;br&gt;&lt;br&gt;For the emotes already made, you can't fit them all(8 maximum) in the wheel but you can edit the json for the json in the EmoteConfig folder in romfs.(Fairly simple). I wouldn't even mind people uploading their emote wheel preset online but I don't really see the use&lt;br&gt;&lt;br&gt;AI Use disclosure:&lt;br&gt;&lt;br&gt;This mod has exefs files that allow for the emote wheel. I have used the latest GPT-6 with a Ghidra bridge to implement this much needed change. Big Thanks to The5thTear for the bridge program!</description>
+      <media:content url="https://files.gamebanana.com/mods/emotewheel.zip" type="application/zip"/>
+      <category>Animations</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Bivvy</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/718525</link>
+      <comments>https://gamebanana.com/mods/718525#PostsListModule</comments>
+      <guid isPermaLink="false">ec04840199a27e7fffeba14a750b223ce5cf7790</guid>
+      <pubDate>Sat, 19 Sep 2026 01:06:20 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09b57a6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09d7056.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09a7bcb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb09c3f05.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb095ebb2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb0955de3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaddb0a52eed.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Bivouac (Bivvy)&lt;/h1&gt;&lt;h2&gt;Description&lt;/h2&gt;This mod lets you create platforms that can hang from walls, cliffs and even float above the water. &lt;br&gt;This mod is nowhere near finished but by putting it out there I can get some early feedback hopefully.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Instructions &lt;/h2&gt;For full instructions please see the &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/bivouac" target="_blank"&gt;README&lt;/a&gt;.&lt;br&gt;&lt;br&gt;To spawn a bivouac you must first be climbing on a surface or in sufficiently deep water. You must also be at least 160m away from other bivouacs (for cliff bivouacs). This can be discerned easily by checking the minimap for any nearby bivouac stamps (a moon icon). If you see none - you should be clear to spawn one at your location. &lt;br&gt;&lt;br&gt;&lt;h3&gt;Tiers&lt;/h3&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Tier 1: Spawns with a Hearty Truffle eaten while climbing or in water. Small platform with a cooking pot. &lt;/li&gt;&lt;li&gt;Tier 2: Spawns with a Big Hearty Truffle eaten while climbing or in water. Medium platform. &lt;/li&gt;&lt;li&gt;Tier 3: Spawns with a Big Hearty Radish eaten while climbing or in water. Large platform suitable for vehicle landing/take-off. Contains a "Beedle+" NPC who has valuable items to purchase. &lt;b&gt;NOTE: Selling your items to this NPC does NOT work. Don't try - it will break.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h3&gt;Warping&lt;/h3&gt;Once a bivouac has been placed, you can warp to it at anytime by going to the global map menu with the minus (-) button and selecting the crescent moon stamp at its location. &lt;br&gt;&lt;br&gt;&lt;h3&gt;Known Issues/Frustrations&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Sometimes warping to a bivouac will land you on terrain underneath the bivouac instead of on the platform itself. &lt;/li&gt;&lt;li&gt;Currently, placement of water bivouacs is too strict. If water isn't deep enough and far enough away from a shore, placement won't work. Also, bivouac's in the same body of water will tend to trigger the "proximity rejection" even if it is over the 160 m range. &lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Licensing&lt;/h2&gt;Mod is licensed under the MIT license as is its &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/bivouac" target="_blank"&gt;source code&lt;/a&gt;. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Opus and Sol were used during development.</description>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0260-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0260-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0261-emulator-subsdk7.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/bivouac-v0261-switch-subsdk7.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Glideshot</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/718323</link>
+      <comments>https://gamebanana.com/mods/718323#PostsListModule</comments>
+      <guid isPermaLink="false">4eaef1fd17c5ca1be5e8f1bebf8f6807965968eb</guid>
+      <pubDate>Fri, 18 Sep 2026 08:49:28 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fb13dcb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab195c5e9465.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fabb636.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fad5342.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fb0cd77.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fb15752.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fb43694.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aacf8fbae897.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Glideshot&lt;/h1&gt;&lt;h2&gt;Recent changes:&lt;/h2&gt;&lt;h2&gt;v0.9.4 changes&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Fixed npad hook call conflicting with self-recall. &lt;/li&gt;&lt;li&gt;Mods can now be run together.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Activation is now &lt;b&gt;ZL + L&lt;/b&gt; (sorry this was inaccurate for awhile)&lt;br&gt;Added &lt;b&gt;Arrowbound&lt;/b&gt;. Enable by selecting the Arrowbound emblem in the main menu. &lt;b&gt;Shoot an arrow and you will paraglide along its trajectory&lt;/b&gt;. Disable via the same emblem. &lt;b&gt;Still in early alpha status. Only works with slower bows/arrows. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Description&lt;/h2&gt;Hookshot substitute that uses the paraglider and a zonai helix "chain" visual.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: this mod is still in active development and may change considerably as development continues.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Controls&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Hold &lt;b&gt;ZL + L&lt;/b&gt; to enter aim mode. A green circle marks a wall the glideshot will accept. A red circle means it won't work.&lt;/li&gt;&lt;li&gt;Press &lt;b&gt;A &lt;/b&gt;to fire. The glideshot draws to the target at once and Link follows with his paraglider. &lt;/li&gt;&lt;li&gt;Press &lt;b&gt;B &lt;/b&gt;at any point to let go.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Requirements&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Requires Tears of the Kingdom &lt;b&gt;1.2.1&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Confirmed working on Switch. &lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Known issues&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;The chain's double-helix can look blurred past the halfway point on long shots.&lt;/li&gt;&lt;li&gt;Sometimes the target is missed by a bit or doesn't latch onto a climb when arriving.&lt;/li&gt;&lt;li&gt;In emulators, you will see the mod by the name &lt;b&gt;zonai-hookshot&lt;/b&gt;. That's the one you want to enabled. This was its development name. I may go back to it once it more closely resembles the hookshot from prior games. For now, I don't want to mislead anyone. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Open source&lt;/h2&gt;Both this mod and its source code are fully open source and MIT licensed. You can find the source code &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/glideshot" target="_blank"&gt;here&lt;/a&gt;. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Coded with help from Opus, Sol. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Credits&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;exlaunch by shadowninja108 and contributors.&lt;/li&gt;&lt;li&gt;doctest (MIT); devkitPro.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v080-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v080-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v081-emulator_0c7e9.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v081-switch_916dc.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v091-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v091-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v092-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v092-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v093-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v093-switch-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v094-emulator-subsdk5.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/glideshot-v094-switch-subsdk5.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Fierce Deity hair over default hair</title>
+      <author>banan039</author>
+      <link>https://gamebanana.com/mods/717841</link>
+      <comments>https://gamebanana.com/mods/717841#PostsListModule</comments>
+      <guid isPermaLink="false">fc670b5cd02c831df2313eb24bf4e6ac1415ba5c</guid>
+      <pubDate>Wed, 16 Sep 2026 18:08:08 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaadaf7ad089.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaadaf7a468a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaadaf81c16e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaadaf8421e3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaadaf9467d5.jpg"/&gt;&lt;br&gt;Merges default hair with fierce deity cap hair. All physics work, reacts to wind and all. Install with TKMM</description>
+      <media:content url="https://files.gamebanana.com/mods/superlonghair_v2.7z" type="application/x-7z-compressed"/>
+      <category>Player</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>The Legend of Nostalgia - Music Pack</title>
+      <author>LadyLazuli</author>
+      <link>https://gamebanana.com/mods/713565</link>
+      <comments>https://gamebanana.com/mods/713565#PostsListModule</comments>
+      <guid isPermaLink="false">5990fa9fe43e40c7591ba5cc2821c84ca9e26051</guid>
+      <pubDate>Wed, 16 Sep 2026 09:57:37 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9ac349cf530.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9ac34dde00c.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; TKMM compatibility&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Solved compatibility issues for DOTK users (or other music mods editing static.bars)&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: If you're a DOTK user, please download the Compatible version of TLON to avoid audio bugs&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;Content:&lt;/b&gt;&lt;br&gt;&lt;hr&gt;&lt;b&gt;&lt;br&gt;&#13;
+This mod edit most of the in-game music tracks (over 100 in total!) for a&#13;
+brand-new nostalgic experience for your playthroughs!&amp;nbsp;Includes songs from&#13;
+the following Zelda games:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;A Link Between Worlds&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Breath of the Wild&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Echoes of Wisdom&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Majora's Mask&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Ocarina of Time&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Skyward Sword&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Spirit Tracks&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;The Wind Waker&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Twilight Princess&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Hyrule Warriors Age of Calamity&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Hyrule Warriors Age of Imprisonment&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&#13;
+&#13;
+&#13;
+&lt;hr size="2" width="100%" align="center"&gt;&lt;br&gt;Below, a comprehensive&#13;
+list of every swapped track! &lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&#13;
+&lt;b&gt;Settlements&lt;/b&gt;&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Lookout Landing&lt;/u&gt;&amp;nbsp;: Skyloft &lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hateno Village (Day)&lt;/u&gt;: Ordon Village &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hateno Village (Night)&lt;/u&gt;: Faron Woods &lt;span class="RedColor"&gt;Twilight Princess &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Lurelin Village (Day)&lt;/u&gt;: Windfall Island &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Lurelin Village (Night)&lt;/u&gt;: Outset Island &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Kakariko Village (Day)&lt;/u&gt;: Kakariko Village &lt;span class="RedColor"&gt;A Link Between Worlds&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Kakariko Village (Night)&lt;/u&gt;: Kakariko Village &lt;span class="RedColor"&gt;Twilight Princess &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Kara Kara Bazaar&lt;/u&gt;: Gerudo Valley &lt;span class="RedColor"&gt;Ocarina of Time&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hyrule Castle (Ground)&lt;/u&gt;: Hyrule Castle &lt;span class="RedColor"&gt;&amp;nbsp;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hyrule Castle (Sky)&lt;/u&gt;: Hyrule Castle Tower &lt;span class="RedColor"&gt;&amp;nbsp;Twilight Princess&lt;/span&gt; &lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Tarrey Town (Day):&lt;/u&gt; Clock Town&#13;
+Day 1 &lt;span class="RedColor"&gt;Majora’s Mask&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Tarrey Town (Night):&lt;/u&gt; Clock Town&#13;
+Day 2 &lt;span class="RedColor"&gt;Majora’s Mask&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Ganondorf’s Castle (Depths):&lt;/u&gt;&#13;
+Lorule’s Castle &lt;span class="RedColor"&gt;A Link Between Worlds&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&amp;nbsp;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Regional Towns&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Gerudo Town (Day)&lt;/u&gt;: Gerudo Town &lt;span class="RedColor"&gt;Echoes of Wisdom &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Gerudo Town (Night)&lt;/u&gt;: Urbosa’s theme &lt;span class="RedColor"&gt;Breath of the Wild&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Gerudo Town(Underground):&lt;/u&gt;&#13;
+Gerudo Desert &lt;span class="RedColor"&gt;Echoes of Wisdom&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Gerudo Town (Unsolved)&lt;/u&gt;: Pirates’ Fortress &lt;span class="RedColor"&gt;Majora’s Mask&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Goron City (Day)&lt;/u&gt;: Death Mountain &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Goron City (Night)&lt;/u&gt;: Goron City &lt;span class="RedColor"&gt;Ocarina of Time&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Goron City (Unsolved)&lt;/u&gt;: Goron Mines &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Rito Village (Day)&lt;/u&gt;: Dragon Roost Island &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Rito Village (Night)&lt;/u&gt;: Medli’s Awakening (Part 2) &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Rito Village (Unsolved)&lt;/u&gt;: Link’s Nightmare (Premonition) &lt;span class="RedColor"&gt;Skyward Sword &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Zora’s Domain (Day)&lt;/u&gt;: Zora’s Domain &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Zora’s Domain (Night)&lt;/u&gt;: Zora’s Domain &lt;span class="RedColor"&gt;A Link Between Worlds&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Zora’s Domain (Unsolved)&lt;/u&gt;: Song of Healing &lt;span class="RedColor"&gt;Majora’s Mask&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Korok Forest (Day)&lt;/u&gt;: Saria’s Song &lt;span class="RedColor"&gt;Ocarina of Time&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Korok Forest (Night)&lt;/u&gt;: Sacred Grove &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Korok Forest (Unsolved)&lt;/u&gt;: Forest Temple &lt;span class="RedColor"&gt;Ocarina of Time&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&amp;nbsp;&lt;br&gt;&#13;
+&lt;b&gt;Specific Areas&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Tower&lt;/u&gt;: A Quiet Moment &lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Stable&lt;/u&gt;: Ordon Ranch &lt;span class="RedColor"&gt;Twilight Princess &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Lucky Clover Gazette&lt;/u&gt;: Romani Ranch &lt;span class="RedColor"&gt;Majora’s Mask &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hateno Lab&lt;/u&gt;: Royal Research Lab &lt;span class="RedColor"&gt;Age of Calamity &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hateno School&lt;/u&gt;: Knight Academy &lt;span class="RedColor"&gt;Skyward Sword &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Fairy Fountain&lt;/u&gt;: Fairy Fountain &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Malanya’s Fountain&lt;/u&gt;: Fairy Queen &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Abandoned Mine in Depths&lt;/u&gt;: Lanayru Mining Facility &lt;span class="RedColor"&gt;&amp;nbsp;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Ruins in Gerudo Desert&lt;/u&gt;: Gerudo Desert &lt;span class="RedColor"&gt;Twilight Princess &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Dragonhead Island&lt;/u&gt;: Sealed Temple &lt;span class="RedColor"&gt;Skyward Sword &lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Thunder Isles:&lt;/u&gt; Hilda’s&#13;
+Theme &lt;span class="RedColor"&gt;A Link Between Worlds&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Goron Restaurant&lt;/u&gt;: Goron Village &lt;span class="RedColor"&gt;Spirit Tracks&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Mipha Park&lt;/u&gt;: Zora Village (Sea) &lt;span class="RedColor"&gt;Echoes of Wisdom&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Dorephan’s Hideout&lt;/u&gt;: Prince Ralis’ Theme &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&amp;nbsp;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Yunobo’s Office&lt;/u&gt;: The Champion Daruk &lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Flight Training Area&lt;/u&gt;: Revali’s Theme &lt;span class="RedColor"&gt;Breath of the Wild&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Yiga Clan Base&lt;/u&gt;: Blades of the Yiga &lt;span class="RedColor"&gt;Age of Calamity &lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Yiga Clan Smaller Base:&lt;/u&gt;&#13;
+Byrne’s Theme &lt;span class="RedColor"&gt;Spirit Tracks&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Koltin’s Theme&lt;/u&gt;: Astor &lt;span class="RedColor"&gt;Age of Calamity &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Link’s Home (Tarrey Town)&lt;/u&gt;: House &lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Link’s Home (Tarrey Town, building)&lt;/u&gt;: House &lt;span class="RedColor"&gt;Twilight Princess &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;House&lt;/u&gt;: Zelda’s Lullaby &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Temple of Time (Great Sky Island)&lt;/u&gt;: Temple of Time &lt;span class="RedColor"&gt;Ocarina of Time &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Maze (Ground)&lt;/u&gt;: Farore’s Silent Realm&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Maze (Sky)&lt;/u&gt;: Nayru’s Silent Realm&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Maze (Depths)&lt;/u&gt;: Din’s Silent Realm&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword &lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Lost Woods&lt;/u&gt;: Goddess’&#13;
+Silent Realm&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&amp;nbsp;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Outside the shrines&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Cave)&lt;/u&gt;: Cave &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Near Lava)&lt;/u&gt;: Eldin Volcano&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Mountain)&lt;/u&gt;: Aryll’s Theme &lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Rocky area):&lt;/u&gt; Mogma Mines&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Near Water)&lt;/u&gt;: Queen Rutela’s Theme &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Wasteland)&lt;/u&gt;: Spirit Temple &lt;span class="RedColor"&gt;&amp;nbsp;Ocarina of Time&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Sky)&lt;/u&gt;: Island in the Sky&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Zonai Ruins)&lt;/u&gt;: Isle of Songs&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Shrine (Ruins)&lt;/u&gt;: Dance of the Goddess&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&amp;nbsp;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Battles&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Field Battle 1 (Easy):&lt;/u&gt; Overpowered &lt;span class="RedColor"&gt;Age of Imprisonment &lt;/span&gt;&lt;b&gt;(added with&#13;
+1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Field Battle 2 (Easy):&lt;/u&gt;&#13;
+Outmatched &lt;span class="RedColor"&gt;Age of Imprisonment &lt;/span&gt;&lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Field Battle (Medium):&lt;/u&gt;&#13;
+Deadlocked &lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Field Battle 1 (Hard):&lt;/u&gt; Towards&#13;
+Destiny&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt;&amp;nbsp;&lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Field Battle 2 (Hard):&lt;/u&gt;&#13;
+To the Rescue &lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Dungeon Battle:&lt;/u&gt; On the March&#13;
+&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Ganondorf’s Castle Battle:&lt;/u&gt;&#13;
+Yuga Ganon &lt;span class="RedColor"&gt;A Link Between Worlds&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Yunobo:&lt;/u&gt; Battle for&#13;
+the Volcano&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Kohga&lt;/u&gt;: Master&#13;
+Kohga, Top Banana of the Yiga Clan &lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hinox&lt;/u&gt;: Intense Battle against the Hinox&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Stone Talus&lt;/u&gt;: Intense Battle against the Talus&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Molduga&lt;/u&gt;: Intense Battle against the Molduga&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Frox&lt;/u&gt;: Fierce Clash: Frox&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Flux Construct:&lt;/u&gt; Fierce&#13;
+Clash: Flux Construct&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Moragia&lt;/u&gt;: Struggle for the Crater&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Defending Kara Kara Bazaar&lt;/u&gt;: Battle for the Desert&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Sludge Like (pre battle)&lt;/u&gt;: Middle Boss Battle&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Ocarina of Time&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Sludge Like (battle)&lt;/u&gt;: Boss Battle&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Ocarina of Time &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Gloom Hands phase 1&lt;/u&gt;: Astor, Prophet of Doom (phase 1)&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Gloom Hands phase 2&lt;/u&gt;: Astor, Prophet of Doom (phase 2)&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Colgera:&lt;/u&gt; Grimgera,&#13;
+Archfiend of Tempests&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Marbled Gohma:&lt;/u&gt; Grimgohma,&#13;
+Archfiend of Lava&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Muktorok:&lt;/u&gt; Grimtorok,&#13;
+Archfiend of Grime&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Queen Gibdo:&lt;/u&gt; Grimgibdo,&#13;
+Archfiend of Sand&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Seized Construct phase 1:&lt;/u&gt;&#13;
+Final Boss Evil Construct (phase 2)&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Seized Construct phase 2:&lt;/u&gt;&#13;
+Final Boss Evil Construct (phase 3)&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Phantom Ganon phase 1&lt;/u&gt;: Calamity Ganon Battle Theme&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Phantom Ganon phase 2&lt;/u&gt;: Decisive Fight against Calamity Ganon&amp;nbsp; &lt;span class="RedColor"&gt;Age of&#13;
+Calamity&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Ganondorf&lt;/u&gt;: Demon King Ganondorf&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Imprisonment&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Ganondorf phase 2 part 1&lt;/u&gt;: Ganondorf Battle&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Ganondorf phase 2 part 2: &lt;/u&gt;Ganondorf&#13;
+Battle (Final Duel)&amp;nbsp; &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&amp;nbsp;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Miscellaneous&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Game Over: &lt;/u&gt;Game Over&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Dragon (Normal)&lt;/u&gt;: Follow Fi&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Dragon (Light)&lt;/u&gt;: Fi’s Theme&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword &lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Horse Ride (Day)&lt;/u&gt;: Hyrule Field (Day)&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Horse Ride (Night)&lt;/u&gt;: Hyrule Field (Night) &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Lost Antiquity&lt;/u&gt;: Land of Antiquity&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Age of Calamity&lt;/span&gt; &lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Cumulonimbus:&lt;/u&gt; Lost Woods&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Spirit Tracks&lt;/span&gt; &lt;b&gt;(added with 1.2.0)&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Cold Temperature&lt;/u&gt;: Snowpeak &lt;span class="RedColor"&gt;Twilight Princess&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Hot Temperature&lt;/u&gt;: Lanayru Sand Sea&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Burning Temperature&lt;/u&gt;: Volcano Eruption&amp;nbsp;&amp;nbsp;&lt;span class="RedColor"&gt;Skyward Sword&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Minigame (Dive)&lt;/u&gt;: The Great Sea &lt;span class="GreenColor"&gt;&lt;span class="RedColor"&gt;The Wind Waker&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Minigame (Archery)&lt;/u&gt;: Whip Minigame &lt;span class="RedColor"&gt;Spirit Tracks&lt;/span&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;u&gt;Minigame (Flight Range):&lt;/u&gt; Minigame &lt;span class="RedColor"&gt;A Link Between Worlds&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Minigame (Horse Ride, Vehicles)&lt;/u&gt;: Horse Race &lt;span class="RedColor"&gt;Echoes of Wisdom&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Minigame (Sand Seal Plushes, Goron Golf)&lt;/u&gt;: The Hidden Village &lt;span class="RedColor"&gt;Twilight&#13;
+Princess&lt;/span&gt; &lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Minigame (Yiga Training)&lt;/u&gt;: Byrne’s Theme (Battle) &lt;span class="RedColor"&gt;Spirit Tracks&lt;/span&gt; &lt;b&gt;(replaced&#13;
+with 1.2.0)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div class="MsoNormal" align="center"&gt;&#13;
+&#13;
+&lt;hr size="2" width="100%" align="center"&gt;&lt;/div&gt;&#13;
+&#13;
+&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Compatibility Issues and How to Install:&lt;/b&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;b&gt;Mod has been tested on TOTK v.1.2.1, but other versions shouldn't be an&#13;
+issue.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;h3&gt;&lt;span class="RedColor"&gt;Important: if you have other music mods and that you downloaded the Vanilla version, make sure to place TLON ABOVE the rest of your mods! Not doing so will result in audio bugs. Remember music files do NOT merge together well, and it is heavily recommended not using several mods editing music at the same time.&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;&lt;span class="RedColor"&gt;If you have issues with music mods from other creators, I unfortunately won't be able to solve them.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+If you don't like one of the swapped tracks or prefer the vanilla version,&lt;b&gt;&amp;nbsp;feel&#13;
+free to delete both the .bwav file AND the associated .bars file from the mod's&#13;
+folder&lt;/b&gt;! Default music will return normally unless you use another music&#13;
+mod.&amp;nbsp;&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&lt;u&gt;Manually:&lt;/u&gt; Download the archive and extract it, then drag the mod into your Mod&#13;
+Directory.&amp;nbsp;&lt;br&gt;&lt;u&gt;TKMM:&lt;/u&gt; Open TKMM and download the TKCL version of your choice. Open your TKMM profile, then click on "Add Mod", and select your file.&amp;nbsp;&lt;u&gt;Error messages can happen if you try to open the TKCL directly, so don't do that.&amp;nbsp;&lt;/u&gt;&lt;br&gt;Place TLON above your mods if you have any other mod editing music, or below if you prefer some music of your other mods. No need to download both Vanilla and Compatible, choose just one! Once changes are done, save and launch the game.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Update 1.1.0 or above&lt;/b&gt;: If you have downloaded the 1.0.0 version of the mod, please delete it entirely from your Mod directory before downloading the new one. Don't attempt to replace/merge the new files with the old ones, almost all of them were reworked.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;b&gt;Should I use Vanilla or Compatible?&amp;nbsp;&lt;/b&gt;TLON edits tracks located in the same file as other music mods, which can result in distorted, looping or tracks cutting early. To remedy this, a Compatible version of the mod has been deployed for TKMM. &lt;u&gt;Please download the Compatible version if you have DOTK or any other music mod.&lt;/u&gt; The Vanilla version is the same as the .zip version and is unchanged (pick this one if you don't have other music mods).&amp;nbsp;&lt;br&gt;The Compatible version will remove the following: Game Over, Horse Riding, Temperature tracks (Burn, Hot and Cold), Lost Woods, Battle music, Flux Construct, Dungeon Battle, Ganondorf Castle Battle, Gloom Hands (phases 1 and 2).&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;b&gt;Patch Notes:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1.1.0:&amp;nbsp;&lt;/b&gt;Overhaul of the entire soundtrack. Lowering the volume of songs so they sound less aggressive and removal of fading/silence effects to help correct looping. Added Game Over, Gerudo Underground, Lost Woods, and Flight Minigame.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;1.2.0&lt;/strong&gt;: Numerous additions! 22 new songs have been added, because the multi-channel issue has been thankfully solved! The Yiga Minigame song has been updated with a new one, and Dragonhead Island song has been corrected (volume and looping). I'm proud to announce this is a huge step-up!&lt;br&gt;&lt;br&gt;&lt;b&gt;TKCL:&amp;nbsp;&lt;/b&gt;Now, TLON is compatible with TKMM (in vanilla and compatible) and solve compatibility issues with other music mods editing static.bars! Useful if you want to merge it with other mods like DOTK without having music sounding janky!&lt;br&gt;&lt;br&gt;&lt;b&gt;Compatible Bug Fix:&amp;nbsp;&lt;/b&gt;The Compatible version had issues where music could be bugged or cause the game to crash when fighting Gloom Hands/Phantom Ganon and Flux Construct with DOTK on. The associated songs have been removed to avoid overlapping.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&#13;
+&#13;
+Notes and Known Issues:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Loud tracks and janky transitions have been solved with the 1.1.0 patch!&amp;nbsp;&lt;br&gt;&lt;b&gt;Many thanks to Porroman420 for having suggested using another patching tool!&lt;/b&gt;&lt;/li&gt;&lt;li&gt;If there are any bugged tracks or a failed conversion (for ex, an in-game&#13;
+track that would sound distorted, a track playing twice at once or obnoxiously&#13;
+loud), please report them to me and I'll try to fix it ASAP. Don't hesitate to delete them if they&#13;
+bother you.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Due to Gamebanana's file weight limit, I had to reduce the length of a lot of the new songs in 1.2.0 (mostly the battle ones) and remove the Ancient Zora Waterworks entirely (this track alone weighs a lot because it has 8 channels!) Which can result in tracks ending a bit abruptly, even if I tried my best to preserve the mod's quality.&amp;nbsp;&lt;br&gt;You can find the original/uncut version on my Nexus page &lt;a href="https://gamebanana.com/linkfilter?url=https%3A%2F%2Fwww.nexusmods.com%2Flegendofzeldatearsofthekingdom%2Fmods%2F178&amp;amp;follow=false" target="_blank"&gt;(The Legend of Nostalgia)&lt;/a&gt;. Careful, this one is not DOTK compatible.&amp;nbsp;&lt;br&gt;Apologies for the inconvenience!&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/the_legend_of_nostalgia_-_music_pack_99c0b.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/the_legend_of_nostalgia_-_vanilla.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/the_legend_of_nostalgia_-_compatible_.zip" type="application/zip"/>
+      <category>Music</category>
+      <category>Sounds</category>
+    </item>
+    <item>
+      <title>Rideable Lynels</title>
+      <author>- Tarnagh -</author>
+      <link>https://gamebanana.com/mods/663290</link>
+      <comments>https://gamebanana.com/mods/663290#PostsListModule</comments>
+      <guid isPermaLink="false">c9c3fe2c1aebb1906325d79d06510b28ec493fd8</guid>
+      <pubDate>Fri, 11 Sep 2026 14:47:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/69cd615d6aa27.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69c2ecc2dcebf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69cd613baa22b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69cd616c05318.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69e21d5ff1619.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69e2219d6fab1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69ee5248b48a5.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Rideable Lynels&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fix RSDB entry&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;!-- GAMEBANANA HTML --&gt;&#13;
+&#13;
+&lt;h1&gt;Rideable Lynels&amp;nbsp;&lt;strong&gt;v2.4.0&lt;/strong&gt;&lt;/h1&gt;&#13;
+&lt;small&gt;by &lt;b&gt;Tarnagh&lt;/b&gt;&lt;/small&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;em&gt;The Giant Horse is gone. In its place: a Lynel.&lt;/em&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Ride the apex predator of Hyrule - gallop across the plains on a creature&#13;
+that was never meant to be tamed. Every hoof strike, every toss of that&#13;
+maned head, every burst of speed - all Lynel, all the time.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Custom-retargeted animations, thundering Lynel hoof sounds, a fully custom&#13;
+stable portrait and Hyrule Compendium icon, five colour variants including&#13;
+an undead Zombie skin, and three jump modes. Install, pick your variant,&#13;
+and dominate the overworld on the most terrifying mount in the game.&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h2&gt;Features&lt;/h2&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Full Lynel model&lt;/strong&gt;&amp;nbsp;- the Giant Horse is replaced entirely by a Lynel; idle head movement and native upper body animations are preserved&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Custom portrait and icon&lt;/strong&gt;&amp;nbsp;- the stable screen and Hyrule Compendium display a custom Lynel illustration; no trace of the vanilla Giant Horse image&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Five colour variants&lt;/strong&gt;&amp;nbsp;- Red, Blue-Maned, White-Maned, Silver, or Zombie; select in the TKMM option group before merging&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Three jump modes&lt;/strong&gt;&amp;nbsp;- vanilla horse arc, elevated Lynel launch, or an absurd infinite jump that clears any obstacle; select in the TKMM option group&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Retargeted animations&lt;/strong&gt;&amp;nbsp;- leg motion mapped to the Lynel skeleton; the Lynel gallops like a horse&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Lynel hoof sounds&lt;/strong&gt;&amp;nbsp;- thundering Lynel footsteps replace the horse audio entirely&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Boosted stats&lt;/strong&gt;&amp;nbsp;- HP 2000, five-star speed, full spurs&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;strong&gt;Stable-safe&lt;/strong&gt;&amp;nbsp;- boarding, stabling, and NPC interactions work without crashes; the Lynel behaves exactly like the Giant Horse to the game engine&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h2&gt;Colour Variants &lt;small&gt;(TKMM Option Group)&lt;/small&gt;&lt;/h2&gt;&#13;
+&lt;table&gt;&#13;
+  &lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Red (Junior)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;rust-red hide&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Blue-Maned (Middle)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;blue skin;&lt;b&gt; DEFAULT&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;White-Maned (Dark)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;zebra-striped&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Silver (Senior)&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;most powerful&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Zombie&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;decayed undead skin; custom painted textures&lt;/td&gt;&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&lt;/table&gt;&#13;
+&#13;
+&lt;h2&gt;Jump Variants &lt;small&gt;(TKMM Option Group)&lt;/small&gt;&lt;/h2&gt;&#13;
+&lt;table&gt;&#13;
+  &lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Horse Jump&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;original vanilla horse jump arc&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Normal Lynel Jump&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;launches higher and farther; &lt;strong&gt;DEFAULT&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Infinite Jump&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;jumps over virtually any obstacle&lt;/td&gt;&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&lt;/table&gt;&#13;
+&#13;
+&lt;h2&gt;Installation&lt;/h2&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;Open TKMM and add &lt;strong&gt;Rideable_Lynel.tkcl&lt;/strong&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;In the option groups, select your colour variant and jump mode&lt;/li&gt;&#13;
+  &lt;li&gt;Merge to SD card - done&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;small&gt;To change variant later: re-select and re-merge. No save file changes needed.&lt;/small&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h2&gt;Compatibility&lt;/h2&gt;&#13;
+&lt;table&gt;&#13;
+  &lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Game version&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;TotK 1.0.0+ (tested on 1.2.0 and 1.4.3)&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Platform&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Nintendo Switch (Atmosphère / TKMM)&lt;/td&gt;&lt;/tr&gt;&#13;
+  &lt;tr&gt;&lt;td&gt;&lt;strong&gt;Conflicts&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Any mod that modifies &lt;strong&gt;GameRomHorse00L.pack.zs&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&lt;/table&gt;&#13;
+&#13;
+&lt;h2&gt;Known Issues&lt;/h2&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;Upper body animations are too stiff in canter and gallop&lt;/li&gt;&#13;
+  &lt;li&gt;On save reload the Lynel sometimes does not appear&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;h2&gt;Videos&lt;/h2&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h3&gt;Community Showcase &lt;small&gt;by The Hidden Yiga Clan - mod version v2.1.0&lt;/small&gt;&lt;/h3&gt;&#13;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZpNVK_8hb2A" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&#13;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Hyu5dTi2Sls" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&#13;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KErI_o5oaB0" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&#13;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bEjSC4-e8zI" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&#13;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Y1hXNfmNtxw" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;h2&gt;Credits&lt;/h2&gt;&#13;
+Mod by &lt;b&gt;Tarnagh&lt;/b&gt;&lt;br&gt;&#13;
+Tools: Python, oead, byml, zstandard, TKMM</description>
+      <media:content url="https://files.gamebanana.com/mods/rideable_lynel.zip" type="application/zip"/>
+      <category>Visual Overhaul</category>
+      <category>Visual Overhaul</category>
+    </item>
+    <item>
+      <title>Kirin Glider</title>
+      <author>Sombra395</author>
+      <link>https://gamebanana.com/mods/715932</link>
+      <comments>https://gamebanana.com/mods/715932#PostsListModule</comments>
+      <guid isPermaLink="false">f69a28ef4b5634d113847f7c622132d5bd5c7b04</guid>
+      <pubDate>Thu, 10 Sep 2026 21:02:13 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a372f8eb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a371dc48.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a371626e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a374a9e2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a36e7377.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a36e5cce.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a3722fb6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a36e5d2c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a6827a5a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa31a6838c8b.jpg"/&gt;&lt;br&gt;Yeah yeah, I know, you all want Kirin over horse, but I wanted first to do this.&lt;br&gt;So well, this mod adds Kirin, from Monster Hunter Stories 2 over the glider.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;The mod includes:&lt;br&gt;-Kirin and Oroshi Kirin&lt;br&gt;-Animations&lt;br&gt;-Glowing variations,&amp;nbsp;which look better in the dark (like in the depths)&lt;br&gt;-The fabrics´ names changed&lt;br&gt;-The fabrics´ Icon changed&lt;/span&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-Lord of the Mountain´s effect&lt;br&gt;&lt;/span&gt;&lt;br&gt;To support me, you can commission mods through Discord (There are certain issues with Checkpoint), or donate something via &lt;a href="https://gamebanana.com/linkfilter?url=https%3A%2F%2Fko-fi.com%2Fsombra395&amp;amp;follow=true"&gt;Ko-fi&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/kirin.zip" type="application/zip"/>
+      <category>Misc</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Self Recall</title>
+      <author>HanSoloBlaster</author>
+      <link>https://gamebanana.com/mods/715735</link>
+      <comments>https://gamebanana.com/mods/715735#PostsListModule</comments>
+      <guid isPermaLink="false">7da10aa38e4887e3cd4134ec42a99cd12bccf4fd</guid>
+      <pubDate>Thu, 10 Sep 2026 04:36:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e6e49e09.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e6eadaf3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e6f1d02d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa22e7ddb07c.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Self Recall&lt;/h1&gt;&lt;h2&gt;Recent Fixes&lt;br&gt;&lt;br&gt;&lt;/h2&gt;&lt;h3&gt;v1.0.12&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Release Switch v1.0.12 which uses the SD card to bring back the &lt;b&gt;full 64 s recall history to Switch&lt;/b&gt; users. Note: history will be reduced to 10 seconds if your SD Card is full. You card needs at least 16 MiB of space available - 64-128 MiB is probably a safe margin. &lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;v1.0.13 &lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Batch SD history writes on Switch for reduced potential wear. &lt;/li&gt;&lt;li&gt;Substantially trim logging to SD card.&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;v1.0.14&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Mod now works with UltraCam enabled at the same time. &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;h3&gt;Description&lt;/h3&gt;Self recall lets you rewind Link through his recent traversal history. An muted background effect is applied, a golden ribbon showing your historical trail shows and animations run in reverse. &lt;br&gt;&lt;br&gt;ZL+Right-Joystick-Click (hold 1 second) to activate.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Speed&lt;/h2&gt;By default, self-recall will run in reverse at 1.25x speed. By wearing upgraded articles of clothing from the Glide set, you can increase the speed. &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;0 articles -&gt; 1.25x &lt;/li&gt;&lt;li&gt;1 article -&gt; 1.5x&lt;/li&gt;&lt;li&gt;2 articles -&gt; 2x&lt;/li&gt;&lt;li&gt;3 articles -&gt; 4x&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Every upgraded version of the Glide Mask, Glide Shirt and Glide Tights counts.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Known Issues&lt;/h2&gt;&lt;br&gt;&lt;li&gt;Only works on version 1.2.1 of the game.&lt;/li&gt;&lt;li&gt;Recalling through an Ascend works - but is almost always a glitchy experience. I decided to leave it in for the novelty factor.&lt;/li&gt;&lt;li&gt;On Switch, Link skips along his path at 4x speed and during fast movement at 2x.&#13;
+The rest of the game stays smooth. Zero or one Glide piece gives the tested&#13;
+smooth 1.25x/1.5x rates.&lt;/li&gt;&#13;
+&lt;li&gt;Driving Recall can stutter mildly at the beginning on Switch.&lt;/li&gt;&#13;
+&lt;li&gt;Recorded shirtless transitions can make Link's torso disappear.&lt;/li&gt;&#13;
+&lt;li&gt;The camera can lose Link during fast vertical Recall or enter terrain around&#13;
+climbing overhangs.&lt;/li&gt;&lt;li&gt;Historical pose markers along the ribbon are not included.&lt;/li&gt;4x/2x recall speed can be choppy. &lt;br&gt;Link's torso, head, legs or armor may disappear during a recall. &lt;br&gt;Equipment changes are no longer tracked. (necessary for memory savings).&lt;br&gt;v1.0.9 contains more features but will crash if you enable any other mods. &lt;br&gt;&lt;br&gt;&lt;h2&gt;Code and Detailed README&lt;/h2&gt;MIT Licensed source code and a &lt;b&gt;far more in-depth mod description available &lt;a href="https://github.com/afiaka87/totk-mods/tree/main/self-recall" target="_blank"&gt;here&lt;/a&gt;.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Disclaimer&lt;/h2&gt;Relied heavily on astra for this.</description>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v105.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v106.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v107-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v109-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v109-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1010-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1010-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1011-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1011-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1012-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1012-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1013-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1013-switch.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1014-emulator.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/self-recall-v1014-switch.zip" type="application/zip"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>TotK - Legacy Dungeon Items - complete version.</title>
+      <author>Porroman420</author>
+      <link>https://gamebanana.com/mods/693923</link>
+      <comments>https://gamebanana.com/mods/693923#PostsListModule</comments>
+      <guid isPermaLink="false">d6055572cb5dfbe5bc1bffe038a3bbc366d58f32</guid>
+      <pubDate>Wed, 09 Sep 2026 10:41:56 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d6dd2d712.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d4d4b7c66.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d591e75a8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d93a63b1e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d964ccd27.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d969d360d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d96cc82c1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d97889a63.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a54d9927fd3e.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Quest Bugfix&lt;br&gt;&lt;p&gt;I fixed a bug where players get softlocked if they tried to restore weapons with a full weapon inventory, now the triforce effigy will know if your weapon inventory is full and will tell you so, without breaking the restoring mechanic.&lt;br&gt;&lt;br&gt;Gave the tkcl the gamebanana post title, to prevent some confusion.&lt;br&gt;&lt;br&gt;Please delete the previous install and update to this version, sorry for the inconvenience&lt;/p&gt;&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Restoring weapon event stuck if inventory full bugfix&lt;br&gt;&lt;hr&gt;&lt;br&gt;A mysterious figure is waiting for you at the top of the Temple of Time in the sky...waiting to offer you a reward.&lt;br&gt;&lt;br&gt;This is the full complete version of Tears of the Kingdom - Legacy dungeon items, which brings some items from past entries as new dungeon treasures for this game, packed alongside a small quest so you can get and know all the items, the custom special guest also works as a shop that sells useful disposable materials.&lt;br&gt;&lt;br&gt;This version changes small things from the standalone versions while fixing some bugs from the cane of somaria standalone version too, each dungeon item comes from a different Zelda game, i decided to make the ones that are weapons breakable, but all have 800 durability.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-The Legend of Zelda - Wind Waker :&lt;/span&gt;&lt;br&gt;&lt;br&gt;The Wind Waker, found at the Wind temple can create an updraft when you swing it without a fuse, when fused will shoot elemental "wind" depending on the element the fuse you decide to use with, can reutilize one hit fuses like the Forest Dweller Sword, shockproof and fireproof.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-The Legend of Zelda - Ocarina of Time:&lt;/span&gt;&lt;br&gt;&lt;br&gt;The Goron's Bracelet found inside the Fire temple deals physical + fire damage, it's goron fire projectiles can destroy any kind of breakable rock (rock walls, ore deposits, marbled rock legs), can warm link up on ice enviroments, and acts as a light source in the depths too.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;-The Legend of Zelda - A Link to the past:&lt;br&gt;&lt;/span&gt;&lt;br&gt;The Cane of Somaria found inside the Thunder Temple when unfused will cast a blinding light spark that can trigger light switches, as those found inside the Thunder Dungeon, when fused with any monster part that gives elemental fire attacks will summon on swing explosive cubes with a custom animation as they are similar to a zonai timerbomb, you can pick them up, fuse them to your weapons or your shields (all previous bugs fixed), the cane has a limit of 8 cubes, once you summon all 8 you must change weapons to restore it's energy (swapping weapons with the dpad also works)&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;- The Legend of Zelda - Twilight Princess:&lt;/span&gt;&lt;br&gt;&lt;br&gt;The Horsecall Whistle\Ilia's Charm also on the whereabouts of the Water temple, this will let you summon your horse on places they can naturally be, if you happen to summon your horse on a "forbidden place" you can re-summon him twice on places they can be to make it re-appear.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;AND THE LAST DUNGEON ITEM :  The Legend of Zelda - Phantom Hourglass:&lt;/span&gt;&lt;br&gt;&lt;br&gt;The Phantom Hourglass can be found just behind the locked door after starting Mineru's part of the game, at your disposal &lt;span class="GreenColor"&gt;this item will prevent all gloom damage by contact for 10 minutes, the counter stops if you are not in contact with ANY source of gloom, also it can automatically revert up to 10 times any ammount of broken hearts gloom enemies may do to you&lt;/span&gt;, (for example, if an enemy does 1 broken heart damage your hearts are not gonna decrease beyond, unless it does a stronger attack that deals more, in any case any X ammount of this type of damage will be reverted to empty hearts)&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;ALSO the effect works over armors that give gloom protective extra hearts and yellow hearts, these will be protected, i recommend you to let your armors that give such fully recharge before stepping into goo :D&lt;/span&gt;&lt;br&gt;&lt;br&gt;once the 10:00 timer stops the hourglass will enter into a cooldown of the same amount of time, this will also happen if the hourglass reverts damage ten times, hourglass lifepoints and gloom contact timer are separate, so you can save your last minute for combat or your last hitpoint for exploring (or escaping from Gloom hands haha)...&lt;span class="GreenColor"&gt;once the hourglass enters to sleep you will get one full life heal + extra life + no broken hearts (will not prevent one shot death tho)&lt;/span&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/totk_-_legacy_dungeon_items_4d26e.zip" type="application/zip"/>
+      <category>Quests</category>
+      <category>AI &amp; Events</category>
+    </item>
+    <item>
+      <title>Link - Warrior of Sunlight</title>
+      <author>Porroman420</author>
+      <link>https://gamebanana.com/mods/668886</link>
+      <comments>https://gamebanana.com/mods/668886#PostsListModule</comments>
+      <guid isPermaLink="false">dcf056f21173cbdb8b8f1233ccd3339b4b9afd25</guid>
+      <pubDate>Wed, 09 Sep 2026 10:36:44 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/69db7e2678ee2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a2be938de578.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69db7fccee2c5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a099519bf2cf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a09962b41164.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69df67ef7521a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69df6b639c455.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69df681e5a6e9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69df68402c06a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69db7f44cedd2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69db7f82ee01d.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Weapons restore bugfix&lt;br&gt;&lt;p&gt;I fixed an issue with the event that can cause softlocks if you tried to restore weapons with your pouch full, now the sunlight altar will know if your pouch is full and will tell you so, without breaking the "free restore" mechanic of such.&lt;br&gt;&lt;br&gt;Also i did some smaller dialogue changes to make it more consistent.&lt;br&gt;&lt;br&gt;Please delete previous installations and use this one, sorry for this inconvenience&lt;/p&gt;&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Event stuck if inventory full&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hello, and as always i hope you are having fun ! today i wanna share guys something i was just messing with :D &lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;THIS MOD EDITS elink2.Product.110.belnk.zs FILE, MUST BE ON TOP OF OTHER WEAPONS THAT EDIT THIS FILE  (COMPATIBILITY PATCH INSIDE ROOT), ALSO COMPATIBLE WITH MY OTHER MODS : Link - Warrior of Sunlight and Master Deity Sword&lt;br&gt;&lt;br&gt;TKMM RECOMMENDED ORDER :&lt;br&gt;- Elink2 compatibility patch (on top or first places of TKMM)&lt;br&gt;&lt;br&gt;- Master Deity Sword&lt;br&gt;&lt;br&gt;- Link - Warrior of Sunlight&lt;br&gt;&lt;br&gt;- Link of the Silent Sorrow&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span class="GreenColor"&gt;- below you can put any other mod that edits the mentioned file above :D&lt;br&gt;&lt;/span&gt;&lt;br&gt;Pray at the Sunlight Altar, defeat the mightiest dragons ! and become a Warrior of Sunlight !&lt;br&gt;&lt;br&gt;The armor pieces are located in the king gleeok sky islands ! defeat all of them, claim their horns and prove your worth at the altar !&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Once you complete the quest, the Sunlight Altar is gonna give you the weapons, to get the sunlight blade getting the armor is a must !&lt;/span&gt;&lt;br&gt;&lt;br&gt;- New Item added - The Sunlight Blade miracle ! does 60 dmg when fused and has fire\electric attacks, invisible fuse, doesn't hide the blade and grants flames on swing !&lt;br&gt;&lt;br&gt;- Sunlight Talisman has a glowy particle effect, does 5 physical + electric damage and can cast the mighty Sunlight Spears at full power that do 60 dmg, veryeffective against evil !&lt;br&gt;&lt;br&gt;- Sunlight Straight Sword has the Master Sword buff and can also shoot a less powerful version of the sunlight spear with R button, has 2x times fuse, with the power of the sun cleanse evil forces from hyrule!&lt;br&gt;&lt;br&gt;&lt;div class="SelectedElement"&gt;- Sunlight Shield is frictionless and 100% unbreakable !  , and shockproof&lt;/div&gt;&lt;br&gt;- Iron helm grants 100% electric elemental protection &lt;br&gt;&lt;br&gt;- Armor of the sun grants 100% heat/fire resistance&lt;br&gt;&lt;br&gt;- Iron leggings grants 100% cold /freeze resistance, + some bonus effects (some are secret jeje)&lt;br&gt;&lt;br&gt;- All armorpieces grant their respective elemental combat bonuses :D, all together grant the 4 miasma guard hearts &lt;br&gt;&lt;br&gt;The Sunlight Altar can be found at the highest spot at the Great Sky Island (above the Room of Awakening)&lt;br&gt;&lt;br&gt;In case you lost, or decide to display the weapons at Link´s house they acquired again :D&lt;br&gt;&lt;br&gt;if you encounter any issue let me know :D</description>
+      <media:content url="https://files.gamebanana.com/mods/link_-_warrior_of_sunlight_a6e09.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/romfs_121_link_-_warrior_of_sunlight.zip" type="application/zip"/>
+      <category>Armor set</category>
+      <category>Models</category>
+    </item>
+    <item>
+      <title>Hyrule Rebeautified - Customizable Visual Overhaul</title>
+      <author>WarioSnap</author>
+      <link>https://gamebanana.com/mods/605379</link>
+      <comments>https://gamebanana.com/mods/605379#PostsListModule</comments>
+      <guid isPermaLink="false">7984ed0e462bf82aeffbf8c48513197ae9bd2ee8</guid>
+      <pubDate>Mon, 07 Sep 2026 04:51:45 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e3a114af3d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437a8c33a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43795f0a7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43701569e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e436de8e51.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437a9a3d2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4378acbb7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4376c04da.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4376cdbfa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4379b94f9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437552b32.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437311e1b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437a2b210.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43794ad14.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43735fd51.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43781e22c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4378cd91d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43791e572.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4451c9488.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43743d019.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4376639bb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4379bd9a7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e447ea9f6e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e44e959f15.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e44e9aa7fa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437836292.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4377c684f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4378694ff.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4375a35d3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437169355.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e436f927d5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4374934a6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43719262d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437055f52.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437731f4a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437a2047d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4379c52ce.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437a6b6e4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437aa6a37.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437a68764.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4379e2011.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437875083.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e4377bfb47.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437805bdc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e43712a249.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9e437664294.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; 2.0.0&lt;br&gt;&lt;em&gt;Overhaul&lt;/em&gt;: Overhauled the entire mod to merge options properly via TKMM, so no presets are needed&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added Increased Bloom option, as well as Normal Bloom and Bloom Disabled&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added Darkest Nighttime Lighting option, in addition to Normal and Darker options previously seen&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added Brighter Daytime Lighting option, in addition to Normal Daytime Lighting previously seen&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added 2 new Overworld Fog options, including Increased and Maximum Overworld Fog&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added 2 new Sky Fog options, including Increased and Maximum Sky Fog&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added a new Cave Lighting options, including Darker, Darkest, Normal and Brighter Cave options&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Cave Fog options, including Normal Fog and Increased Fog, as well as Reduced Fog which was seen previously&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Indoor Fog options - Indoor Fog disabled (seen previously) and enabled&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added 3 new Light Brightness options, including Dimmer, Normal and Brighter Lights&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added 2 new options to customize how sky biomes are distributed&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Cloud Opacity options, with 5 different new options to choose from&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Cloud Density options, with 5 different new options to choose from&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Cloud Size options, with 5 different new options to choose from&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Cloud Speed options, with 5 different new options to choose from&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new Cloud Line Height options, allowing you to choose from normal cloud height and raised cloud height to see clouds above The Sky layer itself&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Some biomes under the "Darker Nights" category have been reworked and adjusted to match the option better&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added new biome to Tabantha Depths, seen in Depths of the Kingdom's 2.0 update under the "Vanilla+" option&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hyrule Rebeautified has now reached version 2.0.0, and is now fully customizable through TKMM. Gone are the days where there were set presets for the mod. At it's core, it features new biomes in every region of the game, including Eldin, Hebra, Gerudo, Akkala, Faron and Lanayru, as well as corresponding unique regions in The Depths (featuring work from Depths of the Kingdom). However now, you can FULLY CUSTOMIZE how you want your game to look. Due to the complex nature of the rework of the mod, it can only be used via TKMM. Screenshots of each option's affect can be found on the dedicated TKCL file. This mod works with all versions of TOTK that support mods, and works on both emulator and Switch.&lt;br&gt;&lt;br&gt;Options include:&lt;br&gt;&lt;br&gt;Surface Fog - allows you to choose between reduced, normal, increased and maximum surface fog. Affects how well you can see into the distance&lt;br&gt;&lt;br&gt;Sky Fog - allows you to choose how well you want to see from The Sky. This includes reduced, normal, increased and maximum options. Lower options mean you can see the surface below well, but Maximum? You can't see The Surface at all!&lt;br&gt;&lt;br&gt;Cave Fog - allows you to control how much fog is in caves. The options include reduced, normal, and increased fog for caves.&lt;br&gt;&lt;br&gt;Indoor Fog - allows you to choose between indoor fog enabled and no indoor fog.&lt;br&gt;&lt;br&gt;Daytime Lighting - allows you to control how bright you want mornings, daytime and evenings to be. You can choose between normal daytime lighting and brighter daytime lighting. Brighter lighting has extra palettes added to the timetable to ensure smooth transitions even between brighter days and the darkest nights if those options are selected.&lt;br&gt;&lt;br&gt;Nighttime Lighting - Allows you to control how dark you want your nights to be. You can choose between normal, darker, and darkest nighttime lighting presets. The darkest one makes it even darker than The Depths, so bring those brightblooms ready if you want a scary experience!&lt;br&gt;&lt;br&gt;Cave Lighting - Allows you to customize how bright and dark you want the caves to be in the game. You can choose between normal caves, brighter caves, darker caves, and darkest caves. If choosing the 2 darker cave options, this overwrites the cave fog settings because black fog is used to make it feel like you are in Nutty Putty Cave: Hyrule Edition&lt;br&gt;&lt;br&gt;Sky Biome Zones - the game only has a certain number of climates, meaning that for sky regions to have their own unique biomes (shared with the surface), new ones couldn't be created. Overworld and Sky fog levels are consistent with each other, so 2 options are available here to allow you to prioritize unique colors per region in The Sky, or being able to have different fog levels independently properly.&lt;br&gt;&lt;br&gt;Light Brightness - Lights in the game can be customized between dimmer, normal, and increased brightness levels&lt;br&gt;&lt;br&gt;Bloom -  Allows you to customize the soft glow in the game, choosing between no bloom, normal bloom and increased bloom. Bloom is not recommended with the Brighter Daytime Lighting option or pairing with Depths of the Kingdom&lt;br&gt;&lt;br&gt;Cloud Density - allows you to control how many clouds are in the sky. You can choose between 5 different levels&lt;br&gt;&lt;br&gt;Cloud Opacity - allows you to control how transparent the clouds are. There are 5 different levels. No cloud opacity = no clouds in the sky&lt;br&gt;&lt;br&gt;Cloud Size - allows you to control how big the clouds are. There are 5 different levels&lt;br&gt;&lt;br&gt;Cloud Line Height - allows you to control how high up the clouds are. Normal Cloud Line is similar to the original game where clouds aren't visible in The Sky and only The Surface. Raised Cloud Line allows you to actually see the clouds in The Sky and raises the position of all the clouds!</description>
+      <media:content url="https://files.gamebanana.com/mods/hyrule_rebeautified.zip" type="application/zip"/>
+      <category>Visual Overhaul</category>
+      <category>Visual Overhaul</category>
+    </item>
+  </channel>
+</rss>

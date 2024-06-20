@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Breath of the Wild (WiiU)</title>
+    <description>GameBanana - The Legend of Zelda: Breath of the Wild (WiiU)</description>
+    <link>https://gamebanana.com/games/5866</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/5866"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Breath of the Wild (WiiU)</title>
+      <link>https://gamebanana.com/games/5866</link>
+    </image>
+    <item>
+      <title>Minecraft of the Wild</title>
+      <author>Maxkraft2012</author>
+      <link>https://gamebanana.com/mods/720959</link>
+      <comments>https://gamebanana.com/mods/720959#PostsListModule</comments>
+      <guid isPermaLink="false">5caf02de939265a771a3142fae181b3a7adaeff0</guid>
+      <pubDate>Sat, 26 Sep 2026 12:31:37 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab7b5784318e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab7b5900aadf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab7b59ecb70c.jpg"/&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Deutsch:&lt;/u&gt;&lt;/b&gt; Diese Mod fügt Items von Minecraft in BOTW hinzu.&lt;br&gt;&lt;b&gt;&lt;u&gt;Location:&lt;/u&gt;&lt;/b&gt; Viele Monster auf dem Vergessenen Plateau haben die neuen Minecraft Items!&lt;br&gt;&lt;b&gt;&lt;u&gt;Neue Items&lt;/u&gt;&lt;/b&gt;: &lt;span class="GreenColor"&gt;Minecraft Bogen; Minecraft Holz Schwert; Minecraft Stein Schwert; Minecraft Eisen Schwert; Minecraft Eisen Schild; Minecraft Diamant Schwert&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;English:&lt;/u&gt;&lt;/b&gt; This mod adds Minecraft items to BOTW.&lt;br&gt;&lt;b&gt;&lt;u&gt;Location:&lt;/u&gt;&lt;/b&gt; Many monsters on the Forgotten Plateau have the new Minecraft items!&lt;br&gt;&lt;b&gt;&lt;u&gt;New items:&lt;/u&gt;&lt;/b&gt;&lt;span class="GreenColor"&gt; Minecraft Bow; Minecraft Wood Sword; Minecraft Stone Sword; Minecraft Iron Sword; Minecraft Iron Shield; Minecraft Diamond Sword&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;IMPORTANT:&lt;/u&gt; DIESE MOD IST AUF DEUTSCH!&lt;/b&gt;&lt;br&gt;&lt;b&gt;                         This Mod is in german!&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;My Youtube Channel:&lt;/u&gt;&lt;/b&gt;&lt;span class="RedColor"&gt;&lt;code&gt; https://www.youtube.com/@maxkraft2012&lt;/code&gt;&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/minecraft-in-botw.bnp" type="application/octet-stream"/>
+      <category>Cemu Mods</category>
+      <category>Cemu Mods</category>
+    </item>
+    <item>
+      <title>Definitive First Person View</title>
+      <author>bubbabushido</author>
+      <link>https://gamebanana.com/mods/720730</link>
+      <comments>https://gamebanana.com/mods/720730#PostsListModule</comments>
+      <guid isPermaLink="false">8bbd7a49658d1e2914d78ce18d0487952a21363f</guid>
+      <pubDate>Sat, 26 Sep 2026 04:17:47 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab6d26d25e9a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab778791ecd6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab778794a048.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab778798501c.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Definitive First Person&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Fixed head rendering regression&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Implemented a proper climbing methodology&lt;br&gt;&lt;hr&gt;&lt;br&gt;# BOTW First Person v1.4.0&lt;br&gt;&lt;br&gt;First-person gameplay for The Legend of Zelda: Breath of the Wild on Cemu, with an animated eye-level camera, visible player and equipment, enemy lock-on, and a custom stamina HUD.&lt;br&gt;&lt;br&gt;## Features&lt;br&gt;&lt;br&gt;- Animated eye-position camera, 8 cm forward offset, and 90° horizontal FOV at 16:9 (approximately 58.7° vertical).&lt;br&gt;- Visible body and equipment, with head-material visibility controlled by the active scene camera and event state.&lt;br&gt;- Shield guard pose tuned for first person: the shield sits in front of you and stays visible while guarding.&lt;br&gt;- Close objects stay solid: the first-person camera uses a 10 cm near clip, so shields, boulders and other nearby geometry no longer clip away.&lt;br&gt;- Camera pulls back 10 cm while pushing boulders, so you don't end up inside them.&lt;br&gt;- Body yaw follows the view during ordinary movement. Climbing retains native body orientation and animation.&lt;br&gt;- Native enemy lock-on with first-person eye placement.&lt;br&gt;- Native bow-arm animation with the original 20° stance alignment and an 8 cm camera-right aiming-body offset, keeping hand and bow together.&lt;br&gt;- Stamina wheel beside the hearts, at 75% scale; approximately 7.5 screen pixels from the leftmost heart at 1920×1080. Gap scales with HUD resolution. Original-position preset also available.&lt;br&gt;- Sheikah Slate camera/scope adjustments; fixed-FOV first-person bow cameras without bow zoom.&lt;br&gt;&lt;br&gt;## Changes in v1.4.0&lt;br&gt;&lt;br&gt;- Fixes the shield disappearing (or only appearing when looking down) while guarding. The cause was the game's dynamic near clip plane (about 0.7–1.0 m); the main first-person camera now uses 10 cm. Shadows and other cameras keep their native values.&lt;br&gt;- Fixes seeing through boulders and other close objects for the same reason.&lt;br&gt;- Guarding shifts the body 10 cm forward along the view, keeping hand and shield together; the camera stays in place.&lt;br&gt;- Fixed left-arm guard pose (from the game's own shield-guard animation) for a stable shield position.&lt;br&gt;- Equipped items (weapons, shield, bow, nocked arrow) skip the frustum-plane stage of the game's per-model view culling while in first person, avoiding pop-out at screen edges near the camera.&lt;br&gt;- 10 cm camera pull-back while pushing boulders.&lt;br&gt;- Tunable values are grouped in `patch_Live.asm` with documented offsets.&lt;br&gt;&lt;br&gt;## Compatibility&lt;br&gt;&lt;br&gt;Tested on **Cemu 2.6, Ubuntu, Wii U EUR BOTW v208**.&lt;br&gt;&lt;br&gt;- Title ID: `00050000101C9500`&lt;br&gt;- Executable module hash: `0x6267BFD0`&lt;br&gt;&lt;br&gt;This package targets that version and region. Other versions/regions and operating systems have not been verified. No mod manager or BetterVR runtime is required.&lt;br&gt;&lt;br&gt;## Install or update&lt;br&gt;&lt;br&gt;1. Close Cemu.&lt;br&gt;2. Back up and remove any older `00_FirstPersonView_ZoomFix` folder from Cemu's `graphicPacks` directory.&lt;br&gt;3. Extract this ZIP and copy its `00_FirstPersonView_ZoomFix` folder into `graphicPacks`.&lt;br&gt;   On the tested Linux setup: `~/.local/share/Cemu/graphicPacks/`.&lt;br&gt;4. Enable **The Legend of Zelda: Breath of the Wild → Graphics → First Person View + Zoom Fix** in Cemu's Graphic Packs settings.&lt;br&gt;5. Select **Beside hearts** for the custom stamina position and launch BOTW.&lt;br&gt;&lt;br&gt;Use only one copy of this pack. Disable other camera replacements and stamina-position patches that modify the same features. Restart the game after updating the files.&lt;br&gt;&lt;br&gt;To uninstall, disable this graphic pack and restart Cemu.&lt;br&gt;&lt;br&gt;## Notes&lt;br&gt;&lt;br&gt;Shield visibility while guarding and boulder pushing were confirmed in gameplay on the tested setup. Hair visibility in the guard pose, real-time cutscenes, climbing view limits, and full-game/outfit coverage have not been fully verified; clipping or camera edge cases may remain. A 10 cm near clip slightly reduces depth precision compared with native.&lt;br&gt;&lt;br&gt;Native arrow firing and gameplay logic remain in control of the game.&lt;br&gt;&lt;br&gt;Texture upscales, lighting mods, shaders, controller profiles, streaming automation, emulator, and full game files are not included. This is not stereoscopic VR output.&lt;br&gt;&lt;br&gt;## Credits and notices&lt;br&gt;&lt;br&gt;- Original First Person View: **MelonSpeedruns, SushiiZ, and SilentVerge**. Original attribution README included as `README-original-FPV.txt`; its three-FOV-variant description refers to the original release.&lt;br&gt;- Native body/camera and equipment work uses layout research and hook techniques from **Crementif's BotW-BetterVR**. Its MIT notice is included as `LICENSE-BetterVR.txt`.&lt;br&gt;- Stamina implementation used Cemu community graphic-pack GUI/aspect-ratio patches as a reference.&lt;br&gt;- The fixed guard-arm rotations are frame-0 values derived from the game's own `Shield_Guard_Wait` animation.&lt;br&gt;&lt;br&gt;The original FPV archive did not include a separate license. Attribution and the BetterVR notice are preserved; no blanket license is asserted over third-party or game-derived material. Redistribution permission for those components has not been independently verified.</description>
+      <media:content url="https://files.gamebanana.com/mods/botw-first-person-v130_9ddc8.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-first-person-v131.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw-first-person-v140.zip" type="application/zip"/>
+      <category>Player</category>
+      <category>Player</category>
+    </item>
+    <item>
+      <title>Guardians of the Kingdom</title>
+      <author>Kentoame</author>
+      <link>https://gamebanana.com/mods/715476</link>
+      <comments>https://gamebanana.com/mods/715476#PostsListModule</comments>
+      <guid isPermaLink="false">023419499fcc1db9004068cbffe33d30e62b218b</guid>
+      <pubDate>Fri, 25 Sep 2026 07:37:57 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa1516750f50.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa1516fa4221.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b5f03389.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b5f24f7e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b5f7db71.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b5fcebd1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b5fda1be.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b5feb152.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b601a569.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b602d097.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b603a5f0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b6079350.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b60e0713.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94b60e5824.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94bca7987e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94bcae870c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94bcb0d457.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94bcb91a14.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94bcbce22f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94be8d3d34.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94cff1368a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94cff290bd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94cff2d5e4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa94dca8a9bc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aaf1817553db.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69ce672252.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69ce782473.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69cf31ed0a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69cf50a3dc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d0193c5a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d04b2eab.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d08bbf2e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d0eeb2e9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d0f7b366.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d113013b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d1386e77.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d1617989.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab69d16d277d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab6a0d62212a.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; v1.0.0 Release&lt;br&gt;&lt;p&gt;v1.0.0 Release&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;Support&lt;/b&gt;&lt;/h1&gt;&lt;br&gt;If you like my mods and want to buy me a coffee:&lt;br&gt;&lt;a href="https://xn--kofi-m86a.com/kento1911" target="_blank"&gt;https://ko‑fi.com/kento1911&lt;/a&gt;&lt;br&gt;Support is completely optional, all mods remain &lt;b&gt;100% free&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;Introduction&lt;/b&gt;&lt;/h1&gt;&lt;br&gt;I've always wanted a mod that lets Guardians help Link fight enemies, but I couldn't figure out how to make it work — I tried many times without success. Over the past two years, while researching Tears of the Kingdom, I came across some interesting mechanics and started looking into Breath of the Wild again, but still couldn't find the answer. Then, in mid-2026, I happened to test some parameters — and it actually worked. My dream finally came true, and the answer turned out to be surprisingly simple.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Version Support&lt;/h1&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/mods/715476"&gt;Wii U: v1.5.0&lt;/a&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/mods/716804"&gt;Switch: v1.6.0, 1.9.0&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Core Feature&lt;/h1&gt;&lt;br&gt;Guardians ignore Link and actively hunt down all enemies across Hyrule.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Affected Units&lt;/h1&gt;&lt;br&gt;This mod works only for Stalker, Skywatcher, Turret, and Decayed Guardians. Guardian Scouts can be targeted by the above‑mentioned Guardians.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Amiibo Spawning&lt;/h1&gt;&lt;br&gt;The Guardian Amiibo spawns only Guardian Stalkers, normally one at a time.&lt;br&gt;&lt;br&gt;Since the amiibo cannot be used in many situations, spawning via a save editor or other mod‑spawning tools is recommended.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Tip&lt;/h1&gt;&lt;br&gt;Whistling makes Guardians turn toward Link, helping clear nearby enemies.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Combat Rules&lt;/h1&gt;&lt;br&gt;1. Guardian attacks can still damage Link, and Guardians can also damage each other.&lt;br&gt;&lt;br&gt;2. If Link accidentally damages a Guardian, it retaliates one single time, then drop aggro.&lt;br&gt;&lt;br&gt;3. Dormant Guardians fire once upon detecting Link.&lt;br&gt;&lt;br&gt;4. Urbosa's Fury still works against Guardians.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Enemy Behavior toward Guardians&lt;/h2&gt;&lt;br&gt;1. Main‑story bosses, Yiga Clan members, Hinoxes, and Molduga only target Link and do not fight Guardians.&lt;br&gt;&lt;br&gt;2. Regular enemies (Bokoblins, Moblins, Lizalfos, Lynels, Chuchus, Octoroks, Wizzrobes, Pebblits, Keeses) attack Guardians, but their attacks lack collision and damage registration against Guardians.&lt;br&gt;&lt;br&gt;3. Taluses can fight Guardians with fully functional damage exchange.&lt;br&gt;&lt;br&gt;4. Wolf Link has infinite HP and ignores Guardians, and is ignored by them.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Optional Install Toggles&lt;/h1&gt;&lt;br&gt;1. **Guardian Civil War**&lt;br&gt;&lt;br&gt;Guardian Stalkers, Skywatchers, Turrets, and Decayed Guardians attack each other.&lt;br&gt;&lt;br&gt;2. **Regular Enemies Ignore Link**&lt;br&gt;&lt;br&gt;Regular enemies listed above do not target Link, guardians still hunt and engage these enemies.&lt;br&gt;&lt;br&gt;*Sandbox observation feature — not intended for regular gameplay.*&lt;br&gt;&lt;br&gt;3. **Guardian Civil War + Regular Enemies Ignore Link**&lt;br&gt;&lt;br&gt;Enables both above‑listed behaviors.&lt;br&gt;&lt;br&gt;&lt;h1&gt;Additional Notes&lt;/h1&gt;&lt;br&gt;This mod does not alter Guardians colors. The ancient orange tint on Guardian Stalkers is a Graphics Pack effect. Skywatchers and Turrets already feature native ancient orange coloration in the base game.</description>
+      <media:content url="https://files.gamebanana.com/mods/guardiansofthekingdom_wii_u_150.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/guardians_of_the_kingdom_wii_u_150_standalone_327ee.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/guardians_of_the_kingdom_wii_u_150_ukmm.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Other/Misc</category>
+    </item>
+    <item>
+      <title>Furina's Dress and Weapon</title>
+      <author>Rongyaoyaoooooo</author>
+      <link>https://gamebanana.com/mods/719649</link>
+      <comments>https://gamebanana.com/mods/719649#PostsListModule</comments>
+      <guid isPermaLink="false">3ee1929272b18f5540fbcf409fa21656e34a73c7</guid>
+      <pubDate>Tue, 22 Sep 2026 04:02:56 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab1fddeae0bf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6ab1fdeb7b0b6.jpg"/&gt;&lt;br&gt;Hello everyone,&lt;br&gt;&lt;br&gt;We are excited to share this mod with the Breath of the Wild community. Please note that, since we do not have a stable way to reference the original English game text, this mod is currently available only in Chinese. However, we warmly welcome anyone who would like to create and release a separate translation patch—your help would be greatly appreciated.&lt;br&gt;&lt;br&gt;At the moment, the outfits in this mod do not have upgrade functionality, but we encourage interested modders to develop and publish upgradeable patches as well.&lt;br&gt;&lt;br&gt;This mod also includes high-definition icons for both outfits and weapons. The outfit icons adopt the exact same style as the Linkle 3.0 icons. We have not tested them on Zelda mods, but you are welcome to create and release custom Zelda icons if you need them—we would be happy to see that.&lt;br&gt;&lt;br&gt;We plan to continue releasing more public mods in the future. In addition, we are open to custom mod commissions—if you have any specific ideas, feel free to reach out.&lt;br&gt;&lt;br&gt;To help us create better content, we are hoping to expand our team. If you are passionate about designing beautiful costumes or crafting interesting new gameplay mechanics, and would like to join us, please don't hesitate to get in touch. We would be truly grateful for your support.&lt;br&gt;&lt;br&gt;If you repost this mod on any other platform, we kindly ask that you credit this page. Thank you for your understanding.&lt;br&gt;&lt;br&gt;Where to find the items:&lt;br&gt;&lt;br&gt;· Outfits can be purchased from Beedle at Riverside Stable.&lt;br&gt;&lt;br&gt;· Weapon are available at East Akkala Stable.&lt;br&gt;&lt;br&gt;Should you encounter any bugs, please leave a comment to let us know—we value your feedback and will do our best to address issues.&lt;br&gt;&lt;br&gt;For inquiries, collaboration, or commission requests, please contact us at:&lt;br&gt;&lt;br&gt;muzihaoxhrj@gmail.com&lt;br&gt;&lt;br&gt;Thank you for your interest and support—we hope you enjoy the mod!</description>
+      <media:content url="https://files.gamebanana.com/mods/furinasdress.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/splendoroftranquilwaters.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Twilight Trial</title>
+      <author>Nebroc</author>
+      <link>https://gamebanana.com/mods/489012</link>
+      <comments>https://gamebanana.com/mods/489012#PostsListModule</comments>
+      <guid isPermaLink="false">90476cbe0b66a5ee86966ee3fc262026a9d6fbc4</guid>
+      <pubDate>Sun, 20 Sep 2026 16:03:57 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/659b01ce40a9d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b01e087c1b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b01f401aa4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/65abd8afa03e7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b02026cd2f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b02139ef46.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b024c048cf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b024f9fbff.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b04be08e3e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b04f04d3ae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b04f98f368.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/659b04fce6193.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fixed AS Error&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed an AS issue that prevented the mod from being installed on UKMM v0.16+&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;1. Welcome to the Twilight Trial !&lt;/b&gt;&lt;/h1&gt;&lt;br&gt;Hey adventurer ! &lt;span class="GreenColor"&gt;The Goddess Hylia needs your help&lt;/span&gt; at the &lt;span class="GreenColor"&gt;Coliseum&lt;/span&gt;. In another world, waves of enemies are attacking, &lt;span class="GreenColor"&gt;you have to protect Hyrule&lt;/span&gt; !&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;2. Features&lt;/b&gt;&lt;/h1&gt;&lt;br&gt;The &lt;span class="GreenColor"&gt;&lt;b&gt;Twilight Trial&lt;/b&gt;&lt;/span&gt; adds &lt;span class="GreenColor"&gt;a brand new Dungeon&lt;/span&gt; to the game ! &lt;span class="GreenColor"&gt;To start the trial&lt;/span&gt;, go to the &lt;span class="GreenColor"&gt;Coliseum&lt;/span&gt; and &lt;span class="GreenColor"&gt;pick up the Mysterious Sword in it pedestal&lt;/span&gt;.&lt;br&gt;You’ll get &lt;span class="GreenColor"&gt;teleported&lt;/span&gt; inside the &lt;span class="GreenColor"&gt;&lt;b&gt;Twilight Trial&lt;/b&gt;&lt;/span&gt; to &lt;span class="GreenColor"&gt;fight 25 waves of enemies&lt;/span&gt; ! &lt;br&gt;&lt;br&gt;The &lt;span class="GreenColor"&gt;Reward&lt;/span&gt; is &lt;span class="Spoiler"&gt;a &lt;span class="GreenColor"&gt;Magic Crossbow from another Dimension&lt;/span&gt;. It deals &lt;span class="GreenColor"&gt;999 damages&lt;/span&gt; and sho&lt;span class="GreenColor"&gt;ots Light Arrows&lt;/span&gt;, but like the One-Hit Obliterator it keeps you at &lt;span class="GreenColor"&gt;1 quarter of heart&lt;/span&gt; while it’s equipped, so &lt;span class="GreenColor"&gt;use it wisel&lt;/span&gt;&lt;span class="GreenColor"&gt;y&lt;/span&gt; !&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;3. Recommendations&lt;/b&gt; &lt;/h1&gt;&lt;br&gt;I &lt;span class="GreenColor"&gt;strongly recommend&lt;/span&gt; to use the &lt;span class="GreenColor"&gt;&lt;b&gt;Twilight Trial&lt;/b&gt;&lt;/span&gt; with &lt;a href="https://gamebanana.com/mods/414822"&gt;Relics of the Past&lt;/a&gt; and &lt;a href="https://gamebanana.com/mods/449653"&gt;Bigger Lynels&lt;/a&gt;, I literally made the &lt;span class="GreenColor"&gt;&lt;b&gt;Twilight Trial&lt;/b&gt;&lt;/span&gt; to be used with them, but &lt;span class="GreenColor"&gt;you can still use the mod without them&lt;/span&gt;.&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;4. Versions of the mod&lt;/b&gt;&lt;/h1&gt;&lt;br&gt;The &lt;span class="GreenColor"&gt;&lt;b&gt;Twilight Trial&lt;/b&gt;&lt;/span&gt; features 2 versions : the &lt;span class="GreenColor"&gt;Classic&lt;/span&gt; version and the &lt;span class="GreenColor"&gt;Hard&lt;/span&gt; version. In the &lt;span class="GreenColor"&gt;Classic version&lt;/span&gt;, &lt;span class="GreenColor"&gt;Relics of the Past enemies have nerfed HPs&lt;/span&gt; to make the mod &lt;span class="GreenColor"&gt;easier in vanilla&lt;/span&gt;.&lt;br&gt;&lt;br&gt;No matter what version you select, &lt;span class="GreenColor"&gt;you &lt;b&gt;don’t&lt;/b&gt; need any other mod&lt;/span&gt;, but as I said earlier you’ll don’t get &lt;span class="GreenColor"&gt;the Best Experience&lt;/span&gt; without &lt;a href="https://gamebanana.com/mods/449653"&gt;Bigger Lynels&lt;/a&gt; and &lt;a href="https://gamebanana.com/mods/414822"&gt;Relics of the Past&lt;/a&gt;. &lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;5. Special Thanks&lt;/b&gt; &lt;/h1&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Many thanks&lt;/span&gt; to the following people &lt;span class="GreenColor"&gt;who allowed me to include some parts of their mods in &lt;b&gt;Twilight Trial&lt;/b&gt;&lt;/span&gt;, I would never have been able to make &lt;span class="GreenColor"&gt;such a good mod without them&lt;/span&gt; :&lt;br&gt;- &lt;a href="https://gamebanana.com/members/1705492"&gt;ShadowMarth&lt;/a&gt; who allowed me to use some &lt;span class="GreenColor"&gt;Enemies and Weapons&lt;/span&gt; from &lt;a href="https://gamebanana.com/mods/414822"&gt;Relics of the Past&lt;/a&gt;.&lt;br&gt;- &lt;a href="https://www.instagram.com/samu_wel_elsch/" target="_blank"&gt;Samu&lt;/a&gt;, who made the &lt;span class="GreenColor"&gt;original design of the Malice&lt;/span&gt; (purple) &lt;span class="GreenColor"&gt;Moblin&lt;/span&gt;.&lt;br&gt;- &lt;a href="https://gamebanana.com/members/2328261"&gt;Harlock&lt;/a&gt;, creator of &lt;a href="https://gamebanana.com/mods/411280"&gt;The Sheikah Tried&lt;/a&gt;, I used the &lt;span class="GreenColor"&gt;Project001&lt;/span&gt; at &lt;span class="GreenColor"&gt;Wave 10&lt;/span&gt; !&lt;br&gt;- &lt;a href="https://gamebanana.com/members/1797815"&gt;Arch Leaders&lt;/a&gt;, who allowed me to include &lt;span class="GreenColor"&gt;some actors&lt;/span&gt; from &lt;a href="https://gamebanana.com/mods/307642"&gt;Vanilla Actors with Collision&lt;/a&gt;.&lt;br&gt;&lt;br&gt;And obviously &lt;span class="GreenColor"&gt;many thanks to my friends&lt;/span&gt; for their &lt;span class="GreenColor"&gt;help&lt;/span&gt; and their &lt;span class="GreenColor"&gt;feedbacks&lt;/span&gt; about the mod !&lt;br&gt;- &lt;a href="https://gamebanana.com/members/2191196"&gt;Charlie92155&lt;/a&gt;&lt;br&gt;- &lt;a href="https://gamebanana.com/members/2737445"&gt;Gojo the Hobo&lt;/a&gt;&lt;br&gt;- &lt;a href="https://gamebanana.com/members/1676542"&gt;Waikuteru&lt;/a&gt;&lt;br&gt;&lt;br&gt;If you enjoy this mod, don’t forget to &lt;span class="GreenColor SelectedElement"&gt;&lt;b&gt;leave a like&lt;/b&gt;&lt;/span&gt; and &lt;b&gt;&lt;a href="https://gamebanana.com/members/1920307"&gt;check my other mods&lt;/a&gt;&lt;/b&gt; !</description>
+      <media:content url="https://files.gamebanana.com/mods/twilighttrial_-_classic_ca732.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/twilighttrial_-_hard_d66d3_28f3b.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/twilighttrial_-_classic.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/twilighttrial_-_hard_d66d3.bnp" type="application/octet-stream"/>
+      <category>Shrines/Dungeons</category>
+      <category>Maps</category>
+    </item>
+    <item>
+      <title>Port de Tradução PT-BR (Switch -&gt; Wii U)</title>
+      <author>gurincrivel</author>
+      <link>https://gamebanana.com/mods/717162</link>
+      <comments>https://gamebanana.com/mods/717162#PostsListModule</comments>
+      <guid isPermaLink="false">5ef3baeb9922c25a1cbf795d9e62a7f53c178923</guid>
+      <pubDate>Sun, 20 Sep 2026 03:53:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c911f24.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c683a06.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c7b882d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c6ac204.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c4bb0bd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c5bbeb8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706c5c89e1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706ca12fa1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706ca252ce.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa706ca2bc0f.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Update 1.1.0&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: O texto do primeiro encontro com o Korok não vaza mais para fora da caixa de diálogo.&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: A sincronia das legendas das cutscenes da história foi restaurada (o algoritmo agora preserva as quebras de linha manuais originais do Switch).&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Corrigido o bug onde um espaço extra era injetado acidentalmente após reticências ("...").&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Os textos de tutorial da Tabuleta Sheikah agora aparecem formatados em linha contínua, sem quebras indesejadas na UI.&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;Bem-vindo ao Port PT-BR (Oficial) para Wii U!&lt;/b&gt; Este mod traz toda a localização oficial em Português do Brasil, lançada para a versão de Nintendo Switch, diretamente para o seu Wii U ou emulador (Cemu).&lt;br&gt;&lt;br&gt;?️ &lt;b&gt;O que foi feito debaixo dos panos?&lt;/b&gt; Este port exigiu muito mais do que um simples "copiar e colar" de arquivos. Por conta de diferenças drásticas de arquitetura e funcionamento interno da engine entre os dois consoles, foi necessário realizar um trabalho minucioso de engenharia reversa tanto nas fontes quanto nos textos:&lt;br&gt;&lt;br&gt;&lt;b&gt;1. Engenharia de Fontes e Caracteres (.bffnt)&lt;/b&gt; Para garantir que os caracteres exclusivos da língua portuguesa (como &lt;b&gt;ç&lt;/b&gt;, &lt;b&gt;ã&lt;/b&gt;, &lt;b&gt;é&lt;/b&gt;) fossem exibidos com perfeição no Wii U:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Conversão de Endianness:&lt;/b&gt; Recriamos a estrutura binária dos blocos internos das fontes do Switch (&lt;em&gt;Little Endian&lt;/em&gt;) para garantir a compatibilidade nativa no motor do Wii U (&lt;em&gt;Big Endian&lt;/em&gt;).&lt;/li&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Porting de Mapeamento (CMAP e CWDH):&lt;/b&gt; Extraímos os mapeamentos exatos de caracteres e as larguras individuais dos glifos do Switch e os injetamos de volta no Wii U para o espaçamento perfeito.&lt;/li&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Adaptação de Layout de Texturas (TGLP):&lt;/b&gt; Alteramos os cabeçalhos internos do Wii U para forçá-lo a ler o layout de texturas da exata mesma forma que o Switch, eliminando bugs de caracteres rasgados ou deslocados.&lt;/li&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Limpeza de Kerning (KRNG):&lt;/b&gt; Removemos as tabelas originais de Kerning do Wii U que estavam conflitando com os novos índices de caracteres do Switch.&lt;/li&gt;&lt;/ul&gt;2. &lt;b&gt;Adaptação de Textos e Comportamento da Engine (MSBT)&lt;/b&gt; Adaptar todos os milhares de arquivos de diálogo também trouxe grandes desafios de conversão:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Word Wrap e Paginação Dinâmica (Auto-Overflow):&lt;/b&gt; A engine do Wii U não possui comando de página nativo (a quebra ocorre por &lt;em&gt;Overflow&lt;/em&gt; ao estourar o limite da caixa). Desenvolvemos um algoritmo em Python que adapta as frases para o limite de caracteres do Wii U e insere "quebras de linha invisíveis" dinamicamente, forçando a engine a limpar a caixa de diálogo no exato momento pretendido pela tradução.&lt;/li&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Mapeamento Sequencial de Tags Temporais:&lt;/b&gt; Lemos sequencialmente todas as tags da tradução do Switch (destaques de cor, tempo de espera para leitura e ritmos de voz/risadas dos NPCs) e as convertemos milimetricamente para as tags equivalentes do Wii U. Isso garante que todo o fluxo de eventos e &lt;em&gt;cutscenes&lt;/em&gt; flua intacto.&lt;/li&gt;&lt;li node="[object Object]"&gt;&lt;b&gt;Refinamento Tipográfico UI:&lt;/b&gt; Aplicamos rotinas corretivas para arrumar problemas de espaçamento em pontuações e alinhar quebras de linha nas telas de Dicas (Loading).&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ptbr_oficial_5a2a5.zip" type="application/zip"/>
+      <category>Language</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>Ancient Crystal Sword</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/717545</link>
+      <comments>https://gamebanana.com/mods/717545#PostsListModule</comments>
+      <guid isPermaLink="false">a7f12739b21d914fd14fffa63ce56ae8db3abdf2</guid>
+      <pubDate>Tue, 15 Sep 2026 18:19:58 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa98bf5924fb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa98bffdc1a9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa98c04248ae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa98c08f25d6.jpg"/&gt;&lt;br&gt;This mod adds a new weapon to the game called the Ancient Crystal Sword! The energy rings around the sword's handle animate while Link's holding it!&lt;br&gt;&lt;br&gt;It can be found in the cave where the hebra great skeleton is.&lt;br&gt;&lt;br&gt;It can also destroy every guardian in the game in one hit!&lt;br&gt;This was a mod made for zeldid (https://www.youtube.com/@Zel-did/videos)!&lt;br&gt;Original sword model by Kevin Perlado on Sketchfab (https://sketchfab.com/3d-models/crystal-sword-21e4fd0c2e8e44f9b98497a1a9a271d4).</description>
+      <media:content url="https://files.gamebanana.com/mods/ancient_crystal_sword_8756d.bnp" type="application/octet-stream"/>
+      <category>Large Swords</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>[LINKLE] The Twilight Island Unofficial Patch</title>
+      <author>appz</author>
+      <link>https://gamebanana.com/mods/716997</link>
+      <comments>https://gamebanana.com/mods/716997#PostsListModule</comments>
+      <guid isPermaLink="false">85e1bce1f01ac54ea221d005bfdd987ba8f1e7b9</guid>
+      <pubDate>Sun, 13 Sep 2026 20:05:22 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa6fdb4b1b1b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa6fdd0c985a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa6fde0dbf24.jpg"/&gt;&lt;br&gt;&lt;h3&gt;Requirements&lt;/h3&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/712872" target="_blank"&gt;The Twilight Island&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/406768" target="_blank"&gt;The Linkle Mod 3.0&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;Installation&lt;/h3&gt;&#13;
+&#13;
+&lt;b&gt;IMPORTANT:&lt;/b&gt; This mod must have &lt;span class="GreenColor"&gt;HIGHER PRIORITY&lt;/span&gt; than both The Twilight Island and Linkle 3.0.&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;Patch Options&lt;/h3&gt;&#13;
+&#13;
+&lt;b&gt;Multi-Select&lt;/b&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;span class="GreenColor"&gt;Dialogue Patch&lt;/span&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;span class="GreenColor"&gt;Logo Patch&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;b&gt;Hairstyle&lt;/b&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;span class="GreenColor"&gt;Long Hair&lt;/span&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;span class="GreenColor"&gt;Logical Braids&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;Credits&lt;/h3&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/712872" target="_blank"&gt;The Twilight Island&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/3744025" target="_blank"&gt;Little Zelda guy&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/406768" target="_blank"&gt;The Linkle Mod 3.0&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1624901" target="_blank"&gt;lynard killer&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/355882" target="_blank"&gt;Logical Braids&lt;/a&gt; by &lt;a href="https://gamebanana.com/members/1743087" target="_blank"&gt;pokisofiii&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/linklethetwilightislandunofficialpatch.bnp" type="application/octet-stream"/>
+      <category>Linkle</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Unbreakable Hero's Equipment</title>
+      <author>ajsea1sy</author>
+      <link>https://gamebanana.com/mods/716682</link>
+      <comments>https://gamebanana.com/mods/716682#PostsListModule</comments>
+      <guid isPermaLink="false">cd10ea95cd9a8bf8e30869e91016e19e63205a5d</guid>
+      <pubDate>Sun, 13 Sep 2026 00:49:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa5f1e3dfde7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa5f26cb33b6.jpg"/&gt;&lt;br&gt;The mod is self explanatory, it will make the Master Sword and/or Hylian Shield unbreakable.&lt;br&gt;Is the stupid gods who created the Master Sword making it need an energy recharge when not fighting Malice-infused enemies, just because "So the hero doesn't abuse it's power"? Well we can throw them out of the window!&lt;br&gt;&lt;br&gt;&lt;h1&gt;Prequisites:&lt;/h1&gt;You shouldn't ungroup the "Unbreakable Hero's Equipment" folders you got from unzipping. Just put it in GraphicsPacks. It won't hurt you, but it's for the sake of tidyness. To keep both parts in one folder. They are intended to be that way, and are technically separate mods for convenience. They are also grouped together in Cemu and individually toggleable.&lt;br&gt;&lt;br&gt;This won't edit the durability of your Master Sword and/or Hylian Shield! It will stay the same. It won't change it to Durability-Up +, won't set the durability to the integer limit. It only freezes it.&lt;br&gt;&lt;br&gt;Since it will only replace the specific files tying to the items, disabling or removing either mod will undo it safely.</description>
+      <media:content url="https://files.gamebanana.com/mods/unbreakable_hero_s_equipment.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Working Hookshot (standalone)</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/716555</link>
+      <comments>https://gamebanana.com/mods/716555#PostsListModule</comments>
+      <guid isPermaLink="false">e7a540a56c0fc1c5fee568c7cfeeca5ded67f404</guid>
+      <pubDate>Sat, 12 Sep 2026 19:19:09 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa5a55383f67.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa5a557ef88b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa5a55c25d1a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6aa5a55f84935.jpg"/&gt;&lt;br&gt;Takes the hookshot from my "&lt;a href="https://gamebanana.com/mods/712872"&gt;Twilight Island&lt;/a&gt;" mod and makes it a standalone mod. Find it near link's house.</description>
+      <media:content url="https://files.gamebanana.com/mods/hookshot_standalone_.bnp" type="application/octet-stream"/>
+      <category>Bows</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>The Twilight Island</title>
+      <author>Little Zelda guy</author>
+      <link>https://gamebanana.com/mods/712872</link>
+      <comments>https://gamebanana.com/mods/712872#PostsListModule</comments>
+      <guid isPermaLink="false">764f96a6615ec5d45f9aac45b11d59b5e50a71a5</guid>
+      <pubDate>Sat, 12 Sep 2026 18:43:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a98012919fe2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a98013fc79db.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a98015bc1031.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9805f92f422.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a980601652cd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9806051e5a0.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Weapon Fixes&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Made the Hookshot unbreakable&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Added all the weapons (except the Twilight Scimitar from the Triforce area) to Cherry&lt;br&gt;&lt;hr&gt;&lt;br&gt;This mod adds a new quest to the game called "The Twilight Island".&lt;br&gt;&lt;br&gt;It also adds a totally new mechanic into the game: a (kinda) working Hookshot!&lt;br&gt;&lt;br&gt;To start the quest you have to talk to Ordon link (a new npc) at link's house.&lt;br&gt;Go watch the video if you want more information.&lt;br&gt;&lt;br&gt;There i also a secret/easter egg in this mod, beacause while you're playing you might notice i big triforce in the distance outside of hyrule wich you can actually go to with this mod's new kind of working hookshot!&lt;br&gt;&lt;br&gt;Contents of this mod:&lt;br&gt; 1 quest&lt;br&gt;4 swords&lt;br&gt;1 shield&lt;br&gt;1 hookshot&lt;br&gt;5 enemies&lt;br&gt;1 npc&lt;br&gt;1 new item&lt;br&gt;1 new mask&lt;br&gt;and various map objects.&lt;br&gt;&lt;br&gt;If you want to make mods like this one join my studio: https://gamebanana.com/studios/39493</description>
+      <media:content url="https://files.gamebanana.com/mods/the_twilight_island_79e4b.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/the_twilight_island_first_person_hookshot__2b39e.bnp" type="application/octet-stream"/>
+      <category>Quests</category>
+      <category>Quests</category>
+    </item>
+    <item>
+      <title>Dobule Handed Weapon Buff</title>
+      <author>Aeyozea</author>
+      <link>https://gamebanana.com/mods/714290</link>
+      <comments>https://gamebanana.com/mods/714290#PostsListModule</comments>
+      <guid isPermaLink="false">77a3a7d9148c8c4ad2c424ff7f287aba37c9a87e</guid>
+      <pubDate>Sun, 06 Sep 2026 09:12:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9c393b661c9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9c3998df729.jpg"/&gt;&lt;br&gt;Necessary buffs have been made to two-handed weapons, including &lt;b&gt;Large Swords&lt;/b&gt; and &lt;b&gt;Spears&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;In Zelda, giving up the ability to &lt;b&gt;use a shield at all times&lt;/b&gt; comes with a very high opportunity cost, so &lt;strong&gt;two handed weapons should have an overwhelming damage advantage over swords&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;Change 1: Weapon stat adjustments&lt;br&gt;The stats of weapons of the same tier now strictly follow the ratio:&lt;br&gt;Sword : Large Sword : Spear = 1 : 2 : 0.9&lt;br&gt;&lt;br&gt;For example:&lt;br&gt;Savage Lynel Sword: 58—100&lt;br&gt;Savage Lynel Crusher: 116—200&lt;br&gt;Savage Lynel Spear: 52—90&lt;br&gt;&lt;br&gt;58:116:52 = 100:200:90 = 1:2:0.9&lt;br&gt;&lt;br&gt;Change 2: Increase attack speed&lt;br&gt;Large Sword and Spear attack speeds increased by 10–50% (varies by move).&lt;br&gt;Examples:&lt;br&gt;Large Sword Spin attack: +10%,but its charging charge phase: +50%.&lt;br&gt;Spear dash attack: +50% speed, animation shortened by 10 frames,but Spear flurry rush attack only +20%.&lt;br&gt;&lt;br&gt;This mod pushes the output of Large Swords' and Spears' DPS to a level that &lt;b&gt;swords simply cannot compete with.&lt;/b&gt;&lt;br&gt;It also greatly improves the overall feel of using them, making it easier to deal with highly agile enemies, such as &lt;b&gt;Golden Lizalfos in the late game of Master Mode.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;br&gt;Huge thanks to &lt;a href="https://gamebanana.com/members/2731381"&gt;@neowine&lt;/a&gt;, @初音ミク.sbactorpack//AS/Manjiro.bas です！！, and @Nebroc.bfevfl for helping out, and to everyone in the Zelda BOTW Modding Discord/Community. &lt;br&gt;This mod wouldn't exist without your help and this awesome community — even if it's just a little personal project.&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;— Better  install with &lt;a href="https://gamebanana.com/tools/12110"&gt;UKMM&lt;/a&gt; (not required, but without it, you’re more likely to run into compatibility issues)&lt;/b&gt;&lt;br&gt;&lt;b&gt;— Highly likely incompatible with other mods that modify stats or animations.&lt;/b&gt;&lt;br&gt;&lt;b&gt;— If you encounter any bugs, please report them ASAP, and I will do my best to fix them.&lt;/b&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ukmm_dobule_handed_weapon_buff.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/source_files_dobule_handed_weapon_buff.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Alternative Linkle's Personalized Descriptions</title>
+      <author>KdKaballo</author>
+      <link>https://gamebanana.com/mods/705997</link>
+      <comments>https://gamebanana.com/mods/705997#PostsListModule</comments>
+      <guid isPermaLink="false">b08a0a9dd72f2be1c71e4fa4fbc579ca3fd5d505</guid>
+      <pubDate>Sun, 06 Sep 2026 00:26:09 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a8420ef62fe0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a841b8c275eb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a841b8c27629.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a841b8c2a2a2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a841b8c2b499.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Cooked Foods&lt;br&gt;&lt;p&gt;This update &lt;strong&gt;&lt;em&gt;did not&lt;/em&gt;&lt;/strong&gt; take a month, actually more like a day and a half in total. I've been so incredibly busy that I just now managed to sit down and finish it, and after losing everything &lt;strong&gt;twice&lt;/strong&gt; because I'm a fucking idiot, I deliver upon thee.&lt;/p&gt;&lt;p&gt;With this, this mod is officially on par with the inspiration, and from now on it'll be bigger than the original.&lt;br&gt;Let me know what you think! I have to choose whether to continue with vanilla or make a version for Second Wind first...&lt;/p&gt;&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Changed descriptions for every cooked meal.&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Changed descriptions for every roasted/frozen material.&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hola.&lt;br&gt;This mod is inspired by the mod &lt;a href="https://gamebanana.com/mods/33476"&gt;Linkle's Personalized Item Descriptions&lt;/a&gt;.&lt;br&gt;The reason I started this mod was mainly to make it line up with &lt;a href="https://gamebanana.com/mods/439900"&gt;The Legend of Linkle Dialogue Mod&lt;/a&gt;, but I ended up just including like three or four mentions of that and ended up doing my own thing, so that's why this mod has the name it has, and so I present to you:&amp;nbsp;&lt;br&gt;&lt;b&gt;Alternative Linkle's Personalized Descriptions.&lt;/b&gt;&lt;br&gt;&lt;br&gt;It changes the descriptions of some items to make it seem as if Linkle wrote them herself, giving her a personality of sorts. It's based on the premise of the Legend of Linkle mod, so it might be weird at times without it.&amp;nbsp;&lt;br&gt;It varies from the inspiration in the sense that the personality I gave Linkle isn't as bubbly and quirky as the original, but still very likeable and a bit of a pyromaniac, or at least I hope so.&lt;br&gt;I am &lt;i&gt;&lt;span class="RedColor"&gt;not&lt;/span&gt;&lt;/i&gt; a writer, and this is my first time having to impersonate someone for &lt;i&gt;&lt;b&gt;so&lt;/b&gt;&lt;/i&gt; long.&lt;br&gt;&lt;br&gt;If you don't like it, I'm so sorry! I'm tired.&lt;br&gt;&lt;br&gt;I'm open to suggestions, feedback, and possible changes to accommodate other mods. I also plan on making a version for Second Wind, so uh, stay tuned!&amp;nbsp;&lt;br&gt;&lt;br&gt;Enjoy, and I don't know, give it a like or something.&lt;br&gt;&lt;img src="https://media1.tenor.com/m/92MplgQwb80AAAAC/cat-meme-wave-emoji.gif" alt="a close up of a cat holding a pixel art object ."&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/alternativelinklespersonalizeddescriptions.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/alternative_linkle_s_personalized_descriptions.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/alternativelinklespersonalizeditemdescriptions.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/alternative_linkle_s_personalized_item_descriptions.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/alternativepersonalizeddescriptions.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/alternative_personalized_descriptions.zip" type="application/zip"/>
+      <category>Text/Dialogue</category>
+      <category>UI</category>
+    </item>
+    <item>
+      <title>No hit mode</title>
+      <author>Manjiroo</author>
+      <link>https://gamebanana.com/mods/713680</link>
+      <comments>https://gamebanana.com/mods/713680#PostsListModule</comments>
+      <guid isPermaLink="false">5dc1d12b66ed969cd07ba47c8d27e554ded7a0e5</guid>
+      <pubDate>Fri, 04 Sep 2026 20:34:06 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9b2b2f9f45e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9b29c42cd59.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9b24a40bed1.jpg"/&gt;&lt;br&gt;As the title says, this mod get your max Hearts possible to 1 max, even tho you can still increase your stamina.&lt;br&gt;&lt;br&gt;This is an executable mod made thanks to WIIXLAUNCH.&lt;br&gt;&lt;br&gt;Note that this is a graphic pack. to install it, put it in C://Whaterver/Lead/To/Your/Cemu/graphicsPacks&lt;br&gt;or in /appdata/roaming/Cemu/graphicPacks ( depending if you're on old or recent cemus ) &lt;br&gt;&lt;br&gt;What currently have the mod :&lt;br&gt;- Demo034 edits ( the event about containers )&lt;br&gt;- little text edits&lt;br&gt;- hearts capped to 1 ( insane, not as it's the title of the mod ........ )&lt;br&gt;&lt;br&gt;Well this is a very little mod made for challenge runs, or worse, combined with RotP. also, I might be updating this mod with patreon exclusive updates.&lt;br&gt;&lt;br&gt;&lt;b&gt;DO NOT forget to check my discord server  &lt;a class="anchor_edefb8 anchorUnderlineOnHover_edefb8" href="https://discord.gg/2wGxm7Qy38" rel="noreferrer noopener" target="_blank" title="https://discord.gg/2wGxm7Qy38" role="button" tabindex="0"&gt;https://discord.gg/2wGxm7Qy38&lt;/a&gt; ( where you can ask for help and meet nice people )&lt;br&gt;My checkpoint &lt;a href="https://checkpoint.cc" target="_blank"&gt;https://checkpoint.cc&lt;/a&gt; ( for commissions )&lt;br&gt;My patreon &lt;a href="https://www.patreon.com/c/Manjiroo" target="_blank"&gt;https://www.patreon.com/c/Manjiroo&lt;/a&gt; ( for early access, and WIP progress updates )&lt;br&gt;and to like the mod! thanks :3&lt;/b&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/1heartchallenge_6afad.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/1-heartchallenge.bnp" type="application/octet-stream"/>
+      <category>Gameplay</category>
+      <category>Gameplay</category>
+    </item>
+    <item>
+      <title>Citrus Reshade!</title>
+      <author>appz</author>
+      <link>https://gamebanana.com/mods/712281</link>
+      <comments>https://gamebanana.com/mods/712281#PostsListModule</comments>
+      <guid isPermaLink="false">ce94d3337f8f9293d0464fea7a5610b25f0190d5</guid>
+      <pubDate>Mon, 31 Aug 2026 19:18:31 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95ca87e993f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95ca8e67fc9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95ca935a54c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95ca97be0d2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95ca9b9bed8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95caa036369.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95caa410ca2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95caaa80fc0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a95caaee6254.jpg"/&gt;&lt;br&gt;&lt;h3&gt;Installation Instructions&lt;/h3&gt;&#13;
+&#13;
+&lt;b&gt;1. Extract Graphic Pack:&lt;/b&gt;&lt;br&gt;&#13;
+Extract the &lt;b&gt;BreathOfTheWild_!NoAO&lt;/b&gt; folder/file (provided by &lt;a href="https://gamebanana.com/members/1728449" target="_blank"&gt;inkursion&lt;/a&gt;) directly into your Cemu graphic packs folder:&lt;br&gt;&#13;
+&lt;code&gt;\graphicPacks\downloadedGraphicPacks&lt;/code&gt;&lt;br&gt;&lt;br&gt;&#13;
+&#13;
+&lt;b&gt;2. Get RTGI Shader (Optional):&lt;/b&gt;&lt;br&gt;&#13;
+• Buy the RTGI shader from &lt;a href="https://www.patreon.com/mcflypg" target="_blank"&gt;Pascal Gilcher's Patreon&lt;/a&gt;.&lt;br&gt;&#13;
+• &lt;b&gt;Note:&lt;/b&gt; If you do not have access to RTGI, use the &lt;b&gt;No-RTGI version&lt;/b&gt; of this preset instead!&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;Shaders Used&lt;/h3&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;CAS&lt;/li&gt;&#13;
+  &lt;li&gt;Clarity&lt;/li&gt;&#13;
+  &lt;li&gt;Curves&lt;/li&gt;&#13;
+  &lt;li&gt;FXAA&lt;/li&gt;&#13;
+  &lt;li&gt;Levels&lt;/li&gt;&#13;
+  &lt;li&gt;MartysMods_LAUNCHPAD&lt;/li&gt;&#13;
+  &lt;li&gt;MartysMods_MXAO&lt;/li&gt;&#13;
+  &lt;li&gt;PD80_02_Bloom&lt;/li&gt;&#13;
+  &lt;li&gt;PD80_04_Color_Balance&lt;/li&gt;&#13;
+  &lt;li&gt;qUINT_rtgi &lt;i&gt;(Skip if using No-RTGI preset)&lt;/i&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;Vibrance&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;Cemu Graphic Pack Settings (BotW)&lt;/h3&gt;&#13;
+&#13;
+&lt;b&gt;Workarounds&lt;/b&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Reshade Compatibility:&lt;/b&gt; Enabled &lt;i&gt;(Must be enabled when using ReShade)&lt;/i&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;b&gt;Enhancements&lt;/b&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Clarity:&lt;/b&gt; Serfrost's Preset (Recommended)&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Reflections:&lt;/b&gt; Enhanced Reflections&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Reflection Range:&lt;/b&gt; Extreme (64 samples)&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Anisotropic Filtering:&lt;/b&gt; Extreme (16x)&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;b&gt;Graphics&lt;/b&gt;&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Resolution:&lt;/b&gt; 2560x1440 (2K)&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Anti-Aliasing:&lt;/b&gt; NVIDIA FXAA&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Shadows:&lt;/b&gt; High (200%)&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;b&gt;Shadow Draw Distance:&lt;/b&gt; Very High (Recommended)&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;hr&gt;&#13;
+&#13;
+&lt;h3&gt;Used Mods&lt;/h3&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/406768" target="_blank"&gt;The Linkle Mod 3.0&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/49763" target="_blank"&gt;Girly Animation Pack&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/49633" target="_blank"&gt;Simple Camera UI Remover&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/149519" target="_blank"&gt;Link House Rework&lt;/a&gt;&lt;/li&gt;&#13;
+  &lt;li&gt;&lt;a href="https://gamebanana.com/mods/49535" target="_blank"&gt;Wearable Lantern, Brighter Lights &amp;amp; Darker Nights&lt;/a&gt;&#13;
+    &lt;ul&gt;&#13;
+      &lt;li&gt;&lt;b&gt;Optional Components:&lt;/b&gt; None (leave all unchecked)&lt;/li&gt;&#13;
+      &lt;li&gt;&lt;b&gt;DOF Strength:&lt;/b&gt; None&lt;/li&gt;&#13;
+      &lt;li&gt;&lt;b&gt;Night Darkness:&lt;/b&gt; Less dark&lt;/li&gt;&#13;
+    &lt;/ul&gt;&#13;
+  &lt;/li&gt;&#13;
+&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/citrus_reshade_.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/breathofthewild__noao_e3a96.rar" type="application/vnd.rar"/>
+      <category>Reshades</category>
+      <category>Reshades</category>
+    </item>
+    <item>
+      <title>Different eyes and White hair for Linkle</title>
+      <author>KdKaballo</author>
+      <link>https://gamebanana.com/mods/699030</link>
+      <comments>https://gamebanana.com/mods/699030#PostsListModule</comments>
+      <guid isPermaLink="false">e19cbf01e9689b91254c01a991d4586d2339bb4e</guid>
+      <pubDate>Sat, 29 Aug 2026 21:27:55 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934d9ccc59f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6e74b3a661d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a6e74b3a394c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfe96e6c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfe99d49.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfe9c3c5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfeb5924.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfebdf01.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfebfb78.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfec44e3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfee22ba.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfeeaa89.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a963e3c5a424.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a963e3c76b5d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfeec280.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cfef2347.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff0789b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff10cbf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff174cc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff1adcf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff22b47.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff276be.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff2f597.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff3c0c7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff4b902.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff4f556.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff5654a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff5feef.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff5fe90.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff5ebde.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cff6eb18.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a934cffa0311.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Overhaul Update&lt;br&gt;&lt;p&gt;Well, college has been doing a number on me, but I still managed to make this.&lt;br&gt;Hope you like it, and idk, tell me something nice in the comments; it means a lot :b&lt;/p&gt;&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added Brown and Green eyes&lt;br&gt;&lt;em&gt;Overhaul&lt;/em&gt;: Repackaged everything into a single file with multiple options.&lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Now this mod is about different eye colors, not just Purple. Cool.&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Redid All the eye textures. Should look more natural now.&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hello, this mod does exactly what the title says.&lt;br&gt;It changes Linkle's eyes to a color of your choice (four at the moment) and her hair to white. You can even mix &amp; match if you only want the hair or the eyes. Also compatible with &lt;a href="https://gamebanana.com/mods/447212"&gt;LARC Alternative Underwear&lt;/a&gt;&lt;br&gt;&lt;br&gt;This mod was made with love for all of you to enjoy, and all the props should go to Loelita for her handy-dandy guide on how to make these changes. You can check her profile in the special thanks, and her guide &lt;a href="https://imgur.com/a/linkle-3-0-hair-eye-editing-mod-creation-guide-pQuTF7x"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Anyway, that's all. Have fun and give it a like!&lt;br&gt;&lt;img src="https://i.pinimg.com/474x/be/6c/24/be6c24c121bb5ee13c6fc345d4cd4270.jpg" alt="Cat giving thumbs up"&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/differenteyeswhitehair.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/different_eyes_white_hair.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/purpleeyesandwhitehair.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/redeyesandwhitehair.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/red_eyes_white_hair.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/purple_eyes_white_hair.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/purple_eyes_-_white_hair_-_default_top.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/purple_eyes_-_white_hair_-_black_top.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/purpleeyes-whitehair-defaulttop.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/purpleeyes-whitehair-blacktop.bnp" type="application/octet-stream"/>
+      <category>Linkle</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Yet Another Golden Master Sword</title>
+      <author>Mindstormman</author>
+      <link>https://gamebanana.com/mods/711167</link>
+      <comments>https://gamebanana.com/mods/711167#PostsListModule</comments>
+      <guid isPermaLink="false">33b74e53c76b10dcd3188895ab2c41fbc76bec96</guid>
+      <pubDate>Sat, 29 Aug 2026 09:34:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92a6383fce9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92a649c3582.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92a77150b9f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92a771ce587.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92a7721466b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92a7723807c.jpg"/&gt;&lt;br&gt;&lt;h1&gt;Yet Another Golden Master Sword + Hylian Shield&lt;/h1&gt;&#13;
+Swaps the Master Sword &amp; Hylian Shield to be gold with black or white accents.&lt;br&gt;&lt;br&gt;&#13;
+The mod uses an upgraded Master Sword model made by Aster. You can find it &lt;a href="https://gamebanana.com/mods/711055"&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/yet_another_golden_master_sword_hylian_shield.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/yet_another_golden_master_sword_hylian_shield.bnp" type="application/octet-stream"/>
+      <category>Swords</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Visually Definitive Master Sword</title>
+      <author>Aster</author>
+      <link>https://gamebanana.com/mods/711055</link>
+      <comments>https://gamebanana.com/mods/711055#PostsListModule</comments>
+      <guid isPermaLink="false">34f0fc32e75e9dd04a8bd4f5cc0f4a24414b8502</guid>
+      <pubDate>Sat, 29 Aug 2026 03:12:21 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a9248625364b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92487ad8298.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92487b02281.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92487b50072.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a92487b63737.jpg"/&gt;&lt;br&gt;This mod aims to implement the highest quality Wild-Era Master Sword model into Breath of the Wild.&lt;br&gt;&lt;br&gt;The hilt was taken from Tears of the Kingdom's cutscene Master Sword model, which has roughly double the modeled detail.&lt;br&gt;&lt;br&gt;The blade was taken from Age of Calamity, which has the Triforce crest at the sword's base fully modeled.&lt;br&gt;&lt;br&gt;Textures were taken from Tears of the Kingdom where they have, on average, double the resolution of BotW's.&lt;br&gt;&lt;br&gt;Feel free to use the model from this mod in your own mods without asking, however I ask that you put my name in the Contributors section of your submission and link back to this mod if you do so.</description>
+      <media:content url="https://files.gamebanana.com/mods/definitivemastersword_u.zip" type="application/zip"/>
+      <category>Swords</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>​Link's House - Sora Kasugano Photo Replacement</title>
+      <author>milaoshuhekugou</author>
+      <link>https://gamebanana.com/mods/710454</link>
+      <comments>https://gamebanana.com/mods/710454#PostsListModule</comments>
+      <guid isPermaLink="false">a72e0efcc185f71fb19e112074f62f70759c5188</guid>
+      <pubDate>Thu, 27 Aug 2026 18:07:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a907c717b568.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a907c711d2b7.jpg"/&gt;&lt;br&gt;This mod replaces the iconic Champions' Photo hanging inside Link's house in Hateno Village with a portrait of Sora Kasugano from Yosuga no Sora.&lt;br&gt;替换了四英杰的合照为春日野穹</description>
+      <media:content url="https://files.gamebanana.com/mods/af8989125138239b4509fe63dc8a83c5.bnp" type="application/octet-stream"/>
+      <category>Other/Misc</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Auto Item Pickup</title>
+      <author>Mindstormman</author>
+      <link>https://gamebanana.com/mods/706974</link>
+      <comments>https://gamebanana.com/mods/706974#PostsListModule</comments>
+      <guid isPermaLink="false">da35e16f0e51b23f88db79d23f6ece8f91879d85</guid>
+      <pubDate>Thu, 20 Aug 2026 22:56:26 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6a86ac7082136.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6a86ad50e2f02.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; v1.1&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed the mod not loading on some configurations&lt;br&gt;&lt;hr&gt;&lt;br&gt;An executable mod that makes it so you automatically pickup items when defeating an enemy and optionally when killing animals, breaking rocks, etc...&lt;br&gt;&lt;br&gt;Powered by &lt;a href="https://github.com/TKVSC-Team/WiiXLaunch" target="_blank"&gt;WiiXLaunch&lt;/a&gt;&lt;br&gt;&lt;br&gt;Currently only a single WiiXLaunch mod can be used at a time. The mod will be updated when this is no longer the case.&lt;br&gt;&lt;br&gt;For Cemu:&lt;br&gt;&lt;br&gt;Extract the graphicsPack zip into the &lt;code&gt;Cemu/graphicPacks&lt;/code&gt; directory, and then enable it in Cemu.&lt;br&gt;&lt;br&gt;For Wii U:&lt;br&gt;&lt;br&gt;Extract the aroma zip into &lt;code&gt;wiiu/environments/aroma/plugins&lt;/code&gt; on your SD card&lt;br&gt;&lt;br&gt;&lt;a href="https://gamebanana.com/mods/706979"&gt;Switch Version&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/botw_autopickup_all_cemu.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw_autopickup_enemies_cemu.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/botw_autopickup_all_aroma.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/botw_autopickup_enemies_aroma.zip" type="application/zip"/>
+      <category>Drops</category>
+      <category>Drops</category>
+    </item>
+  </channel>
+</rss>
