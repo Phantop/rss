@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Garden Story</title>
+      <author>Rose City Games</author>
+      <guid isPermaLink="false">bbf82f4d56c2694397c16e54c13bcbdf523de9d3</guid>
+      <pubDate>Thu, 20 Feb 2025 16:00:00 +0000</pubDate>
+      <description>Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!</description>
+      <media:content url="https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S1_2560x1440-b1549cf6645f51ab0bacf6d73aa1631d" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>World War Z Aftermath</title>
+      <author>Saber Interactive</author>
+      <guid isPermaLink="false">6fa3229f3eefb037f53358c51aecc58c52f683a7</guid>
+      <pubDate>Thu, 20 Feb 2025 16:00:00 +0000</pubDate>
+      <description>World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.</description>
+      <media:content url="https://cdn1.epicgames.com/offer/wombat/landscapewwz-aftermath-1248x702_1248x702-43415cb8226261eba181a914f0bc85bc" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/wombat/portrait-wwzaftermath-1200x1600_1200x1600-1c62343365f63ed408e5906b88141d7e" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
