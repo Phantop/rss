@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>World War Z Aftermath</title>
+      <author>Saber Interactive</author>
+      <guid isPermaLink="false">6fa3229f3eefb037f53358c51aecc58c52f683a7</guid>
+      <pubDate>Mon, 10 Feb 2025 16:00:00 +0000</pubDate>
+      <description>World War Z: Aftermath is the ultimate co-op zombie shooter and the next evolution of the original hit World War Z that has now captivated over 15 million players. Fight off hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world.</description>
+      <media:content url="https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S1_2560x1440-1555028d9b62f5348df49ad07b4301f0" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S2_1200x1600-8f45e0b69430aeffb89fc9906e3e5a34" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Cat Quest II</title>
+      <author>Kepler Interactive</author>
+      <guid isPermaLink="false">cfb68f9e2aa5728b0ea511f3d2658e6a1dab048a</guid>
+      <pubDate>Mon, 10 Feb 2025 16:00:00 +0000</pubDate>
+      <description>Open-world action-RPG in a fantasy realm of cats and dogs. CAT QUEST II lets you play solo or with a friend, as both a cat and dog! Quest in a world filled with magic, defeat monsters and collect loot in a catventure like never before!</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-13gb6.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>LISA: The Definitive Edition</title>
+      <author>Serenity Forge</author>
+      <guid isPermaLink="false">ec5cb294e63ff0ee047bc7db332a1e8f0dbd8c4a</guid>
+      <pubDate>Mon, 10 Feb 2025 16:00:00 +0000</pubDate>
+      <description>Explore Olathe and unmask its twisted secrets with LISA: The Definitive Edition, including the original narrative-driven RPG LISA: The Painful and its sequel LISA: The Joyful.</description>
+      <media:content url="https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S2_1200x1600-4a9b4fc6e06e8aff136c1a3cf18292ae" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>F1® Manager 2024</title>
+      <author>Frontier Developments</author>
+      <guid isPermaLink="false">7e7ea99646a9f7d8735d26ecc0ae7a0fc9cb7ce8</guid>
+      <pubDate>Thu, 13 Feb 2025 16:00:00 +0000</pubDate>
+      <description>Lead your team to glory in F1® Manager 2024. A new Formula 1® season has arrived, and with it, the most comprehensive F1® management experience to date. Build a legacy with one of 10 official F1® constructors or create your own team for the very first time.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-ky8bk.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-15uhb.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Apex Legends™: Loba Free Unlock Bundle</title>
+      <author>Electronic Arts</author>
+      <guid isPermaLink="false">8a52cccdd5fe6c6343190d8467c9de3979ec559d</guid>
+      <pubDate>Thu, 13 Feb 2025 16:00:00 +0000</pubDate>
+      <description>Grab the Loba Free Unlock Bundle and drop straight into Apex Legends: Takeover,  for energetic mayhem and fun.
+The bundle includes: Loba unlocked and Loba 'Torrent' Epic Skin</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-bnz8f.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1nk9w.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-m7i3m.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
