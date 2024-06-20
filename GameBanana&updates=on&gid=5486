@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - Animal Crossing: New Leaf</title>
+    <description>GameBanana - Animal Crossing: New Leaf</description>
+    <link>https://gamebanana.com/games/5486</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/5486"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - Animal Crossing: New Leaf</title>
+      <link>https://gamebanana.com/games/5486</link>
+    </image>
+    <item>
+      <title>Black New Hero Wig</title>
+      <author>Robocami</author>
+      <link>https://gamebanana.com/mods/550066</link>
+      <comments>https://gamebanana.com/mods/550066#PostsListModule</comments>
+      <guid isPermaLink="false">14048d21f2353df406294da194c19e9355826a95</guid>
+      <pubDate>Mon, 21 Oct 2024 03:51:39 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6715cf3a3e78f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6715cf3a3f51a.jpg"/&gt;&lt;br&gt;Recolor mod for &lt;a href="https://gamebanana.com/members/1761993"&gt;obsidiansunday&lt;/a&gt;&lt;br&gt;Replaces the new hero wig</description>
+      <media:content url="https://files.gamebanana.com/mods/black_wig.zip" type="application/zip"/>
+      <category>Clothes</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Sasha</title>
+      <author>spicyBeefu</author>
+      <link>https://gamebanana.com/mods/541083</link>
+      <comments>https://gamebanana.com/mods/541083#PostsListModule</comments>
+      <guid isPermaLink="false">f333067e0f6d0664b464090e91efccebc2eeb662</guid>
+      <pubDate>Mon, 09 Sep 2024 00:47:11 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66de442a8460c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66de442f808f3.jpg"/&gt;&lt;br&gt;Finished port of Sasha to AC:NL! If you notice anything that seems off, please lmk in Twitter DMs.&lt;br&gt;Furniture was fairly half-assed because I didn't want to spend more than 2 full days making this. If anyone wants to make changes I'll gladly update the file if it's better!&lt;br&gt;&lt;br&gt;Replaces Gaston (rbt04), changes motto, catchphrase, house exterior, interior, style tastes, portrait, personality, just about anything I could get at with the limited documentation. I don't play New Leaf much right now so I've been unable to test thoroughly outside of making sure the house and talking doesn't crash, use at your own risk!&lt;br&gt;&lt;br&gt;Should crash your game without NL version 1.5 update, so make sure you get that first b4 loading mods.&lt;br&gt;Tested on USA copy of the game, not certain about other region compatibility. Gaston amiibo card will get them into your town easily! Save editors might not put correct furniture in the house.&lt;br&gt;&lt;br&gt;For anyone else making custom villagers, I've filled out a bunch of unknown variables in the 010 Editor template file you can find in the tutorials. I bundled my edited one in here with Sasha. Apologies in advance if any errors.&lt;br&gt;&lt;br&gt;See installation instructions for game mods for Emulator or real 3DS on google!</description>
+      <media:content url="https://files.gamebanana.com/mods/sasha_47fe2.zip" type="application/zip"/>
+      <category>Villagers</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Powerpuff Girls</title>
+      <author>KandyKat77</author>
+      <link>https://gamebanana.com/mods/533812</link>
+      <comments>https://gamebanana.com/mods/533812#PostsListModule</comments>
+      <guid isPermaLink="false">50eb70d93189acbd343274931b0e98cf45c0c032</guid>
+      <pubDate>Thu, 29 Aug 2024 17:43:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b3a0f1ac47b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b3a0deec316.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b3a0df09ca1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b3a0df21484.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; &lt;br&gt;&lt;em&gt;Adjustment&lt;/em&gt;: Changed the eye outlines to be a little more purple&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hey ya'll I'm back again with a new custom villager...s?&lt;br&gt;&lt;br&gt;Yep, you guys get three this time!&lt;br&gt;&lt;br&gt;&lt;a class="MemberLink" href="https://gamebanana.com/members/1908106" data-id="member_1908106"&gt;MidnightErosion&lt;/a&gt; requested these three awhile ago, and I finally finished them today!&lt;br&gt;&lt;br&gt;So, who do they all replace?&lt;br&gt;&lt;br&gt;Bloss replaces Kitty&lt;br&gt;&lt;br&gt;Bubs replaces Carmen&lt;br&gt;&lt;br&gt;Last, but not least,&lt;br&gt;&lt;br&gt;Butters replaces Canberra!&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/powerpuff_girls.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/powerpuff_girls_5226a.zip" type="application/zip"/>
+      <category>Villagers</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>New Leaf but with New Horizons soundtrack</title>
+      <author>Ocleg</author>
+      <link>https://gamebanana.com/mods/538536</link>
+      <comments>https://gamebanana.com/mods/538536#PostsListModule</comments>
+      <guid isPermaLink="false">cfdd7480d9d86bece40a30ebd8fba6b66780e8f7</guid>
+      <pubDate>Wed, 28 Aug 2024 19:15:13 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66cf70038a0f7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cf7006c6015.jpg"/&gt;&lt;br&gt;&lt;b&gt;Ever wondered what New Leaf would sound like with New Horizon's OST?&lt;/b&gt;&lt;br&gt;&lt;br&gt;Then look no further than this mod!&lt;br&gt;&lt;br&gt;This mod is extremely basic and only replaces the games OST with the New Horizons soundtrack (Hourly themes and some building themes, such as the town hall).</description>
+      <media:content url="https://files.gamebanana.com/mods/nh_ost.zip" type="application/zip"/>
+      <category>Game files</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Pack 1 indoor ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/538126</link>
+      <comments>https://gamebanana.com/mods/538126#PostsListModule</comments>
+      <guid isPermaLink="false">52aca8a2a574f470eb766091e82e6d1f4dd0bc4e</guid>
+      <pubDate>Mon, 26 Aug 2024 16:07:00 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca77d6cc2d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca784c64b2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca78b23176.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca79190d8b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca799f1559.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca79a8ffd4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca7a201f14.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca7b9e35fe.jpg"/&gt;&lt;br&gt;&lt;b&gt;-&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/interiores_acnh.zip" type="application/zip"/>
+      <category>Maps</category>
+      <category>Maps</category>
+    </item>
+    <item>
+      <title>Sito ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/538124</link>
+      <comments>https://gamebanana.com/mods/538124#PostsListModule</comments>
+      <guid isPermaLink="false">79f00097f4b2e0f74bb27b7205e3817768f34199</guid>
+      <pubDate>Mon, 26 Aug 2024 15:38:00 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca14b7efa0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cca15664f39.jpg"/&gt;&lt;br&gt;&lt;b&gt;-&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/sito_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>DJ K.K (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/537907</link>
+      <comments>https://gamebanana.com/mods/537907#PostsListModule</comments>
+      <guid isPermaLink="false">228a036c4d7d10062d1fb7e0dcdd216f619c0234</guid>
+      <pubDate>Sun, 25 Aug 2024 17:38:43 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66cb6c07d36d3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cb6c0b8a9dc.jpg"/&gt;&lt;br&gt;&lt;b&gt;-&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/dj_kk.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>K.K ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/536905</link>
+      <comments>https://gamebanana.com/mods/536905#PostsListModule</comments>
+      <guid isPermaLink="false">a9c05bde9d66689de07f3ebf9f37606283f307be</guid>
+      <pubDate>Wed, 21 Aug 2024 11:22:27 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66c5cdd4739a5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c5cdd84dd7b.jpg"/&gt;&lt;br&gt;&lt;b&gt;.&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/kk_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>CJ ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/536898</link>
+      <comments>https://gamebanana.com/mods/536898#PostsListModule</comments>
+      <guid isPermaLink="false">618af47caf1c563c7103877ea28bfddafaf92cbf</guid>
+      <pubDate>Wed, 21 Aug 2024 09:19:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66c5b11c7c847.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c5b11fb51c2.jpg"/&gt;&lt;br&gt;&lt;b&gt;.&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/cj_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Al ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/534892</link>
+      <comments>https://gamebanana.com/mods/534892#PostsListModule</comments>
+      <guid isPermaLink="false">a746858afc70dad3114431f2b42c382f2f67d8a0</guid>
+      <pubDate>Mon, 12 Aug 2024 09:19:20 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b9d359524ec.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b9d37322bc1.jpg"/&gt;&lt;br&gt;&lt;b&gt;.&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/al_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Candrés ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/534219</link>
+      <comments>https://gamebanana.com/mods/534219#PostsListModule</comments>
+      <guid isPermaLink="false">b2c03019f6e4c8091f20c86c97266e5482bccd35</guid>
+      <pubDate>Fri, 09 Aug 2024 09:52:48 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5e6d08a922.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5e6d4ec284.jpg"/&gt;&lt;br&gt;&lt;b&gt;.&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/candres_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Loading screen ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/534201</link>
+      <comments>https://gamebanana.com/mods/534201#PostsListModule</comments>
+      <guid isPermaLink="false">0fefae01c8932d2d4438d9c05589d1d6b80e4c73</guid>
+      <pubDate>Fri, 09 Aug 2024 08:01:44 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5c499d7bc5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5cd9648ad4.jpg"/&gt;&lt;br&gt;&lt;b&gt;.&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/loading_61c1e.zip" type="application/zip"/>
+      <category>GUIs</category>
+      <category>GUIs</category>
+    </item>
+    <item>
+      <title>Rosita ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/534195</link>
+      <comments>https://gamebanana.com/mods/534195#PostsListModule</comments>
+      <guid isPermaLink="false">faf4798b2bde3d3a055706fbf1bfc70fdc97019c</guid>
+      <pubDate>Fri, 09 Aug 2024 06:59:15 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5bdbba47dc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5be126e518.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5be167e329.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b5be2110a1e.jpg"/&gt;&lt;br&gt;&lt;b&gt;-&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/rosita_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Paca ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/533508</link>
+      <comments>https://gamebanana.com/mods/533508#PostsListModule</comments>
+      <guid isPermaLink="false">599810ef55fd77539087512bbdbefffc3ffe2f65</guid>
+      <pubDate>Tue, 06 Aug 2024 11:59:49 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b2101fa4f92.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b2591d50550.jpg"/&gt;&lt;br&gt;&lt;b&gt;-&lt;/b&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/paca_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>-Dodo- Monkey Train ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/533006</link>
+      <comments>https://gamebanana.com/mods/533006#PostsListModule</comments>
+      <guid isPermaLink="false">3b779449b5a41d8d6ea1ed54ff5fa30b03a8e81f</guid>
+      <pubDate>Sun, 04 Aug 2024 12:09:45 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66af6f7f3114b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b259e28071a.jpg"/&gt;&lt;br&gt;La compañia train&lt;br&gt;&lt;hr&gt;• Monkey Train&lt;br&gt;&lt;hr&gt;¿ Que es Monkey Train ?&lt;br&gt;&lt;hr&gt;Monkey Train es una compañía organizada por Dodo Airplane para que los pasajeros viajen en tren a otros pueblos de otros jugadores.&lt;br&gt;&lt;hr&gt;&lt;span class="SelectedElement"&gt;Como se puede observar en la imagen Dodo Airplane les proporciona a Monkey Train un gorro con su logo propio y su ropa de trabajo.&lt;/span&gt;&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/monkey_train_acnh.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Marilín ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/532589</link>
+      <comments>https://gamebanana.com/mods/532589#PostsListModule</comments>
+      <guid isPermaLink="false">0ed18c11c4ade292508cf00105b53942e9526473</guid>
+      <pubDate>Fri, 02 Aug 2024 19:16:16 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66ad30714b9ac.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b25966ca006.jpg"/&gt;&lt;br&gt;&lt;span class="SelectedElement"&gt;La peluquería de Marilín&amp;nbsp;&lt;hr&gt;• Marilín&amp;nbsp;&lt;br&gt;&lt;hr&gt;¿ Marilín cambia de look ?&lt;br&gt;&lt;hr&gt;Marilín regresa de sus vacaciones de New horizont, pero no viene a su tienda con su ropa normal.&lt;br&gt;&lt;hr&gt;Desde que Fauno le a prestado algunas de sus prendas a ella , parece que le han encantado y regresa a su tienda de new leaf con esta ropa.&amp;nbsp;&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/maril_n_acnh_ba110.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Tom Nook ACNH (3DS)</title>
+      <author>Relito23_XD</author>
+      <link>https://gamebanana.com/mods/532576</link>
+      <comments>https://gamebanana.com/mods/532576#PostsListModule</comments>
+      <guid isPermaLink="false">e30caad47b4c732471df28796ba508ad7eca205a</guid>
+      <pubDate>Fri, 02 Aug 2024 18:09:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b211ae3da29.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ad20b4548de.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b2599ca956f.jpg"/&gt;&lt;br&gt;El regreso&amp;nbsp;&lt;br&gt;&lt;hr&gt;• Tom Nook&amp;nbsp;&lt;br&gt;&lt;hr&gt;¿ El regreso ?&lt;br&gt;&lt;hr&gt;Tom Nook regreso a new leaf para que gastes la última baya .&lt;br&gt;&lt;hr&gt;Tom Nook regresa a ser parte de Inmobiliaria Nook mejor dicho ahora Happy Home Paradise, ahora el tendrá que trabaja para Happy home Paradise para venderte partes de la casa y cobrarte los impuestos.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/tom_nook_acnh.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/tom_nook_acnh_v2.zip" type="application/zip"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Ione</title>
+      <author>KandyKat77</author>
+      <link>https://gamebanana.com/mods/527969</link>
+      <comments>https://gamebanana.com/mods/527969#PostsListModule</comments>
+      <guid isPermaLink="false">e973e10b659bb0c29fa46e5103e83a1e5258e466</guid>
+      <pubDate>Sun, 14 Jul 2024 18:16:33 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/669415b51cd8d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/669415345855c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6694153447aac.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6694153450f4c.jpg"/&gt;&lt;br&gt;I'm back at it again with &lt;a class="MemberLink" href="https://gamebanana.com/members/3341506" data-id="member_3341506"&gt;iloveanimalcrossing&lt;/a&gt;'s request for Ione!&lt;br&gt;&lt;br&gt;She took me quite awhile, but here she is!&lt;br&gt;&lt;br&gt;She replaces Rhonda!&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ione.zip" type="application/zip"/>
+      <category>Villagers</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Census Menu restoration</title>
+      <author>pearl23</author>
+      <link>https://gamebanana.com/mods/522625</link>
+      <comments>https://gamebanana.com/mods/522625#PostsListModule</comments>
+      <guid isPermaLink="false">ec80f0b8a0b715ef6d5aae2a3c31d88588dde229</guid>
+      <pubDate>Fri, 12 Jul 2024 11:30:21 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/667323a86d9e8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6673248d82723.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6673249527f65.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66732498b2f2e.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Version 3&lt;br&gt;&lt;p&gt;if you couldnt get the mod working before, please update it and let me know if it works now!&lt;/p&gt;&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Changed the "script" folder to "string" as originally intended&lt;br&gt;&lt;hr&gt;&lt;br&gt;thank you to lukas for researching the census menu and finding what each value is&lt;br&gt;thank you to TG the protogen for proof reading my text for errors.&lt;br&gt;&lt;br&gt;you still need a way to activate the census menu in your save file, you can either use ACSE or the vapecord plugin to enable the menu.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/census_menu_restored_v3.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/census_menu_restored_v2.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/census_menu_restored.7z" type="application/x-7z-compressed"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Pichu</title>
+      <author>KandyKat77</author>
+      <link>https://gamebanana.com/mods/526301</link>
+      <comments>https://gamebanana.com/mods/526301#PostsListModule</comments>
+      <guid isPermaLink="false">10a6fe4d208963d2902b5301de8a7661f863b715</guid>
+      <pubDate>Sat, 06 Jul 2024 23:19:22 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6689d053f0bdf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6689d053f30fc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6689d0540759f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6689d0540afe3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6689d0540a349.jpg"/&gt;&lt;br&gt;Hi guys! I've been messing around with Blender for the past few days, and figured I could make my boy Pichu!&lt;br&gt;&lt;br&gt;&lt;br&gt;He goes over Sheldon!&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/pichu.zip" type="application/zip"/>
+      <category>Villagers</category>
+      <category>Skins</category>
+    </item>
+  </channel>
+</rss>
