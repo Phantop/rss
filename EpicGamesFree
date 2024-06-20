@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Beyond Blue</title>
+      <author>E-Line Media</author>
+      <guid isPermaLink="false">00c2e40604ffe3cd2af99ac5195fa782514720a2</guid>
+      <pubDate>Thu, 06 Feb 2025 16:00:00 +0000</pubDate>
+      <description>Beyond Blue is a single-player narrative adventure that takes you deep into our planet’s beating blue heart.  Set in the near future, Beyond Blue explores the mysteries of our ocean through the eyes of Mirai, a deep-sea explorer and scientist. Become a part of a newly-formed r...</description>
+      <media:content url="https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S2-1200x1600-66ee2b1322a74ff2e35e462d644ff519.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-01-1920x1080-129661569.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-02-1920x1080-129662099.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-03-1920x1080-129662730.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-04-1920x1080-129663227.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-05-1920x1080-129663883.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-06-1920x1080-129664417.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-07-1920x1080-129665161.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-08-1920x1080-129665846.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-09-1920x1080-129666521.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn2.unrealengine.com/egs-beyondblue-elinemedia-g1a-10-1920x1080-129666936.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/4c998fd4568946c7875a6d5ab11979fc/beyond-blue-1ylvh.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>HUMANKIND™ Standard Edition</title>
+      <author>SEGA of Europe</author>
+      <guid isPermaLink="false">dd913e9393c2fe5b1a32b67f0ae50b900f051625</guid>
+      <pubDate>Thu, 06 Feb 2025 16:00:00 +0000</pubDate>
+      <description>HUMANKIND™ is a historical strategy game, where you’ll be re-writing the entire narrative of human history and combining cultures to create a civilization that’s as unique as you are.</description>
+      <media:content url="https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57" type="application/octet-stream"/>
+      <media:content url="https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
