@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Humble Bundle - bundles</title>
+    <description>Humble Bundle - bundles</description>
+    <link>https://humblebundle.com/bundles</link>
+    <atom:link rel="alternate" type="text/html" href="https://humblebundle.com/bundles"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://humblebundle.com/favicon.ico</url>
+      <title>Humble Bundle - bundles</title>
+      <link>https://humblebundle.com/bundles</link>
+    </image>
+    <item>
+      <title>Game Programming by Pearson</title>
+      <author>Pearson</author>
+      <link>https://humblebundle.com//books/game-programming-pearson-books</link>
+      <guid isPermaLink="false">282958413a04abb779aec21538665eb7574101a1</guid>
+      <pubDate>Mon, 03 Feb 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Game Programming in C++&lt;/em&gt;, &lt;em&gt;Fundamentals of Game Design&lt;/em&gt;, &lt;em&gt;Begin to Code: Building apps and games in the Cloud&lt;/em&gt;, &lt;em&gt;Captain Code: Unleash Your Coding Superpower with Python&lt;/em&gt;, and more!&lt;br&gt;Let’s start building games—level up your coding skills with our Gaming Programming by Pearson Bundle! Learn the basics and advanced techniques needed to develop original games that are only limited by your imagination. This 20+ library of extremely useful courses includes standouts like &lt;em&gt;Roblox Game Development in 24 Hours: The Official Roblox Guide&lt;/em&gt;, &lt;em&gt;Fundamentals of Game Design&lt;/em&gt;, and more. Get the resources you need to start a new career, and help support Women Who Code with your purchase!</description>
+      <media:content url="https://hb.imgix.net/825991e2be7c858ff1edfc9bc6fe75ae2f983483.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=38fb4cb679fdeb57cf7fe4fc4a5c07b9" type="image/png"/>
+      <media:content url="https://hb.imgix.net/758afb596df2be318d7e9fda3b3b98d21648c6a1.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=38417234fe6f3624e60553850f80996a" type="image/png"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>20 books</category>
+      <category>$865 Value</category>
+    </item>
+    <item>
+      <title>Linux from Beginner to Professional by O'Reilly</title>
+      <author>O'Reilly</author>
+      <link>https://humblebundle.com//books/linux-from-beginner-to-professional-oreilly-books</link>
+      <guid isPermaLink="false">c2940265709e30ea964787b8243db5ad07643bb6</guid>
+      <pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Python for DevOps&lt;/em&gt;, &lt;em&gt;Learning Modern Linux&lt;/em&gt;, &lt;em&gt;Ansible: Up and Running&lt;/em&gt;, &lt;em&gt;Terraform: Up and Running&lt;/em&gt;, &lt;em&gt;Practical Linux System Administration&lt;/em&gt;, &lt;em&gt;Network Programmability and Automation&lt;/em&gt;, and more!&lt;br&gt;Break into the powerful world of Linux with this insightful collection of courses by O’Reilly. Our latest bundle will teach you the fundamentals to build upon so you can master Linux in no time. Start learning today from amazing courses like &lt;em&gt;Learning Modern Linux&lt;/em&gt;, &lt;em&gt;Practical Linux System Administration&lt;/em&gt;, and &lt;em&gt;Python for DevOps&lt;/em&gt;. Get the resources you need to go from a novice coder and to a seasoned pro with a budding career—and help support Code For America!</description>
+      <media:content url="https://hb.imgix.net/19ff14e1cbeb34946ad7185ae0e71f3ee4573a3a.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=f7ec10716fe65913e4c69d6a004e03b3" type="image/png"/>
+      <media:content url="https://hb.imgix.net/ab4286b7ca27ad831fc335a323accc7ad3cb9d55.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=e022b40ad251343c3e305edc602b9eff" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>15 books</category>
+      <category>$789 Value</category>
+    </item>
+    <item>
+      <title>Machine Learning Engineer Masterclass by Packt</title>
+      <author>Packt</author>
+      <link>https://humblebundle.com//books/machine-learning-engineer-masterclass-packt-books</link>
+      <guid isPermaLink="false">b2f9593bd7b3103e38b233d6ba1eb8394bf8522e</guid>
+      <pubDate>Mon, 06 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Mastering PyTorch&lt;/em&gt;, &lt;em&gt;LLM Engineer's Handbook&lt;/em&gt;, &lt;em&gt;Python Machine Learning By Example&lt;/em&gt;, &lt;em&gt;Mastering NLP from Foundations to LLMs&lt;/em&gt;, &lt;em&gt;Causal Inference and Discovery in Python&lt;/em&gt;, and more!&lt;br&gt;Master machine learning with this comprehensive bundle of in-depth lessons from Packt. Inside this expertly curated library of 21 books, you'll uncover industry-leading insights from our newest resources like LLM Engineer's Handbook, Python Machine Learning By Example, The Machine Learning Solutions Architect Handbook, and many more! Whether you're starting your journey or advancing your expertise, this bundle offers everything you need to excel in areas like natural language processing, neural networks, and real-world ML applications. Transform your understanding of machine learning and help support Direct Relief, providing life-saving medical aid across the globe, with your purchase!</description>
+      <media:content url="https://hb.imgix.net/9ac659695af7094ccddd8c169e54a6092b7937a6.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=2968a9619230b844fa3d926f34b5beea" type="image/png"/>
+      <media:content url="https://hb.imgix.net/c47d80468b6c044478c3e7d5ed660b80f35bee2c.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=874b46b8b6db768aff88022ba142a3de" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>21 books</category>
+      <category>$887 Value</category>
+    </item>
+    <item>
+      <title>5th Edition Adventures, Crafting, Monsters and VTT Assets</title>
+      <author>Frog God Games</author>
+      <link>https://humblebundle.com//books/5th-edition-adventures-crafting-monsters-and-vtt-assets-books</link>
+      <guid isPermaLink="false">cefc465ed0ca4b0f5a2cb2315bbc3dd625c73b17</guid>
+      <pubDate>Sat, 11 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;City 1&lt;/em&gt;, &lt;em&gt;Splinters of Faith 2022 5e&lt;/em&gt;, &lt;em&gt;Deck of Dirty Tricks Vol 1.&lt;/em&gt;, &lt;em&gt;Endless Encounters: Dungeons&lt;/em&gt;, &lt;em&gt;Ultimate Bestiary - The Dreaded Accursed&lt;/em&gt;, and more!&lt;br&gt;Gather up your party for new takes on classic adventures within the &lt;em&gt;Dungeons &amp; Dragons&lt;/em&gt; universe—this action-packed bundle supports one of the most iconic games ever! Our 5th Edition-centric TTRPG explorer’s kit contains rulebooks, sourcebooks, and campaign resources like &lt;em&gt;Endless Encounters: Dungeons&lt;/em&gt;, &lt;em&gt;Ultimate Bestiary - The Dreaded Accursed&lt;/em&gt;, &lt;em&gt;Deck of Dirty Tricks Vol 1.&lt;/em&gt;, and more! Get everything you need to embark on an epic journey alongside your closest allies and help support the Comic Book Legal Defense Fund with your purchase!</description>
+      <media:content url="https://hb.imgix.net/d5635fd7d8f15204586a1d3a961d28605c0c215b.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=5bcfbbd059ebe70370833a52fdd179d4" type="image/png"/>
+      <media:content url="https://hb.imgix.net/73c2f5da61890adc53b8b28ded84f28b6f2852de.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=d425053ec78811a6dc01dbea72bcffa1" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble RPG Bundle</category>
+      <category>58 books</category>
+      <category>$741 Value</category>
+    </item>
+    <item>
+      <title>Mastering Every Database by Packt</title>
+      <author>Packt</author>
+      <link>https://humblebundle.com//books/mastering-every-database-packt-books</link>
+      <guid isPermaLink="false">d22940f2da0467c76f83682cb92b879a553a69c8</guid>
+      <pubDate>Mon, 20 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Learn T-SQL Querying&lt;/em&gt;, &lt;em&gt;Mastering PostgreSQL 17&lt;/em&gt;, &lt;em&gt;Learn SQL Database Programming&lt;/em&gt;, &lt;em&gt;PostgreSQL 16 Administration Cookbook&lt;/em&gt;, &lt;em&gt;Amazon DynamoDB - The Definitive Guide&lt;/em&gt;, and more!&lt;br&gt;Learn the skills and knowledge you need to master every database with this curated collection by the professionals at Packt. Inside this 15+ course library, you’ll get pro quality lessons like &lt;em&gt;Mastering PostgreSQL 17&lt;/em&gt;, &lt;em&gt;Amazon DynamoDB - The Definitive Guide&lt;/em&gt;, &lt;em&gt;Database Design and Modeling with Google Cloud&lt;/em&gt;, and more! Deepen your understanding whether you’re a novice or a seasoned professional, and help support the International Medical Corps with your purchase!</description>
+      <media:content url="https://hb.imgix.net/1495cffc79c67303ad7297b0cc1685d14dce68ec.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=688662da5e5919aa2e55ccf5f37e43f5" type="image/png"/>
+      <media:content url="https://hb.imgix.net/fba69b4fadbc53e7891206d475df187e940bd1f1.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=eba195243074d8e472159ff60c3b66de" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Tech Book Bundle</category>
+      <category>19 books</category>
+      <category>$672 Value</category>
+    </item>
+    <item>
+      <title>Witchblade and Darkness 2025</title>
+      <author>Top Cow</author>
+      <link>https://humblebundle.com//books/witchblade-and-darkness-2025-books</link>
+      <guid isPermaLink="false">f5f8ea55cdb9122638b8574f5781674c5901eafb</guid>
+      <pubDate>Sat, 25 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Darkness #1&lt;/em&gt;, &lt;em&gt;Artifacts #0&lt;/em&gt;, &lt;em&gt;Witchblade #1&lt;/em&gt;, &lt;em&gt;Witchblade #2-#30&lt;/em&gt;, &lt;em&gt;Witchblade 2024 #1-#6&lt;/em&gt;, and more!&lt;br&gt;Addicting page-turning comics are only a click away with our latest bundle. Within our Witchblade and Darkness Bundle, you’ll find amazing graphic novel-style storytelling catering to an adult audience. Experience rich stories of pain, power, and triumph in 100 issues of the original &lt;em&gt;Witchblade&lt;/em&gt;, &lt;em&gt;Witchblade 2024 #1-#6&lt;/em&gt;, &lt;em&gt;Artifacts #0&lt;/em&gt;, &lt;em&gt;Darkness #1-#20&lt;/em&gt;, and more! Top Cow Comics offers some of the best indie comics—take a leap and try them today. Your purchase helps support the Hero Initiative too!</description>
+      <media:content url="https://hb.imgix.net/f22d190d1a679f439529d77879fdd0eae7ecc287.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=ba5e65b72312b327180c7c2e0ecffd4b" type="image/png"/>
+      <media:content url="https://hb.imgix.net/5d2d857428c3c2edc991c4239d164443b1646b08.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=914f2d19ee598a06e738ae2fb5fe3815" type="image/jpeg"/>
+      <category>comics</category>
+      <category>Humble Comics Bundle</category>
+      <category>10 comics</category>
+      <category>$530 Value</category>
+    </item>
+    <item>
+      <title>Piano and More for Dummies by Wiley</title>
+      <author>Wiley</author>
+      <link>https://humblebundle.com//books/piano-and-more-for-dummies-wiley-books</link>
+      <guid isPermaLink="false">f351c130dd97ceaef7aba8dc38de344c055ef497</guid>
+      <pubDate>Thu, 02 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Keyboard For Dummies&lt;/em&gt;, &lt;em&gt;Songwriting For Dummies&lt;/em&gt;, &lt;em&gt;Home Recording For Dummies&lt;/em&gt;, &lt;em&gt;Piano Exercises For Dummies&lt;/em&gt;, &lt;em&gt;Music Composition For Dummies&lt;/em&gt;, &lt;em&gt;Piano &amp; Keyboard All-in-One For Dummies&lt;/em&gt;, and more!&lt;br&gt;Hit all the right keys with our latest music bundle from Wiley! Get ebooks to teach you piano and other general musical skills like &lt;em&gt;Piano &amp; Keyboard All-in-One For Dummies&lt;/em&gt;, &lt;em&gt;Music Composition For Dummies&lt;/em&gt;, &lt;em&gt;Songwriting For Dummies&lt;/em&gt;, and &lt;em&gt;Piano Exercises For Dummies&lt;/em&gt;. The experts behind the &lt;em&gt;For Dummies&lt;/em&gt; series have been helping with reading and learning a variety of skills for more than 30 years, and their lessons will have you creating original music with ease. Plus, your purchase directly helps support Music Will— a nonprofit supporting future generations of musicians.</description>
+      <media:content url="https://hb.imgix.net/580f6c1ac3420a29a9388a0fedbcbfc6026f4082.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=4ddcc1d44ada6a4fe52cb006919bd9b1" type="image/png"/>
+      <media:content url="https://hb.imgix.net/c02aab23d7f0c9f46e90bac635abf0cb7fb762b4.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0ef4c8d3e9339019e5ba81df07dd651e" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Music Book Bundle</category>
+      <category>13 books</category>
+      <category>$357 Value</category>
+    </item>
+    <item>
+      <title>Elfquest: The Dark Horse Collection Encore</title>
+      <author>Dark Horse Comics</author>
+      <link>https://humblebundle.com//books/elfquest-dark-horse-collection-encore-books</link>
+      <guid isPermaLink="false">228bcd61e6c5947aaed077c6e1f0922e78d3586e</guid>
+      <pubDate>Thu, 30 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;The Complete Elfquest Volume 2&lt;/em&gt;, &lt;em&gt;The Complete ElfQuest Volume 3&lt;/em&gt;, &lt;em&gt;Elfquest: Stargazer's Hunt Volume 1&lt;/em&gt;, and more!&lt;br&gt;Discover the saga of Cutter, chief of the elfin tribe of the Wolfriders, and his epic quest across the World of Two Moons in &lt;em&gt;ElfQuest&lt;/em&gt;, Wendy and Richard Pini’s long-running fantasy graphic novel series. This expansive collection, published by Dark Horse, includes &lt;em&gt;The Complete ElfQuest Volumes 1 - 7&lt;/em&gt;, &lt;em&gt;The Final Quest&lt;/em&gt;, and &lt;em&gt;Stargazer’s Hunt&lt;/em&gt;. Celebrate 45 years of &lt;em&gt;ElfQuest&lt;/em&gt;, and support World Central Kitchen with your purchase!</description>
+      <media:content url="https://hb.imgix.net/badaf63cfd1e9996c234fedfa9655d7b3c42b173.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=8e34609c4c689259e7c70471305abb61" type="image/png"/>
+      <media:content url="https://hb.imgix.net/4c3acb742f8b068339864580a81c1a59a5f47732.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=0ac27d0ab2dbd7a53377780529841db4" type="image/jpeg"/>
+      <category>books</category>
+      <category>Elfquest</category>
+      <category>13 books</category>
+      <category>$156 Value</category>
+    </item>
+    <item>
+      <title>Hobbies and Games for Dummies by Wiley</title>
+      <author>Wiley</author>
+      <link>https://humblebundle.com//books/hobbies-and-games-for-dummies-wiley-books</link>
+      <guid isPermaLink="false">6e20e7b2b87d6fbd67b61655a78fa482344e75a9</guid>
+      <pubDate>Sat, 01 Feb 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Biking For Dummies&lt;/em&gt;, &lt;em&gt;Pickleball For Dummies&lt;/em&gt;, &lt;em&gt;Skateboarding For Dummies&lt;/em&gt;, &lt;em&gt;Manga For Dummies, 2nd Edition&lt;/em&gt;, &lt;em&gt;Welding For Dummies, 2nd Edition&lt;/em&gt;, &lt;em&gt;Woodworking For Dummies, 2nd Edition&lt;/em&gt;, and more!&lt;br&gt;Have you ever wanted to pick up a new hobby? Learn how to play sports and create using your hands with help from our latest For Dummies Bundle. The experts at Wiley can prepare you for anything with ebooks like &lt;em&gt;Manga For Dummies&lt;/em&gt;, &lt;em&gt;Pickleball For Dummies&lt;/em&gt;, &lt;em&gt;Welding For Dummies&lt;/em&gt;, and much more. Impress your friends and stay active alongside them today with our Hobbies and Games for Dummies bundle. Plus, your purchase helps support Safe In Our World. </description>
+      <media:content url="https://hb.imgix.net/144b29aada00ab34cb0cf840cd9463996db705e9.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=39ae9fa5ddea004482a30530dd9320a3" type="image/png"/>
+      <media:content url="https://hb.imgix.net/d698d22d43613b25101b19ded9f4cf14a00c5974.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=c349f122948ec2f7806a37e554be7446" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Book Bundle</category>
+      <category>20 books</category>
+      <category>$495 Value</category>
+    </item>
+    <item>
+      <title>Sports Trailblazers: Legends Who Changed the Game</title>
+      <author>Skyhorse Publishing</author>
+      <link>https://humblebundle.com//books/sports-trailblazers-legends-who-changed-game-books</link>
+      <guid isPermaLink="false">4f705ba6322696c2f1c09d6d4467c5446f475641</guid>
+      <pubDate>Thu, 16 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Tomlin: The Soul Of A Football Coach&lt;/em&gt;, &lt;em&gt;Slobberknocker: My Life In Wrestling&lt;/em&gt;, &lt;em&gt;Baseball Gaijin: Chasing A Dream To Japan And Back&lt;/em&gt;, &lt;em&gt;Champions Of The Octagon: One-On-One With MMA And UFC Greats&lt;/em&gt;, and more!&lt;br&gt;Get a collection of amazing sports tales with our latest book bundle in partnership with Sports Publishing. Read the untold stories of sports greatest giants at highest, lowest, and most shocking. Gripping titles like &lt;em&gt;Banned: How I Squandered An All-Star NBA Career Before Finding My Redemption&lt;/em&gt;, &lt;em&gt;Champions Of The Octagon: One-On-One With MMA And UFC Greats&lt;/em&gt;, and &lt;em&gt;Tomlin: The Soul Of A Football Coach&lt;/em&gt;. Help support the BINC Foundation and get great books too!</description>
+      <media:content url="https://hb.imgix.net/35b3d81be7d027c5588a35e8c8b1d935ee0ff5c1.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=ddfb5ac85f0d1d2791fef8b62c5c77a2" type="image/png"/>
+      <media:content url="https://hb.imgix.net/04d12a5cc12c9cdcc2b3fe398fb256615d7ea3b5.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=4322ab67f74fa5a1a0edf701cb045467" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Book Bundle</category>
+      <category>25 books</category>
+      <category>$378 Value</category>
+    </item>
+    <item>
+      <title>Masters at Work Career Guides by Simon &amp; Schuster</title>
+      <author>Simon &amp; Schuster</author>
+      <link>https://humblebundle.com//books/masters-at-work-career-guides-simon-schuster-books</link>
+      <guid isPermaLink="false">27d514e1c55892f4ed955b11af11a5ae886f16b4</guid>
+      <pubDate>Thu, 23 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Becoming a Nurse&lt;/em&gt;, &lt;em&gt;Becoming a Film Producer&lt;/em&gt;, &lt;em&gt;Becoming an Ethical Hacker&lt;/em&gt;, &lt;em&gt;Becoming a Venture Capitalist&lt;/em&gt;, &lt;em&gt;Becoming a Video Game Designer&lt;/em&gt;, &lt;em&gt;Becoming a Crime Scene Investigator&lt;/em&gt;, and more!&lt;br&gt;Unlock your potential and learn the skills and knowledge you need to succeed in a variety of desirable industries. Our Masters at Work Career Guide Bundle by Simon &amp; Schuster contains 25+ ebooks that can help transform your professional pursuits with outstanding books including &lt;em&gt;Becoming a Video Game Designer&lt;/em&gt;, &lt;em&gt;Becoming an Ethical Hacker&lt;/em&gt;, &lt;em&gt;Becoming a Crime Scene Investigator&lt;/em&gt;, and more! Begin your new career journey today and help support Worldreader with your purchase.</description>
+      <media:content url="https://hb.imgix.net/34651eda9a85e036a812372a953f03ea53df5644.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=ffb0fb561be21116c9ad5fb8e696ed8d" type="image/png"/>
+      <media:content url="https://hb.imgix.net/3b560679067c0168db8bc1d450456ec1f7297714.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=989c4281235964dcc886560d721106fe" type="image/jpeg"/>
+      <category>books</category>
+      <category>Humble Book Bundle</category>
+      <category>28 books</category>
+      <category>$301 Value</category>
+    </item>
+    <item>
+      <title>Destiny 2: The Story So Far 2025</title>
+      <author>Bungie</author>
+      <link>https://humblebundle.com//games/destiny-2-story-so-far-2025</link>
+      <guid isPermaLink="false">9ac591affb742420419c2fb4f3398cfde31f47de</guid>
+      <pubDate>Tue, 04 Feb 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Destiny 2: Lightfall&lt;/em&gt;, &lt;em&gt;Destiny 2: Forsaken Pack&lt;/em&gt;, &lt;em&gt;Destiny 2: Shadowkeep Pack&lt;/em&gt;, and more!&lt;br&gt;The Destiny 2 Story So Far 2025 Bundle gives you access to the Light &amp; Darkness Saga. Purchase the right tier for you to complete the chapters you may have missed, or live the adventure to its thrilling end! &lt;br&gt;&lt;br&gt;&lt;a style="color: #ef9741;" data-darkreader-inline-color=""&gt;&lt;strong&gt;*Customers must download the free edition of Destiny 2 on Steam in order to redeem the keys for expansion content.&lt;/strong&gt;&lt;/a&gt;</description>
+      <media:content url="https://hb.imgix.net/f87a582b2cc406d3283bca34f0472e2514de9512.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=6e02ee3125e50824b7f0fac46f2d4358" type="image/png"/>
+      <media:content url="https://hb.imgix.net/7cc76739227359d8532836ec3771ad1e6285cef7.jpg?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=afb5118182d69766b76f26db5ef6a614" type="image/jpeg"/>
+      <category>games</category>
+      <category>Destiny 2</category>
+      <category>8 games</category>
+      <category>$294 Value</category>
+    </item>
+    <item>
+      <title>The Complete Concept Art Training Bundle</title>
+      <author>Learn Squared</author>
+      <link>https://humblebundle.com//software/the-complete-concept-art-training-bundle-software</link>
+      <guid isPermaLink="false">50a36e2590d264717b8fbae9b6f4dc87de25195d</guid>
+      <pubDate>Mon, 20 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get 3D Character Art, Armada Concept Art, Grounded Costume Design, Environment Concept Art, Concept Art for Video Games, Concept Art in Unreal Engine 5, and more!&lt;br&gt;Reach new heights in concept art and more with our latest bundle from the experts at Learn Squared. This bundle is perfect for artists starting their journey and experienced creatives alike—learn essential skills and workflows, and advanced training. Bring 3D sequence illustrations to life using master tools like ZBrush and Photoshop. Standout courses include &lt;em&gt;Concept Art for Video Games&lt;/em&gt;, &lt;em&gt;Concept Art in Unreal Engine 5&lt;/em&gt;. That’s right—learn to develop original art in the uber popular game engine Unreal Engine 5! Don’t wait, get this curated collection of courses and help support Girls Who Code with your purchase. </description>
+      <media:content url="https://hb.imgix.net/ddec8694db2bd7e2be82586bacd0de58e364301d.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=afc45c80c354c643d6a6cd8f0a798892" type="image/png"/>
+      <media:content url="https://hb.imgix.net/21ce71dbf7b40f7f28736f27380bc40c4d016912.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=495489aca81295036eda7d3d4d0671dc" type="image/png"/>
+      <category>software</category>
+      <category>The Complete Concept Art Training Bundle</category>
+      <category>27 items</category>
+      <category>$2,843 Value</category>
+    </item>
+    <item>
+      <title>The Complete Godot 2025 Course Bundle</title>
+      <author>Zenva Pty Ltd</author>
+      <link>https://humblebundle.com//software/complete-godot-2025-course-bundle-software</link>
+      <guid isPermaLink="false">d7401c48625a861fb391ccbe71ee1f805dd88d8a</guid>
+      <pubDate>Mon, 27 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get Godot 4 Mini-Projects, Make a Metroidvania in Godot 4, Create a Horror Game in Godot 4, and more!&lt;br&gt;Learning everything there is to know about Godot is simple with this comprehensive bundle. Perfect for beginners and experienced developers alike, it covers foundational concepts, programming patterns, shaders, and mechanics like crafting shops and state machines. Create diverse games, such as roguelikes, Metroidvanias, and tower defense games, using the latest Godot 4 features. Build engaging experiences with multiplayer functionality, procedural generation, and fully-fledged game systems, including civilization-style mechanics. Explore mobile game development, narrative-driven walking simulators, and visually striking projects with custom plugins and advanced optimization techniques. Start your game development journey today while supporting educational charities!</description>
+      <media:content url="https://hb.imgix.net/13cb4c16b299bedc6ecc584219ed5dc22e7d95aa.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=31355a0b38339e62e9216cc8995d5b21" type="image/png"/>
+      <media:content url="https://hb.imgix.net/55d3385bf7571003f4da9e37269561c05154eb5c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=7c9607af524c7113405223b61ed80b0c" type="image/png"/>
+      <category>software</category>
+      <category>The Complete Godot 2025 Course Bundle</category>
+      <category>24 items</category>
+      <category>$1,200 Value</category>
+    </item>
+    <item>
+      <title>Infinite Echoes: The Ultimate Game Sound and Music Bundle</title>
+      <author>Ovani Sound</author>
+      <link>https://humblebundle.com//software/infinite-echoes-ultimate-game-sound-and-music-bundle-software</link>
+      <guid isPermaLink="false">e1a8c8acfc78ba8990a3050020e8d94124cdc4c6</guid>
+      <pubDate>Mon, 03 Feb 2025 19:00:00 +0000</pubDate>
+      <description>Get Unity Music Plugin, Godot Music Plugin, Player Status Vol. 2, and more!&lt;br&gt;How your audience interacts with the sound design of your work is extremely important—add the best sounds possible to your vision with our latest bundle! Create the perfect audioscape for your game, film, or creative project with this mega bundle of 3000+ sounds from Ovani Sound! This massive library features &lt;em&gt;Dark Fantasy Music Pack Vol. 2&lt;/em&gt;, &lt;em&gt;Electricity Sound FX Pack&lt;/em&gt;, and more! Get the assets you need to achieve the sound you’re looking for, and help support the Children's Miracle Network with your purchase!</description>
+      <media:content url="https://hb.imgix.net/9aceeef87dd3d451524ce69e1d019c84fcaa9a7b.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=1f689186940905c83db8ecc533eaa3e9" type="image/png"/>
+      <media:content url="https://hb.imgix.net/e71ec7d3e613aeed70a2a59ff51d4ce683701515.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b203832c2bb845eb274e786eb3c96e89" type="image/png"/>
+      <category>software</category>
+      <category>Humble Software Bundle</category>
+      <category>34 items</category>
+      <category>$1,480 Value</category>
+    </item>
+    <item>
+      <title>The Complete Learn to Code Bundle 2025</title>
+      <author>Mammoth Interactive</author>
+      <link>https://humblebundle.com//software/complete-learn-to-code-bundle-2025-software</link>
+      <guid isPermaLink="false">df440d8a755102396936706849a277991381d4a8</guid>
+      <pubDate>Thu, 02 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get Comprehensive Python Foundations - A Beginner's Guide to Coding, Unity 6 Master Kit - Ready-to-Use Game Templates for Rapid Development (First-Time Exclusive Humble Bundle Release), and more!&lt;br&gt;Achieve your New Year's resolution and learn to code! This comprehensive curriculum will help you level up your skills with courses like Unreal Engine 5.5 Game Developer's Toolbox - Essential Templates and Assets, Godot 4 Game Creator's Pack - Essential Templates for Instant Game Development, and many more. Our collection of 40+ courses includes Humble Bundle-exclusive content available only to our community. Familiarize yourself with popular tools like Python and Unreal Engine, all while supporting Direct Relief with your purchase!  </description>
+      <media:content url="https://hb.imgix.net/6d126a9d20f0dd496bc9d644d8f378948183e5be.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=58faa3d222408327f5a869ca12089611" type="image/png"/>
+      <media:content url="https://hb.imgix.net/2b6b403cc0196dfea11661ee125bee887135cc10.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=15d5fcfd7882e319460f45048d1b423f" type="image/png"/>
+      <category>software</category>
+      <category>The Complete Learn to Code Bundle 2025</category>
+      <category>55 items</category>
+      <category>$2,500 Value</category>
+    </item>
+    <item>
+      <title>Elites: Creator's Superbundle 4000+ Assets</title>
+      <author>Publishers</author>
+      <link>https://humblebundle.com//software/elites-creators-superbundle-4000-assets-software</link>
+      <guid isPermaLink="false">5f11ca942c726e78cd4caa3cd450ff6856ed620a</guid>
+      <pubDate>Thu, 23 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get Food Scans, Anemoia Manor, Medieval Props Pack, and more!&lt;br&gt;&lt;iframe width="400" height="315" src="https://www.youtube.com/embed/3SnvUZZwpG4?si=xTRh3e5D0Z7OlSYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/br&gt;So many assets—it’s mind-bending! Game developers, build your worlds with this amazing bundle of 4,000+ assets! Crafted from the top Unreal Engine market sellers’ best-selling products, this high-quality collection features massive environments, prefabs, blueprints, tools, props, animations, SFX, and more for use in Unreal Engine, Unity, and beyond. Highlighted by the Gothic Interior Megapack and Pharaoh's Legacy: Egyptian Temple Megapack, this bundle has everything you need to bring your game to life. Plus, your purchase helps support Make-A-Wish America!</description>
+      <media:content url="https://hb.imgix.net/542ec9da03c78d887cb8b3f4f65ecaffa374b1fb.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=5f161a03e336c52b38dc983fa276833c" type="image/png"/>
+      <media:content url="https://hb.imgix.net/a6795b587dac673a0ece759e367d739fd5492572.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=42474791f66bdfe6ca824b57224b975b" type="image/png"/>
+      <category>software</category>
+      <category>Elites</category>
+      <category>26 items</category>
+      <category>$1,964 Value</category>
+    </item>
+    <item>
+      <title>Royalty Free Music, SFX &amp; More from GameDev Market 2025</title>
+      <author>GameDev Market</author>
+      <link>https://humblebundle.com//software/royalty-free-music-sfx-and-more-from-gamedev-market-2025-software</link>
+      <guid isPermaLink="false">6fcb20ce4f268bec705800dfdddcc88581630488</guid>
+      <pubDate>Mon, 06 Jan 2025 20:45:00 +0000</pubDate>
+      <description>Get Rain Loops, Game SFX Treasury, Casual Music Bundle, Game Music Treasury, Boss Battles &amp; Combat Music, Audimus Game Music Collection, Urban Destruction Demolition Debris &amp; Explosions, and more!&lt;br&gt;Create the perfect audioscape for your next game with this bundle of professional quality sounds from GameDev Market! This massive library features over 40 hours of audio tracks and more than 6000 individual sound effects to bring your game to life. Craft exhilarating boss battle music with the &lt;em&gt;Boss Battles &amp; Combat Music&lt;/em&gt;, excite players with addicting loot tunes with the &lt;em&gt;Game Music Treasury&lt;/em&gt;, and bring explosions and more to life with the &lt;em&gt;Urban Destruction Demolition Debris &amp; Explosions&lt;/em&gt;. Get the assets you need to achieve the sound you’re looking for, and help support Hilarity For Charity with your purchase!</description>
+      <media:content url="https://hb.imgix.net/1afebc35f4689ca1892c20ea4e1d94cded26d16c.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=384806203312494183e318279ffe200c" type="image/png"/>
+      <media:content url="https://hb.imgix.net/77cadb5991a51818393563a367b2614486c3f694.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=1f617b7459abca61f96cd695a2211777" type="image/png"/>
+      <category>software</category>
+      <category>Humble Software Bundle</category>
+      <category>40 items</category>
+      <category>$1,211 Value</category>
+    </item>
+    <item>
+      <title>AWS Cloud Engineer Accelerator: From Zero to Certified by Packt</title>
+      <author>Packt</author>
+      <link>https://humblebundle.com//software/aws-cloud-engineer-accelerator-from-zero-to-certified-packt-software</link>
+      <guid isPermaLink="false">3155561c8ced74203269f4e116d36499e615117f</guid>
+      <pubDate>Sat, 18 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get Mastering AWS CDK - Coding Cloud Architectures, AWS Certified Solutions Architect Associate (SAA-C03), AWS Cloud Development Kit - From Beginner to Professional, Mastering AWS SAM and Lambda - A Complete Hands-on Journey, and more!&lt;br&gt;Harnessing the power of cloud computing and storage continues to be an industry trend with real staying power—supercharge your career prospects and get the AWS Cloud Engineer Accelerator Bundle by Packt. Learn the skills and knowledge you need to succeed with professional quality courses like &lt;em&gt;Mastering AWS CDK - Coding Cloud Architectures&lt;/em&gt;, &lt;em&gt;Mastering AWS SAM and Lambda - A Complete Hands-on Journey&lt;/em&gt;, and more! Get the tools to succeed in cloud engineering and help support Alzheimer's UK! </description>
+      <media:content url="https://hb.imgix.net/b40c306fe67e008ea985009be10d579b386ecebf.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=47936c45310e60dab74f9bcbefd9a351" type="image/png"/>
+      <media:content url="https://hb.imgix.net/e6938c4287d170e17d8a4f35d2478b4c46455fba.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=fd408bb8d5e1b07e34dd25509d24a8bc" type="image/png"/>
+      <category>software</category>
+      <category>Humble Video Learning Bundle</category>
+      <category>18 items</category>
+      <category>$1,815 Value</category>
+    </item>
+    <item>
+      <title>Leadership and Project Management in the Software Development Workplace</title>
+      <author>Packt</author>
+      <link>https://humblebundle.com//software/leadership-and-project-management-in-software-development-workplace-software</link>
+      <guid isPermaLink="false">10741008fce6235abcd013ef2072c914909f98af</guid>
+      <pubDate>Thu, 30 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get &lt;em&gt;Risk Management for Cyber Security Managers&lt;/em&gt;, &lt;em&gt;The Complete Product Management Fundamentals Course&lt;/em&gt;, &lt;em&gt;The Complete Project Management Fundamentals Course&lt;/em&gt;, and more!&lt;br&gt;Level up your project management and leadership skills with this comprehensive bundle of courses by Packt. Track the progress of your team, learn cyber security best practices, and analyze valuable data quickly with courses like &lt;em&gt;The Complete Project Management Fundamentals Course&lt;/em&gt;, &lt;em&gt;Data Science, Analytics, &amp; AI for Business &amp; the Real World&lt;/em&gt;, &lt;em&gt;Risk Management for Cyber Security Managers&lt;/em&gt;, and more! Get the expert advice and knowledge you seek, and help support Alzheimer's Research UK with your purchase!</description>
+      <media:content url="https://hb.imgix.net/5ca32d37569a02c2abed769db6094f7078a49cfa.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=fe505b2cf740d161f64c46c5ba3b1a96" type="image/png"/>
+      <media:content url="https://hb.imgix.net/d4b04b563ab142518e7f3eb7f0fbe7b1a736a458.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=b03c3c4640a4a4f1665dfa23c0599211" type="image/png"/>
+      <category>software</category>
+      <category>Humble Video Learning Bundle</category>
+      <category>20 items</category>
+      <category>$1,964 Value</category>
+    </item>
+    <item>
+      <title>Pro-Level Photography with Anthropics</title>
+      <author>Richdale Ventures</author>
+      <link>https://humblebundle.com//software/pro-level-photography-with-anthropics-software</link>
+      <guid isPermaLink="false">670277a9c387aa047304fc47b0797849cf0f32fd</guid>
+      <pubDate>Thu, 16 Jan 2025 19:00:00 +0000</pubDate>
+      <description>Get PortraitPro, LandscapePro, PortraitPro Body, PortraitPro Studio, Smart Photo Editor, LandscapePro Studio, and more!&lt;br&gt;Get your cameras ready—it’s time to shoot some amazing photographs. Our latest bundle offers pro-level photography applications from the experts at Anthropics. This collection is perfect for seasoned professionals and novices looking to up their photography game. Focus on a variety of topics with stand-out classes like &lt;em&gt;PortraitPro&lt;/em&gt;, &lt;em&gt;LandscapePro&lt;/em&gt;, &lt;em&gt;LandscapePro Studio&lt;/em&gt;, and more. Take your hobby to the next level and support the Save The Children Fund with your purchase!</description>
+      <media:content url="https://hb.imgix.net/d1b5bfa3b901552d083fbd82fe83dd96dcb1f4b6.png?auto=compress,format&amp;h=340&amp;w=1200&amp;s=e3cd02518aed8e91669419db1261bb91" type="image/png"/>
+      <media:content url="https://hb.imgix.net/22a030479229147977a36b9ec08057fd87e8994c.png?auto=compress,format&amp;fit=crop&amp;h=600&amp;w=1200&amp;s=82f60cc1c65105cf85b55dafc82787a3" type="image/png"/>
+      <category>software</category>
+      <category>Humble Software Bundle</category>
+      <category>10 items</category>
+      <category>$729 Value</category>
+    </item>
+  </channel>
+</rss>

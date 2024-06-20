@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>CSS Selector Bridge</title>
+    <description>CSS Selector Bridge</description>
+    <link>https://jvgs.net</link>
+    <atom:link rel="alternate" type="text/html" href="https://jvgs.net"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://github.com/RSS-Bridge/rss-bridge/favicon.ico</url>
+      <title>CSS Selector Bridge</title>
+      <link>https://jvgs.net</link>
+    </image>
+    <item>
+      <title>Bridge returned error 0! (20124)</title>
+      <link>http://</link>
+      <guid isPermaLink="false">5e2e67036b89bfb60777f27a63df71f8e624792a</guid>
+      <pubDate>Wed, 05 Feb 2025 07:13:30 +0000</pubDate>
+      <description>
+&lt;div class="error"&gt;
+
+            
+        
+        
+        
+        
+        
+                    &lt;p&gt;
+                See
+                &lt;a href="https://curl.haxx.se/libcurl/c/libcurl-errors.html"&gt;
+                    https://curl.haxx.se/libcurl/c/libcurl-errors.html
+                &lt;/a&gt;
+                for description of the curl error code.
+            &lt;/p&gt;
+        
+    
+    &lt;h2&gt;Details&lt;/h2&gt;
+
+    &lt;div style="margin-bottom: 15px"&gt;
+        &lt;div class="error-type"&gt;
+            &lt;strong&gt;Type:&lt;/strong&gt; HttpException        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Code:&lt;/strong&gt; 0        &lt;/div&gt;
+
+        &lt;div class="error-message"&gt;
+            &lt;strong&gt;Message:&lt;/strong&gt; cURL error Operation timed out after 143 milliseconds with 0 bytes received: 28 (https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://jvgs.net        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;File:&lt;/strong&gt; lib/http.php        &lt;/div&gt;
+
+        &lt;div&gt;
+            &lt;strong&gt;Line:&lt;/strong&gt; 165        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;h2&gt;Trace&lt;/h2&gt;
+
+            &lt;code&gt;
+            #0 index.php(68): RssBridge-&amp;gt;main()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #1 lib/RssBridge.php(100): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #2 lib/RssBridge.php(98): CacheMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #3 middlewares/CacheMiddleware.php(44): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #4 lib/RssBridge.php(98): ExceptionMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #5 middlewares/ExceptionMiddleware.php(17): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #6 lib/RssBridge.php(98): SecurityMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #7 middlewares/SecurityMiddleware.php(19): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #8 lib/RssBridge.php(98): MaintenanceMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #9 middlewares/MaintenanceMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #10 lib/RssBridge.php(98): BasicAuthMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #11 middlewares/BasicAuthMiddleware.php(13): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #12 lib/RssBridge.php(98): TokenAuthenticationMiddleware-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #13 middlewares/TokenAuthenticationMiddleware.php(10): RssBridge-&amp;gt;{closure}()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #14 lib/RssBridge.php(95): DisplayAction-&amp;gt;__invoke()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #15 actions/DisplayAction.php(54): DisplayAction-&amp;gt;createResponse()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #16 actions/DisplayAction.php(89): CssSelectorBridge-&amp;gt;collectData()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #17 bridges/CssSelectorBridge.php(100): getSimpleHTMLDOM()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #18 lib/contents.php(163): getContents()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #19 lib/contents.php(91): CurlHttpClient-&amp;gt;request()        &lt;/code&gt;
+        &lt;br&gt;
+            &lt;code&gt;
+            #20 lib/http.php(165)        &lt;/code&gt;
+        &lt;br&gt;
+    
+    &lt;br&gt;
+
+    &lt;h2&gt;Context&lt;/h2&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Query:&lt;/strong&gt;     &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;Version:&lt;/strong&gt; 2025-01-26    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;OS:&lt;/strong&gt; Linux    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;strong&gt;PHP:&lt;/strong&gt; 8.3.6    &lt;/div&gt;
+
+    &lt;br&gt;
+
+    &lt;a href="/"&gt;Go back&lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues?q=is%3Aissue+is%3Aopen+CSS+Selector+Bridge" title="Opens GitHub to search for similar issues"&gt;
+    &lt;button&gt;Find similar bugs&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;a href="https://github.com/RSS-Bridge/rss-bridge/issues/new?title=CSS+Selector+Bridge+failed+with%3A+cURL+error+Operation+timed+out+after+143+milliseconds+with+0+bytes+received%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fjvgs.net&amp;body=%60%60%60%0AHttpException%3A+cURL+error+Operation+timed+out+after+143+milliseconds+with+0+bytes+received%3A+28+%28https%3A%2F%2Fcurl.haxx.se%2Flibcurl%2Fc%2Flibcurl-errors.html%29+for+https%3A%2F%2Fjvgs.net+in+lib%2Fhttp.php+line+165%0A%0Aindex.php%2868%29%3A+RssBridge-%3Emain%28%29%0Alib%2FRssBridge.php%28100%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2898%29%3A+CacheMiddleware-%3E__invoke%28%29%0Amiddlewares%2FCacheMiddleware.php%2844%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2898%29%3A+ExceptionMiddleware-%3E__invoke%28%29%0Amiddlewares%2FExceptionMiddleware.php%2817%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2898%29%3A+SecurityMiddleware-%3E__invoke%28%29%0Amiddlewares%2FSecurityMiddleware.php%2819%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2898%29%3A+MaintenanceMiddleware-%3E__invoke%28%29%0Amiddlewares%2FMaintenanceMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2898%29%3A+BasicAuthMiddleware-%3E__invoke%28%29%0Amiddlewares%2FBasicAuthMiddleware.php%2813%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2898%29%3A+TokenAuthenticationMiddleware-%3E__invoke%28%29%0Amiddlewares%2FTokenAuthenticationMiddleware.php%2810%29%3A+RssBridge-%3E%7Bclosure%7D%28%29%0Alib%2FRssBridge.php%2895%29%3A+DisplayAction-%3E__invoke%28%29%0Aactions%2FDisplayAction.php%2854%29%3A+DisplayAction-%3EcreateResponse%28%29%0Aactions%2FDisplayAction.php%2889%29%3A+CssSelectorBridge-%3EcollectData%28%29%0Abridges%2FCssSelectorBridge.php%28100%29%3A+getSimpleHTMLDOM%28%29%0Alib%2Fcontents.php%28163%29%3A+getContents%28%29%0Alib%2Fcontents.php%2891%29%3A+CurlHttpClient-%3Erequest%28%29%0Alib%2Fhttp.php%28165%29%0A%0AQuery+string%3A+%0AVersion%3A+2025-01-26%0AOs%3A+Linux%0APHP+version%3A+8.3.6%0A%60%60%60%0AMaintainer%3A+%40ORelio&amp;labels=Bridge-Broken&amp;assignee=O" title="After clicking this button you can review the issue before submitting it"&gt;
+    &lt;button&gt;Create GitHub Issue&lt;/button&gt;
+&lt;/a&gt;
+
+&lt;p class="maintainer"&gt;
+    ORelio&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
