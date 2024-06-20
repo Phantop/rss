@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Firestone – Idle Clicker Online RPG</title>
+      <author>AM Holyday Studios Ltd</author>
+      <link>https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Your heroes never stop fighting. Build an unstoppable team in a fantasy idle RPG with AFK progression and offline rewards. Collect heroes and powerful gear, master formations, defeat epic bosses, and return to bigger rewards and endless incremental growth.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1u3la.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-eeed4.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-13vp9.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1mo5i.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-10yvj.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-suhxf.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-vjscu.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-12yw9.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-l9uob.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-5u2uh.png#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-14n7c.png#.image" type="image/*"/>
+    </item>
+    <item>
+      <title>Bread and Fred</title>
+      <author>Atari</author>
+      <link>https://store.epicgames.com/en-US/p/bread-and-fred-1db362</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/bread-and-fred-1db362</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-pr4o2.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-2iqd8.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-1ebrw.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-afbf0.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-1nw27.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-d6d69.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-thiq7.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-11yjz.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-5fyzc.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-8arbt.jpg#.image" type="image/*"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-1kqx5.jpg#.image" type="image/*"/>
+    </item>
+  </channel>
+</rss>
