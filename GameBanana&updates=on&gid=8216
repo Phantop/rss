@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: The Wind Waker HD</title>
+    <description>GameBanana - The Legend of Zelda: The Wind Waker HD</description>
+    <link>https://gamebanana.com/games/8216</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/8216"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: The Wind Waker HD</title>
+      <link>https://gamebanana.com/games/8216</link>
+    </image>
+    <item>
+      <title>Xbox Controller Buttons</title>
+      <author>jeicy03</author>
+      <link>https://gamebanana.com/mods/543444</link>
+      <comments>https://gamebanana.com/mods/543444#PostsListModule</comments>
+      <guid isPermaLink="false">13438d6f4fe02a4577ac1afdbd910c37556a67f4</guid>
+      <pubDate>Sat, 21 Sep 2024 04:54:21 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee5148ccb57.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee514e8bac4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee514eb6724.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee514ed7ce0.jpg"/&gt;&lt;br&gt;&lt;div class="SelectedElement"&gt;This mod replace the Wii U buttons with the Xbox buttons.&lt;/div&gt;Works with EU (EN, DE, FR, IT, ES) and US (EN, FR, ES) versions of the game.&lt;br&gt;&lt;br&gt;The buttons are:&lt;br&gt;A =&gt; B&lt;br&gt;B =&gt; A&lt;br&gt;X =&gt; Y&lt;br&gt;Y =&gt; X&lt;br&gt;ZR =&gt; RT&lt;br&gt;ZL =&gt; LT&lt;br&gt;&lt;br&gt;Instructions:&lt;br&gt;1. Extract the archive and paste contet into folder \cemu\graphicspack&lt;br&gt;2. Run Cemu and enabled in the Graphic Packs menu&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/windwakerhd_xbox_ui.zip" type="application/zip"/>
+      <category>User Interface</category>
+      <category>User Interface</category>
+    </item>
+    <item>
+      <title>Playstation Controller Buttons</title>
+      <author>jeicy03</author>
+      <link>https://gamebanana.com/mods/543403</link>
+      <comments>https://gamebanana.com/mods/543403#PostsListModule</comments>
+      <guid isPermaLink="false">c7637db1baf7dcae7dd45cf719043627a7f0d988</guid>
+      <pubDate>Sat, 21 Sep 2024 01:11:02 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee1cd908c17.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee1cd97dfde.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ee1cd9ae856.jpg"/&gt;&lt;br&gt;This mod replace the Wii U buttons with the Playstation buttons.&lt;br&gt;Works with EU (EN, DE, FR, IT, ES) and US (EN, FR, ES) versions of the game.&lt;br&gt;&lt;br&gt;The buttons are:&lt;br&gt;A =&gt; O&lt;br&gt;&lt;div class="SelectedElement"&gt;B =&gt; X&lt;/div&gt;X =&gt; △&lt;br&gt;Y =&gt; ◻&lt;br&gt;ZR =&gt; R2&lt;br&gt;ZL =&gt; L2&lt;br&gt;&lt;br&gt;Instructions:&lt;br&gt;1. Extract the archive and paste contet into folder \cemu\graphicspack&lt;br&gt;2. Run Cemu and enabled in the Graphic Packs menu&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/windwakerhd_ps_ui_8f477.zip" type="application/zip"/>
+      <category>User Interface</category>
+      <category>User Interface</category>
+    </item>
+    <item>
+      <title>red tunic wiyh grand ma taker</title>
+      <author>fadyzeldink</author>
+      <link>https://gamebanana.com/mods/540134</link>
+      <comments>https://gamebanana.com/mods/540134#PostsListModule</comments>
+      <guid isPermaLink="false">bc6c659849645865142c9cc20ea0cf4880e0b84d</guid>
+      <pubDate>Wed, 04 Sep 2024 19:07:36 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66d8af60728b7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d8af6752d53.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d8af6d977ec.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d8af756fa45.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d8af7b37698.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d8af844ed65.jpg"/&gt;&lt;br&gt;red tunic&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/red_tunic_a3d87.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>blue tunic wiyh grand ma taker</title>
+      <author>fadyzeldink</author>
+      <link>https://gamebanana.com/mods/540108</link>
+      <comments>https://gamebanana.com/mods/540108#PostsListModule</comments>
+      <guid isPermaLink="false">700fa3e20dc4de5d21f206c1dd615f28b4dd8705</guid>
+      <pubDate>Wed, 04 Sep 2024 17:18:00 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66d895d0176f5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d895d6297c9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d895da7cb58.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d895e07315c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d895e49c400.jpg"/&gt;&lt;br&gt;&lt;font&gt;&lt;font&gt;تغيير اللون الى ازرق عندما تاخذه من الجدة وفي اللعبة &lt;/font&gt;&lt;/font&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/blue_tunic_e50c6.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Classic purple Toon Link</title>
+      <author>Frasko</author>
+      <link>https://gamebanana.com/mods/540051</link>
+      <comments>https://gamebanana.com/mods/540051#PostsListModule</comments>
+      <guid isPermaLink="false">bd82a2509054d169c269b0ce8acfb974d77f89d1</guid>
+      <pubDate>Wed, 04 Sep 2024 12:09:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66d84dbdcc7b9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d84dbdab785.jpg"/&gt;&lt;br&gt;Classic purple Link's tunic from four swords/DS minigames..?? Enjoy! :3</description>
+      <media:content url="https://files.gamebanana.com/mods/purple_tunic.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Classic red Toon Link</title>
+      <author>Frasko</author>
+      <link>https://gamebanana.com/mods/540050</link>
+      <comments>https://gamebanana.com/mods/540050#PostsListModule</comments>
+      <guid isPermaLink="false">8c3f7a5f4e330a982b83024242a97933f74a04ac</guid>
+      <pubDate>Wed, 04 Sep 2024 12:05:44 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66d84c7bbd1a4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d84c7ba44bf.jpg"/&gt;&lt;br&gt;Classic red Link's tunic from four swords/triforce/DS minigames..?? Enjoy!</description>
+      <media:content url="https://files.gamebanana.com/mods/red_tunic_6012e.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Dark Purple Tunic</title>
+      <author>Recko</author>
+      <link>https://gamebanana.com/mods/539774</link>
+      <comments>https://gamebanana.com/mods/539774#PostsListModule</comments>
+      <guid isPermaLink="false">65eb7612d7aede1494d6add6b2495492b50470d1</guid>
+      <pubDate>Tue, 03 Sep 2024 00:25:29 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66d65461e415a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d6546269e91.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d654627a766.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d654637b1d3.jpg"/&gt;&lt;br&gt;(INTENDED FOR CEMU)&lt;br&gt;&lt;br&gt;Retextures the tunic to be dark purple and replaces the hero's charm 3d model with majora's mask from MM3D.</description>
+      <media:content url="https://files.gamebanana.com/mods/dark_purple_tunic.zip" type="application/zip"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Toon Imp Midna in Wind Waker HD</title>
+      <author>OniFox</author>
+      <link>https://gamebanana.com/mods/531825</link>
+      <comments>https://gamebanana.com/mods/531825#PostsListModule</comments>
+      <guid isPermaLink="false">1d02adf0bb1a86e0a16a5011db3b8af7c0992093</guid>
+      <pubDate>Sun, 01 Sep 2024 09:11:04 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bc8c74d70.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd171cb39.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17b19ae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1795664.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17b3b60.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd16e3634.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6be508af2e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17317d1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17c750d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17890af.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1790693.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd171286c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66a9263292d2a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66a926400a57b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd16ea11b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1708116.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd170e770.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6be5083e89.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1718863.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd171020e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd167cac4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1659b55.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd173a395.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17a2875.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17a79a2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd170c866.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd17a3070.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd16e4c2e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1668a97.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bd1728e08.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c6bf99a69f1.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Version 1.2 Update! VOICEPACK ADDED!&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Added a Voicepack, which replaces Link's voice with Imp Midna's from Twilight Princess&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;b&gt;Toon Imp Midna Playermodel Mod for The Legend of Zelda: The Wind Waker HD!&lt;/b&gt;&lt;br&gt;&lt;br&gt;This mod replaces the default Link Playermodel with a custom Imp Midna model! It also replaces the&amp;nbsp;&lt;span class="SelectedElement"&gt;Hero's Charm model and icon with the Ordon Shield, The Hero's Clothes model with the Fused Shadow,&lt;/span&gt;&amp;nbsp;the Link icon on the Map with Midna's face, and includes a Voicepack to replace Link's voice with Midna!&lt;br&gt;&lt;br&gt;This is the first mod I've made for Wind Waker in general, and I opted for HD due to the lack of custom playermodels for it. I will be making an SD version of this mod in the future however, as I don't want to leave any players Midna-less!&lt;br&gt;&lt;br&gt;Future updates may come with this mod, such as changing the dialogue and story to work with Midna's presence, and maybe some other model replacements!&lt;br&gt;&lt;br&gt;Please let me know if you encounter any bugs with the mod! Follow the provided 'README (Install Guide).txt' to make sure you install this mod properly!</description>
+      <media:content url="https://files.gamebanana.com/mods/toon_imp_midna_wwhd_version_12.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/toon_imp_midna_wwhd_version_11.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/toon_imp_midna_wwhd.zip" type="application/zip"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>golden item/ادوات ذهبية</title>
+      <author>fadyzeldink</author>
+      <link>https://gamebanana.com/mods/538274</link>
+      <comments>https://gamebanana.com/mods/538274#PostsListModule</comments>
+      <guid isPermaLink="false">8c1e7e957dc34b05c95638586d8ed7df84e51cd2</guid>
+      <pubDate>Tue, 27 Aug 2024 09:56:44 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66cda0c9cccaa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cda18753a2d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cda1e78fe3a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cda2396ae1d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66cda2600c997.jpg"/&gt;&lt;br&gt;this mod change color item to gold with link pijama&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/golden_item.rar" type="application/vnd.rar"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>red bomorang/بومورانغ احمر</title>
+      <author>fadyzeldink</author>
+      <link>https://gamebanana.com/mods/538142</link>
+      <comments>https://gamebanana.com/mods/538142#PostsListModule</comments>
+      <guid isPermaLink="false">d44abb9c18a3081dedf1ea58010b5a9bf1cd625e</guid>
+      <pubDate>Mon, 26 Aug 2024 17:14:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66ccb695c018b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66ccb789c39e5.jpg"/&gt;&lt;br&gt;from yellow to red bomorang</description>
+      <media:content url="https://files.gamebanana.com/mods/red_bomorang.rar" type="application/vnd.rar"/>
+      <category>Skins</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Miles "Tails" Prower</title>
+      <author>XModxGodX</author>
+      <link>https://gamebanana.com/mods/519199</link>
+      <comments>https://gamebanana.com/mods/519199#PostsListModule</comments>
+      <guid isPermaLink="false">6e7c2a8a2820aa942691d520c4ecbf91755c161c</guid>
+      <pubDate>Mon, 26 Aug 2024 04:44:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66a30997bff76.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66a309a49780f.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Fixed a few more things that bugged me&lt;br&gt;&lt;em&gt;Overhaul&lt;/em&gt;: Upscaled his textures much better&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed only his shoes showing up when sneaking in a barrel/being chewed on by a boko baba&lt;br&gt;&lt;em&gt;Tweak&lt;/em&gt;: fixed a small off-colored seam around his waist&lt;br&gt;&lt;em&gt;Tweak&lt;/em&gt;: Fixed certain animations showing a hole behind his arm sockets&lt;br&gt;&lt;hr&gt;&lt;br&gt;Tails over Link. &lt;br&gt;Has the the sword and shield removed from the back since they look super out of place otherwise.</description>
+      <media:content url="https://files.gamebanana.com/mods/tails_wwhd_82e80.zip" type="application/zip"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Chito</title>
+      <author>Durian8</author>
+      <link>https://gamebanana.com/mods/533258</link>
+      <comments>https://gamebanana.com/mods/533258#PostsListModule</comments>
+      <guid isPermaLink="false">6659e9184fbae08ab7eb1ca946c24a726feb54f1</guid>
+      <pubDate>Mon, 05 Aug 2024 12:12:58 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66b0c19267636.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b0c1975d941.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b0c19832c81.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66b0c1a3be3a7.jpg"/&gt;&lt;br&gt;Chito and unlike Yuuri she has both hands and textures.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/chito.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Goku: WindWaker HD</title>
+      <author>Durian8</author>
+      <link>https://gamebanana.com/mods/532897</link>
+      <comments>https://gamebanana.com/mods/532897#PostsListModule</comments>
+      <guid isPermaLink="false">7fb4c002a3e29d52b4188c066dfb7870ce6269f9</guid>
+      <pubDate>Sat, 03 Aug 2024 23:54:06 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec274d15a0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec29879a1a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec298452af.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec29898673.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec29898983.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec29897d26.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66aec298bfc08.jpg"/&gt;&lt;br&gt;A Son Goku like model based on the Dragon Ball GT design. Hope to replace the sword with power poll in the future, along some other stuff.&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/goku_wwhd.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Yuuri Mod: Wind Waker HD</title>
+      <author>Durian8</author>
+      <link>https://gamebanana.com/mods/531396</link>
+      <comments>https://gamebanana.com/mods/531396#PostsListModule</comments>
+      <guid isPermaLink="false">3c5859001649e74a22f0caba7397bb0736d41013</guid>
+      <pubDate>Sun, 28 Jul 2024 20:07:12 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66a6a405b7329.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66a6a4062e54c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66a6a40638fae.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66a6a40641514.jpg"/&gt;&lt;br&gt;yuuri from Girls Last Tour as link. very poor quality, needs tunic and idk why the hands are missing&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/link_32867.rar" type="application/vnd.rar"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>The Legend of Zelda: The Oven Baker (Yummy!)</title>
+      <author>Craepion2211</author>
+      <link>https://gamebanana.com/mods/513109</link>
+      <comments>https://gamebanana.com/mods/513109#PostsListModule</comments>
+      <guid isPermaLink="false">4a4d7d6a9f69129ad86fb0dcf333e40bbd9e4c5e</guid>
+      <pubDate>Thu, 18 Jul 2024 23:16:04 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6699a166ed92e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66404b1be936f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66404b6d2f82a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/664575ca780bd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/664ea43c579da.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66457515870ec.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6646c0e48f026.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/667c458b5c799.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Rename + A lot more textures&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: i cant really list what i added at this point cause i have a bad memory&lt;br&gt;&lt;hr&gt;&lt;br&gt;(IMPORTANT: There's a lot of spots where the game crashes and you have to disable the mod to progress. Make sure you always save your game and let me know if you can offer help with these bugs.)&lt;br&gt;A mod that replaces random stuff in wind waker. This mod was originally "Random WWHD Texture Edits" but that name was too dumb so I renamed it.&lt;br&gt;The list of stuff I changed is too long for me to recall but credits to Siivagunner for the save select music.</description>
+      <media:content url="https://files.gamebanana.com/mods/ovenbaker.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Twilight Princess Gale Boomerang</title>
+      <author>Craepion2211</author>
+      <link>https://gamebanana.com/mods/525139</link>
+      <comments>https://gamebanana.com/mods/525139#PostsListModule</comments>
+      <guid isPermaLink="false">11763b33c59a33e2ff506835173b18eef75d1e0e</guid>
+      <pubDate>Mon, 01 Jul 2024 17:56:54 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6682f1ea39606.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6682f20b82197.jpg"/&gt;&lt;br&gt;Basically replaces the Boomerang model with the Gale Boomerang model from Twilight Princess.&lt;br&gt;I got the model from &lt;a href="https://www.models-resource.com/gamecube/zeldatwilightprincess/model/44452/"&gt;The Models Resource&lt;/a&gt; so shoutout to them.</description>
+      <media:content url="https://files.gamebanana.com/mods/galeboomerang_2275c.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Blue Tunic</title>
+      <author>rs9f</author>
+      <link>https://gamebanana.com/mods/523301</link>
+      <comments>https://gamebanana.com/mods/523301#PostsListModule</comments>
+      <guid isPermaLink="false">aee474b27ad874d1667cdcd5cacd22430981b3fa</guid>
+      <pubDate>Sun, 23 Jun 2024 00:55:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6677725dd36b1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6677725dd78cd.jpg"/&gt;&lt;br&gt;A small mod I made that gives Link a blue tunic</description>
+      <media:content url="https://files.gamebanana.com/mods/blue_tunic_427bb.zip" type="application/zip"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Peter Griffin</title>
+      <author>Bry_Dawg02</author>
+      <link>https://gamebanana.com/mods/522893</link>
+      <comments>https://gamebanana.com/mods/522893#PostsListModule</comments>
+      <guid isPermaLink="false">1e83dad8f8a49610e1827cbae3b22159f42414fa</guid>
+      <pubDate>Fri, 21 Jun 2024 01:32:04 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6674d713141c0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6674d7310698e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6674d730ae830.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6674d730df5f0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6674d7312ed55.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6674d73137804.jpg"/&gt;&lt;br&gt;My first model import for Wind Waker HD!&lt;br&gt;&lt;span class="GreenColor"&gt;&lt;br&gt;Instructions:&lt;br&gt;1. Unpack the zip file&lt;br&gt;2. Place "Wind Waker HD - Peter Griffin Moblin" folder in your cemu&gt;graphicPacks folder&lt;span class="GreenColor"&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="GreenColor"&gt;3. Boot Cemu, and open the Graphics Pack tab for either Wind Waker or the Randomizer&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class="RedColor SelectedElement"&gt;Instructions for injecting SZS file to permanent_3d.pack for Rando Skins, Linkle, etc.:&lt;br&gt;1. Unpack SZS zip&lt;br&gt;2. find the permanent_3d.pack in your desired mod and open it with &lt;a href="https://github.com/KillzXGaming/Switch-Toolbox"&gt;Switch Toolbox&lt;/a&gt;&lt;br&gt;"content\Common\Pack"&lt;br&gt;3. Replace "Mo2.szs" with the one from the zIp folder by right clicking the file and clicking &lt;br&gt;"Replace Raw Data"&lt;br&gt;&lt;/span&gt;&lt;span class="RedColor"&gt;4. Save!&lt;/span&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/peter_griffin_moblin_graphicspack_.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/peter_griffin_moblin_blue_only_graphicspack_.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/peter_griffin_szs_file.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/peter_griffin_blue_only_szs_file.zip" type="application/zip"/>
+      <category>Enemies</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Blue Telescope</title>
+      <author>Seal Enthusiast</author>
+      <link>https://gamebanana.com/mods/522528</link>
+      <comments>https://gamebanana.com/mods/522528#PostsListModule</comments>
+      <guid isPermaLink="false">e3f657617b5a2d57537bef3328a6d742495028fc</guid>
+      <pubDate>Wed, 19 Jun 2024 04:20:52 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66725ab43c3cf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66725ac06f855.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66725ac09ccbe.jpg"/&gt;&lt;br&gt;A mod for the Legend of Zelda: The Wind Waker HD that makes the Telescope blue, It is the first mod for WWHD to support the WWHD randomizer by design.</description>
+      <media:content url="https://files.gamebanana.com/mods/bluetelescope.7z" type="application/x-7z-compressed"/>
+      <category>Other/Misc</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Ultra Double Supa Ray Tracing RTX 4K Link</title>
+      <author>isaacthegroot</author>
+      <link>https://gamebanana.com/mods/513959</link>
+      <comments>https://gamebanana.com/mods/513959#PostsListModule</comments>
+      <guid isPermaLink="false">b2e1e6118a2a76ce7b30e507f4a8238c57d92c24</guid>
+      <pubDate>Thu, 16 May 2024 22:47:10 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66468ce8d76cd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66468ce8d81f3.jpg"/&gt;&lt;br&gt;&lt;a href="file:///D:/cemu/cemu_1.26.2/screenshots/Screenshot_2024-05-16_16-15-40.png"&gt;this link is a screenshot of it&lt;/a&gt;&lt;img src="https://images.gamebanana.com/static/img/mascots/detective.png" data-error-src="file:///D:/cemu/cemu_1.26.2/screenshots/Screenshot_2024-05-16_16-15-40.png" class="ImgError SelectedElement" title="Image Not Found"&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ezyzip_7189e.zip" type="application/zip"/>
+      <category>Link</category>
+      <category>Skins</category>
+    </item>
+  </channel>
+</rss>
