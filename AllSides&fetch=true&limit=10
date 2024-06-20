@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>AllSides - Headline Roundups</title>
+    <description>AllSides - Headline Roundups</description>
+    <link>https://www.allsides.com/headline-roundups</link>
+    <atom:link rel="alternate" type="text/html" href="https://www.allsides.com/headline-roundups"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://www.allsides.com/favicon.ico</url>
+      <title>AllSides - Headline Roundups</title>
+      <link>https://www.allsides.com/headline-roundups</link>
+    </image>
+  </channel>
+</rss>

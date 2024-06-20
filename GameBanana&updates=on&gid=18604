@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - Super Mario Bros. Wonder</title>
+    <description>GameBanana - Super Mario Bros. Wonder</description>
+    <link>https://gamebanana.com/games/18604</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/18604"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - Super Mario Bros. Wonder</title>
+      <link>https://gamebanana.com/games/18604</link>
+    </image>
+    <item>
+      <title>Pit of 100 Wonders</title>
+      <author>Getlucky12341</author>
+      <link>https://gamebanana.com/mods/643643</link>
+      <comments>https://gamebanana.com/mods/643643#PostsListModule</comments>
+      <guid isPermaLink="false">4e1a63c95898ef9aa9ced23796d78e6fcbb6328e</guid>
+      <pubDate>Fri, 02 Jan 2026 17:55:26 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6958029a7c620.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6958029a7e20d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6958029a7b68c.jpg"/&gt;&lt;br&gt;This mod adds the Pit of 100 Trials from Super Paper Mario into Super Mario Bros. Wonder.&lt;br&gt;&lt;br&gt;Play on a new save file, due to object limits the Pit of 100 Trials has to be split into 5 levels, Floor 100 is at the spot the Wiggler Race used to be.&lt;br&gt;&lt;br&gt;There are a few "Extra Floors" on the world map, these are completely optional and can be ignored, the gimmick with those is that each time you load the stage the enemies get randomized.&lt;br&gt;&lt;br&gt;Counting all the Extra Floors, there are 13 Wonder Seeds in total, and 9 Purple 10-Coins.</description>
+      <media:content url="https://files.gamebanana.com/mods/pit_of_100_wonders_by_getlucky.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Custom Level - A Curse in the Sinking Temple ?</title>
+      <author>belgenerveux</author>
+      <link>https://gamebanana.com/mods/642301</link>
+      <comments>https://gamebanana.com/mods/642301#PostsListModule</comments>
+      <guid isPermaLink="false">02e48e3e0510741e791e21707c7eb45984e070dc</guid>
+      <pubDate>Sun, 28 Dec 2025 16:03:00 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/69505cb5430aa.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69505cb16c324.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69505cb591d9d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/69505c7d0db76.jpg"/&gt;&lt;br&gt;A Mario Wonder custom level, replacing the level 42 of the game : Secrets of the Shova Mansion.&lt;br&gt;&lt;br&gt;It contains a combination of push/pull mechanics, a custom background, as well as narrative experimentation centered on a mischievous genie locked in a temple.&lt;br&gt;&lt;br&gt;See more of my work at : https://maxime-lampin.xyz/&lt;br&gt;&lt;br&gt;&lt;b&gt;Installation instructions&lt;/b&gt;&lt;br&gt;&lt;br&gt;!! - The mod also contains modifications on other levels, such as level 1 (&lt;a href="https://gamebanana.com/mods/619806"&gt;which is Sunburn in the Flooded Ruins&lt;/a&gt;) - !!&lt;ul&gt;&lt;li&gt; Extract the romfs folder to your atmosphere\contents\010015100b514000\ folder&lt;/li&gt;&lt;li&gt; Be sure there is no other level/world mods installed&lt;/li&gt;&lt;li&gt; Be sure that you play on 1.1 update of the game&lt;/li&gt;&lt;li&gt; Be sure to play in english britannic or US, since i didn't translate the game files for each language&lt;/li&gt;&lt;li&gt;-Enjoy&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/cursesinkingtemple.rar" type="application/vnd.rar"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Speedrun Practice Mod</title>
+      <author>adrianRTA</author>
+      <link>https://gamebanana.com/mods/626696</link>
+      <comments>https://gamebanana.com/mods/626696#PostsListModule</comments>
+      <guid isPermaLink="false">a8b8fac7fcbf42ed45dc36622cea88a47df2bb47</guid>
+      <pubDate>Fri, 26 Dec 2025 22:54:40 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/694f21bf8f39f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694f23266235e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694f21b977372.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Full Initial Release&lt;br&gt;&lt;em&gt;Tweak&lt;/em&gt;: All NMG levels tweaked including some levels in Any% + 100% (all KO Arenas + Badge Marathon) as well&lt;br&gt;&lt;em&gt;Improvement&lt;/em&gt;: Item Park updated to include the Elephant Fruit pipe again and a Bubble Flower was added to the start&lt;br&gt;&lt;em&gt;Removal&lt;/em&gt;: Bowser's Rage Stage autoscroller removed for bossfight practice&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Custom Title Screen&lt;br&gt;&lt;hr&gt;&lt;br&gt;This is a Super Mario Bros. Wonder mod created for speedrunners that want to practice more efficiently than what the vanilla game offers, with the current changes optimizing practice for the &lt;b&gt;Any% No Major Glitches&lt;/b&gt; category. Some changes have been made to levels in the &lt;b&gt;Any%&lt;/b&gt; + &lt;b&gt;100%&lt;/b&gt; categories (including all KO Arenas + Badge Marathon) as well and our next major update plans to tweak the rest of the levels seen in &lt;b&gt;Any%&lt;/b&gt;!&lt;br&gt;&lt;br&gt;&lt;h1&gt;Changes&lt;/h1&gt;If a level isn't listed here, it either hasn't been changed yet, or is not significant enough to have any changes to it. This is the case for most "Break Time!" and "Badge Challenge" levels.&lt;br&gt;&lt;br&gt;&lt;h2&gt;General&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Custom Title Screen Background&lt;/li&gt;&lt;li&gt;An in-game timer is included in &lt;i&gt;every level&lt;/i&gt; including "Break Time!" and "Badge Challenge" levels that otherwise don't have any changes applied!&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;World 1&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Welcome to the Flower Kingdom!&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Piranha Plants on Parade&lt;/b&gt; - Starting pipe sends to note-block section before Secret Exit pipe&lt;/li&gt;&lt;li&gt;&lt;b&gt;Scram, Skedaddlers!&lt;/b&gt; - Starting pipe sends to section before grabbing shell for throwing at 3rd 10 coin, pipe after shell throw sends back to previous pipe&lt;/li&gt;&lt;li&gt;&lt;b&gt;Here Come the Hoppos&lt;/b&gt; - Starting pipe sends to section before hitting shell for activating 3rd 10 coin, pipe right before Wonder Flower sends back to previous pipe&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sproings in the Twilight Forest&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cosmic Hoppos&lt;/b&gt; - Enter left subarea for 3nd 10 coin room, first pipe sends to section between 2 semi-solids before 1st 10 coin, second pipe sends to section before 2nd 10 coin, third pipe sends to section before Flagpole for Wonder Flower practice, pipe below that sends back to first pipe (SUBJECT TO CHANGE)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expert Badge Challenge Jet Run I&lt;/b&gt; - Starting pipe sends to section after Checkpoint Flag, first pipe at the end of the level sends back to the beginning, second pipe sends back to Checkpoint Flag.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pipe-Rock Plateau Palace&lt;/b&gt; - First pipe sends to section before Checkpoint Flag, second pipes sends to pipe before Wonder Flower, third pipe sends to Bowser Jr. boss fight&lt;/li&gt;&lt;li&gt;&lt;b&gt;KO Arena Pipe-Rock Rumble&lt;/b&gt; - Added pipes to send to each arena room, Elephant Fruit placed on spawn&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;World 2&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Pokipede Pass&lt;/b&gt; - Starting pipe sends to section before Wonder Flower and 3rd 10 coin&lt;/li&gt;&lt;li&gt;&lt;b&gt;Condarts Away!&lt;/b&gt; - Starting pipe sends to section before Wonder Flower (Note: Cycle will be off from RTA, use for practicing Wonder Flower entry)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Up 'n' Down with Puffy Lifts&lt;/b&gt; - Starting pipe sends to section before Wonder Flower and 3rd 10 coin&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jump! Jump! Jump!&lt;/b&gt; - Bubble flower near spawn, pipe at end of Wonder Section to quickly retry (Red on/off outline blocks placed over 3rd 10 coin for clarity during retries)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Countdown to Drop Down&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Fluff-Puff Peaks Flying Battleship&lt;/b&gt; - Starting pipe sends to 2nd 10 coin room, re-entering the same pipe sends to section before 2nd 10 coin room for entry practice (Note: Changed color of the pipe from white to green to signify that it can be entered)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Fluff-Puff Peaks Palace&lt;/b&gt; - First pipe sends to section before Wonder Flower, second pipe sends to Bowser Jr. boss fight&lt;/li&gt;&lt;li&gt;&lt;b&gt;KO Arena Fluff-Puff Kerfluff&lt;/b&gt; - Added pipes to send to each arena room, Elephant Fruit placed on spawn&lt;/li&gt;&lt;li&gt;&lt;b&gt;Search Party Puzzling Park&lt;/b&gt; - Pipe with respawning Elephant Fruits placed at start&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;World 3&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;The Hoppycat Trial: Hop, Hop, and Awaaay&lt;/b&gt; - Starting pipe sends to short section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;The Anglefish Trial: Ready, Aim, Fly!&lt;/b&gt; - First pipe sends to 2nd 10 coin room, second pipe sends to 3rd 10 coin room&lt;/li&gt;&lt;li&gt;&lt;b&gt;The Midway Trial: Hop to It&lt;/b&gt; - Starting pipe sends to end of the level&lt;/li&gt;&lt;li&gt;&lt;b&gt;The Sharp Trial: Launch to Victory&lt;/b&gt; - Starting pipe sends to short section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Search Party An Empty Park?&lt;/b&gt; - Pipe with respawning Elephant Fruits placed at start&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;World 4&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Armads on the Roll&lt;/b&gt; - Starting pipe sends to section before 3rd 10 coin and Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ninji Jump Party&lt;/b&gt; - Bubble Flower placed right before gate&lt;/li&gt;&lt;li&gt;&lt;b&gt;Bloomps of the Desert Skies&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Valley Fulla Snootles&lt;/b&gt; - Starting pipe sends to section before 2nd 10 coin&lt;/li&gt;&lt;li&gt;&lt;b&gt;Sunbaked Desert Palace&lt;/b&gt; - First pipe sends to section before Wonder Flower, second pipe sends to Bowser Jr. boss fight&lt;/li&gt;&lt;li&gt;&lt;b&gt;KO Arena Sunbaked Skirmish&lt;/b&gt; - Added pipes to send to each arena room, Elephant Fruit placed on spawn, Drill Mushroom placed between the top two pipes&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;World 5&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Upshroom Downshroom&lt;/b&gt; - Starting pipe sends to subarea with Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Beware of the Rifts&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Taily's Toxic Pond&lt;/b&gt; - Starting pipe sends to Checkpoint Flag&lt;/li&gt;&lt;li&gt;&lt;b&gt;Light-Switch Mansion&lt;/b&gt; - Starting pipe sends to Checkpoint Flag&lt;/li&gt;&lt;li&gt;&lt;b&gt;An Uncharted Area: Wubba Ruins&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Another Uncharted Area: Swaying Ruins&lt;/b&gt; - Starting door sends to subarea before Wonder Flower (Room 6)&lt;/li&gt;&lt;li&gt;&lt;b&gt;A Final Uncharted Area: Poison Ruins&lt;/b&gt; - Starting pipe sends to subarea with Wonder Flower, starting gap sends to subarea following the falling cutscene&lt;/li&gt;&lt;li&gt;&lt;b&gt;KO Arena Fungi Funk&lt;/b&gt; - Added pipes to send to each arena room, Drill Mushroom placed on spawn, Bubble Flower placed atop 4th pipe&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;World 6&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Where the Rrrumbas Rule&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Raarghs in the Ruins&lt;/b&gt; - Starting pipe sends to subarea with Wonder Flower (Note: Cycle will be off from RTA, use for practicing Wonder Flower entry)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Pull, Turn, Burn&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deep Magma Bog Palace&lt;/b&gt; - First pipe sends to first Checkpoint Flag, second pipe sends to Bowser Jr. boss fight&lt;/li&gt;&lt;li&gt;&lt;b&gt;KO Arena Magma Flare-Up&lt;/b&gt; - Added pipes to send to each arena room, Elephant Fruit placed on spawn&lt;/li&gt;&lt;li&gt;&lt;b&gt;Search Party: Item Park&lt;/b&gt; - Added mechanism that allows for the same cycle between initial level load and level restart. Extremely useful for RTA cycle practice.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Petal Isles&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Robbird Cove&lt;/b&gt; - First pipe sends to pipe before 1st 10 coin, second pipe sends to section before Checkpoint Flag&lt;/li&gt;&lt;li&gt;&lt;b&gt;Blewbird Roost&lt;/b&gt; - First red pipe sends to section shortly after 1st 10 coin (with reset pipe after walljump), first yellow pipe and second red pipe send to subarea, second yellow pipe sends to top of subarea near Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Jewel-Block Cave&lt;/b&gt; - Starting pipe sends to section before 2nd 10 coin room and Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Petal Isles Flying Battleship&lt;/b&gt; - Starting pipe sends to 2nd 10 coin room&lt;/li&gt;&lt;li&gt;&lt;b&gt;Maw-Maw Mouthful&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Muncher Fields&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;KO Arena Petal Meddle&lt;/b&gt; - Added pipes to send to each arena room, Elephant Fruit placed on spawn&lt;/li&gt;&lt;li&gt;&lt;b&gt;Missile Meg Mayhem&lt;/b&gt; - Starting pipe sends to next subarea&lt;/li&gt;&lt;li&gt;&lt;b&gt;High-Voltage Gauntlet&lt;/b&gt; - Starting pipe sends to section before Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;Evade the Seeker Bullet Bills!&lt;/b&gt; - First pipe sends to section before 1st 10 coin, second pipe sends to second sub area with 3rd 10 coin&lt;/li&gt;&lt;li&gt;&lt;b&gt;KnuckleFest: Bowser's Blazing Beats&lt;/b&gt; - First pipe sends to section before first Checkpoint Flag, second pipe sends to subarea with Wonder Flower&lt;/li&gt;&lt;li&gt;&lt;b&gt;The Final Battle! Bowser's Rage Stage&lt;/b&gt; - Player spawn set where the checkpoint used to be, Bubble Flower and Elephant Fruit placed in front of the spawn (No more autoscroller!)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Special World&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;The Final Test: Wonder Gauntlet&lt;/b&gt; - Elephant Fruit and Bubble Flower added at spawn&lt;/li&gt;&lt;li&gt;&lt;b&gt;The Final-Final Test: Badge Marathon&lt;/b&gt; - Added pipes for each individual room, with accompanying badge signs for clarity&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h1&gt;Credits&lt;/h1&gt;&lt;ul&gt;&lt;li class="SelectedElement"&gt;&lt;b&gt;Codek&lt;/b&gt; – Most level edits from W3-8, edited in-game timer position, bug fixes, GitHub repository owner.&lt;/li&gt;&lt;li&gt;&lt;b&gt;adrianRTA&lt;/b&gt; – Custom Title Screen background, changes for NMG levels from Welcome to the Flower Kingdom! to Jump! Jump! Jump!, Upshroom Downshroom changes, Search Party: Item Park mechanism idea and implementation.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Theia // FrozenMuncher&lt;/b&gt; - &lt;a href="https://gamebanana.com/mods/570723"&gt;Bindable Actor Pack&lt;/a&gt;&lt;/li&gt;&lt;li&gt;The &lt;b&gt;&lt;a href="https://github.com/theia-mly/Fushigi" target="_blank"&gt;Fushigi&lt;/a&gt;&lt;/b&gt; contributors for making all of these changes possible with ease&lt;/li&gt;&lt;li&gt;The &lt;b&gt;&lt;a href="https://discord.gg/jBtBW22xuu" target="_blank"&gt;WonderLand Discord server&lt;/a&gt;&lt;/b&gt; for helping us out when we had issues&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/practice_mod_tweaks.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/practice_mod_tweaks_4fc19.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/smbwspeedrunmod_v1.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>(My first SMB.W Custom level) Push-a-Pipe Plains</title>
+      <author>Sample_text7706</author>
+      <link>https://gamebanana.com/mods/642090</link>
+      <comments>https://gamebanana.com/mods/642090#PostsListModule</comments>
+      <guid isPermaLink="false">87948e0a349c6b2cec2b6c693a12bb482d3147f9</guid>
+      <pubDate>Fri, 26 Dec 2025 22:21:57 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/694f0a6306df5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/694f0a6cd5190.jpg"/&gt;&lt;br&gt;This is my first ever mod of Super Mario Bros. Wonder made using Fushigi.</description>
+      <media:content url="https://files.gamebanana.com/mods/push-a-pipe_plains.rar" type="application/vnd.rar"/>
+      <category>Mario</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>Custom Level: Hot-Hot Magma Battleship</title>
+      <author>Vadenimo</author>
+      <link>https://gamebanana.com/mods/623461</link>
+      <comments>https://gamebanana.com/mods/623461#PostsListModule</comments>
+      <guid isPermaLink="false">bd88a90465b23324f3f74350235a11a83a09ac5e</guid>
+      <pubDate>Sun, 28 Sep 2025 22:37:24 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68d9b88945aed.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68d9b88c1ed2c.jpg"/&gt;&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OvKiKLoHJqE" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Custom Level Name:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;- English (UK/US): Hot-Hot Magma Battleship&lt;br&gt;- Deutsch: Heiße Luftgaleere in den Magma-Tiefen&lt;br&gt;- 日本語: TBA&lt;br&gt;&lt;br&gt;Difficulty: ★★★★&lt;br&gt;&lt;br&gt;Original Level Slot: Deep Magma Bog Flying Battleship&lt;br&gt;&lt;br&gt;Secret Exit: No&lt;br&gt;Amount of 10-Flower Coins: 3&lt;br&gt;Wonder Flower Effect: Yes&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/hot-hot_magma_battleship.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>WonderLand Splash Jam</title>
+      <author>iHarv</author>
+      <link>https://gamebanana.com/mods/620214</link>
+      <comments>https://gamebanana.com/mods/620214#PostsListModule</comments>
+      <guid isPermaLink="false">bf869edd8e6de874df1637b0f1fb1d9930c7e76e</guid>
+      <pubDate>Sun, 14 Sep 2025 22:18:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c73f3dbf981.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c73ebb7a491.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c73eda2581c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c73ebacdcbd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c73ebaf3d20.jpg"/&gt;&lt;br&gt;This mod is the result of a level design competition that was held in the WonderLand Discord Server. There are 7 different levels that interpret a "splash" concept in unique and creative ways. We hope you enjoy!</description>
+      <media:content url="https://files.gamebanana.com/mods/wonderland_splash_jam_b0862.rar" type="application/vnd.rar"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>BetterGeysers</title>
+      <author>FrozenMuncher</author>
+      <link>https://gamebanana.com/mods/620110</link>
+      <comments>https://gamebanana.com/mods/620110#PostsListModule</comments>
+      <guid isPermaLink="false">723af9f4e6c21ec47e9bc8952f44f3cc27cfa4b8</guid>
+      <pubDate>Sun, 14 Sep 2025 15:52:36 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c6e1e98f786.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c6e4af44c3f.jpg"/&gt;&lt;br&gt;Modified and custom Lava Geysers for both normal/red lava and green lava. The original game has the red geysers hardcoded to Deep Magma Bog only, this mod removes that hardcoding and instead has the red and green geysers as separate actors. Both also have a normal and big version.</description>
+      <media:content url="https://files.gamebanana.com/mods/bettergeysers.zip" type="application/zip"/>
+      <category>Custom Actors</category>
+      <category>Custom Actors</category>
+    </item>
+    <item>
+      <title>Custom Level - Sunburn in the Flooded Ruins</title>
+      <author>belgenerveux</author>
+      <link>https://gamebanana.com/mods/619806</link>
+      <comments>https://gamebanana.com/mods/619806#PostsListModule</comments>
+      <guid isPermaLink="false">731eb79a7340b02c8679e079cfb6622387c96124</guid>
+      <pubDate>Sat, 13 Sep 2025 16:17:08 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c5962cbc3bf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c596e6ef217.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c596e6b4c29.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c596f16a193.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c5974c42a28.jpg"/&gt;&lt;br&gt;A Mario Wonder custom level, replacing the first level of the game : Welcome to the flower kingdom!&lt;br&gt;&lt;br&gt;It contains a combination of hot blocks/water spreading mechanics, a custom background, and a dynamic weather.&lt;br&gt;&lt;br&gt;&lt;b&gt;Installation instructions&lt;br&gt;&lt;/b&gt;- Extract the romfs folder to your&amp;nbsp;atmosphere\contents\010015100b514000\ folder&lt;br&gt;- Be sure there is no other level/world mods installed&lt;br&gt;- Be sure that you play on 1.1 update of the game&lt;br&gt;- Be sure to play in english britannic or US, since i didn't translate the game files for each language&lt;br&gt;- Enjoy</description>
+      <media:content url="https://files.gamebanana.com/mods/sunburn.rar" type="application/vnd.rar"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Letters and Numbers Actor Pack</title>
+      <author>Getlucky12341</author>
+      <link>https://gamebanana.com/mods/613022</link>
+      <comments>https://gamebanana.com/mods/613022#PostsListModule</comments>
+      <guid isPermaLink="false">211cb459bad2fddc6a95a82851403b5316b368fe</guid>
+      <pubDate>Mon, 11 Aug 2025 01:36:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6899489b530b4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6899489f3423c.jpg"/&gt;&lt;br&gt;Customer actors for the entire alphabet and 10 numbers for use in Super Mario Bros. Wonder levels. These blocks are copies of breakable stone blocks, meaning they have collision and can be destroyed by things like Bob-omb explosions.&lt;br&gt;&lt;br&gt;Feel free to use for your own mod.</description>
+      <media:content url="https://files.gamebanana.com/mods/letters_and_numbers_actor_pack_by_getlucky12341.zip" type="application/zip"/>
+      <category>Custom Actors</category>
+      <category>Custom Actors</category>
+    </item>
+    <item>
+      <title>Super CJ Wonder</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/538996</link>
+      <comments>https://gamebanana.com/mods/538996#PostsListModule</comments>
+      <guid isPermaLink="false">747836106409558284bf1622349aa9fbd7cfd812</guid>
+      <pubDate>Wed, 06 Aug 2025 17:37:41 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/689391b3884d5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391b6ba9a1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391b7f36db.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391ba4edc6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391bdd1493.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391c1e3d82.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391c453931.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391c6bb189.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391cb8df85.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391d05bb66.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689391d2b5581.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Mod fixed&lt;br&gt;&lt;p&gt;&lt;strong&gt;Fixed the model and rig/weights:&lt;/strong&gt;&lt;br&gt;&lt;em&gt;&lt;span class="GreenColor"&gt;Added proper hands for all animations (like grabbing shells, flyin',running,relaxed hands etc)&lt;br&gt;Added missing sneakers (old version didn't save it for any weird reason)&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;Carl Johson over Mario. Includes:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li class="SelectedElement"&gt;&lt;code&gt;World Model for Both Super/mini forms&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;&lt;br&gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;&lt;code&gt;Mini CJ&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/cj_b9659.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/cj_v2.rar" type="application/vnd.rar"/>
+      <category>Mario</category>
+      <category>Characters</category>
+    </item>
+    <item>
+      <title>Custom Level: Welcome to the Bouncy Kingdom!</title>
+      <author>Vadenimo</author>
+      <link>https://gamebanana.com/mods/604841</link>
+      <comments>https://gamebanana.com/mods/604841#PostsListModule</comments>
+      <guid isPermaLink="false">2c7c7ffaaf3989efa8fb0bd8b623443fe0715d0e</guid>
+      <pubDate>Fri, 04 Jul 2025 18:05:43 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/686817d48a873.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/686817e255e2d.jpg"/&gt;&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Akhz2JCMqxo" frameborder="0" allowfullscreen=""&gt;&lt;br&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Level Information:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Custom Level Name: Welcome to the Bouncy Kingdom?&lt;br&gt;Difficulty: ★★&lt;br&gt;&lt;br&gt;Original Level Slot: Welcome to the Flower Kingdom!&lt;br&gt;&lt;br&gt;Secret Exit: No&lt;br&gt;Amount of 10-Flower Coins: 3&lt;br&gt;Wonder Flower Effect: Yes</description>
+      <media:content url="https://files.gamebanana.com/mods/welcome_to_the_bouncy_kingdom.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Custom Level - Goombas Galore</title>
+      <author>GamerGio</author>
+      <link>https://gamebanana.com/mods/601130</link>
+      <comments>https://gamebanana.com/mods/601130#PostsListModule</comments>
+      <guid isPermaLink="false">705d5d82360ccfc22afb6b51182b1f3dec500176</guid>
+      <pubDate>Tue, 17 Jun 2025 17:09:19 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6851a1036c9bf.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6851a124b96fd.jpg"/&gt;&lt;br&gt;Super Mario Bros. Wonder Custom Level - Goombas Galore&lt;br&gt;Install instructions in the download.</description>
+      <media:content url="https://files.gamebanana.com/mods/goombas_galore.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Custom Level: Super Mario Bros. 1-1</title>
+      <author>Lilibud Gaming</author>
+      <link>https://gamebanana.com/mods/594482</link>
+      <comments>https://gamebanana.com/mods/594482#PostsListModule</comments>
+      <guid isPermaLink="false">39a3cc624e021817f887a95567ae08f974f0b47c</guid>
+      <pubDate>Thu, 15 May 2025 10:55:25 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68257fda76718.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68257fdb60bd3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68257fdb7818d.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Minor bugfix&lt;br&gt;&lt;em&gt;Bugfix&lt;/em&gt;: Fixed one random coin not showing up until after the wonder seed spawns (caused by accidentally having the AnnihilateTag create it)&lt;br&gt;&lt;hr&gt;&lt;br&gt;This is a faithful remake of the first ever Super Mario Bros. level! Some creative liberties were taken to better fit it within the overall style of Mario Wonder, but the layout is almost exactly the same. This level is even complete with its own custom wonder effect!&lt;br&gt;&lt;br&gt;This is my first ever custom level for Super Mario Bros. Wonder. I mainly made it as a way to get familiar with the Fushigi level editor. I hope you enjoy!</description>
+      <media:content url="https://files.gamebanana.com/mods/smb_1-1_v11.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/smb_1-1.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>3D World / NSMB2 Pow Blocks</title>
+      <author>MemetendoYT</author>
+      <link>https://gamebanana.com/mods/594285</link>
+      <comments>https://gamebanana.com/mods/594285#PostsListModule</comments>
+      <guid isPermaLink="false">ebf0bd88cec8711008d1447541b92c7e42df7f48</guid>
+      <pubDate>Wed, 14 May 2025 02:45:24 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/682403417ace8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68249ec78d350.jpg"/&gt;&lt;br&gt;This new pow block recreates the functionality of 3D World's and NSMB2's Red Pow Blocks. The Red pow block in Super Mario Bros. Wonder is similar to the ones in both games mentioned, but can be picked up, thrown, or eaten. I have removed all of those to make it act just like the 3D World / NSMB2 red pow block. Now unlike the Red Pow Block in either of those games, I made the pow block green to separate it from the already Red Pow Block in Wonder.</description>
+      <media:content url="https://files.gamebanana.com/mods/3d_world_pow_26f15.zip" type="application/zip"/>
+      <category>Custom Actors</category>
+      <category>Custom Actors</category>
+    </item>
+    <item>
+      <title>Wonder Mixtape Vol. 1</title>
+      <author>Dzherbij</author>
+      <link>https://gamebanana.com/mods/591804</link>
+      <comments>https://gamebanana.com/mods/591804#PostsListModule</comments>
+      <guid isPermaLink="false">3bb8caa8732a1fcda222c15729c548c814dcf6a4</guid>
+      <pubDate>Fri, 02 May 2025 05:06:33 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6816895858d18.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/681467a3c36e1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/681467acd23e4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/681467b4b80a3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/681467b9e3ac5.jpg"/&gt;&lt;br&gt;Wonder Mixtape Vol. 1 is a 6 level kaizo mod I made over the course of a few months, with help from some of my friends! I put a lot of work into it so I sincerely hope you have a good time with it! Every level is named after a song I like, see how many you can recognize!&lt;br&gt;&lt;br&gt;I made this with the intent to (hopefully) inspire more people to make kaizo levels for Mario Wonder/mod the game in general, so if you have any interest in modding this game, join the WonderLand modding discord: https://discord.gg/jBtBW22xuu&lt;br&gt;&lt;br&gt;Version 1.1 Changelog:&lt;br&gt;De-cheese in Stage 2&lt;br&gt;Slight adjustments in Stage 3 and 4&lt;br&gt;Improved some indication&lt;br&gt;&lt;br&gt;Version 1.2 Changelog:&lt;br&gt;Patched rare softlock in Stage 4&lt;br&gt;Small adjustments throughout the final castle</description>
+      <media:content url="https://files.gamebanana.com/mods/wonder_mixtape_1.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/wonder_mixtape_1_v1_1.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/wonder_mixtape_1_v1_2.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>[NEW LEVEL] The Wubba Bubble Gang</title>
+      <author>Skeletricks</author>
+      <link>https://gamebanana.com/mods/591292</link>
+      <comments>https://gamebanana.com/mods/591292#PostsListModule</comments>
+      <guid isPermaLink="false">374d940d156f69b61f0574241b93b55f1f363ee8</guid>
+      <pubDate>Tue, 29 Apr 2025 16:59:22 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6811047463d0a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/681104746ecab.jpg"/&gt;&lt;br&gt;Here is my second mod ever for this game, much more polished than the last. Enjoy!&lt;br&gt;&lt;br&gt;Replaces the level AFTER upshroom downshroom in Courses. World 5</description>
+      <media:content url="https://files.gamebanana.com/mods/the_wubba_bubble_gang_0b862.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>[NEW LEVEL] Drop Down to Pull Down!</title>
+      <author>Skeletricks</author>
+      <link>https://gamebanana.com/mods/590397</link>
+      <comments>https://gamebanana.com/mods/590397#PostsListModule</comments>
+      <guid isPermaLink="false">f3fcf6139651ee4f1d04e39d8866c1e61a858c60</guid>
+      <pubDate>Fri, 25 Apr 2025 00:02:08 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/680abc756e4ea.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/680abc759eb84.jpg"/&gt;&lt;br&gt;Drop Down to Pole Drop!&lt;br&gt;&lt;br&gt;Replaces 1-3 from the original game Scram, Skedaddlers!</description>
+      <media:content url="https://files.gamebanana.com/mods/bancmapunit.zip" type="application/zip"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Tundra Tunes</title>
+      <author>LightaK</author>
+      <link>https://gamebanana.com/mods/589748</link>
+      <comments>https://gamebanana.com/mods/589748#PostsListModule</comments>
+      <guid isPermaLink="false">3eb5f39cb7fc1ca30df0ab44c591015f333fdad5</guid>
+      <pubDate>Thu, 24 Apr 2025 06:37:08 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6807dd83ee3bc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/680675ae83e83.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68066bddda5d3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68066c37e425f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68066bea3ffc8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68066beb6c8cd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68066beb2d37b.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; New Version!&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: New Decorations!&lt;br&gt;&lt;hr&gt;&lt;br&gt;This is the Tundra Tunes it Replaces with Outmaway Valley(in fluffy-puffy peaks) in the Game !!&lt;br&gt;&lt;br&gt;Thank You to Everyone Who Played!&lt;br&gt;&lt;br&gt;It's Made By A Tool Named ''Fushigi'' Level Editor&lt;br&gt;&lt;br&gt;If You Wonder How To Do It Here is the Link of the Discord Server's :&lt;br&gt;&lt;br&gt;https://discord.com/invite/jBtBW22xuu</description>
+      <media:content url="https://files.gamebanana.com/mods/tundra_tunes.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/tundra_tunes_1_1.rar" type="application/vnd.rar"/>
+      <category>Worlds/Levels</category>
+      <category>Worlds/Levels</category>
+    </item>
+    <item>
+      <title>Terrain Actor Pack</title>
+      <author>FrozenMuncher</author>
+      <link>https://gamebanana.com/mods/589145</link>
+      <comments>https://gamebanana.com/mods/589145#PostsListModule</comments>
+      <guid isPermaLink="false">aa38f0aaa7c03c467bfe2e4a1f48424eab3d8933</guid>
+      <pubDate>Fri, 18 Apr 2025 23:51:57 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6802e454b4749.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6802e45525cf3.jpg"/&gt;&lt;br&gt;Wonder's engine has the ability to allow actors to generate terrain. This has the advantage to making terrain dynamic in the level. In this actor pack we put together custom actors that render solid, semi-solid and non-solid terrain for both FieldA and FieldB tilesets. There are bindable versions included as well (except for the non-solid background which doesn't seem to work).</description>
+      <media:content url="https://files.gamebanana.com/mods/terrainactorpack-v1.zip" type="application/zip"/>
+      <category>Custom Actors</category>
+      <category>Custom Actors</category>
+    </item>
+    <item>
+      <title>Ova / Anime Mario RESKIN</title>
+      <author>StickyTweaker</author>
+      <link>https://gamebanana.com/mods/587807</link>
+      <comments>https://gamebanana.com/mods/587807#PostsListModule</comments>
+      <guid isPermaLink="false">0540e48aa97373711e8b03e7f6849ef4a19e5d41</guid>
+      <pubDate>Sat, 12 Apr 2025 05:29:02 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67f9f78e7b8c3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67f9f9386a0ce.jpg"/&gt;&lt;br&gt;Reskin of Mario's colors to match his anime counterpart.&lt;br&gt;UI, powerups, and wonder effects have been changed, too.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;u&gt;&lt;b&gt;Everything Changed:&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;- ALL POWERUPS&lt;br&gt;- UI&lt;br&gt;- All the Wonders that change Mario&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class="GreenColor SelectedElement"&gt;- Checkpoints AND Flagpole&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/anime_mario.zip" type="application/zip"/>
+      <category>Mario</category>
+      <category>Characters</category>
+    </item>
+  </channel>
+</rss>

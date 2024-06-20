@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Link's Awakening (Switch)</title>
+    <description>GameBanana - The Legend of Zelda: Link's Awakening (Switch)</description>
+    <link>https://gamebanana.com/games/7562</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/7562"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Link's Awakening (Switch)</title>
+      <link>https://gamebanana.com/games/7562</link>
+    </image>
+    <item>
+      <title>Hunt for power (Custom playtrough)</title>
+      <author>Ruben_ls3</author>
+      <link>https://gamebanana.com/mods/623567</link>
+      <comments>https://gamebanana.com/mods/623567#PostsListModule</comments>
+      <guid isPermaLink="false">840b57c869a62b8fb9ef154157783af3d5316bfa</guid>
+      <pubDate>Mon, 29 Sep 2025 11:31:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68da6dc20def2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68da6dab01eeb.jpg"/&gt;&lt;br&gt;This is a custom playtrough of Links Awakening Switch that I made with the level editor. Its not very serious and I just wanted to make something fast as a proof of concept ;) I hope its still fun :) GL!</description>
+      <media:content url="https://files.gamebanana.com/mods/hunt_for_power.zip" type="application/zip"/>
+      <category>Maps</category>
+      <category>Maps</category>
+    </item>
+    <item>
+      <title>100% Save File</title>
+      <author>MegaMarble</author>
+      <link>https://gamebanana.com/mods/622035</link>
+      <comments>https://gamebanana.com/mods/622035#PostsListModule</comments>
+      <guid isPermaLink="false">0e22a687be8ef54f156fe8886d0f296e9e39e2a2</guid>
+      <pubDate>Mon, 22 Sep 2025 21:31:45 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68d1c024d5bc4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68d1c013056fb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68d1c024f1c67.jpg"/&gt;&lt;br&gt;&lt;a href="https://gbatemp.net/download/legend-of-zelda-links-awakening-100-save.37255/" target="_blank"&gt;From GBATemp&lt;br&gt;&lt;/a&gt;&lt;br&gt;Slot1: Game beaten, all collectibles, no deaths, shadow link unlocked&lt;br&gt;&lt;br&gt;Slot2: Same as slot1 up to the wind fish egg&lt;br&gt;&lt;br&gt;Original .zip included as a download option, I deleted the autosave and save screenshots for a 99% size reduction.</description>
+      <media:content url="https://files.gamebanana.com/mods/tloz_la_switch_100_.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/lanks_awerkening_by_smashbro596.rar" type="application/vnd.rar"/>
+      <category>Other/Misc</category>
+      <category>Effects</category>
+    </item>
+    <item>
+      <title>The Fighter's Shield</title>
+      <author>Kekka</author>
+      <link>https://gamebanana.com/mods/612516</link>
+      <comments>https://gamebanana.com/mods/612516#PostsListModule</comments>
+      <guid isPermaLink="false">2403bbcdfc1ddf6fe08906caff7b30c83af568ac</guid>
+      <pubDate>Fri, 08 Aug 2025 19:43:49 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/689675556d41e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68964f22b18d3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68964f5113534.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68964f0f58a79.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68964fa398089.jpg"/&gt;&lt;br&gt;Ever noticed how Nintendo has been replacing the Fighter's Shield with the Hylian Shield ever since &lt;i&gt;A Link Between Worlds&lt;/i&gt;?&lt;br&gt;&lt;br&gt;This mod restores the Fighter's Shield to the Switch remake of &lt;i&gt;Link's Awakening&lt;/i&gt;, as it should have been from the start.&lt;br&gt;&lt;br&gt;The design of this version of the shield is based on concept art for the remake, which omitted the lower gemstone and simplified some details to better fit the game's stylized look.</description>
+      <media:content url="https://files.gamebanana.com/mods/fighters_shield.zip" type="application/zip"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>60FPS stable V3</title>
+      <author>JohnnyFFM</author>
+      <link>https://gamebanana.com/mods/598079</link>
+      <comments>https://gamebanana.com/mods/598079#PostsListModule</comments>
+      <guid isPermaLink="false">fee0c123ac7dca1e5ad7fbc0d69c6d4555e38d50</guid>
+      <pubDate>Sun, 01 Jun 2025 20:32:27 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/683cb8b139cda.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/683cb8ba82c31.jpg"/&gt;&lt;br&gt;60FPS stable, modified V2 to also work with v.1.0.1</description>
+      <media:content url="https://files.gamebanana.com/mods/stable-60fps-v3.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Alternative Home Menu Icons</title>
+      <author>Misterfan2000</author>
+      <link>https://gamebanana.com/mods/589216</link>
+      <comments>https://gamebanana.com/mods/589216#PostsListModule</comments>
+      <guid isPermaLink="false">62e8572395c67fcf95f4852c0a34917bf0cf3cc9</guid>
+      <pubDate>Sat, 19 Apr 2025 08:13:27 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68035a7b28928.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68035a87d1750.jpg"/&gt;&lt;br&gt;A collection of Home Icon edits for you to use&lt;br&gt;&lt;br&gt;Includes:&lt;br&gt;- Home Menu Icon for &lt;a href="https://gamebanana.com/mods/250086"&gt;Classic Shield Mod&lt;/a&gt;&lt;br&gt;- Home Menu Icon for &lt;a href="https://gamebanana.com/mods/250087"&gt;New Eyes Mod&lt;/a&gt;&lt;br&gt;- Home Menu Icon for Classic Shield + New Eyes Mod</description>
+      <media:content url="https://files.gamebanana.com/mods/iconalts.rar" type="application/vnd.rar"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Zelda (EoW) over Link</title>
+      <author>vrvrvrnice</author>
+      <link>https://gamebanana.com/mods/550273</link>
+      <comments>https://gamebanana.com/mods/550273#PostsListModule</comments>
+      <guid isPermaLink="false">1e6c6533bc888ab574efdd67bb266be6d1d068d7</guid>
+      <pubDate>Tue, 22 Oct 2024 06:03:06 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67172b5767dea.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67172b66235b7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67172b7c835b9.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67172b7dee1c6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67173e3831093.jpg"/&gt;&lt;br&gt;This mod replaces with Link with Green Tunic Zelda from Echoes of Wisdom!&lt;br&gt;&lt;br&gt;This is my first game mod and there are practically no guides for this game so unfortunately there are many compromises I had to make for now&lt;br&gt;&lt;br&gt;There are two versions of this mod, Green Only and Experimental Colors.&lt;br&gt;&lt;br&gt;These affect the mails you get from the Color Dungeon. For the experimental mod, the Red and Blue mails only change the color of the tunic, the hat will stay Green. It may look ugly to some so that's why I made a version that has just the Green tunic for all mails.&amp;nbsp;&lt;br&gt;&lt;br&gt;This is due to the two models categorizing their hats separately (Zelda's is part of her head, Link's is part of his body)&amp;nbsp; I currently do not have the knowledge or expertise to fix this.&lt;br&gt;&lt;br&gt;There are no text, UI, or voice changes, this is just a cosmetic mod.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/zelda_green_only_.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/zelda_experimental_colors_.zip" type="application/zip"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>The Pink Bra Restored</title>
+      <author>sm0k3r83</author>
+      <link>https://gamebanana.com/mods/250088</link>
+      <comments>https://gamebanana.com/mods/250088#PostsListModule</comments>
+      <guid isPermaLink="false">6cdbd0bac42e9cafada84e21d84513ded559d24c</guid>
+      <pubDate>Mon, 14 Oct 2024 17:59:46 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/5dab232d4acfa.webp"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/5ffb7ab5623b2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/5ffb7ac571ed5.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Redone from scratch&lt;br&gt;&lt;p&gt;Re-did the mod from scratch, too many people with issues with original upload.&lt;/p&gt;&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Re-dumped game files and re-did the mod from scratch&lt;br&gt;&lt;hr&gt;&lt;br&gt;I know I posted a bounty for this, but I decided to learn and do it myself.&lt;br&gt;&lt;br&gt;From&amp;nbsp;&lt;a href="https://gamebanana.com/requests/null" target="_blank"&gt;https://zelda.gamepedia.com/Link%27s_Awakening_Trading_Sequence&lt;/a&gt;&lt;br&gt;In the original Japanese version of&amp;nbsp;&lt;i&gt;Link's Awakening&lt;/i&gt;&amp;nbsp;and in certain European versions, the Necklace was actually the mermaid's pink bikini top, referred to as the&amp;nbsp;&lt;b&gt;Pink Bra&lt;/b&gt;. The bikini top was censored into a necklace in the American version and in the DX re-releases of the European versions.&lt;br&gt;I've change the mermaids colors a bit as well. I find she was very plain.&lt;br&gt;&lt;br&gt;Also include a version&amp;nbsp;compatible with&amp;nbsp;&lt;a class="MemberLink" href="https://gamebanana.com/members/1681976" data-_stooltipid="_ttt_82c770fc-0998-b6f9-d804-7b6d3b46f64d"&gt;Amiibolad&lt;/a&gt;'s New Eyes Mod!&lt;a class="Name" href="https://gamebanana.com/skins/173847"&gt;&lt;/a&gt;&lt;br&gt;If you like this mod or any mod i have made or ported, please consider&amp;nbsp;&lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=Z49DNTTV4ZRQA¤cy_code=CAD&amp;amp;source=url" target="_blank"&gt;donating&lt;/a&gt;. It helps alot.&lt;br&gt;Thank You, and Enjoy!&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/01006bb00c6f0000_eyes.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/01006bb00c6f0000_45501.zip" type="application/zip"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>60FPS stable</title>
+      <author>HerculeHercule1</author>
+      <link>https://gamebanana.com/mods/548097</link>
+      <comments>https://gamebanana.com/mods/548097#PostsListModule</comments>
+      <guid isPermaLink="false">73ceb7bddd671580e348deba29bc1ade59ac1bca</guid>
+      <pubDate>Sat, 12 Oct 2024 11:05:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/670a57cb80687.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670a57d90e81c.jpg"/&gt;&lt;br&gt;60 Fps Stable&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/stable-60fps-v2.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Hatless Link (No cap) [Request delivery]</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/547357</link>
+      <comments>https://gamebanana.com/mods/547357#PostsListModule</comments>
+      <guid isPermaLink="false">71a17702878dabacdd998c53bd7f6a3226d81654</guid>
+      <pubDate>Fri, 18 Jul 2025 13:52:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6705389f6ae11.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538af69c8e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538af7d4b0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538af7a46f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538afdd2d8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538b077a3e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538b07f853.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538b0988bd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670538b0baf92.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/687a5138b4066.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Hair Physics&lt;br&gt;&lt;p&gt;Re-rigged the hair model, adding jiggle/hair bones.&lt;/p&gt;&lt;p&gt;It now has physics/movements.&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hatless custom link model i made mixing WWHD + LA models.&lt;br&gt;&lt;br&gt;Mod requested by &lt;a href="https://gamebanana.com/members/2284507"&gt;goostabo&lt;/a&gt; ,  &lt;a href="https://gamebanana.com/requests/65468"&gt;here&lt;/a&gt; .</description>
+      <media:content url="https://files.gamebanana.com/mods/hatless_link_no_hat_v2.rar" type="application/vnd.rar"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>The legend of Calvo</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/545183</link>
+      <comments>https://gamebanana.com/mods/545183#PostsListModule</comments>
+      <guid isPermaLink="false">65950ad65dcef892b3dfb48714c8d94c5ef706d2</guid>
+      <pubDate>Sat, 28 Sep 2024 22:21:07 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66f8811a0df02.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f8811cefddd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f8811d019ff.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f8812d9a632.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f88130d3c20.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f8813153361.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f88131c2396.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66f8813265798.jpg"/&gt;&lt;br&gt;Links lost his hair but not his power!&lt;br&gt;He became stronger turning into a "calvão de cria", a powerful mythical creature!</description>
+      <media:content url="https://files.gamebanana.com/mods/the_legend_of_calvo.rar" type="application/vnd.rar"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>XBOX UI</title>
+      <author>fellow_demo</author>
+      <link>https://gamebanana.com/mods/540069</link>
+      <comments>https://gamebanana.com/mods/540069#PostsListModule</comments>
+      <guid isPermaLink="false">24363e3cd189c5ddda62966abf9cce706d405c8b</guid>
+      <pubDate>Wed, 04 Sep 2024 14:42:17 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66d881a54bfb8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d881a94e0b0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66d881ab51ad7.jpg"/&gt;&lt;br&gt;XBOX UI mod will replace buttons with layout of xbox-style controllers.&lt;br&gt;This mod offers 3 variants of layout:&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Standard Layout&lt;/span&gt;&lt;/b&gt;&lt;br&gt;Replaces original button prompts, default bindings.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Western Layout&lt;/span&gt;&lt;/b&gt;&lt;br&gt;Same as standard, but A and B are swapped in style of modern western games (A as confirm, B as back)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;span class="GreenColor"&gt;Alternative Layout&lt;/span&gt;&lt;/b&gt;&lt;br&gt;Xbox UI + uses X as a button for sword attack and B for an item slot.&lt;br&gt;&lt;br&gt;Mod was made using version 1.0.1 files and should work for all languages. Compatibility for 1.0.0 not guaranteed, but in theory it should not cause any issues.&lt;br&gt;&lt;br&gt;Thanks to &lt;a class="MemberLink" href="https://gamebanana.com/members/2006680" data-id="member_2006680"&gt;messiahgov&lt;/a&gt; who provided list of files that needed to be modified.&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;b&gt;&lt;u&gt;&lt;span class="GreenColor"&gt;&lt;span class="RedColor"&gt;&lt;span class="GreenColor"&gt;Installation for emulators:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/h1&gt;&lt;b&gt;1.&lt;/b&gt; Right click on Link's Awakening entry and click on "Open Mods directory".&lt;br&gt;&lt;b&gt;2.&lt;/b&gt; Drag and drop Xbox UI folder of your preferred layout in there.&lt;br&gt;&lt;b&gt;3.&lt;/b&gt; Check that mod is now activated.&lt;br&gt;&lt;b&gt;4.&lt;/b&gt; Set up your controller bindings to match preferred layout.&lt;br&gt;&lt;b&gt;5.&lt;/b&gt; Enjoy and report if you notice in-game issues.&lt;br&gt;&lt;br&gt;&lt;b&gt;Standard layout:&lt;/b&gt; Y-&amp;gt;X, X-&amp;gt;Y, B-&amp;gt;A, A-&amp;gt;B&lt;b&gt;&lt;br&gt;Western layout:&lt;/b&gt; Y-&amp;gt;X, X-&amp;gt;Y, B-&amp;gt;B, A-&amp;gt;A&lt;br&gt;&lt;b class="SelectedElement"&gt;Alternative layout:&lt;/b&gt; Y-&amp;gt;B, X-&amp;gt;Y, B-&amp;gt;X, A-&amp;gt;A</description>
+      <media:content url="https://files.gamebanana.com/mods/xbox_standard_ui_v1.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/xbox_western_ui_v1.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/xbox_alternative_ui_v1.rar" type="application/vnd.rar"/>
+      <category>GUIs</category>
+      <category>GUIs</category>
+    </item>
+    <item>
+      <title>Wolf Link</title>
+      <author>V--R</author>
+      <link>https://gamebanana.com/mods/537185</link>
+      <comments>https://gamebanana.com/mods/537185#PostsListModule</comments>
+      <guid isPermaLink="false">14bec60685e6eb9fe9bc40a712e8b9ccb3131695</guid>
+      <pubDate>Wed, 13 Aug 2025 04:46:44 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/689c162bc9025.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c77d9e21c25.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c77db283986.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c77da780a69.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c77dadb1197.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c77dbadd54f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c77dc1505bd.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66c78ecf771a1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689c1651a94b6.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/689c1685abf70.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Classic Addition&lt;br&gt;&lt;p&gt;The addition of a Classic Shield option for this mod.&lt;/p&gt;&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: Classic Shield Version&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;code&gt;&lt;b&gt;Edit 2025/08/12: &lt;/b&gt;&lt;i class="SelectedElement"&gt;A new Classic Shield option has been added, a merge with&amp;nbsp;&lt;a href="https://gamebanana.com/mods/250086"&gt;Classic Shield Mod&lt;/a&gt; by&amp;nbsp;&lt;a href="https://gamebanana.com/members/1519349"&gt;ToppestOfDogs&lt;/a&gt;&amp;nbsp;that originally I had created for personal use but have since received permission to release. For those of you who are like me and prefer the original shield that you received in Link's Awakening you can now use it again and still be a furry.&lt;/i&gt;&lt;/code&gt;&lt;br&gt;&lt;br&gt;This mod has a sibling mod for Tears of the Kingdom, the &lt;a href="https://gamebanana.com/mods/538212"&gt;Mask of Furry Awakening&lt;/a&gt;.&lt;br&gt;&lt;br&gt;After using the &lt;a href="https://gamebanana.com/mods/452172"&gt;Wolf Link mod for Tears of The Kingdom&lt;/a&gt; I thought to myself it would be fun to play through Link's Awakening in a similar fashion, only to discover that such a mod didn't already exist. This honestly surprised me considering how popular the Wolf Link mod is for ToTK , so I decided to make one myself.&lt;br&gt;&lt;br&gt;Behold Wolf Link for Link's Awakening! A mod for those of us that prefer to play as Link in a more wild state. This mod replaces Link with Wolf Link and includes updated map icons to properly reflect this change along with a custom start menu logo. It's important to note that there may still be instances of hylian Link showing up within the game, if you do find such an occurrence please let me know so that I can properly update this mod.&lt;br&gt;&lt;br&gt;There is also a version combined with &lt;a href="https://gamebanana.com/members/1519349"&gt;ToppestOfDogs&lt;/a&gt;'s &lt;a href="https://gamebanana.com/mods/250086"&gt;Classic Shield Mod&lt;/a&gt; so you can get the best of both worlds!&lt;br&gt;&lt;br&gt;If you'd like to support me or give me a tip for this mod then consider sending me a &lt;a href="https://ko-fi.com/vrart1" target="_blank"&gt;donation through ko-fi&lt;/a&gt;~.&lt;br&gt;&lt;br&gt;I do have a few potential upgrades I wanna do for this mod like a more accurate face pattern and tail and maybe adding in paws instead of the boots but those would come later.&lt;br&gt;&lt;br&gt;Files Changed:&lt;br&gt;&lt;ul&gt;&lt;li&gt;romfs/region_common/actor/Playerlink.bfrs&lt;/li&gt;&lt;li&gt;romfs/region_common/ui/Game.arc/timg/__Combined.bntx/Player_00^w&lt;/li&gt;&lt;li&gt;romfs/region_common/ui/Game.arc/timg/__Combined.bntx/Player_01^q&lt;/li&gt;&lt;li&gt;romfs/region_cummon/ui/StartUp.arc/timg/__Combined.bntx/Logo_00^f&lt;/li&gt;&lt;li&gt;romfs/region_cummon/ui/StartUp.arc/timg/__Combined.bntx/Logo_01^f&lt;/li&gt;&lt;li&gt;romfs/regionEU/common/ui/GameRegionCommon.arc/timg/__Combined.bntx/Player_00^w&lt;/li&gt;&lt;li&gt;romfs/regionEU/common/ui/GameRegionCommon.arc/timg/__Combined.bntx/Player_01^q&lt;/li&gt;&lt;li&gt;romfs/regionUS/common/ui/GameRegionCommon.arc/timg/__Combined.bntx/Player_00^w&lt;/li&gt;&lt;li&gt;romfs/regionUS/common/ui/GameRegionCommon.arc/timg/__Combined.bntx/Player_01^q&lt;/li&gt;&lt;/ul&gt;Additional Files Changed For Classic Shield Variant:&lt;br&gt;&lt;ul&gt;&lt;li&gt;romfs/region_common/ui/Game.arc/timg/_Combined.bntx/EqShield_00^_A&lt;/li&gt;&lt;li&gt;romfs/region_common/ui/Game.arc/timg/_Combined.bntx/EqShield_00^q&lt;/li&gt;&lt;/ul&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/wolf_link_master_shield__4496e.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/wolf_link_classic_shield_.zip" type="application/zip"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>The Legend of Lucas</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/535569</link>
+      <comments>https://gamebanana.com/mods/535569#PostsListModule</comments>
+      <guid isPermaLink="false">5ffb6b4ed20d6a3fe042a8b5ba882f643039c515</guid>
+      <pubDate>Thu, 15 Aug 2024 22:08:07 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7bdc28642.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c30e9837.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c32d229f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c3323e3d.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c331a814.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c33c9ef2.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c34373ca.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c343c081.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c3438c06.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c346cdf0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c3487327.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/66be7c34b3ae8.jpg"/&gt;&lt;br&gt;This mod brings Lucas , from mother/earthbound series,over link!&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u class="SelectedElement"&gt;GUIDE FOR INSTALLATION&lt;/u&gt;&lt;br&gt;&lt;br&gt;Drag the folder into the mod folder on yuzu or atmosphere&lt;br&gt;&lt;br&gt;For Yuzu:&amp;nbsp;&lt;code&gt;titleid/Mod/placeromfshere&lt;/code&gt;&lt;br&gt;&lt;br&gt;For Atmosphere:&amp;nbsp;&lt;code&gt;content/titleid/placeromfshere&lt;/code&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/the_legend_of_lucas.rar" type="application/vnd.rar"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Ocarina of Time Mod</title>
+      <author>diegoforfun</author>
+      <link>https://gamebanana.com/mods/534124</link>
+      <comments>https://gamebanana.com/mods/534124#PostsListModule</comments>
+      <guid isPermaLink="false">7da6edf0f88837ad9746f67d9b94cc79cdb4a9ad</guid>
+      <pubDate>Wed, 09 Oct 2024 14:12:11 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/67093913c7cfc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6709392036d57.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67093920dc527.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67093920e7495.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67093920e55c8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6709392107427.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/670939212ea97.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/67093921ea0ed.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; OOT hair model + Master Sword&lt;br&gt;&lt;em&gt;Change&lt;/em&gt;: Ocarina of Time Hair added + Master Sword&lt;br&gt;&lt;hr&gt;&lt;br&gt;This mod brings some Ocarina of Time stuffs to Link's Awakening. &lt;br&gt;&lt;br&gt;&lt;h1&gt;Includes:&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;New &lt;span class="GreenColor"&gt;Link&lt;/span&gt; model and textures&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Master Sword and Mirror Shield&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Boomerang&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Animated Fairies around the map&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h1&gt;New Audio files:&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;&lt;i&gt;Theme Song from OOT3D&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Hirule Field &lt;/i&gt;&lt;/li&gt;&lt;li class="SelectedElement"&gt;&lt;i&gt;Item Pickup Sound FX&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;Tested on 1.0 and 1.0.1 versions.&lt;br&gt;&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/ocarina_of_time_mod_cb621.rar" type="application/vnd.rar"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>One-Hit KO</title>
+      <author>Owen_Splat</author>
+      <link>https://gamebanana.com/mods/467166</link>
+      <comments>https://gamebanana.com/mods/467166#PostsListModule</comments>
+      <guid isPermaLink="false">8133e9cde4e7bcdad6dd84fbd6687e7aec017869</guid>
+      <pubDate>Wed, 06 Sep 2023 04:13:58 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/64f7fae111963.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64f7fae11721a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64f7fae0f3932.jpg"/&gt;&lt;br&gt;Ever thought that Link's Awakening is too easy? Well, here's a one-hit KO mod! I've been (slowly) reverse engineering the main executable for a little bit now, and decided to actually release a simple mod!&lt;br&gt;&lt;br&gt;Most forms of&amp;nbsp;physical damage, as well as falling down holes and drowning should result in a Game Over. There might be some damage that does not currently work, but I will update this as I come across them. Also may update this to only work in Hero Mode in the future as well, we'll see.&lt;br&gt;&lt;br&gt;Works for both versions.&lt;br&gt;&lt;br&gt;&lt;h2&gt;&lt;u&gt;Installation:&lt;/u&gt;&lt;/h2&gt;&lt;br&gt;2&amp;nbsp;premade folders are already made for both console and emulator:&lt;br&gt;&lt;br&gt;- switch sd: drag and drop the "atmosphere" folder to the root of your sd card&lt;br&gt;&lt;br&gt;- emulator: drag and drop the "Links Awakening 1HKO" folder into the mods folder. "exefs" should be the second layer folder</description>
+      <media:content url="https://files.gamebanana.com/mods/las_1hko_mode.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Ultrawide and Extended Culling</title>
+      <author>jaddey23</author>
+      <link>https://gamebanana.com/mods/460345</link>
+      <comments>https://gamebanana.com/mods/460345#PostsListModule</comments>
+      <guid isPermaLink="false">d3d71cc6b0bde916ce2b30d859528b3fea1445f8</guid>
+      <pubDate>Sun, 06 Aug 2023 21:28:29 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/64cbf1a1d2293.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/64cbf19c329fb.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Disable Fog Option Added&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: KeatonTheBot has now added new versions of the mod to disable fog in the Mysterious Forest as a workaround to the fog missing its corners in ultrawide.&lt;br&gt;&lt;hr&gt;&lt;br&gt;&lt;h1&gt;&lt;u&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;/u&gt;&lt;/h1&gt;Here is my first EXEFS mod ever made by KeatonTheBot and I.&lt;br&gt;Link's Awakening in black and white on the OG Gameboy was the first game I ever played in my life, so happy for this to be my first EXEFS mod.&lt;br&gt;&lt;br&gt;The mod extends aspect ratio and off screen culling to either 21:9 or 32:9 instead of default 16:9. We both worked on all aspects of the mod, but &lt;span class="RedColor"&gt;KeatonTheBot &lt;/span&gt;was the one to discover the exact code for aspect ratio and I was the one who managed to find the exact code for extending the culling (before the edge tiles beyond 16:9 would pop in and out of darkness without the culling code extended to beyond the edge of the screen.)&lt;br&gt;&lt;br&gt;Supports both Ver 1.0.0 and 1.0.1&lt;br&gt;&lt;hr&gt;&lt;h1&gt;&lt;u&gt;&lt;b&gt;Known Issues:&lt;/b&gt;&lt;/u&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Mysterious Forest fog is actually an Oval and is missing the 4 corners in 21:9 and above. (&lt;span class="GreenColor"&gt;Update:&lt;/span&gt; &lt;span class="RedColor"&gt;KeatonTheBot&lt;/span&gt; has now added 2 alternate version of the mod to disable fog in the mysterious forest as a workaround to this issue.)&lt;/li&gt;&lt;li&gt;Shadow lighting in rooms is skinnier than they should be and not applied to entire room, creating a line.&lt;/li&gt;&lt;li&gt;OUTER edge of the entire game map on edge tiles now reveals a black void in 21:9 and above beyond what the developers created.&lt;br&gt;&lt;/li&gt;&lt;li&gt;HUD elements are stretched.&lt;/li&gt;&lt;li&gt;Water levels may have issues at ultrawide vs. 16:9&lt;/li&gt;&lt;/ul&gt;&lt;hr&gt;&lt;h1&gt;&lt;b&gt;&lt;u&gt;Installation:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/h1&gt;&lt;h3&gt;&lt;ol&gt;&lt;li&gt;Put into emulator Mod folder. Ensure EXEFS is the second layer folder.&lt;/li&gt;&lt;li class="SelectedElement"&gt;Put emulator in STRETCH TO WINDOW mode (not default, 21:9 etc)&lt;/li&gt;&lt;/ol&gt;&lt;/h3&gt;&lt;hr&gt;&lt;br&gt;&lt;br&gt;You may distribute this mod as long as credit is given to both &lt;span class="RedColor"&gt;KeatonTheBot&lt;/span&gt; and I (&lt;span class="RedColor"&gt;Jaddey&lt;/span&gt;).</description>
+      <media:content url="https://files.gamebanana.com/mods/219_and_extended_culling.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/329_and_extended_culling.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/21_9_and_extended_culling_disable_fog.7z" type="application/x-7z-compressed"/>
+      <media:content url="https://files.gamebanana.com/mods/32_9_and_extended_culling_disable_fog.7z" type="application/x-7z-compressed"/>
+      <category>Aspect Ratio</category>
+      <category>Aspect Ratio</category>
+    </item>
+    <item>
+      <title>No Hero Mode Indicator</title>
+      <author>Gunnadahun</author>
+      <link>https://gamebanana.com/mods/441172</link>
+      <comments>https://gamebanana.com/mods/441172#PostsListModule</comments>
+      <guid isPermaLink="false">ae240d8431ea7fac13aaca38400bbdd433dbec36</guid>
+      <pubDate>Sun, 30 Apr 2023 22:44:44 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/644eeeefc380c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/644eef56cb78a.jpg"/&gt;&lt;br&gt;Remove the Hero Mode HUD&lt;br&gt;&lt;br&gt;Link to website of the creator: https://banchouboo.neocities.org/</description>
+      <media:content url="https://files.gamebanana.com/mods/no_hero_mode_indicator.zip" type="application/zip"/>
+      <category>GUIs</category>
+      <category>GUIs</category>
+    </item>
+    <item>
+      <title>Companions In Dungeons</title>
+      <author>Owen_Splat</author>
+      <link>https://gamebanana.com/mods/429174</link>
+      <comments>https://gamebanana.com/mods/429174#PostsListModule</comments>
+      <guid isPermaLink="false">547f3b32adaf325677f865fce26c3be1d00c9b40</guid>
+      <pubDate>Fri, 24 Feb 2023 02:44:14 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/63f8245bbe2b1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/63f8245bcd6b4.jpg"/&gt;&lt;br&gt;Changes the level config of the dungeons to allow companions to go inside with Link</description>
+      <media:content url="https://files.gamebanana.com/mods/dungeon_companions.zip" type="application/zip"/>
+      <category>Game files</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>[Commission] Aki Link</title>
+      <author>Xuman</author>
+      <link>https://gamebanana.com/mods/413734</link>
+      <comments>https://gamebanana.com/mods/413734#PostsListModule</comments>
+      <guid isPermaLink="false">a5956beb647da718ce98bb4c78a4b6c4bc334252</guid>
+      <pubDate>Thu, 24 Nov 2022 23:56:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6380042be9660.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/638004454f72a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/638004458d182.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/63800445a4f65.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6380044666476.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/63800446b8e79.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6380044770aa0.jpg"/&gt;&lt;br&gt;&lt;h1&gt;&lt;a href="https://ko-fi.com/post/Download-The-Legend-of-Zelda-Links-Awakening-D1D3GLFD8" target="_blank" class="SelectedElement"&gt;*** Download This Mod Here***&lt;/a&gt;&lt;br&gt;&lt;/h1&gt;&lt;br&gt;This is a mod that changes Links model completely into Aki.&lt;br&gt;&lt;br&gt;The Aki model belongs to the commissioner and was sent to me&lt;br&gt;&lt;br&gt;for import.&lt;br&gt;&lt;br&gt;This mod was commissioned by OrangeisBorange.&lt;br&gt;&lt;br&gt;&lt;br&gt;You can get your own mod commission by visiting the link below.&lt;br&gt;&lt;br&gt;&lt;a href="https://ko-fi.com/hunterxuman/commissions" target="_blank"&gt;https://ko-fi.com/hunterxuman/commissions&lt;/a&gt;&lt;br&gt;&lt;br&gt;Visit my twitter to see more of my work&amp;nbsp;&lt;a href="https://twitter.com/HunterXuman" target="_blank"&gt;https://twitter.com/HunterXuman&lt;/a&gt;&lt;br&gt;&lt;br&gt;--- Installation ---&lt;br&gt;&lt;br&gt;Drag the romfs folder into the mod folder on yuzu or atmosphere&lt;br&gt;&lt;br&gt;For Yuzu:&amp;nbsp;&lt;code&gt;titleid/Mod/placeromfshere&lt;/code&gt;&lt;br&gt;&lt;br&gt;For Atmosphere:&amp;nbsp;&lt;code&gt;content/titleid/placeromfshere&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;&lt;a href="https://ko-fi.com/post/Download-The-Legend-of-Zelda-Links-Awakening-D1D3GLFD8" target="_blank" class="SelectedElement"&gt;*** Download This Mod Here***&lt;/a&gt;&lt;/h1&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/aki_link.zip" type="application/zip"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Shadow Link MOD</title>
+      <author>ZiaxGeek</author>
+      <link>https://gamebanana.com/mods/406513</link>
+      <comments>https://gamebanana.com/mods/406513#PostsListModule</comments>
+      <guid isPermaLink="false">0a6973454667c159c1c1492d97ff057c6a49ca8d</guid>
+      <pubDate>Thu, 13 Oct 2022 18:02:07 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/63484f9520bc1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/63484f978d04f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/63484f99128d8.jpg"/&gt;&lt;br&gt;This mod allows you to play as Dark Link but, unlike the other mod with this only the player is black coloured and Link's Items are normal coloured. Personally I think that, in this way, the game is much more realistic and better than make its items black too.&lt;br&gt;&lt;br&gt;&lt;u class="SelectedElement"&gt;GUIDE FOR INSTALLATION&lt;/u&gt;&lt;br&gt;&lt;br&gt;Download the file, unzip it and double-click the folders until you see the "01006BB00C6F0000" folder. Than copy the "01006BB00C6F0000" folder in the atmosphere\contents directory of your SD card. Boot your console where there must be a CFW installed and the mod should work properly! (It works also with all switch emulators).&lt;br&gt;&lt;br&gt;To install on yuzu emulator or others: rename the "01006BB00C6F0000" folder inside the zip you've downloaded to "Shadow Link Mod" and put it in C:\Users\{UserName}\Appdata\Roaming\yuzu\load\01006BB00C6F0000 and boot the game.&lt;br&gt;&lt;br&gt;I hope you enjoy it!&lt;br&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/shadow_link_mod.zip" type="application/zip"/>
+      <category>Player Model/Skin</category>
+      <category>Skins</category>
+    </item>
+  </channel>
+</rss>
