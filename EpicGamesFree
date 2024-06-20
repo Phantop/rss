@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Totally Reliable Delivery Service Standard Edition</title>
+      <author>Infogrames LLC</author>
+      <link>https://store.epicgames.com/en-US/p/totally-reliable-delivery-service</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/totally-reliable-delivery-service</guid>
+      <pubDate>Thu, 14 Aug 2025 15:00:00 +0000</pubDate>
+      <description>Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three friends and haphazardly get the job done in an interactive sandbox world. Delivery attempted, that's a Totally Reliable Delivery Service guarantee!</description>
+      <media:content url="https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Hidden Folks</title>
+      <author>Adriaan de Jongh</author>
+      <link>https://store.epicgames.com/en-US/p/hidden-folks-239d16</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/hidden-folks-239d16</guid>
+      <pubDate>Thu, 14 Aug 2025 15:00:00 +0000</pubDate>
+      <description>Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1b7hh.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1t2yn.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1oe85.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-pslbd.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-dfjid.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-wagmo.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-94bdv.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1w9i7.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1x52l.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1p1vv.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-u2xnh.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
