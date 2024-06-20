@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>GameBanana - The Legend of Zelda: Breath of the Wild (Switch)</title>
+    <description>GameBanana - The Legend of Zelda: Breath of the Wild (Switch)</description>
+    <link>https://gamebanana.com/games/6386</link>
+    <atom:link rel="alternate" type="text/html" href="https://gamebanana.com/games/6386"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://images.gamebanana.com/static/img/favicon/favicon.ico</url>
+      <title>GameBanana - The Legend of Zelda: Breath of the Wild (Switch)</title>
+      <link>https://gamebanana.com/games/6386</link>
+    </image>
+    <item>
+      <title>Magnesis+</title>
+      <author>Samus_Aran</author>
+      <link>https://gamebanana.com/mods/619774</link>
+      <comments>https://gamebanana.com/mods/619774#PostsListModule</comments>
+      <guid isPermaLink="false">ed53636451fd6b71fd5e7579506d2ef5e14c349d</guid>
+      <pubDate>Sat, 13 Sep 2025 13:33:41 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c57181abf49.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c57194d33b3.jpg"/&gt;&lt;br&gt;This is a simple mod that extends the&lt;u&gt;&lt;i&gt;&amp;nbsp;range and height limits x4&lt;/i&gt;&lt;/u&gt;&amp;nbsp;for the Magnesis / Magnet Glove.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Magnesis&lt;/span&gt;:&lt;br&gt;See that chest out in the water? Yeah, you're going to have to make ice blocks out to the middle of the river and be directly above the chest just to reach it.&lt;br&gt;&lt;br&gt;&lt;span class="GreenColor"&gt;Magnesis+&lt;/span&gt;: Just grab it.&lt;br&gt;&lt;br&gt;&lt;i&gt;(If anyone requests a different range just let me know. x4 seemed like plenty and didn't have any lagging problems.)&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;span class="RedColor"&gt;Disclaimer: I play on WiiU. This port was requested by another user. I have not been able to test this mod, but I have double checked the files and it should work. If it doesn't, please leave a comment.&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/magnesis_v1_b1d97.zip" type="application/zip"/>
+      <media:content url="https://files.gamebanana.com/mods/magnesis_files_c3582.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Remote Bomb++</title>
+      <author>Samus_Aran</author>
+      <link>https://gamebanana.com/mods/619618</link>
+      <comments>https://gamebanana.com/mods/619618#PostsListModule</comments>
+      <guid isPermaLink="false">c832e95c29379a8117263f8552a92cad32741d14</guid>
+      <pubDate>Fri, 12 Sep 2025 19:20:12 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c471f2b3da0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c471f0b525f.jpg"/&gt;&lt;br&gt;Increases the damage of bombs by 3x. Increases the throw distance of bombs by 30%&lt;br&gt;&lt;br&gt;Only applies to Remote Bombs+ so, to see these effects, be sure to go upgrade your bombs with Purah at Hateno Ancient Tech Lab.&lt;br&gt;&lt;br&gt;&lt;span class="RedColor"&gt;Disclaimer: I play on WiiU. This port was requested by another user. I have not been able to test this mod, but I have double checked the files and it should work. If it doesn't, please leave a comment.&lt;/span&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/remote_bombs_v1.zip" type="application/zip"/>
+      <category>Other/Misc</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Two Hands to One Hand (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/619176</link>
+      <comments>https://gamebanana.com/mods/619176#PostsListModule</comments>
+      <guid isPermaLink="false">c2e2ad15b599b6f61d7e4896b2c2f9bb600b515d</guid>
+      <pubDate>Wed, 10 Sep 2025 03:03:24 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0ea5e854fc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0ea617143f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0ea6b7882f.jpg"/&gt;&lt;br&gt;Credit to NateHevens for the original mod -&amp;nbsp;&lt;a href="https://gamebanana.com/mods/296633"&gt;Two Hands to One Hand Mod for The Legend of Zelda: Breath of the Wild (WiiU) | BotW Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;Enjoy the mod!</description>
+      <media:content url="https://files.gamebanana.com/mods/twohandstoonehandweapons_9a67b_switch.bnp" type="application/octet-stream"/>
+      <category>Weapons</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Bleeding Animal and Enemies (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/619174</link>
+      <comments>https://gamebanana.com/mods/619174#PostsListModule</comments>
+      <guid isPermaLink="false">cac0e41d60bf3c19d815e2c2aad41562fc946d0e</guid>
+      <pubDate>Wed, 10 Sep 2025 02:57:06 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0e8c17ead0.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0e8cea6bd3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0e8eadccf7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68c0e8efa0b43.jpg"/&gt;&lt;br&gt;Credit to Manjiro for the original mod - &lt;a href="https://gamebanana.com/mods/590083"&gt;Bleeding Animal and Enemies Mod for The Legend of Zelda: Breath of the Wild (WiiU) | BotW Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;Credit to Miirkuz for Dark Army Resurrection (Which originally had the blood and then Manjiro mad a standalone version which is what this is)&lt;br&gt;&lt;br&gt;Check out Dark Army Resurrection For BOTW (WiiU/CEMU) - &lt;a href="https://gamebanana.com/mods/343366"&gt;Dark Army Resurrection Mod for The Legend of Zelda: Breath of the Wild (WiiU) | BotW Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;Check out Dark Army Resurrection For TOTK As Well - &lt;a href="https://gamebanana.com/mods/453422"&gt;Dark Army Resurrection Mod for The Legend of Zelda: Tears of the Kingdom | TOTK Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;Enjoy the mod!</description>
+      <media:content url="https://files.gamebanana.com/mods/bleedinganimalsenemies_switch.bnp" type="application/octet-stream"/>
+      <category>Enemies</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Vigilant Yasha</title>
+      <author>heavenseyes</author>
+      <link>https://gamebanana.com/mods/618548</link>
+      <comments>https://gamebanana.com/mods/618548#PostsListModule</comments>
+      <guid isPermaLink="false">7e91f25de1e89b86ab18a6da9acc0d6a2fd5f26d</guid>
+      <pubDate>Sat, 06 Sep 2025 23:49:30 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68bcc7d76f4fc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68bcc7d71d311.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68bcc7d79fe28.jpg"/&gt;&lt;br&gt;This mod adds in Xiao's spear the Primordial Jade Winged-Spear and his signature Vigilant Yaksha mask from Genshin Impact, complete with glowing eyes and a pinch of badassery.&lt;br&gt;&lt;br&gt;-The spear is indestructible with a power of 40.&lt;br&gt;-The mask gives 20 defense and also a good boost to climbing speed.&lt;br&gt;&lt;br&gt;They can be found in chests on top of Satori Mountain.</description>
+      <media:content url="https://files.gamebanana.com/mods/vigilant_yasha.bnp" type="application/octet-stream"/>
+      <category>Weapons</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Link Black hair &amp; Brown eyes botw (Switch Port)</title>
+      <author>BloodFalcon2547</author>
+      <link>https://gamebanana.com/mods/616192</link>
+      <comments>https://gamebanana.com/mods/616192#PostsListModule</comments>
+      <guid isPermaLink="false">1f7a4a5834f39312d308068c6ec29a2524cc8082</guid>
+      <pubDate>Tue, 26 Aug 2025 00:46:35 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68ad026e37e59.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68ad0272d43c1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68ad03a5846e8.jpg"/&gt;&lt;br&gt;gives Link some good old Black hair &amp;amp; Brown eyes&lt;br&gt;&lt;br&gt;Credit to Cievic for the original mod - https://gamebanana.com/mods/376866&lt;br&gt;&lt;br&gt;Requested By BarbaPower91</description>
+      <media:content url="https://files.gamebanana.com/mods/link_black_hair_brown_eyes_botw_switch.rar" type="application/vnd.rar"/>
+      <category>Player</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Stasis No Cooldown &amp; Longer Duration (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/609094</link>
+      <comments>https://gamebanana.com/mods/609094#PostsListModule</comments>
+      <guid isPermaLink="false">dc7b60f0d6d093a11d2f2e7450a23dd8cd1f76e8</guid>
+      <pubDate>Thu, 24 Jul 2025 18:36:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68827cdd43652.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68827cef57251.jpg"/&gt;&lt;br&gt;Credit to SmexySkullZz for the original mod -&amp;nbsp;&lt;a href="https://gamebanana.com/mods/437078"&gt;Stasis No Cooldown &amp;amp; Longer Duration Mod for The Legend of Zelda: Breath of the Wild (WiiU) | BotW Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;Requested By BloodFalcon 2547</description>
+      <media:content url="https://files.gamebanana.com/mods/stasisnocooldownandultralongduration_switch.bnp" type="application/octet-stream"/>
+      <category>Player</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Linkle 3.0 Hair and eyes (special) Switch Port</title>
+      <author>bananercream</author>
+      <link>https://gamebanana.com/mods/608290</link>
+      <comments>https://gamebanana.com/mods/608290#PostsListModule</comments>
+      <guid isPermaLink="false">a1dda55dc40ddb9bf0ad320b4e1ea00ebc9b1a87</guid>
+      <pubDate>Sun, 20 Jul 2025 23:25:24 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/687d7ad3e2084.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/687d77d043886.jpg"/&gt;&lt;br&gt;i was bored and the original mod wasn't porting over so i messed around with TitleBG.pack and it spat things out properly&lt;br&gt;&lt;br&gt;i only did the special choice. but if you want to do the same: download the mod version you want from the original mod post:&amp;nbsp;&lt;a href="https://gamebanana.com/mods/407243" class="SelectedElement"&gt;https://gamebanana.com/mods/407243&lt;/a&gt;, open the bnp as a zip file, use this &lt;a href="https://gamebanana.com/tuts/12786"&gt;pack editing tutorial&amp;nbsp;&lt;/a&gt;and add every &lt;span class="RedColor"&gt;non&lt;/span&gt; Armor_xxxxx.xxxx file to Pack/TitleBG.pack of&amp;nbsp;&lt;span class="RedColor"&gt;both the base "content" folder&lt;/span&gt; and &lt;span class="RedColor"&gt;the "content"&lt;/span&gt;&lt;span class="RedColor"&gt;&amp;nbsp;folder of the option you want to use&lt;/span&gt;. If it doesn't exist, make a blank txt file at that directory and rename it to that. once you overwrite the file you won&amp;lt;t have to worry. then, port it using &lt;a href="https://github.com/KillzXGaming/Switch-Toolbox/wiki/Porting-Wii-U-Switch-mods" target="_blank"&gt;https://github.com/KillzXGaming/Switch-Toolbox/wiki/Porting-Wii-U-Switch-mods&lt;/a&gt;.&lt;br&gt;&lt;br&gt;original mod: &lt;a href="https://gamebanana.com/mods/407243" class="SelectedElement"&gt;https://gamebanana.com/mods/407243&lt;/a&gt;&amp;nbsp;and special thanks to&amp;nbsp;&lt;img src="https://images.gamebanana.com/img/upic/647dd2e71a4b7.png" alt="Loelita uPic" class="Upic"&gt;for originally creating this mod, as well as&amp;nbsp;&lt;a class="MemberLink" href="https://gamebanana.com/members/1826204" data-id="member_1826204"&gt;EvanM0816&lt;/a&gt;&amp;nbsp;for the upgrades to it</description>
+      <media:content url="https://files.gamebanana.com/mods/loelitasspecialversion13_switch.bnp" type="application/octet-stream"/>
+      <category>Linkle</category>
+      <category>Skins</category>
+    </item>
+    <item>
+      <title>Steam Shirt</title>
+      <author>DopeOE</author>
+      <link>https://gamebanana.com/mods/606468</link>
+      <comments>https://gamebanana.com/mods/606468#PostsListModule</comments>
+      <guid isPermaLink="false">47a108d4128f8a1a2fe78cd4571c00adca4558b6</guid>
+      <pubDate>Sat, 12 Jul 2025 14:20:05 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/68726c3ddfec1.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68726c3de3455.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/68726c811b48c.jpg"/&gt;&lt;br&gt;This is my first attempt at a mod on anything so please don't hate me.</description>
+      <media:content url="https://files.gamebanana.com/mods/steam_shirt.zip" type="application/zip"/>
+      <category>Textures</category>
+      <category>Textures</category>
+    </item>
+    <item>
+      <title>Sleepover with Paya +5 Hearts (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/605354</link>
+      <comments>https://gamebanana.com/mods/605354#PostsListModule</comments>
+      <guid isPermaLink="false">7890e94f4b3215195465c37516b5aac97193b015</guid>
+      <pubDate>Mon, 07 Jul 2025 01:12:37 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/686b1ee6499c5.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/686b1eee51e5b.jpg"/&gt;&lt;br&gt;Credit to MelloFello for the original mod - &lt;a href="https://gamebanana.com/mods/49847"&gt;Sleepover with Paya +5 hearts Mod for The Legend of Zelda: Breath of the Wild (WiiU) | BotW Mods&lt;/a&gt;&lt;br&gt;&lt;br&gt;Requested by Shrimpses</description>
+      <media:content url="https://files.gamebanana.com/mods/payasleepover_switch.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/sleepoverwithpaya-linkleversion_switch.bnp" type="application/octet-stream"/>
+      <category>NPC</category>
+      <category>NPC</category>
+    </item>
+    <item>
+      <title>Xbox Shirt Over Nintendo Switch Shirt (UPDATED)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/604451</link>
+      <comments>https://gamebanana.com/mods/604451#PostsListModule</comments>
+      <guid isPermaLink="false">2b6d7e3fb83c4a5e0f66620ce96c0ac1a012e4eb</guid>
+      <pubDate>Wed, 02 Jul 2025 23:51:23 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6865c59103c5c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6865c5ddee96a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6865c5f6555bc.jpg"/&gt;&lt;br&gt;Credit to Trollsquad57 for the original mod -&amp;nbsp;&lt;a href="https://gamebanana.com/mods/9244"&gt;Xbox shirt over Nintendo Switch shirt Mod for The Legend of Zelda: Breath of the Wild (Switch) | BotW Mods&lt;/a&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/xboxshirt.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Own a House in Tarrey Town (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/602582</link>
+      <comments>https://gamebanana.com/mods/602582#PostsListModule</comments>
+      <guid isPermaLink="false">06eba5825dd37e31f442fbf093231e84e4e6fe57</guid>
+      <pubDate>Tue, 24 Jun 2025 01:21:42 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd1a03fd3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd26058c4.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd2eae330.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd3d7f86b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd4753e88.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd544e6a3.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd5eb1384.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd6c38173.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd7b51956.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd8381467.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd90ad651.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859fd9ca0b02.jpg"/&gt;&lt;br&gt;Credit to LesQuoSeTo for the original mod&amp;nbsp;</description>
+      <media:content url="https://files.gamebanana.com/mods/ownahouseintarrytown_switch.bnp" type="application/octet-stream"/>
+      <media:content url="https://files.gamebanana.com/mods/ownahouseintarrytownnodogs_switch.bnp" type="application/octet-stream"/>
+      <category>OverWorld/Field</category>
+      <category>Maps</category>
+    </item>
+    <item>
+      <title>Own a House in Hebra (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/602577</link>
+      <comments>https://gamebanana.com/mods/602577#PostsListModule</comments>
+      <guid isPermaLink="false">9cffa0907294ad4ca6b286eb258ec31cdbc3b019</guid>
+      <pubDate>Tue, 24 Jun 2025 00:38:28 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6859f355c0dbc.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859f36a3cb46.jpg"/&gt;&lt;br&gt;Credit to LesQuoSeTo for the original mod&lt;br&gt;&lt;br&gt;The original mod was called Own a House in Tabantha but I changed that because the house is located in Hebra.</description>
+      <media:content url="https://files.gamebanana.com/mods/ownahouseintabantha_switch.bnp" type="application/octet-stream"/>
+      <category>OverWorld/Field</category>
+      <category>Maps</category>
+    </item>
+    <item>
+      <title>Play as Cucco (Switch) (Kinda)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/602558</link>
+      <comments>https://gamebanana.com/mods/602558#PostsListModule</comments>
+      <guid isPermaLink="false">896a15a0a4b1b8c9240d41c725c86989eabb337f</guid>
+      <pubDate>Mon, 23 Jun 2025 22:31:14 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6859d55c39f2c.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6859d56065ed1.jpg"/&gt;&lt;br&gt;Credit to Banan039 for the original mod&lt;br&gt;&lt;br&gt;If your wondering why it says kinda in the mod title is because when you load the game the cucco will be a brown texture, idk why it is like this. I still wanted to upload it though since other than that it stills works pretty fine.&lt;br&gt;&lt;br&gt;And btw the screenshot for the mod is from Banan039's mod page.&lt;br&gt;&lt;br&gt;NOTE: This mod was only tested on my modded switch.&lt;br&gt;&lt;br&gt;EDIT: The cucco changes textures when you walk sometimes which is pretty cool.</description>
+      <media:content url="https://files.gamebanana.com/mods/cucco_revenge_just_switch.bnp" type="application/octet-stream"/>
+      <category>Player</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>TRUE INFINITE DURABILITY + NEW NG+</title>
+      <author>Porroman420</author>
+      <link>https://gamebanana.com/mods/600836</link>
+      <comments>https://gamebanana.com/mods/600836#PostsListModule</comments>
+      <guid isPermaLink="false">daab2b4c68158eb16e0c09faecdd1ff69b35ae34</guid>
+      <pubDate>Mon, 23 Jun 2025 09:28:55 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/684fa7a7dba37.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/684fa7a9c210b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/684fa7a787e3a.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/684fa7af044ff.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/684fa79c781fa.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; INFINITE MASTER CYCLE ZERO&lt;br&gt;&lt;p&gt;EXTRACT AND DROP INSIDE ACTOR\PACK (where the weapon files are tho)&lt;/p&gt;&lt;br&gt;&lt;em&gt;Addition&lt;/em&gt;: MODIFIED CYCLE, NOW IT HAS INFINITE FUEL BY DEFAULT&lt;br&gt;&lt;hr&gt;&lt;br&gt;Hello, from time to time i like to port obscure mods i tend to find on the web, i present you proper unbreakable weapons mod (they don't have durability+ modifier like other mods do) now weapons are trully unbreakable, wanna use a treebranch all the game ? now you can do ! &lt;br&gt;&lt;br&gt;also i included a new proper ng+ savegame (master mode save, to use with normal mode just paste game_data.sav) with this save you still need to do the complete tutorial to get the runes but :&lt;br&gt;&lt;br&gt;the ng+ includes &lt;br&gt;- Paraglider from the start&lt;br&gt;&lt;br&gt;- Master Cycle Zero from the start (once you get the sheikah slate from the first guidance stone, open map, and select the byke rune from L button menu in case the rune menu doesn't open up with dpad up)&lt;br&gt;&lt;br&gt;-3 stamina wheels / 3 hearts (you can buy other 9 hearts at the demon statue in Hateno to get the master sword without doing more shrines than the first four at the plateau or any divine beast)&lt;br&gt;&lt;br&gt;- all locations discovered (included shrines) BUT no easy fast travel (enabling shrines teleport tend to break quest, also softlocks you if you try to do certain shrine quest too, also i find it better to not fast travel since the start)&lt;br&gt;&lt;br&gt;- some items so you can cook stats boosting meals/camp &lt;br&gt;&lt;br&gt;-999 rupees&lt;br&gt;&lt;br&gt;-True Hylian Shield 1000 block points (you can now block golden lynel explosions without any stagger)&lt;br&gt;&lt;br&gt;- Ancient Shield intended for shield surf (shield surf up, guardian/ancient shields are way more slippery than the radiant shield)&lt;br&gt;&lt;br&gt;- Boosted Ancient Sword &lt;br&gt;&lt;br&gt;- all arrows 999 except ancient arrows (they are too op, only 100 ancient arrows from the go)&lt;br&gt;&lt;br&gt;- savage lynel bow 5 arrow burst, twilight bow 60 dmg (intended for solving puzzles)&lt;br&gt;&lt;br&gt;- clothes for heat/cold/lava areas/climbing/swiming (zora greaves/helm) + 2 bonus sets from the go (surprise)&lt;br&gt;&lt;br&gt;- 900 koroks discovered with their seeds (what a waste of time tbh)&lt;br&gt;&lt;br&gt;- BE WARY !!! the strongest enemy variations are roaming now (in master mode you can encounter golden enemies at the plateau)&lt;br&gt;&lt;br&gt;- complete compendium (you still need to repair the sheikah slate at hateno, but once you do, all compendium pictures are gonna be there)&lt;br&gt;&lt;br&gt;of course i added a lot of stuff while keeping other things unchanged ... due to how they can break the whole game, or due to how they can make the ng+ experience kind of shallow &lt;br&gt;&lt;br&gt;just in case it doesn't seem clear, if you want to get the master sword, complete the first 4 tutorial shrines at plateau , trade those spirit orbs for a heart container, reach the demon statue at Hateno and buy the other 9 with it (in any case you are gonna end up with 13 hearts, once you defeat all divine beast you are gonna have 17, getting the other 13 is a matter of completing shrines)</description>
+      <media:content url="https://files.gamebanana.com/mods/infinite_durability.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/ng__cf4f1.rar" type="application/vnd.rar"/>
+      <media:content url="https://files.gamebanana.com/mods/gamerommotorcycle.rar" type="application/vnd.rar"/>
+      <category>Other/Misc</category>
+      <category>Textures</category>
+    </item>
+    <item>
+      <title>Lore Friendly Switch Shirt (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/601256</link>
+      <comments>https://gamebanana.com/mods/601256#PostsListModule</comments>
+      <guid isPermaLink="false">40cfde5ac904fc88f0d454c0bb6bc9cd73afb9e9</guid>
+      <pubDate>Wed, 18 Jun 2025 04:49:01 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/685244db49a4b.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/685244d6b3ad7.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/685244fb4fe50.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6852450711802.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6852450ee5f19.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6852450b885fa.jpg"/&gt;&lt;br&gt;Original mod by Coriantum&lt;br&gt;&lt;br&gt;I tested it on only my modded switch so it might not work on Yuzu and Ryujinx.</description>
+      <media:content url="https://files.gamebanana.com/mods/lorefriendlyswitch_switch.bnp" type="application/octet-stream"/>
+      <category>Armor</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Dar Double Jump (Standalone) (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/601243</link>
+      <comments>https://gamebanana.com/mods/601243#PostsListModule</comments>
+      <guid isPermaLink="false">22cffedb19ac1abfbf1c6dccecfa2ee618467d13</guid>
+      <pubDate>Wed, 18 Jun 2025 03:45:14 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6852356d086eb.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/685235943227f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/685235a1aea5d.jpg"/&gt;&lt;br&gt;Credit to BiEmily for the original mod&lt;br&gt;&lt;br&gt;NOTE: This mod was only tested on my modded switch and not on Yuzu or Ryuinx so may not work on any emulators.&lt;br&gt;&lt;br&gt;And also credit to Miirkuz for Dark Army Resurrection for both BOTW and TOTK.</description>
+      <media:content url="https://files.gamebanana.com/mods/doublejump_switch.bnp" type="application/octet-stream"/>
+      <category>Animations</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>New Gerudo Town (Switch)</title>
+      <author>Skull_Kid_64</author>
+      <link>https://gamebanana.com/mods/600850</link>
+      <comments>https://gamebanana.com/mods/600850#PostsListModule</comments>
+      <guid isPermaLink="false">461d8f42e240367c76d9f77918d1e252e59b04f4</guid>
+      <pubDate>Mon, 16 Jun 2025 06:14:39 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/684fb6455506e.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/684fb65a260c1.jpg"/&gt;&lt;br&gt;Credit to Joronaud for the original mod.&lt;br&gt;&lt;br&gt;This is switch port of Joronaud's mod New Gerudo Town.&lt;br&gt;&lt;br&gt;Disclaimer: I only tested this mod on my modded switch so I don't know if it will work on Yuzu or Ryujinx.&lt;br&gt;&lt;br&gt;And you will need BCML or UKMM to install this mod and if you need help with that you can let me know.&lt;br&gt;&lt;br&gt;And in the future, i'll learn how to make my own mods, so stay tuned for more to come.</description>
+      <media:content url="https://files.gamebanana.com/mods/newgerudotown_switch_3623f.bnp" type="application/octet-stream"/>
+      <category>OverWorld/Field</category>
+      <category>Maps</category>
+    </item>
+    <item>
+      <title>Save All Shrines [BOTW] [FR]</title>
+      <author>Cesstyle</author>
+      <link>https://gamebanana.com/mods/597224</link>
+      <comments>https://gamebanana.com/mods/597224#PostsListModule</comments>
+      <guid isPermaLink="false">d90c4e24eac29c91c10f1ef2d2afb9d4e89b2ca7</guid>
+      <pubDate>Wed, 28 May 2025 21:37:34 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/6837821753ac8.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/6837821a8c465.jpg"/&gt;&lt;br&gt;Comme sur Zelda TOTK, je poste la sauvegarde de tous les sanctuaires affiché sur la carte mais pas fait pour pouvoir s'amuser à les speedrunner si l'envie vous prend.&lt;br&gt;J'ai aussi tout retiré de l'inventaire de Link pour faire en sorte de recommencer ça à zéro et biensur les 4 premiers sanctuaires sont fait pour avoir les pouvoirs mais faites les quand même pour bien faire ça entièrement.</description>
+      <media:content url="https://files.gamebanana.com/mods/save_all_sanctuaires_b0ad0.rar" type="application/vnd.rar"/>
+      <category>Game files</category>
+      <category>Game files</category>
+    </item>
+    <item>
+      <title>Rideable Donkeys of Hyrule</title>
+      <author>HGStone</author>
+      <link>https://gamebanana.com/mods/472216</link>
+      <comments>https://gamebanana.com/mods/472216#PostsListModule</comments>
+      <guid isPermaLink="false">40d5ef838c45263a2f8967b216f9dad516b4e07a</guid>
+      <pubDate>Wed, 14 May 2025 01:30:37 +0000</pubDate>
+      <description>&lt;img src="https://images.gamebanana.com/img/ss/mods/651e209c4571f.jpg"/&gt;&lt;img src="https://images.gamebanana.com/img/ss/mods/651e209f3256f.jpg"/&gt;&lt;br&gt;&lt;strong&gt;Update:&lt;/strong&gt; Now contains a Donkey&lt;br&gt;&lt;p&gt;No longer requires the Rideable Donkeys mod as this mod now includes an improved donkey with proper tail physics.&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;br&gt;Rideable Donkeys can be found across Hyrule wherever you find horses.&lt;br&gt;&lt;br&gt;Try not to make an ass of yourself at a stable.&lt;br&gt;&lt;br&gt;Donkey&lt;br&gt;&lt;br&gt;&lt;img src="https://files.gamebanana.com/bitpit/please3.png"&gt;</description>
+      <media:content url="https://files.gamebanana.com/mods/donkeys_of_hyrule_101_switch.bnp" type="application/octet-stream"/>
+      <category>Horses</category>
+      <category>Skins</category>
+    </item>
+  </channel>
+</rss>

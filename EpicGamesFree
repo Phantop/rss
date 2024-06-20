@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Epic Games Free Games</title>
+    <description>Epic Games Free Games</description>
+    <link>https://store.epicgames.com/en-US/free-games</link>
+    <atom:link rel="alternate" type="text/html" href="https://store.epicgames.com/en-US/free-games"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://"/>
+    <image>
+      <url>https://store.epicgames.com/favicon.ico</url>
+      <title>Epic Games Free Games</title>
+      <link>https://store.epicgames.com/en-US/free-games</link>
+    </image>
+    <item>
+      <title>Samorost 2</title>
+      <author>Amanita Design s.r.o.</author>
+      <link>https://store.epicgames.com/en-US/p/samorost-2-1b9bb1</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/samorost-2-1b9bb1</guid>
+      <pubDate>Thu, 18 Sep 2025 15:00:00 +0000</pubDate>
+      <description>Samorost 2 tells a surreal story of a space gnome whose dog just got kidnapped by mischievous aliens. Set out on a short expedition to rescue the pup, deal with curious strangers and relax to the soothing music by Tomáš "Floex" Dvořák.</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1hb4u.jpg" type="image/jpeg"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-l1bxz.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Project Winter</title>
+      <author>Other Ocean Interactive</author>
+      <link>https://store.epicgames.com/en-US/p/project-winter-3b9e84</link>
+      <guid isPermaLink="true">https://store.epicgames.com/en-US/p/project-winter-3b9e84</guid>
+      <pubDate>Thu, 18 Sep 2025 15:00:00 +0000</pubDate>
+      <description>In Project Winter, survival is just the beginning. Work with your friends to escape the icy wilderness, but don’t get too comfortable. Traitors lurk among you, ready to lie, sabotage, and turn even the closest of friends against each other. Who will you trust?</description>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-phsnu.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1n3dm.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-177ap.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-17iys.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-7z1gx.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-tdl7i.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-4sej6.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-9cbaw.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-zrzhy.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-12nn7.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1f4o7.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1kmtp.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-sm1me.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1wter.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-a1xp5.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1ljbl.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-ds8wx.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-bqcix.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1qmds.png" type="image/png"/>
+      <media:content url="https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-1auxm.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
