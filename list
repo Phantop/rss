@@ -1,7 +1,8 @@
 AllSidesBridge
 ArsTechnicaBridge
 CssSelectorBridge&home_page=https%3A%2F%2Ftext.npr.org%2F1001&url_selector=.topic-title&content_selector=.paragraphs-container
-CssSelectorBridge&home_page=https%3A%2F%2Fwww.govtrack.us%2Fposts&url_selector=section&content_selector=%23content
+CssSelectorBridge&home_page=https%3A%2F%2Fgovtrack.us%2Fposts&url_selector=section&content_selector=%23content
+CssSelectorBridge&home_page=https%3A%2F%2Fjvgs.net&url_selector=li&content_selector=article&limit=6
 CssSelectorFeedExpanderBridge&feed=https%3A%2F%2Ffeeds.npr.org%2F1180232252%2Frss.xml&content_selector=%23storytext
 GameBananaBridge&context=Game&gid=18604&updates=on
 GameBananaBridge&context=Game&gid=5486&updates=on
