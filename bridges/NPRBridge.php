@@ -11,9 +11,9 @@ class NPRBridge extends FeedExpander
             'name' => 'Site section',
             'type' => 'list',
             'defaultValue' => '1001',
-            # Obtained from https://legacy.npr.org/list?date=2024-05-05&id=
-            # With ids: 3002 (Topics), 3004 (Programs), 3006 (Series)
-            # Feeds cleaned up to exclude all that hadn't updated this year
+            // Obtained from https://legacy.npr.org/list?date=2024-05-05&id=
+            // With ids: 3002 (Topics), 3004 (Programs), 3006 (Series)
+            // Feeds cleaned up to exclude all that hadn't updated this year
             'values' => [
                 'All Things Considered' => '2',
                 'Morning Edition' => '3',
@@ -163,7 +163,7 @@ class NPRBridge extends FeedExpander
 
     public function getIcon()
     {
-        return 'https://npr.org/favicon.ico';
+        return 'https://media.npr.org/chrome/favicon/favicon.ico';
     }
 
     public function collectData()
