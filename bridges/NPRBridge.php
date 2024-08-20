@@ -10,7 +10,7 @@ class NPRBridge extends FeedExpander
         'section' => [
             'name' => 'Site section',
             'type' => 'list',
-            'defaultValue' => '1001',
+            'defaultValue' => '1002',
             // Obtained from https://legacy.npr.org/list?date=2024-05-05&id=
             // With ids: 3002 (Topics), 3004 (Programs), 3006 (Series)
             // Feeds cleaned up to exclude all that hadn't updated this year
