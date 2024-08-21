@@ -1,4 +1,4 @@
-AllSidesBridge
+AllSidesBridge&fetch=true&limit=10
 ArsTechnicaBridge
 CssSelectorBridge&home_page=https%3A%2F%2Fgovtrack.us%2Fposts&url_selector=section&content_selector=%23content
 CssSelectorBridge&home_page=https%3A%2F%2Fjvgs.net&url_selector=li&content_selector=article&limit=6
