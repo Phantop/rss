@@ -1,28 +1,8 @@
-diff --git a/bridges/ArsTechnicaBridge.php b/bridges/ArsTechnicaBridge.php
-index fcb1bd4f..78590ea5 100644
---- a/bridges/ArsTechnicaBridge.php
-+++ b/bridges/ArsTechnicaBridge.php
-@@ -35,9 +35,10 @@ class ArsTechnicaBridge extends FeedExpander
- 
-     protected function parseItem(array $item)
-     {
--        $item_html = getSimpleHTMLDOMCached($item['uri']);
-+        $item_html = getSimpleHTMLDOMCached($item['uri'] . '&comments=1');
-         $item_html = defaultLinkTo($item_html, self::URI);
-         $item['content'] = $item_html->find('.article-content', 0);
-+        $item['comments'] = $item_html->find('#view_comments', 0)->href;
- 
-         $parsely = $item_html->find('[name="parsely-page"]', 0);
-         $parsely_json = json_decode(html_entity_decode($parsely->content), true);
 diff --git a/formats/MrssFormat.php b/formats/MrssFormat.php
-index aaa1d0cd..289b1847 100644
+index aaa1d0c..79e0dbd 100644
 --- a/formats/MrssFormat.php
 +++ b/formats/MrssFormat.php
-@@ -116,9 +116,11 @@ class MrssFormat extends FormatAbstract
- 
-         foreach ($this->getItems() as $item) {
-             $itemArray = $item->toArray();
-+            $itemAuthor = $item->getAuthor();
+@@ -119,6 +119,7 @@ class MrssFormat extends FormatAbstract
              $itemTimestamp = $item->getTimestamp();
              $itemTitle = $item->getTitle();
              $itemUri = $item->getURI();
@@ -30,20 +10,7 @@ index aaa1d0cd..289b1847 100644
              $itemContent = $item->getContent() ?? '';
              $itemUid = $item->getUid();
              $isPermaLink = 'false';
-@@ -143,6 +145,12 @@ class MrssFormat extends FormatAbstract
-                 $entryTitle->appendChild($document->createTextNode($itemTitle));
-             }
- 
-+            if (!empty($itemAuthor)) {
-+                $entryAuthor = $document->createElement('author');
-+                $entry->appendChild($entryAuthor);
-+                $entryAuthor->appendChild($document->createTextNode($itemAuthor));
-+            }
-+
-             if (isset($itemArray['itunes'])) {
-                 $feed->setAttributeNS('http://www.w3.org/2000/xmlns/', 'xmlns:itunes', self::ITUNES_NS);
-                 foreach ($itemArray['itunes'] as $itunesKey => $itunesValue) {
-@@ -166,6 +174,12 @@ class MrssFormat extends FormatAbstract
+@@ -166,6 +167,12 @@ class MrssFormat extends FormatAbstract
                  $entryLink->appendChild($document->createTextNode($itemUri));
              }
  
@@ -57,7 +24,7 @@ index aaa1d0cd..289b1847 100644
              $entryGuid->setAttribute('isPermaLink', $isPermaLink);
              $entry->appendChild($entryGuid);
 diff --git a/lib/FeedItem.php b/lib/FeedItem.php
-index 8c9a60b1..cd2e3627 100644
+index 8c9a60b..b408d24 100644
 --- a/lib/FeedItem.php
 +++ b/lib/FeedItem.php
 @@ -3,6 +3,7 @@
@@ -87,10 +54,41 @@ index 8c9a60b1..cd2e3627 100644
              case 'title':
                  return $this->getTitle();
              case 'timestamp':
-@@ -118,6 +124,37 @@ class FeedItem
-         $this->uri = $uri;
+@@ -92,10 +98,8 @@ class FeedItem
+         return $this->uri;
      }
  
+-    public function setURI($uri)
++    private function validateURI($uri): ?string
+     {
+-        $this->uri = null; // Clear previous data
+-
+         if ($uri instanceof simple_html_dom_node) {
+             if ($uri->hasAttribute('href')) { // Anchor
+                 $uri = $uri->href;
+@@ -107,15 +111,30 @@ class FeedItem
+         }
+         if (!is_string($uri)) {
+             $this->logger->debug(sprintf('Expected $uri to be string but got %s', gettype($uri)));
+-            return;
++            return null;
+         }
+         $uri = trim($uri);
+         // Intentionally doing a weak url validation here because FILTER_VALIDATE_URL is too strict
+         if (!preg_match('#^https?://#i', $uri)) {
+             $this->logger->debug(sprintf('Not a valid url: "%s"', $uri));
+-            return;
++            return null;
+         }
+-        $this->uri = $uri;
++        return $uri;
++    }
++
++    public function setURI($uri)
++    {
++        $this->uri = $this->validateURI($uri);
++    }
++
 +    public function getComments(): ?string
 +    {
 +        return $this->comments;
@@ -98,34 +96,11 @@ index 8c9a60b1..cd2e3627 100644
 +
 +    public function setComments($uri)
 +    {
-+        $this->comments = null; // Clear previous data
-+
-+        if ($uri instanceof simple_html_dom_node) {
-+            if ($uri->hasAttribute('href')) { // Anchor
-+                $uri = $uri->href;
-+            } elseif ($uri->hasAttribute('src')) { // Image
-+                $uri = $uri->src;
-+            } else {
-+                $this->logger->debug('The item provided as URI is unknown!');
-+            }
-+        }
-+        if (!is_string($uri)) {
-+            $this->logger->debug(sprintf('Expected $uri to be string but got %s', gettype($uri)));
-+            return;
-+        }
-+        $uri = trim($uri);
-+        // Intentionally doing a weak url validation here because FILTER_VALIDATE_URL is too strict
-+        if (!preg_match('#^https?://#i', $uri)) {
-+            $this->logger->debug(sprintf('Not a valid url: "%s"', $uri));
-+            return;
-+        }
-+        $this->comments = $uri;
-+    }
-+
++        $this->comments = $this->validateURI($uri);
+     }
+ 
      public function getTitle(): ?string
-     {
-         return $this->title;
-@@ -283,6 +320,7 @@ class FeedItem
+@@ -283,6 +302,7 @@ class FeedItem
          return array_merge(
              [
                  'uri' => $this->uri,

@@ -1,0 +1,25 @@
+diff --git a/formats/MrssFormat.php b/formats/MrssFormat.php
+index aaa1d0c..7e05124 100644
+--- a/formats/MrssFormat.php
++++ b/formats/MrssFormat.php
+@@ -116,6 +116,7 @@ class MrssFormat extends FormatAbstract
+ 
+         foreach ($this->getItems() as $item) {
+             $itemArray = $item->toArray();
++            $itemAuthor = $item->getAuthor();
+             $itemTimestamp = $item->getTimestamp();
+             $itemTitle = $item->getTitle();
+             $itemUri = $item->getURI();
+@@ -143,6 +144,12 @@ class MrssFormat extends FormatAbstract
+                 $entryTitle->appendChild($document->createTextNode($itemTitle));
+             }
+ 
++            if (!empty($itemAuthor)) {
++                $entryAuthor = $document->createElement('author');
++                $entry->appendChild($entryAuthor);
++                $entryAuthor->appendChild($document->createTextNode($itemAuthor));
++            }
++
+             if (isset($itemArray['itunes'])) {
+                 $feed->setAttributeNS('http://www.w3.org/2000/xmlns/', 'xmlns:itunes', self::ITUNES_NS);
+                 foreach ($itemArray['itunes'] as $itunesKey => $itunesValue) {
