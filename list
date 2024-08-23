@@ -1,6 +1,5 @@
 AllSidesBridge&fetch=true&limit=10
 ArsTechnicaBridge
-CssSelectorBridge&home_page=https%3A%2F%2Fgovtrack.us%2Fposts&url_selector=section&content_selector=%23content
 CssSelectorBridge&home_page=https%3A%2F%2Fjvgs.net&url_selector=li&content_selector=article&limit=6
 GameBananaBridge&context=Game&updates=on&gid=18604
 GameBananaBridge&context=Game&updates=on&gid=5486
@@ -11,6 +10,7 @@ GameBananaBridge&context=Game&updates=on&gid=8177
 GameBananaBridge&context=Game&updates=on&gid=8216
 GovTrackBridge&feed=bill-summaries
 GovTrackBridge&feed=enacted-bills
+GovTrackBridge&feed=posts
 HumbleBundleBridge
 NPRBridge
 NPRBridge&section=1180232252
