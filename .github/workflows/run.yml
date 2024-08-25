@@ -37,6 +37,7 @@ jobs:
           rm -rf *
           cp ../index.html .
           rename 's/%2F/_/g' ../out/*
+          rename 's/Bridge//' ../out/*
           rename 's/.*?bridge=//' ../out/*
           git add .
           git commit --amend -m "$(date -u)"
