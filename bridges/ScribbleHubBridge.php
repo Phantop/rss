@@ -54,21 +54,31 @@ class ScribbleHubBridge extends FeedExpander
         $this->collectExpandableDatas($url);
     }
 
-    protected $author = '';
-
     private function collectList($url)
     {
         $html = getSimpleHTMLDOMCached($url);
         foreach ($html->find('.search_main_box') as $element) {
             $item = [];
 
+            $item['author'] = $element->find('[title="Author"]', 0)->plaintext;
+            $item['enclosures'] = [$element->find('.search_img img', 0)->src];
             $title = $element->find('.search_title a', 0);
             $item['title'] = $title->plaintext;
             $item['uri'] = $title->href;
+            $item['uid'] = $item['uri'];
 
             $strdate = $element->find('[title="Last Updated"]', 0)->plaintext;
             $item['timestamp'] = strtotime($strdate);
-            $item['uid'] = $item['uri'];
+
+            foreach ($element->find('.fic_genre') as $tag) {
+                $item['categories'][] = $tag->plaintext;
+            }
+
+            // Get minimal description in case further requests fail
+            $item['content'] = str_get_html($element->find('.search_body', 0));
+            foreach ($item['content']->firstChild()->children() as $child) {
+                $child->remove();
+            }
 
             try {
                 $details = getSimpleHTMLDOMCached($item['uri']);
@@ -80,17 +90,15 @@ class ScribbleHubBridge extends FeedExpander
                 }
                 throw $e;
             }
-            $item['enclosures'][] = $details->find('.fic_image img', 0)->src;
+            $item['enclosures'] = [$details->find('.fic_image img', 0)->src];
             $item['content'] = $details->find('.wi_fic_desc', 0);
 
-            foreach ($details->find('.fic_genre') as $tag) {
-                $item['categories'][] = $tag->plaintext;
-            }
             foreach ($details->find('.stag') as $tag) {
                 $item['categories'][] = $tag->plaintext;
             }
 
             $read_url = $details->find('.read_buttons a', 0)->href;
+            $item['comments'] = $read_url . '#comments';
             try {
                 $read_html = getSimpleHTMLDOMCached($read_url);
             } catch (HttpException $e) {
@@ -101,14 +109,16 @@ class ScribbleHubBridge extends FeedExpander
                 }
                 throw $e;
             }
-            $item['content'] .= '<hr><h3>';
+            $item['content'] .= "<hr><h3><a href=\"$read_url\">";
             $item['content'] .= $read_html->find('.chapter-title', 0);
-            $item['content'] .= '</h3>';
+            $item['content'] .= '</a></h3>';
             $item['content'] .= $read_html->find('#chp_raw', 0);
 
             $this->items[] = $item;
         }
     }
+
+    protected $author = '';
 
     protected function parseItem(array $item)
     {
