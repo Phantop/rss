@@ -45,7 +45,7 @@ class ArsTechnicaBridge extends FeedExpander
         $item['uid'] = explode('=', $item['uri'])[1];
 
         $pages = $item_html->find('.page-numbers a');
-        foreach (array_splice($pages, -1) as $page) {
+        foreach (array_splice($pages, length: -1) as $page) {
             $page_html = getSimpleHTMLDOMCached($page->href);
             $item['content'] .= $page_html->find('.article-content', 0);
         }
