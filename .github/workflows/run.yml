@@ -24,7 +24,8 @@ jobs:
           git apply ../patches/*.diff
 
           mkdir ../../out
-          parallel 'php index.php action=display\&format=Mrss\&bridge={} > ../../out/{}' < ../list
+          path='action=display\&format=Mrss\&bridge='
+          parallel "php index.php $path{} > ../../out/{}" < ../list
           cd ..
       - name: Commit data
         run: |
@@ -35,8 +36,8 @@ jobs:
           git checkout out
           rm -rf *
           mv ../out/* .
-          rename 's/%2F/_/g' *
-          rename 's/%3A/:/g' *
+          urldecode="import sys; from urllib.parse import unquote; print(unquote(sys.argv[1]))"
+          parallel "mv -n {} \$(python3 -c '$urldecode' {} | tr / _)" ::: *
           git add .
           git commit --amend -m "$(date -u)"
           git push -f origin out
