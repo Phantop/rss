@@ -20,7 +20,7 @@ jobs:
           git submodule update --init --remote
           cd rss-bridge
           echo '*' > whitelist.txt
-          cp -r ../* .
+          cp -r ../* . || true
           git apply patches/*.diff
 
           mkdir ../../out
