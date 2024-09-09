@@ -18,27 +18,25 @@ jobs:
       - name: Run stuff
         run: |
           git submodule update --init --remote
-          echo '*' > rss-bridge/whitelist.txt
-          cp -r bridges patches rss-bridge
-          git -C rss-bridge apply patches/*.diff
-          php -t rss-bridge -S 127.0.0.1:8080 &
-          sleep 1
+          cd rss-bridge
+          echo '*' > whitelist.txt
+          cp -r ../* .
+          git apply patches/*.diff
 
-          mkdir ../out
-          path='?action=display&format=Mrss&bridge='
-          parallel -q wget -P ../out localhost:8080/$path{} < list || true
+          mkdir ../../out
+          path='action=display&format=Mrss&bridge='
+          parallel "php index.php $path{} > ../../out/{}" < ../list
+          cd ..
       - name: Commit data
         run: |
           git config user.name "Updater"
           git config user.email "updater@rss-bridge.org"
           git fetch origin out
-          cp index.html ..
+          cp index.html ../out
           git checkout out
           rm -rf *
-          cp ../index.html .
-          rename 's/%2F/_/g' ../out/*
-          rename 's/Bridge//' ../out/*
-          rename 's/.*?bridge=//' ../out/*
+          mv ../out/* .
+          rename 's/%2F/_/g' *
           git add .
           git commit --amend -m "$(date -u)"
           git push -f origin out
