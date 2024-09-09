@@ -1,24 +1,36 @@
+diff --git a/config/nginx.conf b/config/nginx.conf
+index c65f8e0..6e9013e 100644
+--- a/config/nginx.conf
++++ b/config/nginx.conf
+@@ -16,4 +16,8 @@ server {
+         fastcgi_read_timeout 45s;
+         fastcgi_pass unix:/var/run/php/php8.2-fpm.sock;
+     }
++
++    location / {
++        try_files $uri $uri/ /index.php;
++    }
+ }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d..01f741e 100644
+index c7b132d..82b4d15 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,32 @@ final class RssBridge
+@@ -10,8 +10,31 @@ final class RssBridge
          $this->container = $container;
      }
  
 +    private static function rewrite(Request $request): Request
 +    {
-+        $path = $request->server('PATH_INFO');
-+        $fullpath = $request->server('REQUEST_URI');
-+        if ($path && str_starts_with($path, '/ao3')) {
++        $path = $request->server('REQUEST_URI');
++        if (str_starts_with($path, '/ao3')) {
 +            $args = [
 +                'context' => 'List',
 +                'range' => 'First',
-+                'url' => 'https://archiveofourown.org' . substr($fullpath, 4),
++                'url' => 'https://archiveofourown.org' . substr($path, 4),
 +            ];
 +            $request = Request::fromCli($args);
 +        }
-+        if ($path) {
++        if (strlen($path) > 1 && $path[1] != '?') {
 +            $args = $request->toArray() + [
 +                'action' => 'display',
 +                'bridge' => explode('/', $path)[1],
