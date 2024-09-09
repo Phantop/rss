@@ -36,6 +36,7 @@ jobs:
           rm -rf *
           mv ../out/* .
           rename 's/%2F/_/g' *
+          rename 's/%3A/:/g' *
           git add .
           git commit --amend -m "$(date -u)"
           git push -f origin out
