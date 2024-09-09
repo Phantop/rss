@@ -20,12 +20,11 @@ jobs:
           git submodule update --init --remote
           cd rss-bridge
           echo '*' > whitelist.txt
-          cp -r ../* . || true
-          git apply patches/*.diff
+          cp -r ../bridges .
+          git apply ../patches/*.diff
 
           mkdir ../../out
-          path='action=display&format=Mrss&bridge='
-          parallel "php index.php $path{} > ../../out/{}" < ../list
+          parallel 'php index.php action=display\&format=Mrss\&bridge={} > ../../out/{}' < ../list
           cd ..
       - name: Commit data
         run: |
