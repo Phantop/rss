@@ -1,0 +1,37 @@
+diff --git a/lib/RssBridge.php b/lib/RssBridge.php
+index c7b132d..01f741e 100644
+--- a/lib/RssBridge.php
++++ b/lib/RssBridge.php
+@@ -10,8 +10,32 @@ final class RssBridge
+         $this->container = $container;
+     }
+ 
++    private static function rewrite(Request $request): Request
++    {
++        $path = $request->server('PATH_INFO');
++        $fullpath = $request->server('REQUEST_URI');
++        if ($path && str_starts_with($path, '/ao3')) {
++            $args = [
++                'context' => 'List',
++                'range' => 'First',
++                'url' => 'https://archiveofourown.org' . substr($fullpath, 4),
++            ];
++            $request = Request::fromCli($args);
++        }
++        if ($path) {
++            $args = $request->toArray() + [
++                'action' => 'display',
++                'bridge' => explode('/', $path)[1],
++                'format' => 'Mrss',
++            ];
++            $request = Request::fromCli($args);
++        }
++        return $request;
++    }
++
+     public function main(Request $request): Response
+     {
++        $request = $this::rewrite($request);
+         $action = $request->get('action', 'Frontpage');
+         $actionName = strtolower($action) . 'Action';
+         $actionName = implode(array_map('ucfirst', explode('-', $actionName)));
