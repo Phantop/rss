@@ -44,10 +44,13 @@ class ArsTechnicaBridge extends FeedExpander
         $item['content'] = $item_html->find('.article-content', 0);
         $item['uid'] = explode('=', $item['uri'])[1];
 
-        $pages = $item_html->find('.page-numbers a');
-        foreach (array_splice($pages, 0, -1) as $page) {
-            $page_html = getSimpleHTMLDOMCached($page->href);
-            $item['content'] .= $page_html->find('.article-content', 0);
+        $pages = $item_html->find('.page-numbers a', -2);
+        if ($pages) {
+            for ($i = 2; $i <= $pages->innertext; $i++) {
+                $page = $item['uri'] . '&page=' . $i;
+                $page_html = getSimpleHTMLDOMCached($page);
+                $item['content'] .= $page_html->find('.article-content', 0);
+            }
         }
         $item['content'] = backgroundToImg($item['content']);
 
