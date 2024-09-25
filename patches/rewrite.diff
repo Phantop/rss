@@ -25,7 +25,7 @@ index c7b132d..82b4d15 100644
 +        if (str_starts_with($path, '/ao3')) {
 +            $args = [
 +                'context' => 'List',
-+                'range' => 'First',
++                'range' => 'first',
 +                'url' => 'https://archiveofourown.org' . substr($path, 4),
 +            ];
 +            $request = Request::fromCli($args);
