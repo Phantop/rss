@@ -35,7 +35,7 @@ class ArsTechnicaBridge extends FeedExpander
 
     protected function parseItem(array $item)
     {
-        $item_html = getSimpleHTMLDOMCached($item['uri'] . '&comments=1');
+        $item_html = getSimpleHTMLDOMCached($item['uri'] . '?comments=1');
         $parsely = $item_html->find('[name="parsely-page"]', 0)->content;
         $parsely_json = Json::decode(html_entity_decode($parsely));
 
