@@ -12,10 +12,10 @@ index c65f8e0..6e9013e 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d..82b4d15 100644
+index c7b132d..8210308 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,31 @@ final class RssBridge
+@@ -10,8 +10,37 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -25,9 +25,15 @@ index c7b132d..82b4d15 100644
 +        if (str_starts_with($path, '/ao3')) {
 +            $args = [
 +                'context' => 'List',
-+                'range' => 'first',
 +                'url' => 'https://archiveofourown.org' . substr($path, 4),
 +            ];
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/manga')) {
++            $args = [
++                'series' => substr($path, 7),
++            ];
++            $path = '/cubariproxy';
 +            $request = Request::fromCli($args);
 +        }
 +        if (strlen($path) > 1 && $path[1] != '?') {
