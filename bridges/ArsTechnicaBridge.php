@@ -35,27 +35,21 @@ class ArsTechnicaBridge extends FeedExpander
 
     protected function parseItem(array $item)
     {
-        $item_html = getSimpleHTMLDOMCached($item['uri'] . '?comments=1');
+        $item_html = getSimpleHTMLDOMCached($item['uri']);
         $parsely = $item_html->find('[name="parsely-page"]', 0)->content;
         $parsely_json = Json::decode(html_entity_decode($parsely));
 
         $item['categories'] = $parsely_json['tags'];
-        $item['comments'] = $item_html->find('#view_comments', 0)->href;
-        $item['content'] = $item_html->find('.article-content', 0);
-        $item['uid'] = explode('=', $item['uri'])[1];
-
-        $pages = $item_html->find('.page-numbers a', -2);
-        if ($pages) {
-            for ($i = 2; $i <= $pages->innertext; $i++) {
-                $page = $item['uri'] . '&page=' . $i;
-                $page_html = getSimpleHTMLDOMCached($page);
-                $item['content'] .= $page_html->find('.article-content', 0);
-            }
+        $item['comments'] = $item_html->find('#comments a', 0)->href;
+        $item['content'] = '';
+        foreach ($item_html->find('.post-content') as $content) {
+            $item['content'] .= $content;
         }
+
         $item['content'] = backgroundToImg($item['content']);
 
         // remove various ars advertising
-        $sel = '#social-left, .ars-component-buy-box, .ad_wrapper, .sidebar';
+        $sel = '#social-left, .ars-component-buy-box, .ad_wrapper, .sidebar, .toc-container';
         foreach ($item['content']->find($sel) as $ad) {
             $ad->remove();
         }
