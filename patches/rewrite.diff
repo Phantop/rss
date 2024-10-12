@@ -1,5 +1,5 @@
 diff --git a/config/nginx.conf b/config/nginx.conf
-index c65f8e0..6e9013e 100644
+index c65f8e00..6e9013e2 100644
 --- a/config/nginx.conf
 +++ b/config/nginx.conf
 @@ -16,4 +16,8 @@ server {
@@ -12,16 +12,19 @@ index c65f8e0..6e9013e 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d..8210308 100644
+index c7b132d6..c8b298fd 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,37 @@ final class RssBridge
+@@ -10,8 +10,40 @@ final class RssBridge
          $this->container = $container;
      }
  
 +    private static function rewrite(Request $request): Request
 +    {
 +        $path = $request->server('REQUEST_URI');
++        if (str_starts_with($path, '/tags')) {
++            $path = '/ao3' . $path;
++        }
 +        if (str_starts_with($path, '/ao3')) {
 +            $args = [
 +                'context' => 'List',
@@ -29,7 +32,7 @@ index c7b132d..8210308 100644
 +            ];
 +            $request = Request::fromCli($args);
 +        }
-+        if (str_starts_with($path, '/manga')) {
++        if (str_starts_with($path, '/manga') || str_starts_with($path, '/title')) {
 +            $args = [
 +                'series' => substr($path, 7),
 +            ];
