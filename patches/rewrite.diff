@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d6..c8b298fd 100644
+index c7b132d6..563ede7c 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,40 @@ final class RssBridge
+@@ -10,8 +10,56 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -37,6 +37,22 @@ index c7b132d6..c8b298fd 100644
 +                'series' => substr($path, 7),
 +            ];
 +            $path = '/cubariproxy';
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/tagged')) {
++            $tag = explode('/', $path)[2];
++            $args = [
++                'url' => 'https://priviblur.fly.dev/tagged/' . $tag . '?sort=recent'
++            ];
++            $path = '/priviblur';
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/profile')) {
++            $args = [
++                'context' => 'Author',
++                'uid' => substr($path, 8),
++            ];
++            $path = '/scribblehub';
 +            $request = Request::fromCli($args);
 +        }
 +        if (strlen($path) > 1 && $path[1] != '?') {
