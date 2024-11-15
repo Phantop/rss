@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d6..563ede7c 100644
+index c7b132d6..99ea4e3e 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,56 @@ final class RssBridge
+@@ -10,8 +10,57 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -28,6 +28,7 @@ index c7b132d6..563ede7c 100644
 +        if (str_starts_with($path, '/ao3')) {
 +            $args = [
 +                'context' => 'List',
++                'range' => 'all',
 +                'url' => 'https://archiveofourown.org' . substr($path, 4),
 +            ];
 +            $request = Request::fromCli($args);
