@@ -1,10 +1,6 @@
-<script>
-  (async () => {
-    const url = new URL(window.location.href);
-    const user = url.hostname.split('.')[0];
-    const repo = url.pathname.split('/')[1];
-    const response = await fetch(`https://api.github.com/repos/${user}/${repo}/contents?ref=out`);
-    for (let file of await response.json())
-      document.getElementsByTagName('body')[0].innerHTML += `<a href="${file.path}">${file.name}</a><br>`;
-  })()
-</script>
+<script>(async () => {
+let { hostname, pathname } = new URL(location.href);
+let user = hostname.split('.')[0], repo = pathname.split('/')[1];
+let json = await (await fetch(`https://api.github.com/repos/${user}/${repo}/contents?ref=out`)).json();
+document.body.innerHTML = json.map(f => `<a href="${f.path}">${f.path}`).join('<br>');
+})();</script>
