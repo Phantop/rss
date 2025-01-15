@@ -37,7 +37,7 @@ jobs:
           rm -rf *
           mv ../out/* .
           urldecode="import sys; from urllib.parse import unquote; print(unquote(sys.argv[1]))"
-          parallel "mv -n {} \$(python3 -c '$urldecode' {} | tr / _)" ::: *
+          parallel "mv -n {} \$(python3 -c '$urldecode' {} | tr / _)" ::: * || true
           git add .
           git commit --amend -m "$(date -u)"
           git push -f origin out
