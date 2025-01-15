@@ -1,0 +1,13 @@
+diff --git a/bridges/GovTrackBridge.php b/bridges/GovTrackBridge.php
+index 4674668a..4412cbfd 100644
+--- a/bridges/GovTrackBridge.php
++++ b/bridges/GovTrackBridge.php
+@@ -41,7 +41,7 @@ class GovTrackBridge extends BridgeAbstract
+ 
+             $info = explode(' ', $element->find('p', 0)->innertext);
+             $item = [
+-                'categories' => [implode(' ', array_slice($info, 4))],
++                'categories' => [html_entity_decode(implode(' ', array_slice($info, 4)))],
+                 'timestamp' => strtotime(implode(' ', array_slice($info, 0, 3))),
+                 'title' => $element->find('a', 0)->innertext,
+                 'uri' => $element->find('a', 0)->href,
