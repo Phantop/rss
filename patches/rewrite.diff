@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d6..0f90b57a 100644
+index c7b132d6..30fe4a82 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,60 @@ final class RssBridge
+@@ -10,8 +10,68 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -40,7 +40,7 @@ index c7b132d6..0f90b57a 100644
 +            $path = '/cubariproxy';
 +            $request = Request::fromCli($args);
 +        }
-+        if (str_starts_with($path, '/tagged')) {
++        if (str_starts_with($path, '/tagged/')) {
 +            $path = '/blog' . $path . '?sort=recent';
 +        }
 +        if (str_starts_with($path, '/blog/')) {
@@ -51,12 +51,20 @@ index c7b132d6..0f90b57a 100644
 +            $path = '/priviblur';
 +            $request = Request::fromCli($args);
 +        }
-+        if (str_starts_with($path, '/profile')) {
++        if (str_starts_with($path, '/profile/')) {
 +            $args = [
 +                'context' => 'Author',
 +                'uid' => substr($path, 8),
 +            ];
 +            $path = '/scribblehub';
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/channel/')) {
++            $args = [
++                'embedurl' => 'true',
++                'channel' => substr($path, 9),
++            ];
++            $path = '/youtubefeedexpander';
 +            $request = Request::fromCli($args);
 +        }
 +        if (strlen($path) > 1 && $path[1] != '?') {
