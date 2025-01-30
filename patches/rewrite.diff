@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d6..30fe4a82 100644
+index c7b132d6..c311e486 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,68 @@ final class RssBridge
+@@ -10,8 +10,69 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -61,7 +61,8 @@ index c7b132d6..30fe4a82 100644
 +        }
 +        if (str_starts_with($path, '/channel/')) {
 +            $args = [
-+                'embedurl' => 'true',
++                'embed' => 'on',
++                'embedurl' => 'on',
 +                'channel' => substr($path, 9),
 +            ];
 +            $path = '/youtubefeedexpander';

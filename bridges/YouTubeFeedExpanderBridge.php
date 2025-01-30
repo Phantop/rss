@@ -18,7 +18,7 @@ class YouTubeFeedExpanderBridge extends FeedExpander
             'type' => 'checkbox',
             'required' => false,
             'title' => 'Add embed to entry',
-            'defaultValue' => true,
+            'defaultValue' => 'checked',
         ],
         'embedurl' => [
             'name' => 'Use embed page as entry url',
@@ -47,7 +47,6 @@ class YouTubeFeedExpanderBridge extends FeedExpander
     {
         $url = 'https://www.youtube.com/feeds/videos.xml?channel_id=' . $this->getInput('channel');
         $this->collectExpandableDatas($url);
-
     }
 
     protected function parseItem(array $item)
@@ -69,7 +68,7 @@ class YouTubeFeedExpanderBridge extends FeedExpander
         }
         $embed = $embedURI . 'embed/' . $id;
         if ($this->getInput('embed')) {
-            $iframe_fmt = '<iframe width="448" height="350" src="%s" title="%s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>';
+            $iframe_fmt = '<iframe width="448" height="350" src="%s" title="%s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'; //phpcs:ignore
             $iframe = sprintf($iframe_fmt, $embed, $item['title']) . '<br>';
             $item['content'] = $iframe . $item['content'];
         }
