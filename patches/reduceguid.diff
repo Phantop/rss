@@ -1,0 +1,13 @@
+diff --git a/bridges/FeedReducerBridge.php b/bridges/FeedReducerBridge.php
+index 37bf9809..608bc6ad 100644
+--- a/bridges/FeedReducerBridge.php
++++ b/bridges/FeedReducerBridge.php
+@@ -44,7 +44,7 @@ class FeedReducerBridge extends FeedExpander
+             // $pseudoRandomInteger will be a 16 bit unsigned int mod 100.
+             // This won't be uniformly distributed 1-100, but should be close enough.
+ 
+-            $data = $item['uri'] . '::' . $this->getInput('url');
++            $data = $item['guid'] . '::' . $this->getInput('url');
+             $hash = hash('sha256', $data, true);
+             // S = unsigned 16-bit int
+             $pseudoRandomInteger = unpack('S', $hash)[1] % 100;
