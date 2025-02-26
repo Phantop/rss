@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d6..9dd6c722 100644
+index c7b132d6..feb5b826 100644
 --- a/lib/RssBridge.php
 +++ b/lib/RssBridge.php
-@@ -10,8 +10,84 @@ final class RssBridge
+@@ -10,8 +10,91 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -81,6 +81,13 @@ index c7b132d6..9dd6c722 100644
 +                'gid' => substr($path, 7),
 +            ];
 +            $path = '/gamebanana';
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/@')) {
++            $args = [
++                'profile' => substr($path, 2),
++            ];
++            $path = '/substackprofile';
 +            $request = Request::fromCli($args);
 +        }
 +        if (strlen($path) > 1 && $path[1] != '?') {

@@ -33,9 +33,8 @@ class SubstackProfileBridge extends BridgeAbstract
     }
 
     private function processAttachment(array $element) {
-        $type = $element['type'];
         $item = [];
-        switch ($type) {
+        switch ($element['type']) {
             case 'comment':
                 $element = $element['comment'];
                 $item['author'] = $element['name'] ?? $element['user']['name'];
@@ -58,40 +57,37 @@ class SubstackProfileBridge extends BridgeAbstract
                 break;
             case 'link':
                 $element = $element['linkMetadata'];
-                $item['uri'] = $element['url'];
                 $item['author'] = $element['host'];
-                $item['title'] = $element['title'];
                 $item['content'] = $element['description'];
+                $item['title'] = $element['title'];
+                $item['uri'] = $element['url'];
                 break;
             case 'image':
-                $item['isImage'] = true;
+                $item['uri'] = $element['imageUrl'];
                 break;
             default:
-                throw new Exception('Invalid Substack entry type: ' . $type);
+                throw new Exception('Invalid Substack entry type: ' . $element['type']);
         }
 
         $item['enclosures'] = [
             $element['audio_items'][0]['audio_url'] ?? null,
+            $element['audio_items'][1]['audio_url'] ?? null,
             $element['cover_image'] ?? null,
             $element['image'] ?? null,
             $element['imageUrl'] ?? null,
         ];
 
-        $item['categories'] = [];
-        if (isset($element['postTags'])) {
-            foreach ($element['postTags'] as $tag) {
-                $item['categories'][] = $tag['name'];
-            }
-        }
+        $item['categories'] = array_map(fn($tag) => $tag['name'], $element['postTags'] ?? []);
+        $item['comments'] = $item['uri'] . '/restacks/notes';
+
         if (isset($element['attachments'])) {
             foreach ($element['attachments'] as $attachment) {
                 $attachment = $this->processAttachment($attachment);
                 $item['categories'] = array_merge($item['categories'], $attachment['categories']);
                 $item['enclosures'] = array_merge($item['enclosures'], $attachment['enclosures']);
-                if (isset($attachment['isImage'])) {
-                    continue;
+                if (isset($attachment['title'])) { // Nothing to quote for images
+                    $item['content'] .= $this->quoteAttachment($attachment);
                 }
-                $item['content'] .= $this->quoteAttachment($attachment);
             }
         }
 
