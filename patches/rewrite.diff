@@ -1,7 +1,7 @@
-diff --git a/config/nginx.conf b/config/nginx.conf
+diff --git i/config/nginx.conf w/config/nginx.conf
 index c65f8e00..6e9013e2 100644
---- a/config/nginx.conf
-+++ b/config/nginx.conf
+--- i/config/nginx.conf
++++ w/config/nginx.conf
 @@ -16,4 +16,8 @@ server {
          fastcgi_read_timeout 45s;
          fastcgi_pass unix:/var/run/php/php8.2-fpm.sock;
@@ -11,11 +11,11 @@ index c65f8e00..6e9013e2 100644
 +        try_files $uri $uri/ /index.php;
 +    }
  }
-diff --git a/lib/RssBridge.php b/lib/RssBridge.php
-index c7b132d6..feb5b826 100644
---- a/lib/RssBridge.php
-+++ b/lib/RssBridge.php
-@@ -10,8 +10,91 @@ final class RssBridge
+diff --git i/lib/RssBridge.php w/lib/RssBridge.php
+index c7b132d6..417b0b9e 100644
+--- i/lib/RssBridge.php
++++ w/lib/RssBridge.php
+@@ -10,8 +10,99 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -88,6 +88,14 @@ index c7b132d6..feb5b826 100644
 +                'profile' => substr($path, 2),
 +            ];
 +            $path = '/substackprofile';
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/reduce/')) {
++            $args = [
++                'url' => substr($path, 8),
++                'percentage' => '50',
++            ];
++            $path = '/feedreducer';
 +            $request = Request::fromCli($args);
 +        }
 +        if (strlen($path) > 1 && $path[1] != '?') {
