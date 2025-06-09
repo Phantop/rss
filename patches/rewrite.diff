@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git i/lib/RssBridge.php w/lib/RssBridge.php
-index c7b132d6..417b0b9e 100644
+index c7b132d6..742649bc 100644
 --- i/lib/RssBridge.php
 +++ w/lib/RssBridge.php
-@@ -10,8 +10,99 @@ final class RssBridge
+@@ -10,8 +10,106 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -96,6 +96,13 @@ index c7b132d6..417b0b9e 100644
 +                'percentage' => '50',
 +            ];
 +            $path = '/feedreducer';
++            $request = Request::fromCli($args);
++        }
++        if (str_starts_with($path, '/bsky/')) {
++            $args = [
++                'user_id' => substr($path, 6) . '.bsky.social',
++            ];
++            $path = '/bluesky';
 +            $request = Request::fromCli($args);
 +        }
 +        if (strlen($path) > 1 && $path[1] != '?') {
