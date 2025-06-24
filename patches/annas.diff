@@ -1,0 +1,13 @@
+diff --git i/bridges/AnnasArchiveBridge.php w/bridges/AnnasArchiveBridge.php
+index b857fadf..4a1c3e91 100644
+--- i/bridges/AnnasArchiveBridge.php
++++ w/bridges/AnnasArchiveBridge.php
+@@ -126,7 +126,7 @@ class AnnasArchiveBridge extends BridgeAbstract
+             return;
+         }
+ 
+-        $elements = $list->find('.w-full > .mb-4 > div');
++        $elements = $list->find('#aarecord-list > div');
+         foreach ($elements as $element) {
+             // stop added entries once partial match list starts
+             if (str_contains($element->innertext, 'partial match')) {
