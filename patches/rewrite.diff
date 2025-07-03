@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git i/lib/RssBridge.php w/lib/RssBridge.php
-index c7b132d6..742649bc 100644
+index c7b132d6..c5bbcddd 100644
 --- i/lib/RssBridge.php
 +++ w/lib/RssBridge.php
-@@ -10,8 +10,106 @@ final class RssBridge
+@@ -10,8 +10,107 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -108,9 +108,10 @@ index c7b132d6..742649bc 100644
 +        if (strlen($path) > 1 && $path[1] != '?') {
 +            $args = $request->toArray() + [
 +                'action' => 'display',
-+                'bridge' => explode('/', $path)[1],
++                'bridge' => preg_split('/[\/\?]/', $path)[1],
 +                'format' => 'Mrss',
 +            ];
++            print($args['bridge']);
 +            $request = Request::fromCli($args);
 +        }
 +        return $request;
