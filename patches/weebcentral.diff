@@ -1,0 +1,13 @@
+diff --git i/bridges/CubariProxyBridge.php w/bridges/CubariProxyBridge.php
+index 8afd2275..fbc7e365 100644
+--- i/bridges/CubariProxyBridge.php
++++ w/bridges/CubariProxyBridge.php
+@@ -15,7 +15,7 @@ class CubariProxyBridge extends BridgeAbstract
+                 'MangAventure' => 'mangadventure',
+                 'MangaDex' => 'mangadex',
+                 'MangaKatana' => 'mangakatana',
+-                'MangaSee' => 'mangasee',
++                'WeebCentral' => 'weebcentral',
+             ]
+         ],
+         'series' => [
