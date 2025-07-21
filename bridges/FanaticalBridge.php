@@ -4,7 +4,7 @@ class FanaticalBridge extends BridgeAbstract
 {
     const NAME = 'Fanatical';
     const MAINTAINER = 'phantop';
-    const URI = 'https://www.fanatical.com/en';
+    const URI = 'https://www.fanatical.com/en/';
     const DESCRIPTION = 'Returns bundles from Fanatical.';
     const PARAMETERS = [[
         'type' => [
