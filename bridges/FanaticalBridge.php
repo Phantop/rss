@@ -87,4 +87,9 @@ class FanaticalBridge extends BridgeAbstract
         }
         return $uri;
     }
+
+    public function getIcon()
+    {
+        return 'https://cdn.fanatical.com/production/icons/fanatical-icon-android-chrome-192x192.png';
+    }
 }
