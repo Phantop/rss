@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git i/lib/RssBridge.php w/lib/RssBridge.php
-index c7b132d6..318fecdb 100644
+index c7b132d6..72d9e5a2 100644
 --- i/lib/RssBridge.php
 +++ w/lib/RssBridge.php
-@@ -10,8 +10,98 @@ final class RssBridge
+@@ -10,8 +10,91 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -50,13 +50,6 @@ index c7b132d6..318fecdb 100644
 +                    'channel' => substr($p, 9)
 +                ]
 +            ],
-+            '/games/' => [
-+                'bridge' => 'gamebanana',
-+                'handler' => fn($p) => [
-+                    'updates' => 'on',
-+                    'gid' => substr($p, 7)
-+                ]
-+            ],
 +            '/patreon/' => [
 +                'bridge' => 'kemono',
 +                'handler' => fn($p) => ['user' => substr($p, 9)]
@@ -65,7 +58,7 @@ index c7b132d6..318fecdb 100644
 +                'bridge' => 'scribblehub',
 +                'handler' => fn($p) => [
 +                    'context' => 'Author',
-+                    'uid' => substr($p, 8)
++                    'uid' => substr($p, 9)
 +                ]
 +            ],
 +            '/reduce/' => [
