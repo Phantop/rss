@@ -22,7 +22,7 @@ class FanaticalBridge extends BridgeAbstract
     ]];
 
 
-    const imgUrl = 'https://fanatical.imgix.net/product/original/';
+    const IMGURL = 'https://fanatical.imgix.net/product/original/';
     public function collectData()
     {
         $api = 'https://www.fanatical.com/api/all/en';
@@ -39,7 +39,7 @@ class FanaticalBridge extends BridgeAbstract
             $item = [
                 'categories' => [$element['type']],
                 'content' => '<ul>',
-                'enclosures' => [self::imgUrl . $element['cover_image']],
+                'enclosures' => [self::IMGURL . $element['cover_image']],
                 'timestamp' => $element['valid_from'],
                 'title' => $element['name'],
                 'uri' => parent::getURI() . 'pick-and-mix/' . $element['slug'],
@@ -54,12 +54,12 @@ class FanaticalBridge extends BridgeAbstract
                 $slugs[] = $slug;
                 $uri = parent::getURI() . 'game/' . $slug;
                 $item['content'] .= '<li><a href="' . $uri . '">' . $product['name'] . '</a></li>';
-                $item['enclosures'][] = self::imgUrl . $product['cover'];
+                $item['enclosures'][] = self::IMGURL . $product['cover'];
             }
             foreach ($element['tiers'] as $tier) {
                 $count = $tier['quantity'];
                 $price = round($tier['price']['USD'] / 100, 2);
-                $per = round($price/$count, 2);
+                $per = round($price / $count, 2);
                 $item['categories'][] = "$count at $per for $price total";
             }
 
@@ -80,7 +80,7 @@ class FanaticalBridge extends BridgeAbstract
         $uri = parent::getURI();
         $type = $this->getKey('type');
         if ($type) {
-            $uri .=  'bundle/';
+            $uri .= 'bundle/';
             if ($type != 'All') {
                 $uri .= strtolower($type);
             }
