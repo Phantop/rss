@@ -12,108 +12,99 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git i/lib/RssBridge.php w/lib/RssBridge.php
-index c7b132d6..c5bbcddd 100644
+index c7b132d6..318fecdb 100644
 --- i/lib/RssBridge.php
 +++ w/lib/RssBridge.php
-@@ -10,8 +10,107 @@ final class RssBridge
+@@ -10,8 +10,98 @@ final class RssBridge
          $this->container = $container;
      }
  
 +    private static function rewrite(Request $request): Request
 +    {
++        $rewriteRules = [
++            '/tags/' => [
++                'path' => fn($p) => '/ao3' . $p . '/works?work_search[sort_column]=created_at',
++            ],
++
++            '/@' => [
++                'bridge' => 'substackprofile',
++                'handler' => fn($p) => ['profile' => substr($p, 2)]
++            ],
++            '/ao3/' => [
++                'bridge' => 'ao3',
++                'handler' => fn($p) => [
++                    'context' => 'List',
++                    'range' => 'all',
++                    'url' => 'https://archiveofourown.org' . substr($p, 4)
++                ]
++            ],
++            '/bsky/' => [
++                'bridge' => 'bluesky',
++                'handler' => fn($p) => ['user_id' => substr($p, 6) . '.bsky.social']
++            ],
++            '/channel/' => [
++                'bridge' => 'youtubefeedexpander',
++                'handler' => fn($p) => [
++                    'embed' => 'on',
++                    'embedurl' => 'on',
++                    'channel' => substr($p, 9)
++                ]
++            ],
++            '/games/' => [
++                'bridge' => 'gamebanana',
++                'handler' => fn($p) => [
++                    'updates' => 'on',
++                    'gid' => substr($p, 7)
++                ]
++            ],
++            '/patreon/' => [
++                'bridge' => 'kemono',
++                'handler' => fn($p) => ['user' => substr($p, 9)]
++            ],
++            '/profile/' => [
++                'bridge' => 'scribblehub',
++                'handler' => fn($p) => [
++                    'context' => 'Author',
++                    'uid' => substr($p, 8)
++                ]
++            ],
++            '/reduce/' => [
++                'bridge' => 'feedreducer',
++                'handler' => fn($p) => [
++                    'url' => substr($p, 8),
++                    'percentage' => '50'
++                ]
++            ],
++            '/title/' => [
++                'bridge' => 'cubariproxy',
++                'handler' => fn($p) => ['series' => substr($p, 7)]
++            ],
++        ];
++
 +        $path = $request->server('REQUEST_URI');
-+        if (str_starts_with($path, '/tags')) {
-+            $path = '/ao3' . $path;
++        foreach ($rewriteRules as $prefix => $rule) {
++            if (str_starts_with($path, $prefix)) {
++                if (isset($rule['path'])) {
++                    $path = $rule['path']($path);
++                    continue;
++                }
++
++                $args = $rule['handler']($path);
++                $path = '/' . $rule['bridge'];
++                $request = Request::fromCli($args);
++                break;
++            }
 +        }
-+        if (str_starts_with($path, '/ao3')) {
-+            $args = [
-+                'context' => 'List',
-+                'range' => 'all',
-+                'url' => 'https://archiveofourown.org' . substr($path, 4),
-+            ];
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/manga') || str_starts_with($path, '/title')) {
-+            $args = [
-+                'series' => substr($path, 7),
-+            ];
-+            $path = '/cubariproxy';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/tagged/')) {
-+            $path = '/blog' . $path . '?sort=recent';
-+        }
-+        if (str_starts_with($path, '/blog/')) {
-+            $loc = substr($path, 6);
-+            $args = [
-+                'url' => 'https://priviblur.fly.dev/' . $loc
-+            ];
-+            $path = '/priviblur';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/profile/')) {
-+            $args = [
-+                'context' => 'Author',
-+                'uid' => substr($path, 8),
-+            ];
-+            $path = '/scribblehub';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/channel/')) {
-+            $args = [
-+                'embed' => 'on',
-+                'embedurl' => 'on',
-+                'channel' => substr($path, 9),
-+            ];
-+            $path = '/youtubefeedexpander';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/patreon/')) {
-+            $args = [
-+                'user' => substr($path, 9),
-+            ];
-+            $path = '/kemono';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/games/')) {
-+            $args = [
-+                'updates' => on,
-+                'gid' => substr($path, 7),
-+            ];
-+            $path = '/gamebanana';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/@')) {
-+            $args = [
-+                'profile' => substr($path, 2),
-+            ];
-+            $path = '/substackprofile';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/reduce/')) {
-+            $args = [
-+                'url' => substr($path, 8),
-+                'percentage' => '50',
-+            ];
-+            $path = '/feedreducer';
-+            $request = Request::fromCli($args);
-+        }
-+        if (str_starts_with($path, '/bsky/')) {
-+            $args = [
-+                'user_id' => substr($path, 6) . '.bsky.social',
-+            ];
-+            $path = '/bluesky';
-+            $request = Request::fromCli($args);
-+        }
++
 +        if (strlen($path) > 1 && $path[1] != '?') {
 +            $args = $request->toArray() + [
 +                'action' => 'display',
 +                'bridge' => preg_split('/[\/\?]/', $path)[1],
 +                'format' => 'Mrss',
 +            ];
-+            print($args['bridge']);
 +            $request = Request::fromCli($args);
 +        }
++
 +        return $request;
 +    }
 +
