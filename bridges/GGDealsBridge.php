@@ -53,57 +53,49 @@ class GGDealsBridge extends BridgeAbstract {
             'type' => 'checkbox',
             'title' => 'Check to only show a price if it\'s the new lowest',
             'defaultValue' => 'checked'
-        ]
+        ],
     ]];
 
     public function collectData() {
         $html = getSimpleHTMLDOMCached($this->getURI());
-        $id_attr = 'data-container-game-id';
-        $url = sprintf(
-            '%s%s/games/chartHistoricalData/%s/?showKeyshops=%d',
-            self::URI,
-            $this->getInput('region'),
-            $html->find("[$id_attr]", 0)->getAttribute("$id_attr"),
-            $this->getInput('keyshops')
-        );
+        $types = ['official-stores'];
+        if ($this->getInput('keyshops')) {
+            $types[] = 'keyshops';
+        }
 
-        $headers = [ 'X-Requested-With: XMLHttpRequest' ];
-        $json = getContents($url, $headers);
-        $data = json_decode($json);
+        foreach ($types as $type) {
+            $low = false;
+            foreach ($html->find("#$type .game-item") as $deal) {
+                $item = [
+                    'author' => $deal->getAttribute('data-shop-name'),
+                    'categories' => [ $deal->find('.tag-drm svg', 0)->getAttribute('title'),
+                                      $deal->find('.label.historical', 0)->plaintext,
+                                      $deal->find('.label.best', 0)->plaintext,
+                                      $deal->find('.code', 0)->plaintext,
+                                      $type ],
+                    'timestamp' => $deal->find('time', 0)->getAttribute('datetime'),
+                    'title' => $deal->find('.price-inner, .price-text', 0)->plaintext,
+                    'url' => $deal->find('.full-link', 0)->href,
+                ];
+                // Unsure how referral links change—exclude from guid
+                $item['uid'] = implode("", array_diff_key($item, ['url'=>'']));
 
-        $currency = $data->currency;
-        $types = (array)($data->chartData);
 
-        foreach ($types as $type => $deals) {
-            $low = array_pop($deals);
-            foreach ($deals as $deal) {
-                $item = [];
-
-                $name = $deal->name;
-                $shop = $deal->shop;
-                $price = number_format($deal->y, $currency->decimals);
-                $timestamp = intval($deal->x / 1000);
-
-                $item['author'] = $shop;
-                $item['categories'] = [$type];
-                $item['timestamp'] = $timestamp;
-                $item['title'] = "$shop: $currency->prefix$price$currency->suffix";
-                $item['uid'] = "$deal->shop$deal->x$deal->y";
-                $item['uri'] = $this->getURI();
-
-                if ($deal->y == $low->y) {
+                // First entry for type is always the lowest
+                if (!$low || $item['title'] = $low) {
+                    $low = $item['title'];
                     $item['title'] .= " ($type low)";
-                } elseif ($this->getInput('lowest')) {
-                    continue;
+                    $item['categories'][] = 'Low Price';
                 }
 
                 $this->items[] = $item;
+
+                // First entry for type is always the lowest
+                if ($this->getInput('lowest')) {
+                    break;
+                }
             }
         }
-
-        usort($this->items, function($a, $b) {
-            return $b['timestamp'] - $a['timestamp'];
-        });
     }
 
     public function getName() {
@@ -116,10 +108,10 @@ class GGDealsBridge extends BridgeAbstract {
     }
 
     public function getURI() {
+        $uri = parent::getURI();
         if ($this->getInput('slug')) {
-            return self::URI . 'game/' . $this->getInput('slug');
+            $uri .= $this->getInput('region') . '/game/' . $this->getInput('slug');
         }
-
-        return parent::getURI();
+        return $uri;
     }
 }
