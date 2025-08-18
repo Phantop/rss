@@ -12,10 +12,10 @@ index c65f8e00..6e9013e2 100644
 +    }
  }
 diff --git i/lib/RssBridge.php w/lib/RssBridge.php
-index d16f1d89..801b97f5 100644
+index d16f1d89..c4d7af78 100644
 --- i/lib/RssBridge.php
 +++ w/lib/RssBridge.php
-@@ -10,8 +10,95 @@ final class RssBridge
+@@ -10,8 +10,98 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -52,7 +52,10 @@ index d16f1d89..801b97f5 100644
 +            ],
 +            '/game/' => [
 +                'bridge' => 'ggdeals',
-+                'handler' => fn($p) => ['slug' => substr($p, 6)]
++                'handler' => fn($p) => [
++                    'lowest' => 'on',
++                    'slug' => substr($p, 6)
++                ]
 +            ],
 +            '/patreon/' => [
 +                'bridge' => 'kemono',

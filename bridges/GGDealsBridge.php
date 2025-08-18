@@ -58,6 +58,7 @@ class GGDealsBridge extends BridgeAbstract {
 
     public function collectData() {
         $html = getSimpleHTMLDOMCached($this->getURI());
+        $html = defaultLinkTo($html, self::URI);
         $types = ['official-stores'];
         if ($this->getInput('keyshops')) {
             $types[] = 'keyshops';
@@ -68,14 +69,14 @@ class GGDealsBridge extends BridgeAbstract {
             foreach ($html->find("#$type .game-item") as $deal) {
                 $item = [
                     'author' => $deal->getAttribute('data-shop-name'),
-                    'categories' => [ $deal->find('.tag-drm svg', 0)->getAttribute('title'),
+                    'categories' => [ $deal->find('.tag-drm svg, .time-tag', 0)->getAttribute('title'),
                                       $deal->find('.label.historical', 0)->plaintext,
                                       $deal->find('.label.best', 0)->plaintext,
                                       $deal->find('.code', 0)->plaintext,
                                       $type ],
                     'timestamp' => $deal->find('time', 0)->getAttribute('datetime'),
                     'title' => $deal->find('.price-inner, .price-text', 0)->plaintext,
-                    'url' => $deal->find('.full-link', 0)->href,
+                    'uri' => $deal->find('.full-link', 0)->href,
                 ];
                 // Unsure how referral links change—exclude from guid
                 $item['uid'] = implode("", array_diff_key($item, ['url'=>'']));
