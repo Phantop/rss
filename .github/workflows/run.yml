@@ -10,14 +10,20 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    container: rssbridge/rss-bridge:latest
     steps:
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y parallel rename git python3
       - name: Checkout repo
         uses: actions/checkout@v4
-      - name: Install dependencies
-        run: sudo apt install -y parallel php rename
+      - name: Bump submodules
+        run: |
+          git config --global --add safe.directory /__w/rss/rss
+          git submodule update --init --remote
       - name: Run stuff
         run: |
-          git submodule update --init --remote
           cd rss-bridge
           echo '*' > whitelist.txt
           cp -r ../bridges .
