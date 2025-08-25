@@ -1,0 +1,101 @@
+diff --git i/bridges/KemonoBridge.php w/bridges/KemonoBridge.php
+index 27c11a25..ef9314ed 100644
+--- i/bridges/KemonoBridge.php
++++ w/bridges/KemonoBridge.php
+@@ -4,7 +4,7 @@ class KemonoBridge extends BridgeAbstract
+ {
+     const NAME = 'Kemono';
+     const MAINTAINER = 'phantop';
+-    const URI = 'https://kemono.su/';
++    const URI = 'https://kemono.cr/';
+     const DESCRIPTION = 'Returns posts from Kemono.';
+     const PARAMETERS = [[
+         'service' => [
+@@ -29,37 +29,45 @@ class KemonoBridge extends BridgeAbstract
+             'name' => 'Search query',
+             'exampleValue' => 'classic',
+             'required' => false,
+-        ]
++        ],
++        'limit' => self::LIMIT,
+     ]];
+ 
+-    private $title;
++    private $author;
+ 
+     public function collectData()
+     {
+         $api = parent::getURI() . 'api/v1/';
+         $url = $api . $this->getInput('service') . '/user/' . $this->getInput('user');
++        $header = [ 'Accept: text/css' ]; // Required by API
+ 
+-        $api_response = getContents($url . '/profile');
++        $api_response = getContents($url . '/profile', $header);
+         $profile = Json::decode($api_response);
+-        $this->title = ucfirst($profile['name']);
++        $this->author = ucfirst($profile['name']);
+ 
++        $posts_url = "$url/posts";
+         if ($this->getInput('q')) {
+-            $url .= '?q=' . urlencode($this->getInput('q'));
++            $posts_url .= '?q=' . urlencode($this->getInput('q'));
+         }
+-        $api_response = getContents($url);
++        $api_response = getContents($posts_url, $header);
+         $json = Json::decode($api_response);
++        $elements = array_slice($json, 0, $this->getInput('limit'));
+ 
++        foreach ($elements as $element) {
++            $element_api = getContents($url . "/post/" . $element['id'], $header);
++            $element = Json::decode($element_api);
++            $post = $element['post'];
+ 
+-        foreach ($json as $element) {
+-            $item = [];
+-            $item['author'] = $this->title;
+-            $item['content'] = $element['content'];
+-            $item['timestamp'] = strtotime($element['published']);
+-            $item['title'] = $element['title'];
+-            $item['uid'] = $element['id'];
+-            $item['uri'] = $this->getURI() . '/post/' . $item['uid'];
++            $item = [
++                'author' => $this->author,
++                'content' => $post['content'],
++                'timestamp' => strtotime($post['published']),
++                'title' => $post['title'],
++                'uid' => $post['id'],
++                'uri' => $this->getURI() . '/post/' . $post['id'],
++            ];
+ 
+-            if ($element['tags']) {
++            if (array_key_exists('tags', $element)) {
+                 $tags = $element['tags'];
+                 if (is_array($tags)) {
+                     $item['categories'] = $tags;
+@@ -72,11 +80,11 @@ class KemonoBridge extends BridgeAbstract
+             }
+ 
+             $item['enclosures'] = [];
+-            if (array_key_exists('url', $element['embed'])) {
+-                $item['enclosures'][] = $element['embed']['url'];
++            if (array_key_exists('url', $post['embed'])) {
++                $item['enclosures'][] = $post['embed']['url'];
+             }
+-            if (array_key_exists('path', $element['file'])) {
+-                $element['attachments'][] = $element['file'];
++            if (array_key_exists('path', $post['file'])) {
++                $element['attachments'][] = $post['file'];
+             }
+             foreach ($element['attachments'] as $file) {
+                 $item['enclosures'][] = parent::getURI() . $file['path'];
+@@ -89,8 +97,8 @@ class KemonoBridge extends BridgeAbstract
+     public function getName()
+     {
+         $name = parent::getName();
+-        if (isset($this->title)) {
+-            $name .= ' - ' . $this->title;
++        if (isset($this->author)) {
++            $name .= ' - ' . $this->author;
+         }
+         return $name;
+     }

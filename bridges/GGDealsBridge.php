@@ -69,7 +69,7 @@ class GGDealsBridge extends BridgeAbstract {
             foreach ($html->find("#$type .game-item") as $deal) {
                 $item = [
                     'author' => $deal->getAttribute('data-shop-name'),
-                    'categories' => [ $deal->find('.tag-drm svg, .time-tag', 0)->getAttribute('title'),
+                    'categories' => [ $deal->find('.tag-drm svg, time', 0)->getAttribute('title'),
                                       $deal->find('.label.historical', 0)->plaintext,
                                       $deal->find('.label.best', 0)->plaintext,
                                       $deal->find('.code', 0)->plaintext,
