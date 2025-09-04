@@ -1,0 +1,54 @@
+diff --git i/bridges/GithubIssueBridge.php w/bridges/GithubIssueBridge.php
+index 345d1148..3a835441 100644
+--- i/bridges/GithubIssueBridge.php
++++ w/bridges/GithubIssueBridge.php
+@@ -204,7 +204,7 @@ class GithubIssueBridge extends BridgeAbstract
+                 $issues = $html->find('.js-active-navigation-container .js-navigation-item');
+                 if (!$issues) {
+                     // Issues
+-                    $issues = $html->find('.IssueRow-module__row--XmR1f');
++                    $issues = $html->find('[class^="IssueRow-module__row--"]');
+                 }
+ 
+                 foreach ($issues as $issue) {
+@@ -214,28 +214,28 @@ class GithubIssueBridge extends BridgeAbstract
+                     $item = [];
+                     $item['content'] = '';
+ 
+-                    if ($this->getInput('c')) {
+-                        $uri = static::URI . $this->getInput('u')
+-                         . '/' . $this->getInput('p') . '/' . static::URL_PATH . '/' . $issueNbr;
++                    $uri = static::URI . $this->getInput('u')
++                     . '/' . $this->getInput('p') . '/' . static::URL_PATH . '/' . $issueNbr;
++                    $page = getSimpleHTMLDOMCached($uri, static::CACHE_TIMEOUT);
+ 
+-                        $issue = getSimpleHTMLDOMCached($uri, static::CACHE_TIMEOUT);
+-                        if ($issue) {
++                    if ($this->getInput('c')) {
++                        if ($page) {
+                             $this->items = array_merge(
+                                 $this->items,
+-                                $this->extractIssueComments($issue)
++                                $this->extractIssueComments($page)
+                             );
+                             continue;
+                         }
+                         $item['content'] = 'Can not extract comments from ' . $uri;
++                    } else {
++                        $item['content'] = $page->find('#issue-body-viewer', 0);
+                     }
+ 
+-                    $item['author'] = $issue->find('a', 1)->plaintext;
++                    $item['author'] = $issue->find('[class^="IssueItem-module__authorCreatedLink"]', 0)->plaintext;
+ 
+-                    $time = $issue->find('relative-time', 0);
+-                    $datetime = $time->getAttribute('datetime');
+-                    if ($datetime) {
+-                        $item['timestamp'] = strtotime($datetime);
+-                    }
++                    $time = $issue->find('relative-time', 0)->plaintext;
++                    $timestamp = explode('on ', $time)[1];
++                    $item['timestamp'] = strtotime($timestamp);
+ 
+                     $item['title'] = '';
+ 
