@@ -1,0 +1,536 @@
+diff --git i/Dockerfile w/Dockerfile
+index fb783344..b3e47d8c 100644
+--- i/Dockerfile
++++ w/Dockerfile
+@@ -27,6 +27,8 @@ RUN set -xe && \
+       curl \
+       # for patching libcurl-impersonate
+       patchelf \
++      # to installr readability
++      composer \
+       && \
+     # install curl-impersonate library
+     curlimpersonate_version=1.0.0rc2 && \
+@@ -69,6 +71,7 @@ COPY ./config/php-fpm.conf /etc/php/8.2/fpm/pool.d/rss-bridge.conf
+ COPY ./config/php.ini /etc/php/8.2/fpm/conf.d/90-rss-bridge.ini
+ 
+ COPY --chown=www-data:www-data ./ /app/
++RUN composer install -d /app
+ 
+ EXPOSE 80
+ 
+diff --git i/composer.json w/composer.json
+index 8d41c51b..b7d7cf85 100644
+--- i/composer.json
++++ w/composer.json
+@@ -30,7 +30,8 @@
+         "ext-simplexml": "*",
+         "ext-dom": "*",
+         "ext-json": "*",
+-        "ext-filter": "*"
++        "ext-filter": "*",
++        "fivefilters/readability.php": ">=3.0"
+     },
+     "require-dev": {
+         "phpunit/phpunit": "^9",
+diff --git i/composer.lock w/composer.lock
+index 94a71227..5abf8b5e 100644
+--- i/composer.lock
++++ w/composer.lock
+@@ -4,8 +4,473 @@
+         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+         "This file is @generated automatically"
+     ],
+-    "content-hash": "6103a05bc4ac2c33281ef349fd8ff968",
+-    "packages": [],
++    "content-hash": "1ad113af8021a808023fa817786912a0",
++    "packages": [
++        {
++            "name": "fivefilters/readability.php",
++            "version": "v3.3.3",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/fivefilters/readability.php.git",
++                "reference": "e2ee7b9e49eae89ac7ed2c74b15718100a73b4c8"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/fivefilters/readability.php/zipball/e2ee7b9e49eae89ac7ed2c74b15718100a73b4c8",
++                "reference": "e2ee7b9e49eae89ac7ed2c74b15718100a73b4c8",
++                "shasum": ""
++            },
++            "require": {
++                "ext-dom": "*",
++                "ext-mbstring": "*",
++                "ext-xml": "*",
++                "league/uri": "^7.0",
++                "masterminds/html5": "^2.0",
++                "php": ">=8.1",
++                "psr/log": "^1.0 || ^2.0 || ^3.0"
++            },
++            "require-dev": {
++                "monolog/monolog": "^3.0",
++                "phpunit/phpunit": "^10.0 || ^11.0"
++            },
++            "suggest": {
++                "monolog/monolog": "Allow logging debug information"
++            },
++            "type": "library",
++            "autoload": {
++                "psr-4": {
++                    "fivefilters\\Readability\\": "src/"
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "Apache-2.0"
++            ],
++            "authors": [
++                {
++                    "name": "Andres Rey",
++                    "email": "andreskrey@gmail.com",
++                    "role": "Original Developer"
++                },
++                {
++                    "name": "Keyvan Minoukadeh",
++                    "email": "keyvan@fivefilters.org",
++                    "homepage": "https://www.fivefilters.org",
++                    "role": "Developer/Maintainer"
++                }
++            ],
++            "description": "A PHP port of Readability.js",
++            "homepage": "https://github.com/fivefilters/readability.php",
++            "keywords": [
++                "html",
++                "readability"
++            ],
++            "support": {
++                "issues": "https://github.com/fivefilters/readability.php/issues",
++                "source": "https://github.com/fivefilters/readability.php/tree/v3.3.3"
++            },
++            "time": "2025-04-26T23:45:37+00:00"
++        },
++        {
++            "name": "league/uri",
++            "version": "7.5.1",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/thephpleague/uri.git",
++                "reference": "81fb5145d2644324614cc532b28efd0215bda430"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/thephpleague/uri/zipball/81fb5145d2644324614cc532b28efd0215bda430",
++                "reference": "81fb5145d2644324614cc532b28efd0215bda430",
++                "shasum": ""
++            },
++            "require": {
++                "league/uri-interfaces": "^7.5",
++                "php": "^8.1"
++            },
++            "conflict": {
++                "league/uri-schemes": "^1.0"
++            },
++            "suggest": {
++                "ext-bcmath": "to improve IPV4 host parsing",
++                "ext-fileinfo": "to create Data URI from file contennts",
++                "ext-gmp": "to improve IPV4 host parsing",
++                "ext-intl": "to handle IDN host with the best performance",
++                "jeremykendall/php-domain-parser": "to resolve Public Suffix and Top Level Domain",
++                "league/uri-components": "Needed to easily manipulate URI objects components",
++                "php-64bit": "to improve IPV4 host parsing",
++                "symfony/polyfill-intl-idn": "to handle IDN host via the Symfony polyfill if ext-intl is not present"
++            },
++            "type": "library",
++            "extra": {
++                "branch-alias": {
++                    "dev-master": "7.x-dev"
++                }
++            },
++            "autoload": {
++                "psr-4": {
++                    "League\\Uri\\": ""
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "MIT"
++            ],
++            "authors": [
++                {
++                    "name": "Ignace Nyamagana Butera",
++                    "email": "nyamsprod@gmail.com",
++                    "homepage": "https://nyamsprod.com"
++                }
++            ],
++            "description": "URI manipulation library",
++            "homepage": "https://uri.thephpleague.com",
++            "keywords": [
++                "data-uri",
++                "file-uri",
++                "ftp",
++                "hostname",
++                "http",
++                "https",
++                "middleware",
++                "parse_str",
++                "parse_url",
++                "psr-7",
++                "query-string",
++                "querystring",
++                "rfc3986",
++                "rfc3987",
++                "rfc6570",
++                "uri",
++                "uri-template",
++                "url",
++                "ws"
++            ],
++            "support": {
++                "docs": "https://uri.thephpleague.com",
++                "forum": "https://thephpleague.slack.com",
++                "issues": "https://github.com/thephpleague/uri-src/issues",
++                "source": "https://github.com/thephpleague/uri/tree/7.5.1"
++            },
++            "funding": [
++                {
++                    "url": "https://github.com/sponsors/nyamsprod",
++                    "type": "github"
++                }
++            ],
++            "time": "2024-12-08T08:40:02+00:00"
++        },
++        {
++            "name": "league/uri-interfaces",
++            "version": "7.5.0",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/thephpleague/uri-interfaces.git",
++                "reference": "08cfc6c4f3d811584fb09c37e2849e6a7f9b0742"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/thephpleague/uri-interfaces/zipball/08cfc6c4f3d811584fb09c37e2849e6a7f9b0742",
++                "reference": "08cfc6c4f3d811584fb09c37e2849e6a7f9b0742",
++                "shasum": ""
++            },
++            "require": {
++                "ext-filter": "*",
++                "php": "^8.1",
++                "psr/http-factory": "^1",
++                "psr/http-message": "^1.1 || ^2.0"
++            },
++            "suggest": {
++                "ext-bcmath": "to improve IPV4 host parsing",
++                "ext-gmp": "to improve IPV4 host parsing",
++                "ext-intl": "to handle IDN host with the best performance",
++                "php-64bit": "to improve IPV4 host parsing",
++                "symfony/polyfill-intl-idn": "to handle IDN host via the Symfony polyfill if ext-intl is not present"
++            },
++            "type": "library",
++            "extra": {
++                "branch-alias": {
++                    "dev-master": "7.x-dev"
++                }
++            },
++            "autoload": {
++                "psr-4": {
++                    "League\\Uri\\": ""
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "MIT"
++            ],
++            "authors": [
++                {
++                    "name": "Ignace Nyamagana Butera",
++                    "email": "nyamsprod@gmail.com",
++                    "homepage": "https://nyamsprod.com"
++                }
++            ],
++            "description": "Common interfaces and classes for URI representation and interaction",
++            "homepage": "https://uri.thephpleague.com",
++            "keywords": [
++                "data-uri",
++                "file-uri",
++                "ftp",
++                "hostname",
++                "http",
++                "https",
++                "parse_str",
++                "parse_url",
++                "psr-7",
++                "query-string",
++                "querystring",
++                "rfc3986",
++                "rfc3987",
++                "rfc6570",
++                "uri",
++                "url",
++                "ws"
++            ],
++            "support": {
++                "docs": "https://uri.thephpleague.com",
++                "forum": "https://thephpleague.slack.com",
++                "issues": "https://github.com/thephpleague/uri-src/issues",
++                "source": "https://github.com/thephpleague/uri-interfaces/tree/7.5.0"
++            },
++            "funding": [
++                {
++                    "url": "https://github.com/sponsors/nyamsprod",
++                    "type": "github"
++                }
++            ],
++            "time": "2024-12-08T08:18:47+00:00"
++        },
++        {
++            "name": "masterminds/html5",
++            "version": "2.10.0",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/Masterminds/html5-php.git",
++                "reference": "fcf91eb64359852f00d921887b219479b4f21251"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/Masterminds/html5-php/zipball/fcf91eb64359852f00d921887b219479b4f21251",
++                "reference": "fcf91eb64359852f00d921887b219479b4f21251",
++                "shasum": ""
++            },
++            "require": {
++                "ext-dom": "*",
++                "php": ">=5.3.0"
++            },
++            "require-dev": {
++                "phpunit/phpunit": "^4.8.35 || ^5.7.21 || ^6 || ^7 || ^8 || ^9"
++            },
++            "type": "library",
++            "extra": {
++                "branch-alias": {
++                    "dev-master": "2.7-dev"
++                }
++            },
++            "autoload": {
++                "psr-4": {
++                    "Masterminds\\": "src"
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "MIT"
++            ],
++            "authors": [
++                {
++                    "name": "Matt Butcher",
++                    "email": "technosophos@gmail.com"
++                },
++                {
++                    "name": "Matt Farina",
++                    "email": "matt@mattfarina.com"
++                },
++                {
++                    "name": "Asmir Mustafic",
++                    "email": "goetas@gmail.com"
++                }
++            ],
++            "description": "An HTML5 parser and serializer.",
++            "homepage": "http://masterminds.github.io/html5-php",
++            "keywords": [
++                "HTML5",
++                "dom",
++                "html",
++                "parser",
++                "querypath",
++                "serializer",
++                "xml"
++            ],
++            "support": {
++                "issues": "https://github.com/Masterminds/html5-php/issues",
++                "source": "https://github.com/Masterminds/html5-php/tree/2.10.0"
++            },
++            "time": "2025-07-25T09:04:22+00:00"
++        },
++        {
++            "name": "psr/http-factory",
++            "version": "1.1.0",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/php-fig/http-factory.git",
++                "reference": "2b4765fddfe3b508ac62f829e852b1501d3f6e8a"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/php-fig/http-factory/zipball/2b4765fddfe3b508ac62f829e852b1501d3f6e8a",
++                "reference": "2b4765fddfe3b508ac62f829e852b1501d3f6e8a",
++                "shasum": ""
++            },
++            "require": {
++                "php": ">=7.1",
++                "psr/http-message": "^1.0 || ^2.0"
++            },
++            "type": "library",
++            "extra": {
++                "branch-alias": {
++                    "dev-master": "1.0.x-dev"
++                }
++            },
++            "autoload": {
++                "psr-4": {
++                    "Psr\\Http\\Message\\": "src/"
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "MIT"
++            ],
++            "authors": [
++                {
++                    "name": "PHP-FIG",
++                    "homepage": "https://www.php-fig.org/"
++                }
++            ],
++            "description": "PSR-17: Common interfaces for PSR-7 HTTP message factories",
++            "keywords": [
++                "factory",
++                "http",
++                "message",
++                "psr",
++                "psr-17",
++                "psr-7",
++                "request",
++                "response"
++            ],
++            "support": {
++                "source": "https://github.com/php-fig/http-factory"
++            },
++            "time": "2024-04-15T12:06:14+00:00"
++        },
++        {
++            "name": "psr/http-message",
++            "version": "2.0",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/php-fig/http-message.git",
++                "reference": "402d35bcb92c70c026d1a6a9883f06b2ead23d71"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/php-fig/http-message/zipball/402d35bcb92c70c026d1a6a9883f06b2ead23d71",
++                "reference": "402d35bcb92c70c026d1a6a9883f06b2ead23d71",
++                "shasum": ""
++            },
++            "require": {
++                "php": "^7.2 || ^8.0"
++            },
++            "type": "library",
++            "extra": {
++                "branch-alias": {
++                    "dev-master": "2.0.x-dev"
++                }
++            },
++            "autoload": {
++                "psr-4": {
++                    "Psr\\Http\\Message\\": "src/"
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "MIT"
++            ],
++            "authors": [
++                {
++                    "name": "PHP-FIG",
++                    "homepage": "https://www.php-fig.org/"
++                }
++            ],
++            "description": "Common interface for HTTP messages",
++            "homepage": "https://github.com/php-fig/http-message",
++            "keywords": [
++                "http",
++                "http-message",
++                "psr",
++                "psr-7",
++                "request",
++                "response"
++            ],
++            "support": {
++                "source": "https://github.com/php-fig/http-message/tree/2.0"
++            },
++            "time": "2023-04-04T09:54:51+00:00"
++        },
++        {
++            "name": "psr/log",
++            "version": "3.0.2",
++            "source": {
++                "type": "git",
++                "url": "https://github.com/php-fig/log.git",
++                "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3"
++            },
++            "dist": {
++                "type": "zip",
++                "url": "https://api.github.com/repos/php-fig/log/zipball/f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
++                "reference": "f16e1d5863e37f8d8c2a01719f5b34baa2b714d3",
++                "shasum": ""
++            },
++            "require": {
++                "php": ">=8.0.0"
++            },
++            "type": "library",
++            "extra": {
++                "branch-alias": {
++                    "dev-master": "3.x-dev"
++                }
++            },
++            "autoload": {
++                "psr-4": {
++                    "Psr\\Log\\": "src"
++                }
++            },
++            "notification-url": "https://packagist.org/downloads/",
++            "license": [
++                "MIT"
++            ],
++            "authors": [
++                {
++                    "name": "PHP-FIG",
++                    "homepage": "https://www.php-fig.org/"
++                }
++            ],
++            "description": "Common interface for logging libraries",
++            "homepage": "https://github.com/php-fig/log",
++            "keywords": [
++                "log",
++                "psr",
++                "psr-3"
++            ],
++            "support": {
++                "source": "https://github.com/php-fig/log/tree/3.0.2"
++            },
++            "time": "2024-09-11T13:17:53+00:00"
++        }
++    ],
+     "packages-dev": [
+         {
+             "name": "doctrine/instantiator",
+@@ -1821,7 +2286,7 @@
+     ],
+     "aliases": [],
+     "minimum-stability": "stable",
+-    "stability-flags": [],
++    "stability-flags": {},
+     "prefer-stable": false,
+     "prefer-lowest": false,
+     "platform": {
+@@ -1832,8 +2297,9 @@
+         "ext-libxml": "*",
+         "ext-simplexml": "*",
+         "ext-dom": "*",
+-        "ext-json": "*"
++        "ext-json": "*",
++        "ext-filter": "*"
+     },
+-    "platform-dev": [],
++    "platform-dev": {},
+     "plugin-api-version": "2.6.0"
+ }
