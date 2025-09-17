@@ -25,10 +25,8 @@ class LinkSaverBridge extends BridgeAbstract
         ],
     ]];
 
-    // Bridge results must be uncached so saved links are more likely to be present
-    const CACHE_TIMEOUT = 0;
-    // Save for six hours to best account for feed reader refresh times being long
-    const SAVE_TIMEOUT = 6 * 60 * 60;
+    // Save for 12 hours to best account for feed reader refresh times being long
+    const SAVE_TIMEOUT = 12 * 60 * 60;
 
     public function collectData()
     {
