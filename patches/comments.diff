@@ -1,8 +1,8 @@
-diff --git a/formats/MrssFormat.php b/formats/MrssFormat.php
-index aaa1d0c..79e0dbd 100644
---- a/formats/MrssFormat.php
-+++ b/formats/MrssFormat.php
-@@ -119,6 +119,7 @@ class MrssFormat extends FormatAbstract
+diff --git i/formats/MrssFormat.php w/formats/MrssFormat.php
+index 4066ec73..f6321113 100644
+--- i/formats/MrssFormat.php
++++ w/formats/MrssFormat.php
+@@ -113,6 +113,7 @@ class MrssFormat extends FormatAbstract
              $itemTimestamp = $item->getTimestamp();
              $itemTitle = $item->getTitle();
              $itemUri = $item->getURI();
@@ -10,7 +10,7 @@ index aaa1d0c..79e0dbd 100644
              $itemContent = $item->getContent() ?? '';
              $itemUid = $item->getUid();
              $isPermaLink = 'false';
-@@ -166,6 +167,12 @@ class MrssFormat extends FormatAbstract
+@@ -160,6 +161,12 @@ class MrssFormat extends FormatAbstract
                  $entryLink->appendChild($document->createTextNode($itemUri));
              }
  
@@ -23,10 +23,10 @@ index aaa1d0c..79e0dbd 100644
              $entryGuid = $document->createElement('guid');
              $entryGuid->setAttribute('isPermaLink', $isPermaLink);
              $entry->appendChild($entryGuid);
-diff --git a/lib/FeedItem.php b/lib/FeedItem.php
-index 8c9a60b..b408d24 100644
---- a/lib/FeedItem.php
-+++ b/lib/FeedItem.php
+diff --git i/lib/FeedItem.php w/lib/FeedItem.php
+index 5fb9240e..82755621 100644
+--- i/lib/FeedItem.php
++++ w/lib/FeedItem.php
 @@ -3,6 +3,7 @@
  class FeedItem
  {
@@ -35,7 +35,7 @@ index 8c9a60b..b408d24 100644
      protected ?string $title = null;
      protected ?int $timestamp = null;
      protected ?string $author = null;
-@@ -34,6 +35,9 @@ class FeedItem
+@@ -31,6 +32,9 @@ class FeedItem
              case 'uri':
                  $this->setURI($value);
                  break;
@@ -45,45 +45,44 @@ index 8c9a60b..b408d24 100644
              case 'title':
                  $this->setTitle($value);
                  break;
-@@ -65,6 +69,8 @@ class FeedItem
-         switch ($name) {
-             case 'uri':
+@@ -64,6 +68,8 @@ class FeedItem
                  return $this->getURI();
-+            case 'comments':
-+                return $this->getComments();
              case 'title':
                  return $this->getTitle();
++            case 'comments':
++                return $this->getComments();
              case 'timestamp':
-@@ -92,10 +98,8 @@ class FeedItem
+                 return $this->getTimestamp();
+             case 'author':
+@@ -89,10 +95,8 @@ class FeedItem
          return $this->uri;
      }
  
 -    public function setURI($uri)
 +    private function validateURI($uri): ?string
      {
--        $this->uri = null; // Clear previous data
+-        $this->uri = null;
 -
          if ($uri instanceof simple_html_dom_node) {
              if ($uri->hasAttribute('href')) { // Anchor
                  $uri = $uri->href;
-@@ -107,15 +111,30 @@ class FeedItem
+@@ -101,16 +105,31 @@ class FeedItem
+             }
          }
          if (!is_string($uri)) {
-             $this->logger->debug(sprintf('Expected $uri to be string but got %s', gettype($uri)));
 -            return;
 +            return null;
          }
          $uri = trim($uri);
          // Intentionally doing a weak url validation here because FILTER_VALIDATE_URL is too strict
          if (!preg_match('#^https?://#i', $uri)) {
-             $this->logger->debug(sprintf('Not a valid url: "%s"', $uri));
 -            return;
-+            return null;
++            return url;
          }
 -        $this->uri = $uri;
 +        return $uri;
-+    }
-+
+     }
+ 
 +    public function setURI($uri)
 +    {
 +        $this->uri = $this->validateURI($uri);
@@ -97,10 +96,12 @@ index 8c9a60b..b408d24 100644
 +    public function setComments($uri)
 +    {
 +        $this->comments = $this->validateURI($uri);
-     }
- 
++     }
++
      public function getTitle(): ?string
-@@ -283,6 +302,7 @@ class FeedItem
+     {
+         return $this->title;
+@@ -253,6 +272,7 @@ class FeedItem
          return array_merge(
              [
                  'uri' => $this->uri,

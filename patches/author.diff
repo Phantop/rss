@@ -1,8 +1,8 @@
-diff --git a/formats/MrssFormat.php b/formats/MrssFormat.php
-index aaa1d0c..7e05124 100644
---- a/formats/MrssFormat.php
-+++ b/formats/MrssFormat.php
-@@ -116,6 +116,7 @@ class MrssFormat extends FormatAbstract
+diff --git i/formats/MrssFormat.php w/formats/MrssFormat.php
+index 4066ec73..131c8482 100644
+--- i/formats/MrssFormat.php
++++ w/formats/MrssFormat.php
+@@ -110,6 +110,7 @@ class MrssFormat extends FormatAbstract
  
          foreach ($this->getItems() as $item) {
              $itemArray = $item->toArray();
@@ -10,7 +10,7 @@ index aaa1d0c..7e05124 100644
              $itemTimestamp = $item->getTimestamp();
              $itemTitle = $item->getTitle();
              $itemUri = $item->getURI();
-@@ -143,6 +144,12 @@ class MrssFormat extends FormatAbstract
+@@ -137,6 +138,12 @@ class MrssFormat extends FormatAbstract
                  $entryTitle->appendChild($document->createTextNode($itemTitle));
              }
  
