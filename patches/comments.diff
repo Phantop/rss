@@ -24,7 +24,7 @@ index 4066ec73..f6321113 100644
              $entryGuid->setAttribute('isPermaLink', $isPermaLink);
              $entry->appendChild($entryGuid);
 diff --git i/lib/FeedItem.php w/lib/FeedItem.php
-index 5fb9240e..82755621 100644
+index 5fb9240e..ff243e52 100644
 --- i/lib/FeedItem.php
 +++ w/lib/FeedItem.php
 @@ -3,6 +3,7 @@
@@ -77,7 +77,7 @@ index 5fb9240e..82755621 100644
          // Intentionally doing a weak url validation here because FILTER_VALIDATE_URL is too strict
          if (!preg_match('#^https?://#i', $uri)) {
 -            return;
-+            return url;
++            return $uri;
          }
 -        $this->uri = $uri;
 +        return $uri;

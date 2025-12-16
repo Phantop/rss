@@ -1,0 +1,13 @@
+diff --git i/bridges/YouTubeFeedExpanderBridge.php w/bridges/YouTubeFeedExpanderBridge.php
+index f0b1e46d..168ee702 100644
+--- i/bridges/YouTubeFeedExpanderBridge.php
++++ w/bridges/YouTubeFeedExpanderBridge.php
+@@ -81,7 +81,7 @@ class YouTubeFeedExpanderBridge extends FeedExpander
+             $item['content'] = $iframe . $item['content'];
+         }
+         if ($this->getInput('embedurl')) {
+-            $item['uri'] = $embed;
++            $item['uri'] = 'https://youtube.ttools.io/watch?v=' . $id;
+         }
+ 
+         return $item;
