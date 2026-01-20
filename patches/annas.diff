@@ -1,0 +1,13 @@
+diff --git i/bridges/AnnasArchiveBridge.php w/bridges/AnnasArchiveBridge.php
+index 4a1c3e91..3ba09137 100644
+--- i/bridges/AnnasArchiveBridge.php
++++ w/bridges/AnnasArchiveBridge.php
+@@ -4,7 +4,7 @@ class AnnasArchiveBridge extends BridgeAbstract
+ {
+     const NAME = 'Anna\'s Archive';
+     const MAINTAINER = 'phantop';
+-    const URI = 'https://annas-archive.org/';
++    const URI = 'https://annas-archive.li/';
+     const DESCRIPTION = 'Returns books from Anna\'s Archive';
+     const PARAMETERS = [
+         [
