@@ -1,0 +1,53 @@
+diff --git i/bridges/AO3Bridge.php w/bridges/AO3Bridge.php
+index 2697dbc..b02b8d7 100644
+--- i/bridges/AO3Bridge.php
++++ w/bridges/AO3Bridge.php
+@@ -55,6 +55,37 @@ class AO3Bridge extends BridgeAbstract
+     ];
+     private $title;
+
++    private function getContentsWithFallback($url, $headers)
++    {
++        $mirrors = [
++            'https://archive.transformativeworks.org',
++            'https://archiveofourown.gay',
++        ];
++        $urls = [$url];
++        foreach ($mirrors as $mirror) {
++            $urls[] = preg_replace(
++                '#^https?://archiveofourown\.org#',
++                $mirror,
++                $url
++            );
++        }
++
++        $lastException = null;
++        foreach ($urls as $url) {
++            try {
++                return getContents($url, $headers);
++            } catch (HttpException $e) {
++                $lastException = $e;
++            }
++        }
++
++        if ($lastException) {
++            throw $lastException;
++        }
++
++        throw new \Exception('Failed to fetch URL');
++    }
++
+     public function collectData()
+     {
+         switch ($this->queriedContext) {
+@@ -150,7 +182,9 @@ class AO3Bridge extends BridgeAbstract
+                         $url = $html->find('ol.index.group > li > a', -1)->href;
+                         break;
+                 }
+-                $response = getContents($url, $headers);
++                try {
++                    $response = $this->getContentsWithFallback($url, $headers);
++                } catch (HttpException $e) {}
+
+                 $html = \str_get_html($response);
+                 $html = defaultLinkTo($html, self::URI);
