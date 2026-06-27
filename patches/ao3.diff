@@ -1,16 +1,21 @@
 diff --git i/bridges/AO3Bridge.php w/bridges/AO3Bridge.php
-index 2697dbc..b02b8d7 100644
+index 2697dbc7..63666cc2 100644
 --- i/bridges/AO3Bridge.php
 +++ w/bridges/AO3Bridge.php
-@@ -55,6 +55,37 @@ class AO3Bridge extends BridgeAbstract
+@@ -55,6 +55,42 @@ class AO3Bridge extends BridgeAbstract
      ];
      private $title;
 
 +    private function getContentsWithFallback($url, $headers)
 +    {
 +        $mirrors = [
++            'https://insecure.archiveofourown.org/',
 +            'https://archive.transformativeworks.org',
 +            'https://archiveofourown.gay',
++            'https://secure.ao3.org/',
++            'https://ao3-mirror.cc/',
++            'https://dry-water-e911.ao365.workers.dev/',
++            'https://mute-disk-cf7e.ao33.workers.dev/',
 +        ];
 +        $urls = [$url];
 +        foreach ($mirrors as $mirror) {
@@ -40,7 +45,16 @@ index 2697dbc..b02b8d7 100644
      public function collectData()
      {
          switch ($this->queriedContext) {
-@@ -150,7 +182,9 @@ class AO3Bridge extends BridgeAbstract
+@@ -80,7 +116,7 @@ class AO3Bridge extends BridgeAbstract
+         $headers = [
+             "useragent: rss-bridge $version (https://github.com/RSS-Bridge/rss-bridge)"
+         ];
+-        $response = getContents($url, $headers);
++        $response = $this->getContentsWithFallback($url, $headers);
+
+         $html = \str_get_html($response);
+         $html = defaultLinkTo($html, self::URI);
+@@ -150,7 +186,9 @@ class AO3Bridge extends BridgeAbstract
                          $url = $html->find('ol.index.group > li > a', -1)->href;
                          break;
                  }

@@ -1,0 +1,13 @@
+diff --git i/bridges/GGDealsBridge.php w/bridges/GGDealsBridge.php
+index 08217d35..66104e2d 100644
+--- i/bridges/GGDealsBridge.php
++++ w/bridges/GGDealsBridge.php
+@@ -78,7 +78,7 @@ class GGDealsBridge extends BridgeAbstract
+                                       $deal->find('.code', 0)->plaintext,
+                                       $type ],
+                     'timestamp' => $deal->find('time', 0)->getAttribute('datetime'),
+-                    'title' => $deal->find('.price-inner, .price-text', 0)->plaintext,
++                    'title' => $deal->find('.price-inner-wrapper', 0)->plaintext,
+                     'uri' => $deal->find('.full-link', 0)->href,
+                 ];
+                 // Unsure how referral links change—exclude from guid

@@ -1,17 +1,17 @@
 diff --git i/bridges/GithubIssueBridge.php w/bridges/GithubIssueBridge.php
-index 345d1148..3a835441 100644
+index 6684017c..02b49e24 100644
 --- i/bridges/GithubIssueBridge.php
 +++ w/bridges/GithubIssueBridge.php
-@@ -204,7 +204,7 @@ class GithubIssueBridge extends BridgeAbstract
+@@ -212,7 +212,7 @@ class GithubIssueBridge extends BridgeAbstract
                  $issues = $html->find('.js-active-navigation-container .js-navigation-item');
                  if (!$issues) {
                      // Issues
 -                    $issues = $html->find('.IssueRow-module__row--XmR1f');
-+                    $issues = $html->find('[class^="IssueRow-module__row--"]');
++                    $issues = $html->find('[class^="IssueRow-module__row__"]');
                  }
  
                  foreach ($issues as $issue) {
-@@ -214,28 +214,28 @@ class GithubIssueBridge extends BridgeAbstract
+@@ -222,28 +222,28 @@ class GithubIssueBridge extends BridgeAbstract
                      $item = [];
                      $item['content'] = '';
  
@@ -35,7 +35,7 @@ index 345d1148..3a835441 100644
                          }
                          $item['content'] = 'Can not extract comments from ' . $uri;
 +                    } else {
-+                        $item['content'] = $page->find('#issue-body-viewer', 0);
++                        $item['content'] = $page->find('#issue-body-viewer .markdown-body', 0);
                      }
  
 -                    $item['author'] = $issue->find('a', 1)->plaintext;
