@@ -2,7 +2,7 @@ diff --git i/bridges/AO3Bridge.php w/bridges/AO3Bridge.php
 index 2697dbc7..63666cc2 100644
 --- i/bridges/AO3Bridge.php
 +++ w/bridges/AO3Bridge.php
-@@ -55,6 +55,42 @@ class AO3Bridge extends BridgeAbstract
+@@ -55,6 +55,43 @@ class AO3Bridge extends BridgeAbstract
      ];
      private $title;
 
@@ -10,6 +10,7 @@ index 2697dbc7..63666cc2 100644
 +    {
 +        $mirrors = [
 +            'https://insecure.archiveofourown.org/',
++            'https://staging.archiveofourown.org/',
 +            'https://archive.transformativeworks.org',
 +            'https://archiveofourown.gay',
 +            'https://secure.ao3.org/',
