@@ -36,8 +36,14 @@ class ReadabilityFeedExpanderBridge extends FeedExpander
     protected function parseItem(array $item)
     {
         $readability = new Readability(new Configuration());
-        $html = getSimpleHTMLDOMCached($item['uri']);
-        $html = defaultLinkTo($html, $item['uri']);
+        try {
+            $html = getSimpleHTMLDOMCached($item['uri']);
+            $html = defaultLinkTo($dom, self::URI);
+        } catch (HttpException $e) {
+            // Just move on if failed to fetch
+            return $item;
+        }
+
         try {
             $readability->parse($html);
             $item['content'] = $readability->getContent();

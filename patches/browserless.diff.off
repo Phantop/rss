@@ -1,0 +1,106 @@
+diff --git i/bridges/CssSelectorBridge.php w/bridges/CssSelectorBridge.php
+index ab4ecf6..bca09e7 100644
+--- i/bridges/CssSelectorBridge.php
++++ w/bridges/CssSelectorBridge.php
+@@ -61,12 +61,20 @@ class CssSelectorBridge extends BridgeAbstract
+                 'title' => 'Insert article main image on top of article contents.',
+                 'type' => 'checkbox',
+             ],
++            'browserless_url' => [
++                'name' => '[Optional] Browserless URL (stealth mode)',
++                'title' => 'Fetch listing and article pages through this Browserless/Chromium instance\'s '
++                    . '/content endpoint in stealth mode. Supply either the instance URL or its /content '
++                    . 'endpoint URL; query parameters such as token are preserved.',
++                'exampleValue' => 'https://chrome.browserless.io?token=YOUR_TOKEN',
++            ],
+             'limit' => self::LIMIT
+         ]
+     ];
+
+     protected $feedName = '';
+     protected $homepageUrl = '';
++    protected $browserlessUrl = '';
+
+     public function getURI()
+     {
+@@ -95,9 +103,10 @@ class CssSelectorBridge extends BridgeAbstract
+         $title_cleanup = $this->getInput('title_cleanup');
+         $discard_thumbnail = $this->getInput('discard_thumbnail');
+         $thumbnail_as_header = $this->getInput('thumbnail_as_header');
++        $this->browserlessUrl = trim($this->getInput('browserless_url') ?? '');
+         $limit = $this->getInput('limit') ?? 10;
+
+-        $html = defaultLinkTo(getSimpleHTMLDOM($this->homepageUrl), $this->homepageUrl);
++        $html = defaultLinkTo($this->getPageDom($this->homepageUrl), $this->homepageUrl);
+         $this->feedName = $this->titleCleanup($this->getPageTitle($html), $title_cleanup);
+         $items = $this->htmlFindEntries($html, $url_selector, $url_pattern, $limit, $content_cleanup);
+
+@@ -123,6 +132,59 @@ class CssSelectorBridge extends BridgeAbstract
+         }
+     }
+
++    /**
++     * Fetch a page directly, or through Browserless' content endpoint when configured.
++     */
++    protected function getPageDom($url, $cached = false)
++    {
++        if (empty($this->browserlessUrl)) {
++            return $cached ? getSimpleHTMLDOMCached($url) : getSimpleHTMLDOM($url);
++        }
++
++        $endpoint = $this->getBrowserlessContentEndpoint();
++        $content = getContents(
++            $endpoint,
++            ['Content-Type: application/json'],
++            [CURLOPT_POSTFIELDS => json_encode(['url' => $url])]
++        );
++
++        if ($content === '') {
++            throw new \Exception('Unable to parse dom because Browserless returned an empty response');
++        }
++
++        return str_get_html($content);
++    }
++
++    /**
++     * Build a Browserless content endpoint URL while retaining credentials in its query string.
++     */
++    protected function getBrowserlessContentEndpoint()
++    {
++        $urlParts = parse_url($this->browserlessUrl);
++        if (
++            $urlParts === false
++            || !in_array($urlParts['scheme'] ?? '', ['http', 'https'], true)
++            || empty($urlParts['host'])
++        ) {
++            throwClientException('Browserless URL must be an absolute HTTP(S) URL');
++        }
++
++        $path = rtrim($urlParts['path'] ?? '', '/');
++        if (!str_ends_with($path, '/content')) {
++            $path .= '/content';
++        }
++
++        $endpoint = $urlParts['scheme'] . '://';
++        if (isset($urlParts['user'])) {
++            $endpoint .= $urlParts['user'] . (isset($urlParts['pass']) ? ':' . $urlParts['pass'] : '') . '@';
++        }
++        $endpoint .= $urlParts['host'] . (isset($urlParts['port']) ? ':' . $urlParts['port'] : '') . $path;
++
++        $query = preg_replace('/(^|&)stealth=[^&]*/i', '$1', $urlParts['query'] ?? '');
++        $query = trim($query, '&');
++        return $endpoint . '?' . ($query === '' ? '' : $query . '&') . 'stealth=true';
++    }
++
+     /**
+      * Filter a list of URLs using a pattern and limit
+      * @param array $links List of URLs
+@@ -277,7 +339,7 @@ class CssSelectorBridge extends BridgeAbstract
+             throwClientException('Please specify a content selector');
+         }
+
+-        $entry_html = getSimpleHTMLDOMCached($entry_url);
++        $entry_html = $this->getPageDom($entry_url, true);
+         $item = html_find_seo_metadata($entry_html);
+
+         if (empty($item['uri'])) {

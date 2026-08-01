@@ -1,10 +1,12 @@
 diff --git i/bridges/GGDealsBridge.php w/bridges/GGDealsBridge.php
-index 08217d35..66104e2d 100644
+index 08217d35..a963ed52 100644
 --- i/bridges/GGDealsBridge.php
 +++ w/bridges/GGDealsBridge.php
-@@ -78,7 +78,7 @@ class GGDealsBridge extends BridgeAbstract
+@@ -77,8 +77,9 @@ class GGDealsBridge extends BridgeAbstract
+                                       $deal->find('.label.best', 0)->plaintext,
                                        $deal->find('.code', 0)->plaintext,
                                        $type ],
++                    'comments' => $this->getURI() . '#' . $type,
                      'timestamp' => $deal->find('time', 0)->getAttribute('datetime'),
 -                    'title' => $deal->find('.price-inner, .price-text', 0)->plaintext,
 +                    'title' => $deal->find('.price-inner-wrapper', 0)->plaintext,

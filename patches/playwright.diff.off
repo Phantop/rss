@@ -1,0 +1,163 @@
+diff --git i/Dockerfile w/Dockerfile
+index 9749278..9a3aacb 100644
+--- i/Dockerfile
++++ w/Dockerfile
+@@ -9,9 +9,16 @@ RUN set -xe && \
+     apt-get update && \
+     apt-get install --yes --no-install-recommends \
+       ca-certificates \
++      curl \
++      && \
++    curl -fsSL https://deb.nodesource.com/setup_24.x | bash - && \
++    apt-get install --yes --no-install-recommends \
++      composer \
+       nginx \
+       nss-plugin-pem \
++      nodejs \
+       php-curl \
++      php-cli \
+       php-fpm \
+       php-intl \
+       # php-json is enabled by default with PHP 8.2 in Debian 12
+@@ -23,8 +30,6 @@ RUN set -xe && \
+       php-xml \
+       php-zip \
+       # php-zlib is enabled by default with PHP 8.2 in Debian 12
+-      # for downloading libcurl-impersonate
+-      curl \
+       # for patching libcurl-impersonate
+       patchelf \
+       && \
+@@ -58,6 +63,7 @@ RUN set -xe && \
+
+ ENV LD_PRELOAD=/usr/local/lib/curl-impersonate/libcurl-impersonate.so
+ ENV CURL_IMPERSONATE=chrome142
++ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
+
+ # logs should go to stdout / stderr
+ RUN ln -sfT /dev/stderr /var/log/nginx/error.log; \
+@@ -69,6 +75,11 @@ COPY ./config/php-fpm.conf /etc/php/8.2/fpm/pool.d/rss-bridge.conf
+ COPY ./config/php.ini /etc/php/8.2/fpm/conf.d/90-rss-bridge.ini
+
+ COPY --chown=www-data:www-data ./ /app/
++WORKDIR /app
++
++RUN composer config platform.php 8.2 && \
++    composer require playwright-php/playwright -d /app && \
++    vendor/bin/playwright-install --with-deps
+
+ EXPOSE 80
+
+diff --git i/bridges/CssSelectorBridge.php w/bridges/CssSelectorBridge.php
+index ab4ecf6..c0a15cc 100644
+--- i/bridges/CssSelectorBridge.php
++++ w/bridges/CssSelectorBridge.php
+@@ -51,6 +51,16 @@ class CssSelectorBridge extends BridgeAbstract
+                     EOT,
+                 'exampleValue' => ' | BlogName',
+             ],
++            'use_playwright' => [
++                'name' => '[Optional] Render pages with Playwright',
++                'title' => 'Use a headless Chromium browser to render JavaScript before extracting selectors. This is slower and requires Playwright to be installed on the host.',
++                'type' => 'checkbox',
++            ],
++            'debug_html' => [
++                'name' => '[Debug] Output obtained HTML and exit',
++                'title' => 'Output the homepage HTML used for selector matching, then stop processing.',
++                'type' => 'checkbox',
++            ],
+             'discard_thumbnail' => [
+                 'name' => '[Optional] Discard thumbnail set by site author',
+                 'title' => 'Some sites set their logo as thumbnail for every article. Use this option to discard it.',
+@@ -93,11 +103,18 @@ class CssSelectorBridge extends BridgeAbstract
+         $content_selector = $this->getInput('content_selector');
+         $content_cleanup = $this->getInput('content_cleanup');
+         $title_cleanup = $this->getInput('title_cleanup');
++        $use_playwright = $this->getInput('use_playwright');
++        $debug_html = $this->getInput('debug_html');
+         $discard_thumbnail = $this->getInput('discard_thumbnail');
+         $thumbnail_as_header = $this->getInput('thumbnail_as_header');
+         $limit = $this->getInput('limit') ?? 10;
+
+-        $html = defaultLinkTo(getSimpleHTMLDOM($this->homepageUrl), $this->homepageUrl);
++        $html = defaultLinkTo($this->getPageHtml($this->homepageUrl, $use_playwright), $this->homepageUrl);
++        if ($debug_html) {
++            header('Content-Type: text/html; charset=UTF-8');
++            echo $html->outertext;
++            exit;
++        }
+         $this->feedName = $this->titleCleanup($this->getPageTitle($html), $title_cleanup);
+         $items = $this->htmlFindEntries($html, $url_selector, $url_pattern, $limit, $content_cleanup);
+
+@@ -110,7 +127,8 @@ class CssSelectorBridge extends BridgeAbstract
+                     $content_selector,
+                     $content_cleanup,
+                     $title_cleanup,
+-                    $item['title']
++                    $item['title'],
++                    $use_playwright
+                 );
+                 if ($discard_thumbnail && isset($item['enclosures'])) {
+                     unset($item['enclosures']);
+@@ -160,6 +178,45 @@ class CssSelectorBridge extends BridgeAbstract
+         return $title;
+     }
+
++    /**
++     * Fetch a page either directly or through a rendered Chromium page.
++     *
++     * @param string $url Page URL
++     * @param bool $use_playwright Whether to render the page with Playwright
++     * @param bool $cached Whether to use RSS-Bridge's page cache for direct requests
++     * @return \simple_html_dom Page DOM
++     */
++    protected function getPageHtml($url, $use_playwright = false, $cached = false)
++    {
++        if (!$use_playwright) {
++            return $cached ? getSimpleHTMLDOMCached($url) : getSimpleHTMLDOM($url);
++        }
++
++        $context = null;
++        try {
++            $context = \Playwright\Playwright::chromium(['headless' => true]);
++            $page = $context->newPage();
++            $page->goto($url, ['waitUntil' => 'load']);
++            $html = $page->content();
++
++            if (empty($html)) {
++                throw new \RuntimeException('Playwright returned an empty page.');
++            }
++
++            return str_get_html($html);
++        } catch (\Throwable $e) {
++            throwClientException('Could not retrieve page with Playwright: ' . $e->getMessage());
++        } finally {
++            try {
++                if ($context !== null) {
++                    $context->close();
++                }
++            } catch (\Throwable $e) {
++                // The page-fetch error is more useful than a shutdown error.
++            }
++        }
++    }
++
+     /**
+      * Clean Article title. Remove constant part that appears in every title such as blog name.
+      * @param string $title Title to clean, e.g. "Article Name | BlogName"
+@@ -271,13 +328,13 @@ class CssSelectorBridge extends BridgeAbstract
+      * @param string $title_default Optional title to use when could not extract title reliably
+      * @return array Entry data: uri, title, content
+      */
+-    protected function expandEntryWithSelector($entry_url, $content_selector, $content_cleanup = null, $title_cleanup = null, $title_default = null)
++    protected function expandEntryWithSelector($entry_url, $content_selector, $content_cleanup = null, $title_cleanup = null, $title_default = null, $use_playwright = false)
+     {
+         if (empty($content_selector)) {
+             throwClientException('Please specify a content selector');
+         }
+
+-        $entry_html = getSimpleHTMLDOMCached($entry_url);
++        $entry_html = $this->getPageHtml($entry_url, $use_playwright, true);
+         $item = html_find_seo_metadata($entry_html);
+
+         if (empty($item['uri'])) {
