@@ -38,7 +38,7 @@ class ReadabilityFeedExpanderBridge extends FeedExpander
         $readability = new Readability(new Configuration());
         try {
             $html = getSimpleHTMLDOMCached($item['uri']);
-            $html = defaultLinkTo($dom, self::URI);
+            $html = defaultLinkTo($html, $item['uri']);
         } catch (HttpException $e) {
             // Just move on if failed to fetch
             return $item;

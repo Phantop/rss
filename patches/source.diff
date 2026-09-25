@@ -1,0 +1,53 @@
+diff --git i/actions/FrontpageAction.php w/actions/FrontpageAction.php
+index 9f06394b..c1918156 100644
+--- i/actions/FrontpageAction.php
++++ w/actions/FrontpageAction.php
+@@ -135,12 +135,17 @@ final class FrontpageAction implements ActionInterface
+ 
+         if (Configuration::getConfig('admin', 'donations') && $bridge->getDonationURI()) {
+             $card .= sprintf(
+-                '<p class="maintainer">%s ~ <a href="%s">Donate</a></p>',
++                '<p class="maintainer"><a href="%s">%s</a> ~ <a href="%s">Donate</a></p>',
++                $bridge->getSourceURI(),
+                 $bridge->getMaintainer(),
+                 $bridge->getDonationURI()
+             );
+         } else {
+-            $card .= html_tag('p', $bridge->getMaintainer(), ['class' => 'maintainer']) . "\n";
++            $card .= sprintf(
++                '<p class="maintainer"><a href="%s">%s</a></p>',
++                $bridge->getSourceURI(),
++                $bridge->getMaintainer()
++            );
+         }
+         $card .= "</section>\n\n";
+ 
+diff --git i/lib/BridgeAbstract.php w/lib/BridgeAbstract.php
+index eafed03d..d034f1df 100644
+--- i/lib/BridgeAbstract.php
++++ w/lib/BridgeAbstract.php
+@@ -69,6 +69,11 @@ abstract class BridgeAbstract
+         return static::URI ?? 'https://github.com/RSS-Bridge/rss-bridge/';
+     }
+ 
++    public function getSourceURI(): string
++    {
++        return render_github_url('bridges/' . $this->getShortName() . '.php');
++    }
++
+     public function getDonationURI(): string
+     {
+         return static::DONATION_URI;
+diff --git i/lib/utils.php w/lib/utils.php
+index 098faa57..8813a8ab 100644
+--- i/lib/utils.php
++++ w/lib/utils.php
+@@ -64,7 +64,7 @@ function create_sane_exception_message(\Throwable $e): string
+ /**
+  * Returns e.g. https://github.com/RSS-Bridge/rss-bridge/blob/master/bridges/AO3Bridge.php#L8
+  */
+-function render_github_url(string $file, int $line, string $revision = 'master'): string
++function render_github_url(string $file, int $line = 1, string $revision = 'master'): string
+ {
+     return sprintf('https://github.com/RSS-Bridge/rss-bridge/blob/%s/%s#L%s', $revision, $file, $line);
+ }

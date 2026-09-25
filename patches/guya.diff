@@ -1,0 +1,69 @@
+diff --git i/bridges/CubariProxyBridge.php w/bridges/CubariProxyBridge.php
+index fbc7e365..8a09c581 100644
+--- i/bridges/CubariProxyBridge.php
++++ w/bridges/CubariProxyBridge.php
+@@ -12,6 +12,7 @@ class CubariProxyBridge extends BridgeAbstract
+             'type' => 'list',
+             'defaultValue' => 'mangadex',
+             'values' => [
++                'Guya' => 'guya',
+                 'MangAventure' => 'mangadventure',
+                 'MangaDex' => 'mangadex',
+                 'MangaKatana' => 'mangakatana',
+@@ -44,6 +45,9 @@ class CubariProxyBridge extends BridgeAbstract
+         $limit = $this->getInput('limit') ?? 10;
+
+         $url = parent::getURI() . '/read/api/' . $this->getInput('service') . '/series/' . $this->getInput('series');
++        if ($this->getInput('service') == 'guya') {
++            $url = str_replace('/read/manga/', '/api/series/', $this->getinput('series'));
++        }
+         $json = Json::decode(getContents($url));
+         $this->title = $json['title'];
+
+@@ -70,19 +74,26 @@ class CubariProxyBridge extends BridgeAbstract
+             }
+             $page = $element['groups'][$group];
+             $item['author'] = $json['groups'][$group];
+-            $api = parent::getURI() . $page;
+             $item['uid'] = $page;
+-            $item['comments'] = $api;
++            if (isset($element['folder'])) {
++                $folder = $element['folder'];
++                $prefix = str_replace('/read/manga/', '/media/manga/', $this->getinput('series')) . "/chapters/$folder/$group/";
++                $pages = array_map(fn($item) => $prefix . $item, $page);
++                $item['uid'] = $prefix;
++            }
+
+             if ($this->getInput('fetch') != 'n') {
+-                $pages = [];
+-                try {
+-                    $jsonp = getContents($api);
+-                    $pages = Json::decode($jsonp);
+-                } catch (HttpException $e) {
+-                    // allow error 500, as it's effectively a 429
+-                    if ($e->getCode() != 500) {
+-                        throw $e;
++                if (!isset($element['folder'])) {
++                    $api = parent::getURI() . $page;
++                    $item['comments'] = $api;
++                    try {
++                        $jsonp = getContents($api);
++                        $pages = Json::decode($jsonp);
++                    } catch (HttpException $e) {
++                        // allow error 500, as it's effectively a 429
++                        if ($e->getCode() != 500) {
++                            throw $e;
++                        }
+                     }
+                 }
+                 if ($this->getInput('fetch') == 'e') {
+@@ -118,6 +129,9 @@ class CubariProxyBridge extends BridgeAbstract
+         $uri = parent::getURI();
+         if ($this->getInput('service')) {
+             $uri .= '/read/' . $this->getInput('service') . '/' . $this->getInput('series');
++            if ($this->getInput('service') == 'guya') {
++                $uri = $this->getinput('series');
++            }
+         }
+         return $uri;
+     }
