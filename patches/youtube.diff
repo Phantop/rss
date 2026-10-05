@@ -7,7 +7,7 @@ index f0b1e46d..168ee702 100644
          }
          if ($this->getInput('embedurl')) {
 -            $item['uri'] = $embed;
-+            $item['uri'] = 'https://youtube.ttools.io/watch?v=' . $id;
++            $item['uri'] = 'https://phantop.github.io/watch?v=' . $id;
          }
  
          return $item;

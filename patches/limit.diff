@@ -1,0 +1,13 @@
+diff --git i/lib/url.php w/lib/url.php
+index 4541e4c9..2da65232 100644
+--- i/lib/url.php
++++ w/lib/url.php
+@@ -45,7 +45,7 @@ final class Url
+ 
+     public static function validate(string $url): bool
+     {
+-        if (strlen($url) > 2500) {
++        if (strlen($url) > 5000) {
+             return false;
+         }
+         $pattern = '#^https?://'   // scheme
