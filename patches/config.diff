@@ -1,21 +1,21 @@
 diff --git i/config.default.ini.php w/config.default.ini.php
-index 39329a2a..0829b47e 100644
+index 4aeb4ed5..5510ba7f 100644
 --- i/config.default.ini.php
 +++ w/config.default.ini.php
 @@ -43,10 +43,10 @@ max_file_size = 10000000
  [http]
  
  ; Operation timeout in seconds
--timeout = 5
+-timeout = 3
 +timeout = 20
  
  ; Operation retry count in case of curl error
--retries = 1
+-retries = 0
 +retries = 3
  
  ; Curl user agent
  ; This is already set by curl-impersonate, which comes included as default 
-@@ -127,7 +127,7 @@ token = ""
+@@ -139,7 +139,7 @@ token = ""
  ; "feed" = As part of the feed (default)
  ; "http" = As HTTP error message
  ; "none" = No errors are reported
