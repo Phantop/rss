@@ -1,5 +1,5 @@
 diff --git i/config.default.ini.php w/config.default.ini.php
-index 4aeb4ed5..5510ba7f 100644
+index 9f766b1f..b7bb60f8 100644
 --- i/config.default.ini.php
 +++ w/config.default.ini.php
 @@ -43,10 +43,10 @@ max_file_size = 10000000
@@ -15,7 +15,16 @@ index 4aeb4ed5..5510ba7f 100644
  
  ; Curl user agent
  ; This is already set by curl-impersonate, which comes included as default 
-@@ -139,7 +139,7 @@ token = ""
+@@ -58,7 +58,7 @@ retries = 0
+ max_filesize = 20
+ 
+ ; Whether to follow location (careful: enabling this allows SSRF attack)
+-follow = false;
++follow = true;
+ 
+ ; 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16
+ allow_private_addresses = false
+@@ -142,7 +142,7 @@ token = ""
  ; "feed" = As part of the feed (default)
  ; "http" = As HTTP error message
  ; "none" = No errors are reported
