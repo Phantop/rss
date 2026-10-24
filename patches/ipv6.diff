@@ -1,0 +1,116 @@
+diff --git c/lib/contents.php i/lib/contents.php
+index 9d015839..081d1170 100644
+--- c/lib/contents.php
++++ i/lib/contents.php
+@@ -117,10 +117,15 @@ function getContents(
+         // Prevent DNS-rebinding
+         $records = fetch_dns_record($host);
+         $record = $records[array_rand($records)];
+-        $ip = $record['ip'];
+-        $ip = Ipv4Address::fromString($ip);
++        if (isset($record['ip'])) {
++            $ip = Ipv4Address::fromString($record['ip']);
++            $resolvedIp = (string) $ip;
++        } else {
++            $ip = Ipv6Address::fromString($record['ipv6']);
++            $resolvedIp = '[' . $ip . ']';
++        }
+         $config['dns'] = [
+-            sprintf('%s:%s:%s', $host, $urlObject->getPort(), $ip),
++            sprintf('%s:%s:%s', $host, $urlObject->getPort(), $resolvedIp),
+         ];
+     }
+ 
+diff --git c/lib/network.php i/lib/network.php
+index d19f8771..2d8c31b8 100644
+--- c/lib/network.php
++++ i/lib/network.php
+@@ -4,7 +4,7 @@ declare(strict_types=1);
+ 
+ function fetch_dns_record(string $host): array
+ {
+-    $record = \dns_get_record($host, DNS_A);
++    $record = \dns_get_record($host, DNS_A | DNS_AAAA);
+ 
+     if ($record === false) {
+         throw new \Exception(sprintf('Failed to fetch dns record: %s', $host));
+@@ -16,29 +16,30 @@ function fetch_dns_record(string $host): array
+     return $record;
+ }
+ 
+-class Ipv4Address
++abstract class IpAddress
+ {
+     private string $ip;
+ 
+-    private function __construct()
++    protected const FILTER_FLAG = null;
++    protected const LABEL = 'ip';
++
++    protected function __construct(string $ip)
+     {
++        $this->ip = $ip;
+     }
+ 
+-    public static function fromString(string $ip): self
++    public static function fromString(string $ip): IpAddress
+     {
+         if (! static::validate($ip)) {
+-            throw new Exception('Not a valid ipv4 address: ' . $ip);
++            throw new Exception(sprintf('Not a valid %s address: %s', static::LABEL, $ip));
+         }
+ 
+-        $self = new self();
+-        $self->ip = $ip;
+-
+-        return $self;
++        return new static($ip);
+     }
+ 
+     public static function validate(string $ip): bool
+     {
+-        return filter_var($ip, FILTER_VALIDATE_IP, FILTER_FLAG_IPV4) !== false;
++        return filter_var($ip, FILTER_VALIDATE_IP, static::FILTER_FLAG) !== false;
+     }
+ 
+     public function isPublic(): bool
+@@ -62,3 +63,15 @@ class Ipv4Address
+         return $this->ip;
+     }
+ }
++
++class Ipv4Address extends IpAddress
++{
++    protected const FILTER_FLAG = FILTER_FLAG_IPV4;
++    protected const LABEL = 'ipv4';
++}
++
++class Ipv6Address extends IpAddress
++{
++    protected const FILTER_FLAG = FILTER_FLAG_IPV6;
++    protected const LABEL = 'ipv6';
++}
+diff --git c/tests/Ipv6AddressTest.php i/tests/Ipv6AddressTest.php
+new file mode 100644
+index 00000000..499e9803
+--- /dev/null
++++ i/tests/Ipv6AddressTest.php
+@@ -0,0 +1,18 @@
++<?php
++
++declare(strict_types=1);
++
++namespace RssBridge\Tests;
++
++use Ipv6Address;
++use PHPUnit\Framework\TestCase;
++
++class Ipv6AddressTest extends TestCase
++{
++    public function testAddressRanges()
++    {
++        $this->assertTrue(Ipv6Address::fromString('fc00::1')->isPrivate());
++        $this->assertTrue(Ipv6Address::fromString('::1')->isReserved());
++        $this->assertTrue(Ipv6Address::fromString('2001:4860:4860::8888')->isPublic());
++    }
++}
