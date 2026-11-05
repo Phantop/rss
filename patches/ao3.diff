@@ -1,0 +1,22 @@
+diff --git i/bridges/AO3Bridge.php w/bridges/AO3Bridge.php
+index 5cc208d8..c25364fd 100644
+--- i/bridges/AO3Bridge.php
++++ w/bridges/AO3Bridge.php
+@@ -131,7 +131,7 @@ class AO3Bridge extends BridgeAbstract
+         $response = $this->getContentsWithFallback($url, $headers);
+ 
+         $html = \str_get_html($response);
+-        $html = defaultLinkTo($html, self::URI);
++        $html = defaultLinkTo($html, $url);
+ 
+         // Get list title. Will include page range + count in some cases
+         $heading = ($html->find('#main h2', 0));
+@@ -215,7 +215,7 @@ class AO3Bridge extends BridgeAbstract
+             // Use predictability of download links to generate enclosures
+             $wid = explode('/', $item['uri'])[4];
+             foreach (['azw3', 'epub', 'mobi', 'pdf', 'html'] as $ext) {
+-                $item['enclosures'][] = 'https://archiveofourown.org/downloads/' . $wid . '/work.' . $ext;
++                $item['enclosures'][] = urljoin($uri, '/downloads/' . $wid . '/work.' . $ext);
+             }
+ 
+             $this->items[] = $item;
