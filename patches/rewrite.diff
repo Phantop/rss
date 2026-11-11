@@ -12,10 +12,10 @@ index c5058fd3..9155b046 100644
 +    }
  }
 diff --git i/lib/RssBridge.php w/lib/RssBridge.php
-index d16f1d89..fdbd1cf6 100644
+index d16f1d89..dfaf4486 100644
 --- i/lib/RssBridge.php
 +++ w/lib/RssBridge.php
-@@ -10,8 +10,105 @@ final class RssBridge
+@@ -10,8 +10,107 @@ final class RssBridge
          $this->container = $container;
      }
  
@@ -65,6 +65,7 @@ index d16f1d89..fdbd1cf6 100644
 +                'bridge' => 'scribblehubmobile',
 +                'handler' => fn($p) => [
 +                    'context' => 'Author',
++                    'limit' => '3',
 +                    'uid' => substr($p, 9)
 +                ]
 +            ],
@@ -72,6 +73,7 @@ index d16f1d89..fdbd1cf6 100644
 +                'bridge' => 'scribblehubmobile',
 +                'handler' => fn($p) => [
 +                    'context' => 'Series',
++                    'limit' => '3',
 +                    'sid' => substr($p, 8)
 +                ]
 +            ],

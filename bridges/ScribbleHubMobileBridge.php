@@ -45,8 +45,10 @@ class ScribbleHubMobileBridge extends FeedExpander
                     'Readers' => 'readers',
                 ]
             ],
-            'limit' => self::LIMIT,
         ],
+        'global' => [
+            'limit' => self::LIMIT,
+        ]
     ];
     const CONFIGURATION = [
         'username' => [
@@ -65,11 +67,12 @@ class ScribbleHubMobileBridge extends FeedExpander
     const FEEDURI = 'https://rssscribblehub.com/rssfeed.php?type=author&uid=';
     public function collectData()
     {
+        $limit = $this->getInput('limit') ?? 15;
         if ($this->queriedContext === 'Author') {
-            $this->collectExpandableDatas(self::FEEDURI . $this->getInput('uid'));
+            $this->collectExpandableDatas(self::FEEDURI . $this->getInput('uid'), $limit);
         }
         if ($this->queriedContext === 'Series') {
-            $this->collectSeries($this->getInput('sid'));
+            $this->collectSeries($this->getInput('sid'), $limit);
         }
         if ($this->queriedContext === 'Search') {
             $this->collectList();
@@ -127,11 +130,11 @@ class ScribbleHubMobileBridge extends FeedExpander
         return $item;
     }
 
-    private function collectSeries($sid, $limit = 9999)
+    private function collectSeries($sid, $limit = 9999, $order = 'desc')
     {
         $api = $this->getApi("stories/$sid");
         $this->slug = $api['slug'];
-        $api = $this->getApi("stories/$sid/chapters?perPage=$limit");
+        $api = $this->getApi("stories/$sid/chapters?perPage=$limit&order=$order");
         foreach ($api as $chapter) {
             $cid = $chapter['id'];
             $item = [
@@ -169,7 +172,7 @@ class ScribbleHubMobileBridge extends FeedExpander
         $api = $this->getApi('stories?' . http_build_query($params), $this->getAuth());
         foreach ($api as $element) {
             $sid = $element['id'];
-            $this->collectSeries($sid, 1);
+            $this->collectSeries($sid, 1, 'asc');
             $item = array_pop($this->items);
 
             $chapter_content = $item['content'];
