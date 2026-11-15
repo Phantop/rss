@@ -1,8 +1,21 @@
 diff --git i/bridges/AO3Bridge.php w/bridges/AO3Bridge.php
-index 5cc208d8..c25364fd 100644
+index 5cc208d8..009e701f 100644
 --- i/bridges/AO3Bridge.php
 +++ w/bridges/AO3Bridge.php
-@@ -131,7 +131,7 @@ class AO3Bridge extends BridgeAbstract
+@@ -80,6 +80,12 @@ class AO3Bridge extends BridgeAbstract
+             'https://ao3-mirror.cc/',
+             'https://dry-water-e911.ao365.workers.dev/',
+             'https://mute-disk-cf7e.ao33.workers.dev/',
++            'https://go3-cn.blog/',
++            'https://go3-cn.online/',
++            'https://go3-cn.xyz/',
++            'https://ao3-agent.org/',
++            'https://ao3-agent.co/',
++            'https://www.sbxz.org/',
+         ];
+         $urls = [$url];
+         foreach ($mirrors as $mirror) {
+@@ -131,7 +137,7 @@ class AO3Bridge extends BridgeAbstract
          $response = $this->getContentsWithFallback($url, $headers);
  
          $html = \str_get_html($response);
@@ -11,7 +24,7 @@ index 5cc208d8..c25364fd 100644
  
          // Get list title. Will include page range + count in some cases
          $heading = ($html->find('#main h2', 0));
-@@ -215,7 +215,7 @@ class AO3Bridge extends BridgeAbstract
+@@ -215,7 +221,7 @@ class AO3Bridge extends BridgeAbstract
              // Use predictability of download links to generate enclosures
              $wid = explode('/', $item['uri'])[4];
              foreach (['azw3', 'epub', 'mobi', 'pdf', 'html'] as $ext) {
